@@ -1,0 +1,269 @@
+id,meeting_id,contact_id,email,name,position_title,attended,created_at,updated_at
+1,1,2.0,steve@traxidy.com,Steve Sammy,Project Manager,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+2,1,3.0,richard_austin@rogers.com,Richard Austin,Boffin,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+3,2,2.0,steve@traxidy.com,Steve Sammy,Project Manager,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+4,2,3.0,richard_austin@rogers.com,Richard Austin,Boffin,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+5,3,2.0,steve@traxidy.com,Steve Sammy,Project Manager,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+6,3,3.0,richard_austin@rogers.com,Richard Austin,Boffin,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+7,4,2.0,steve@traxidy.com,Steve Sammy,Project Manager,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+8,4,3.0,richard_austin@rogers.com,Richard Austin,Boffin,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+9,5,2.0,steve@traxidy.com,Steve Sammy,Project Manager,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+10,5,3.0,richard_austin@rogers.com,Richard Austin,Boffin,0,2021-11-23 05:17:32,2021-11-23 05:17:32
+11,6,1.0,JW@rogattnet.au,Janice Wong,Director,0,2021-12-01 11:42:00,2021-12-01 11:42:00
+12,6,13.0,steve@traxidy.com,Steve Sammy,Manager,0,2021-12-01 11:42:00,2021-12-01 11:42:00
+13,7,1.0,JW@rogattnet.au,Janice Wong,Director,0,2021-12-01 11:42:00,2021-12-01 11:42:00
+14,7,13.0,steve@traxidy.com,Steve Sammy,Manager,0,2021-12-01 11:42:00,2021-12-01 11:42:00
+15,8,1.0,JW@rogattnet.au,Janice Wong,Director,0,2021-12-01 11:42:00,2021-12-01 11:42:00
+16,8,13.0,steve@traxidy.com,Steve Sammy,Manager,0,2021-12-01 11:42:00,2021-12-01 11:42:00
+19,10,1.0,JW@rogattnet.au,Janice Wong,Director,0,2021-12-01 11:42:00,2021-12-01 11:42:00
+20,10,13.0,steve@traxidy.com,Steve Sammy,Manager,0,2021-12-01 11:42:00,2021-12-01 11:42:00
+21,11,15.0,cliff@capstick.ca,Cliff Ma,,0,2022-01-12 06:07:26,2022-01-12 06:07:26
+22,12,21.0,michael.mcneill@dot.ohio.gov,Mike McNeil,Manager,1,2022-01-13 04:23:27,2022-01-13 04:26:02
+23,13,21.0,michael.mcneill@dot.ohio.gov,Mike McNeil,Manager,0,2022-01-13 04:23:27,2022-01-13 04:23:27
+24,14,21.0,michael.mcneill@dot.ohio.gov,Mike McNeil,Manager,0,2022-01-13 04:23:27,2022-01-13 04:23:27
+25,15,21.0,michael.mcneill@dot.ohio.gov,Mike McNeil,Manager,0,2022-01-13 04:23:27,2022-01-13 04:23:27
+26,16,21.0,michael.mcneill@dot.ohio.gov,Mike McNeil,Manager,0,2022-01-13 04:23:27,2022-01-13 04:23:27
+27,17,22.0,mimimcbroom22@gmail.com,jk keay,,0,2022-01-13 15:22:32,2022-01-13 15:22:32
+28,18,31.0,alex.ariza@ibigroup.com,Alex Ariza,ATMS Manager,0,2022-01-14 12:52:54,2022-01-14 12:52:54
+29,19,37.0,alex.ariza@ibigroup.com,Alex Ariza,ATMS Manager,0,2022-01-18 10:17:39,2022-01-18 10:17:39
+30,19,38.0,mitchel.mcbroom@gmail.com,Mitchel McBroom,ATMS Maintenance & Config,0,2022-01-18 10:17:39,2022-01-18 10:17:39
+31,20,38.0,mitchel.mcbroom@gmail.com,Mitchel McBroom,ATMS Maintenance & Config,0,2022-01-18 10:23:38,2022-01-18 10:23:38
+38,23,1.0,JW@rogattnet.au,Janice Wong,Director,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+39,23,13.0,steve@traxidy.com,Steve Sammy,Manager,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+40,23,42.0,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager / PMO,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+41,24,1.0,JW@rogattnet.au,Janice Wong,Director,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+42,24,13.0,steve@traxidy.com,Steve Sammy,Manager,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+43,24,42.0,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager / PMO,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+44,25,1.0,JW@rogattnet.au,Janice Wong,Director,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+45,25,13.0,steve@traxidy.com,Steve Sammy,Manager,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+46,25,42.0,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager / PMO,0,2022-01-23 04:25:23,2022-01-23 04:25:23
+47,26,53.0,misterclient@newclient.com,Mister Client,Owner,0,2022-02-07 02:26:50,2022-02-07 02:26:50
+48,27,55.0,madame.client@newcompany2.com,Madame Client,Sponsor,0,2022-02-07 02:49:47,2022-02-07 02:49:47
+49,28,55.0,madame.client@newcompany2.com,Madame Client,Sponsor,0,2022-02-07 02:49:47,2022-02-07 02:49:47
+50,29,55.0,madame.client@newcompany2.com,Madame Client,Sponsor,0,2022-02-07 02:49:47,2022-02-07 02:49:47
+51,30,55.0,madame.client@newcompany2.com,Madame Client,Sponsor,0,2022-02-07 02:49:47,2022-02-07 02:49:47
+52,31,55.0,madame.client@newcompany2.com,Madame Client,Sponsor,0,2022-02-07 02:49:47,2022-02-07 02:49:47
+53,32,65.0,ddd@lll.com,team member 1 last name1,,0,2022-02-15 13:50:06,2022-02-15 13:50:06
+54,33,67.0,Test02@gmail.com,Prod User,HOD,0,2022-02-28 03:52:03,2022-02-28 03:52:03
+55,33,68.0,Test00@gmail.com,New Contact,Head,0,2022-02-28 03:52:03,2022-02-28 03:52:03
+56,34,66.0,muhammad.usman@247labs.com,Muhammad Usman,Reporter,0,2022-02-28 03:55:28,2022-02-28 03:55:28
+57,34,67.0,Test02@gmail.com,Prod User,HOD,0,2022-02-28 03:55:28,2022-02-28 03:55:28
+58,34,68.0,Test00@gmail.com,New Contact,Head,0,2022-02-28 03:55:28,2022-02-28 03:55:28
+91,43,13.0,steve@traxidy.com,Steve Sammy,Manager,1,2022-03-04 11:48:39,2022-03-07 08:13:30
+92,43,27.0,traxidy.tester7@gmail.com,Steve Traxidy Tester,Checking Master,1,2022-03-04 11:48:39,2022-03-07 08:13:30
+93,43,42.0,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager / PMO,1,2022-03-04 11:48:39,2022-03-07 08:13:30
+94,43,43.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-03-04 11:48:39,2022-03-04 11:48:39
+95,43,44.0,gusmarquez_sr@yahoo.com,Gus Marquez Sr.,Consultant,0,2022-03-04 11:48:39,2022-03-04 11:48:39
+96,44,13.0,steve@traxidy.com,Steve Sammy,Manager,1,2022-03-04 11:52:43,2022-10-05 12:36:22
+97,44,27.0,traxidy.tester7@gmail.com,Steve Traxidy Tester,Checking Master,1,2022-03-04 11:52:43,2022-10-05 12:36:22
+98,44,42.0,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager / PMO,1,2022-03-04 11:52:43,2022-10-05 12:36:22
+99,44,43.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-03-04 11:52:43,2022-10-05 12:36:22
+100,44,44.0,gusmarquez_sr@yahoo.com,Gus Marquez Sr.,Consultant,0,2022-03-04 11:52:43,2022-03-04 11:52:43
+101,45,13.0,steve@traxidy.com,Steve Sammy,Manager,1,2022-03-04 11:56:09,2022-03-04 11:56:25
+102,45,27.0,traxidy.tester7@gmail.com,Steve Traxidy Tester,Checking Master,1,2022-03-04 11:56:09,2022-03-04 11:56:25
+103,45,42.0,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager / PMO,1,2022-03-04 11:56:09,2022-03-04 11:56:25
+104,45,43.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-03-04 11:56:09,2022-03-04 11:56:25
+105,45,44.0,gusmarquez_sr@yahoo.com,Gus Marquez Sr.,Consultant,0,2022-03-04 11:56:09,2022-03-04 11:56:09
+121,49,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-03-09 12:14:54,2022-03-09 12:14:54
+122,49,8.0,sss@traxidy.com,Shally Singh-Smith,Director,1,2022-03-09 12:14:54,2022-04-11 13:22:41
+123,49,,steve@traxidy.com,Steve Sammy,Manager,1,2022-03-09 12:14:54,2022-04-11 13:22:41
+124,49,,traxidy.tester7@gmail.com,traxidy Tester7,For test purposes,0,2022-03-09 12:14:54,2022-03-09 12:14:54
+125,49,,redari.chervesko@xcgi.com,Redari Chervesko,Technical Lead,1,2022-03-09 12:14:54,2022-04-11 13:22:41
+151,58,102.0,whoward@dbnj.com,William Howard,Team Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+152,58,103.0,boswald@dbnj.com,B. Oswald,Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+153,58,104.0,mpedecine@dbnj.com,M. Pedecine,Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+154,58,105.0,traxidy@gmail.com,Steve McBroom,,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+155,59,102.0,whoward@dbnj.com,William Howard,Team Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+156,59,103.0,boswald@dbnj.com,B. Oswald,Manager,1,2022-03-12 13:02:26,2023-02-02 05:56:17
+157,59,104.0,mpedecine@dbnj.com,M. Pedecine,Manager,1,2022-03-12 13:02:26,2023-02-02 05:56:17
+158,59,105.0,traxidy@gmail.com,Steve McBroom,,1,2022-03-12 13:02:26,2023-02-02 05:56:17
+159,60,102.0,whoward@dbnj.com,William Howard,Team Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+160,60,103.0,boswald@dbnj.com,B. Oswald,Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+161,60,104.0,mpedecine@dbnj.com,M. Pedecine,Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+162,60,105.0,traxidy@gmail.com,Steve McBroom,,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+163,61,102.0,whoward@dbnj.com,William Howard,Team Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+164,61,103.0,boswald@dbnj.com,B. Oswald,Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+165,61,104.0,mpedecine@dbnj.com,M. Pedecine,Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+166,61,105.0,traxidy@gmail.com,Steve McBroom,,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+167,62,102.0,whoward@dbnj.com,William Howard,Team Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+168,62,103.0,boswald@dbnj.com,B. Oswald,Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+169,62,104.0,mpedecine@dbnj.com,M. Pedecine,Manager,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+170,62,105.0,traxidy@gmail.com,Steve McBroom,,0,2022-03-12 13:02:26,2022-03-12 13:02:26
+191,70,,richard_austin@rogers.com,Richard Austin,Boffin,0,2022-03-24 07:31:52,2022-03-24 07:31:52
+192,70,,traxidy.tester7@gmail.com,H. Reader,For test purposes,0,2022-03-24 07:31:52,2022-03-24 07:31:52
+193,70,,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager,0,2022-03-24 07:31:52,2022-03-24 07:31:52
+194,70,,redari.chervesko@xcgi.com,Redari Chervesko,Technical Lead,0,2022-03-24 07:31:52,2022-03-24 07:31:52
+195,70,111.0,traxidy@gmail.com,Contributor Person,Lead,0,2022-03-24 07:31:52,2022-03-24 07:31:52
+199,72,165.0,janice.keay@gmail.com,Janice Keay,,1,2022-03-28 15:07:54,2022-04-09 06:15:09
+200,72,167.0,mimi.mcbroom22@gmail.com,Mimi McBroom,,1,2022-03-28 15:07:54,2022-04-09 06:15:09
+201,72,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+202,73,165.0,janice.keay@gmail.com,Janice Keay,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+203,73,167.0,mimi.mcbroom22@gmail.com,Mimi McBroom,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+204,73,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+205,74,165.0,janice.keay@gmail.com,Janice Keay,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+206,74,167.0,mimi.mcbroom22@gmail.com,Mimi McBroom,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+207,74,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+208,75,165.0,janice.keay@gmail.com,Janice Keay,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+209,75,167.0,mimi.mcbroom22@gmail.com,Mimi McBroom,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+210,75,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-28 15:07:54,2022-03-28 15:07:54
+211,76,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-28 15:21:42,2022-03-28 15:21:42
+212,71,165.0,janice.keay@gmail.com,Janice Keay,,1,2022-03-28 15:25:49,2022-04-09 06:17:59
+213,71,166.0,mimimcbroom22@gmail.com,jk keay,,0,2022-03-28 15:25:49,2022-03-28 15:25:49
+214,71,167.0,mimi.mcbroom22@gmail.com,Mimi McBroom,,1,2022-03-28 15:25:49,2022-04-09 06:17:59
+215,71,168.0,traxidy.tester2@gmail.com,sami mcbroom,,1,2022-03-28 15:25:49,2022-04-09 06:17:59
+216,77,163.0,steve.mcbroom@gmail.com,Steve McBroom,,1,2022-03-28 15:27:16,2022-03-28 15:27:35
+217,77,165.0,janice.keay@gmail.com,Janice Keay,,1,2022-03-28 15:27:16,2022-03-28 15:27:35
+218,77,166.0,mimimcbroom22@gmail.com,jk keay,,1,2022-03-28 15:27:16,2022-03-28 15:27:35
+219,77,167.0,mimi.mcbroom22@gmail.com,Mimi McBroom,,1,2022-03-28 15:27:16,2022-03-28 15:27:35
+220,77,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-28 15:27:16,2022-03-28 15:27:16
+221,78,165.0,janice.keay@gmail.com,Janice Keay,,1,2022-03-28 15:30:29,2022-03-28 15:30:58
+222,78,167.0,mimi.mcbroom22@gmail.com,Mimi McBroom,,1,2022-03-28 15:30:29,2022-03-28 15:30:58
+223,78,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-28 15:30:29,2022-03-28 15:30:29
+224,79,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-28 15:34:20,2022-03-28 15:34:20
+225,84,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-03-31 13:39:56,2022-04-11 13:34:11
+226,84,8.0,sss@traxidy.com,Sal Nuberg,Director,1,2022-03-31 13:39:56,2022-04-11 13:34:11
+227,84,12.0,jan.dietrich@traxidy.com,Janet Dietrich,CMO,1,2022-03-31 13:39:56,2022-04-11 13:34:11
+228,84,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,1,2022-03-31 13:39:56,2022-04-11 13:34:11
+233,86,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+234,86,8.0,sss@traxidy.com,Sal Nuberg,Director,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+235,86,12.0,jan.dietrich@traxidy.com,Janet Dietrich,CMO,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+236,86,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+237,87,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+238,87,8.0,sss@traxidy.com,Sal Nuberg,Director,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+239,87,12.0,jan.dietrich@traxidy.com,Janet Dietrich,CMO,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+240,87,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+241,88,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+242,88,8.0,sss@traxidy.com,Sal Nuberg,Director,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+243,88,12.0,jan.dietrich@traxidy.com,Janet Dietrich,CMO,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+244,88,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,0,2022-03-31 13:39:56,2022-03-31 13:39:56
+245,89,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+246,89,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-03-31 13:40:43,2022-03-31 13:41:34
+247,89,8.0,sss@traxidy.com,Sal Nuberg,Director,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+248,89,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,1,2022-03-31 13:40:43,2022-03-31 13:41:34
+249,89,158.0,gordmott144@gmail.com,Gene Moss,Researcher,1,2022-03-31 13:40:43,2022-03-31 13:41:34
+250,90,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,1,2022-03-31 13:40:43,2022-04-11 13:26:39
+251,90,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-03-31 13:40:43,2022-04-11 13:26:39
+252,90,8.0,sss@traxidy.com,Sal Nuberg,Director,1,2022-03-31 13:40:43,2022-04-11 13:26:39
+253,90,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,1,2022-03-31 13:40:43,2022-04-11 13:26:39
+254,90,158.0,gordmott144@gmail.com,Gene Moss,Researcher,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+255,91,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,1,2022-03-31 13:40:43,2022-05-04 07:09:06
+256,91,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-03-31 13:40:43,2022-05-04 07:09:06
+257,91,8.0,sss@traxidy.com,Sal Nuberg,Director,1,2022-03-31 13:40:43,2022-05-04 07:09:06
+258,91,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,1,2022-03-31 13:40:43,2022-05-04 07:09:06
+259,91,158.0,gordmott144@gmail.com,Gene Moss,Researcher,1,2022-03-31 13:40:43,2022-05-04 07:09:06
+260,92,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+261,92,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+262,92,8.0,sss@traxidy.com,Sal Nuberg,Director,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+263,92,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+264,92,158.0,gordmott144@gmail.com,Gene Moss,Researcher,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+265,93,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+266,93,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+267,93,8.0,sss@traxidy.com,Sal Nuberg,Director,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+268,93,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+269,93,158.0,gordmott144@gmail.com,Gene Moss,Researcher,0,2022-03-31 13:40:43,2022-03-31 13:40:43
+270,94,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-31 14:22:50,2022-03-31 14:22:50
+271,95,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-31 14:22:50,2022-03-31 14:22:50
+272,96,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-31 14:22:50,2022-03-31 14:22:50
+273,97,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-31 14:22:50,2022-03-31 14:22:50
+274,98,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-31 14:22:50,2022-03-31 14:22:50
+276,100,163.0,steve.mcbroom@gmail.com,Steve McBroom,,1,2022-03-31 14:36:46,2022-03-31 14:46:11
+277,100,167.0,mimi.mcbroom22@gmail.com,Mimi McBroom,,1,2022-03-31 14:36:46,2022-03-31 14:46:11
+278,100,168.0,traxidy.tester2@gmail.com,sami mcbroom,,0,2022-03-31 14:36:46,2022-03-31 14:36:46
+279,102,182.0,mitchel.mcbroom@gmail.com,Mitchel McBroom,Analyst,0,2022-04-04 09:35:00,2022-04-04 09:35:00
+280,104,36.0,mitchel.mcbroom@gmail.com,Mitchel McBroom,ATMS Maintenance & Config,0,2022-04-05 12:28:49,2022-04-05 12:28:49
+281,105,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,1,2022-04-12 08:55:27,2022-04-12 09:26:15
+282,105,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-04-12 08:55:27,2022-04-12 09:26:15
+283,105,8.0,sss@traxidy.com,Sal Nuberg,Director,1,2022-04-12 08:55:27,2022-04-12 09:26:15
+284,105,12.0,jan.dietrich@traxidy.com,Janet Dietrich,CMO,1,2022-04-12 08:55:27,2022-04-12 09:26:15
+285,105,111.0,traxidy@gmail.com,Connie Perl,Lead Tester,1,2022-04-12 08:55:27,2022-04-12 09:26:15
+286,108,5.0,RR@shalphy.com,Reggy Ralphson,VP Technology,1,2022-05-12 09:41:54,2022-05-12 09:41:54
+287,108,76.0,becca_rowat@hotmail.com,Rob Rowatt,Lead Consultant,1,2022-05-12 09:41:54,2022-05-12 09:41:54
+288,108,158.0,gordmott144@gmail.com,Gene Moss,Researcher,1,2022-05-12 09:41:54,2022-05-12 09:41:54
+289,109,12.0,jan.dietrich@traxidy.com,Janet Dietrich,CMO,1,2022-07-07 05:14:41,2022-07-07 05:14:41
+290,109,76.0,becca_rowat@hotmail.com,Rob Rowatt,Lead Consultant,1,2022-07-07 05:14:41,2022-07-07 05:14:41
+291,109,206.0,abeal@traxidy.com,Alley Beal,,1,2022-07-07 05:14:41,2022-07-07 05:14:41
+295,112,61.0,steve.mcbroom@traxidy.com,Steve McBroom,PM,1,2022-07-27 07:07:53,2022-07-27 07:07:53
+296,112,218.0,brian.capstick@mis3.ca,Brian Capstick,Project Director,1,2022-07-27 07:07:53,2022-07-27 07:07:53
+297,113,219.0,sabih@tblocks.com,Sabih Siddiqui,CTO,0,2022-08-10 20:39:43,2022-08-10 20:39:43
+298,114,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+299,114,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+300,114,111.0,traxidy@gmail.com,Traxidy Gmail Acct,Lead Tester,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+301,114,158.0,gordmott144@gmail.com,Gene Moss,Researcher,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+302,114,213.0,steve@traxidy.com,Fred Smith,,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+303,115,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+304,115,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+305,115,111.0,traxidy@gmail.com,Traxidy Gmail Acct,Lead Tester,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+306,115,158.0,gordmott144@gmail.com,Gene Moss,Researcher,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+307,115,213.0,steve@traxidy.com,Fred Smith,,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+308,116,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+309,116,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+310,116,111.0,traxidy@gmail.com,Traxidy Gmail Acct,Lead Tester,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+311,116,158.0,gordmott144@gmail.com,Gene Moss,Researcher,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+312,116,213.0,steve@traxidy.com,Fred Smith,,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+313,117,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+314,117,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+315,117,111.0,traxidy@gmail.com,Traxidy Gmail Acct,Lead Tester,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+316,117,158.0,gordmott144@gmail.com,Gene Moss,Researcher,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+317,117,213.0,steve@traxidy.com,Fred Smith,,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+318,118,6.0,TJS@delkjyar.ci,T.J. Shalmark,Team Lead,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+319,118,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+320,118,111.0,traxidy@gmail.com,Traxidy Gmail Acct,Lead Tester,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+321,118,158.0,gordmott144@gmail.com,Gene Moss,Researcher,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+322,118,213.0,steve@traxidy.com,Fred Smith,,0,2022-09-07 05:11:27,2022-09-07 05:11:27
+323,119,7.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-09-07 05:14:52,2022-09-07 05:14:52
+324,119,158.0,gordmott144@gmail.com,Gene Moss,Researcher,1,2022-09-07 05:14:52,2022-09-07 05:14:52
+325,119,206.0,abeal@traxidy.com,Alley Beal,,1,2022-09-07 05:14:52,2022-09-07 05:14:52
+326,122,13.0,steve@traxidy.com,Steve Sammy,Manager,1,2022-10-05 12:23:37,2022-10-05 12:23:37
+327,122,42.0,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager / PMO,1,2022-10-05 12:23:37,2022-10-05 12:23:37
+328,122,44.0,gusmarquez_sr@yahoo.com,Gus Marquez Sr.,Consultant,1,2022-10-05 12:23:37,2022-10-05 12:23:37
+329,122,155.0,gordmott144@gmail.com,Gord Mott,Lead Architect,1,2022-10-05 12:23:37,2022-10-05 12:23:37
+330,123,43.0,Jshaw@dhelk.au,Jerri Shaw,Section Head,1,2022-10-05 12:33:38,2022-10-05 12:33:38
+331,124,225.0,steve.mcbroom@traxidy.com,Steve McBroom,Project Manager,1,2022-10-19 13:32:10,2022-10-19 13:32:10
+332,124,229.0,abeal@traxidy.com,Alley Beal,Lead Trainer,1,2022-10-19 13:32:10,2022-10-19 13:32:10
+338,126,234.0,steve@theCS.com,Steve McBroom,Project Manager,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+339,126,235.0,shelly@theCS.com,Shelly Dart,Purchasing Manager,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+340,126,236.0,tigre@shopbuild.us,Sam Tigre,Contractor,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+341,126,237.0,rj@thecs.com,R. J. Batherson,Director,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+342,126,,'tigre@shopbuild.us,Gerry Shali,General Contractor,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+348,128,234.0,steve@theCS.com,Steve McBroom,Project Manager,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+349,128,235.0,shelly@theCS.com,Shelly Dart,Purchasing Manager,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+350,128,236.0,tigre@shopbuild.us,Sam Tigre,Contractor,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+351,128,237.0,rj@thecs.com,R. J. Batherson,Director,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+352,128,,'tigre@shopbuild.us,Gerry Shali,General Contractor,0,2022-11-02 12:30:02,2022-11-02 12:30:02
+358,130,233.0,taylor@theCS.com,Taylor Dietrich,COO,0,2022-11-02 12:31:20,2022-11-02 12:31:20
+359,130,234.0,steve@theCS.com,Steve McBroom,Project Manager,0,2022-11-02 12:31:20,2022-11-02 12:31:20
+360,130,237.0,rj@thecs.com,R. J. Batherson,Director,0,2022-11-02 12:31:20,2022-11-02 12:31:20
+361,131,239.0,sam@miiis3.com,Sam Sheppard,Director,1,2022-11-08 13:43:30,2022-11-08 13:46:14
+362,131,240.0,brianc@miiis3.com,Brian Capstick,VP,1,2022-11-08 13:43:30,2022-11-08 13:46:14
+363,131,241.0,sal@miiis3.com,Diane Bart,Director,1,2022-11-08 13:43:30,2022-11-08 13:46:14
+364,131,242.0,devo@frankii.com,Frank Devo,Vendor,1,2022-11-08 13:43:30,2022-11-08 13:46:14
+365,131,243.0,neil@miiis3.com,Neil Mistry,CEO,1,2022-11-08 13:43:30,2022-11-08 13:46:14
+366,132,239.0,sam@miiis3.com,Sam Sheppard,Director,0,2022-11-08 13:45:35,2022-11-08 13:45:35
+367,132,240.0,brianc@miiis3.com,Brian Capstick,VP,0,2022-11-08 13:45:35,2022-11-08 13:45:35
+368,132,241.0,sal@miiis3.com,Diane Bart,Director,0,2022-11-08 13:45:35,2022-11-08 13:45:35
+369,132,243.0,neil@miiis3.com,Neil Mistry,CEO,0,2022-11-08 13:45:35,2022-11-08 13:45:35
+370,133,240.0,brianc@miiis3.com,Brian Capstick,VP,1,2022-11-09 05:00:25,2022-11-09 05:00:25
+371,134,259.0,shali@thecs.com,Gerry Shali,Store Manager,1,2022-11-16 06:42:48,2022-11-16 06:42:48
+372,135,233.0,taylor@theCS.com,Taylor Holt,COO,1,2023-03-02 12:13:12,2023-03-02 12:13:12
+373,135,237.0,rj@thecs.com,R. J. Batherson,Director,1,2023-03-02 12:13:12,2023-03-02 12:13:12
+374,135,259.0,shali@thecs.com,Geray Shaw,Store Manager,1,2023-03-02 12:13:12,2023-03-02 12:13:12
+375,135,260.0,steve.mcbroom@traxidy.com,Mary Kelly,PMO Manager,1,2023-03-02 12:13:12,2023-03-02 12:13:12
+376,136,235.0,shelly@theCS.com,Shelly Dart,Purchasing Manager,1,2023-03-23 06:18:43,2023-03-23 06:18:43
+377,136,237.0,rj@thecs.com,R. J. Batherson,Director,1,2023-03-23 06:18:43,2023-03-23 06:18:43
+378,136,259.0,shali@thecs.com,Geray Shaw,Store Manager,1,2023-03-23 06:18:43,2023-03-23 06:18:43
+379,137,235.0,shelly@theCS.com,Shelly Dart,Purchasing Manager,1,2023-03-23 07:28:14,2023-03-23 07:28:14
+380,137,237.0,rj@thecs.com,R. J. Batherson,Director,1,2023-03-23 07:28:14,2023-03-23 07:28:14
+381,138,234.0,steve@theCS.com,Stan Rayment,Project Manager,1,2023-04-19 11:35:34,2023-04-19 11:35:34
+382,138,259.0,shali@thecs.com,Geray Shaw,Store Manager,1,2023-04-19 11:35:34,2023-04-19 11:35:34
+383,139,470.0,exrea@eradfsgstg.co,Extra Namer,,1,2023-05-18 04:41:25,2023-05-18 04:41:25
+384,140,474.0,pbjam@dfresfr.ca,Pat Best,,1,2023-05-18 04:49:21,2023-05-18 04:49:21
+385,140,477.0,apersonrede@23deadsw.cou,Another Person,,1,2023-05-18 04:49:21,2023-05-18 04:49:21
+386,140,479.0,tyhy@sdaew.ca,This One,,1,2023-05-18 04:49:21,2023-05-18 04:49:21
+387,140,481.0,stsrefsef@sdas.ca,Fredd jazz,,1,2023-05-18 04:49:21,2023-05-18 04:49:21
+388,140,482.0,gafard.kijuh@sadea.ca,Gait rock,,1,2023-05-18 04:49:21,2023-05-18 04:49:21
+389,141,268.0,db@miiis3.ca,Duane Browne,VP,1,2023-05-30 12:43:32,2023-05-30 12:43:32
+390,141,,'tigre@shopbuild.us,Gerry Shali,General Contractor,1,2023-05-30 12:43:32,2023-05-30 12:43:32
+391,141,,abeal@traxidy.com,Alley Beal,Lead Trainer,1,2023-05-30 12:43:32,2023-05-30 12:43:32
+392,147,234.0,steve@theCS.com,Stan Rayment,Project Manager,1,2023-07-04 09:38:46,2023-07-04 09:38:46
+393,147,237.0,rj@thecs.com,R. J. Batherson,Director,1,2023-07-04 09:38:46,2023-07-04 09:38:46
+394,147,259.0,shali@thecs.com,Geray Shaw,Store Manager,1,2023-07-04 09:38:46,2023-07-04 09:38:46

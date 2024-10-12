@@ -1,0 +1,2 @@
+id,stripe_coupon_id,stripe_promotion_code_id,active,name,percent_off,amount_off,code,max_redemptions,times_redeemed,first_time_transaction,minimum_amount,minimum_amount_currency,expires_at,created_at,updated_at
+1,TEST_COUPON,promo_1IrfzfE224EiyBrBmmDOgt5L,0,Test Coupon,15.0,,OFF15,100,0,1,,,,2022-01-09 04:43:51,2022-01-09 04:43:51

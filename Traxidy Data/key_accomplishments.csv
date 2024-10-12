@@ -1,0 +1,27 @@
+id,project_id,creator_id,description,created_at,updated_at
+1,4,2,Milestones met and we continue on plan.,2021-12-14 14:47:30,2021-12-14 14:47:30
+2,12,6,we did it again,2022-01-15 17:14:48,2022-01-15 17:14:48
+3,12,6,we finsihed it all,2022-01-15 17:14:59,2022-01-15 17:14:59
+4,25,42,I'm assuming this is a description field right? does it links to any deliverable or milestone?,2022-02-07 02:36:48,2022-02-07 02:36:48
+5,36,46,Test key accomplishmenyts....,2022-02-28 04:07:50,2022-02-28 04:07:50
+6,4,2,new tech documents now under review with support,2022-02-28 11:44:04,2022-02-28 11:44:04
+7,4,2,approval of scope changes with sponsor,2022-02-28 11:44:38,2022-02-28 11:44:38
+8,2,2,plan in place and approved,2022-02-28 12:37:25,2022-02-28 12:37:25
+9,2,2,resources approved,2022-02-28 12:37:39,2022-02-28 12:37:39
+10,2,2,change for schedule and tech training developed for in draft,2022-02-28 12:38:40,2022-02-28 12:38:40
+11,4,2,review of current tech security standards,2022-03-09 04:26:45,2022-03-09 04:26:45
+12,56,52,Fabrication on schedule,2022-03-13 14:19:36,2022-03-13 14:19:36
+13,56,52,Contact with all schools for access as needed,2022-03-13 14:20:11,2022-03-13 14:20:11
+14,56,52,zzzzzzzzzzzzzzzzzzzzzzzz,2022-03-14 06:29:33,2022-03-14 06:29:33
+15,76,9,Obtained FOBs on Friday March 18,2022-03-18 12:51:55,2022-03-18 12:52:42
+16,70,35,Sprint 1 and 2 complete without incident or issues,2022-03-21 05:00:35,2022-03-21 05:00:35
+17,12,6,we are all good,2022-04-01 10:16:31,2022-04-01 10:16:31
+18,83,56,"Completed 203, 207, 208, 209, 210, 301, 310, 404, 407, 409 puts us at 26% complete on total condos replaced.",2022-04-26 04:29:13,2022-04-26 04:29:13
+19,1,2,Co-ordinated schedules for Cust Support area training,2022-08-30 08:20:03,2022-08-30 08:20:03
+20,1,2,Started document review,2022-08-30 08:20:17,2022-08-30 08:20:17
+21,1,2,Collecting Lessons to Improve,2022-08-30 08:20:41,2022-08-30 08:20:41
+22,126,2,Design completed and starting to meet regularly with team,2022-11-02 13:05:11,2022-11-02 13:05:11
+23,126,2,Risk assessment facilitated with risks collected,2022-11-15 11:57:57,2022-11-15 11:57:57
+24,132,2,Recieved all materials.,2023-10-17 12:50:00,2023-10-17 12:50:00
+25,132,2,Production completed this week,2023-10-17 12:50:13,2023-10-17 12:50:13
+26,132,2,Started to plan for track install and construction check,2023-10-17 12:50:39,2023-10-17 12:50:39

@@ -1,0 +1,3 @@
+id,name,interval,currency,amount,active,product_identifier,stripe_product_id,stripe_price_id,created_at,updated_at
+1,Monthly Premium Plan,month,usd,500,1,pro_plan,prod_KvtudxpplrRVeE,price_1KG26EE224EiyBrB37eySInT,2022-01-09 04:43:12,2022-01-09 04:43:12
+2,Annual Premium Plan,year,usd,4800,1,pro_plan,prod_Kvts9HiwMaICnh,price_1KG259E224EiyBrBTUtszED0,2022-01-09 04:43:12,2022-01-09 04:43:12

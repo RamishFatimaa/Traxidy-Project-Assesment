@@ -1,0 +1,30 @@
+id,creator_id,title,description,created_at,updated_at
+1,1,Getting Started,"The Getting Started section starts with a list of the Traxidy Areas, each one with a link to a short video which provides a guided tour of each Area.",2021-11-24 11:52:50,2021-11-26 05:31:12
+2,1,Traxidy Overview,Learn how Traxidy can help from Plan Development to Project Close.,2021-11-26 05:29:10,2021-11-26 05:30:06
+3,1,Navigation & Key Terms,Key Areas and terms to know when navigating within Traxidy.,2021-11-26 05:51:51,2022-01-05 06:38:38
+4,1,Orientation: The Basics,"Helpful tips and options to easily view, sort, and edit your project information.",2021-11-26 05:53:47,2021-11-26 05:53:47
+5,1,Account Settings,Learn how to set up and tailor settings for your membership account.,2021-11-26 05:54:57,2022-01-05 06:39:02
+6,1,Project Settings,Learn how to set up and tailor your settings for each project.,2021-11-26 06:07:05,2021-11-26 06:08:06
+7,1,Dashboard,The Dashboard Area is always your starting point to view project priorities and to access a Project and it’s Project Areas.,2021-11-26 06:07:16,2021-12-08 05:32:05
+8,1,Start a New Project,You can start a New Project from either the Dashboard or the Main Menu.,2021-11-26 06:07:30,2021-12-08 05:56:41
+9,1,Project Information,"The one place to view and update all your project details including key dates, deliverables, budget, and more.",2021-11-26 06:09:23,2021-12-08 08:09:24
+10,1,Working with Contacts,"Create and add individual contacts to your project, give them collaboration access and connect them to meetings.",2021-11-26 06:09:40,2021-12-08 08:20:49
+11,1,Setting-Up Project Meetings,Set up your project meetings in Traxidy and easily record each one and save time confirming attendance and creating Meeting Minutes.,2021-11-26 06:10:18,2021-12-08 10:57:22
+12,1,Create Meeting Minutes,"From the Traxidy Project Meetings Area, you can easily create, save and send Meeting Minutes to Project Team Members.",2021-11-26 06:10:30,2021-12-08 12:38:09
+13,1,Recording Actions Issues Decisions (AID),"AID is your Traxidy Area to easily record, track and manage all project work, details, and updates related to Actions, Issues and Decisions.",2021-11-26 06:11:17,2021-12-08 12:06:38
+14,1,Record & Manage Risks,"The Traxidy Risks Area is used to record, track, manage and prioritize Project Risks.",2021-11-26 06:11:53,2021-12-08 12:37:47
+15,1,Constraints Green Yellow Red (GYR),"The Traxidy Area to assess, report and visually track the status of the overall project and key project constraints.",2021-11-26 06:12:20,2021-12-08 13:51:42
+16,1,Using Project Status,"It is easy to create, tailor, present and report real-time Project Status.",2021-11-26 06:12:48,2021-12-08 14:09:25
+17,1,Using the High-Level (HL) Plan,"The High-Level (HL) Plan provides a visual, simplified project plan, timeframe and schedule.",2021-11-26 06:13:13,2021-12-13 15:28:27
+18,1,Manage Changes,"Changes is the Traxidy Area to record, track and manage all potential project changes from investigation to approval.",2021-11-26 06:13:40,2021-12-13 15:31:34
+19,1,Create a Change Request Form,An Automated Change Request Form making it easier to submit and review changes.,2021-11-26 06:13:56,2021-12-13 15:53:24
+20,1,Learn & Improve / Project Learnings,Easily capture and keep track of your notes and record learnings and ideas throughout the project.,2021-11-26 06:14:30,2021-12-13 16:04:08
+21,1,Reports & Forms,"Learn about Traxidy project area reports and forms and ways to present, save, print and send.",2021-11-26 06:14:45,2021-12-14 06:54:35
+22,1,Closed Projects,One Area to access and reference all your Closed Project details.,2021-11-26 06:14:59,2021-12-14 15:33:55
+23,1,All Contacts,A complete listing of all contacts across all of your projects in Traxidy.,2021-11-26 06:15:57,2022-01-03 06:59:01
+24,1,All Learnings,A full record of all learnings and notes across all projects in Traxidy.,2021-11-26 06:16:12,2022-01-03 07:02:25
+25,1,Using the Feedback Area,Let us know how we can make Traxidy even better.,2021-11-26 06:16:27,2022-01-03 07:01:58
+26,1,Rewards,Share Traxidy with a colleague or friend and earn rewards.,2021-11-26 06:17:21,2022-01-04 05:24:44
+28,1,Collaboration,Granting Contacts access to projects as CONTRIBUTOR or REVIEWER.,2022-01-04 10:58:40,2022-01-05 06:39:41
+29,1,If Your Trial or Account Expires,What you can do if your Free Trial expires.,2022-01-04 12:25:29,2022-01-05 06:39:29
+30,1,Multi-Client Status Reporting,One app but with the ability to present project portfolios and status to any number of different clients,2022-01-19 11:48:17,2022-01-19 11:48:17

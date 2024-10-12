@@ -1,0 +1,1003 @@
+id,creator_id,project_id,issue_id,owner_contact_id,owner_contact_name,action_identifier,description,original_description,due_date,decision_made,status,progress,gyr,urls,created_at,updated_at
+1,2,4,1,6.0,T.J. Shalmark,I1-A1,Most of what we are doing is to receive more training and information on our current situation while trying to apply the requirements of the project to the outcome.,Develop plan,2021-12-10,0,open,100,green,[],2021-11-26 12:09:56,2022-08-30 07:37:22
+5,2,4,4,8.0,Sal Nuberg,I4-A1,Most of what we are doing is to receive more training and information on our current situation while trying to apply the requirements of the project to the outcome.,develop design,2022-01-16,1,open,65,green,[],2021-11-29 05:49:32,2022-08-30 07:36:44
+6,2,4,1,7.0,Jerri Shaw,I1-A3,Most of what we are doing is to receive more training and information on our current situation while trying to apply the requirements of the project to the outcome.,do the plan,2021-12-01,0,open,95,green,[],2021-11-29 05:50:23,2022-08-30 07:38:05
+8,2,4,4,12.0,Janet Dietrich,I4-A2,done,design the screen details,2022-07-29,0,closed,95,green,[],2021-11-30 04:52:41,2022-08-30 07:41:29
+9,2,2,5,13.0,Steve Sammy,I1-A1,"so far so good, but not finished",Ensure listing of correct stakeholders,2022-08-31,1,closed,70,green,[],2021-12-01 11:41:10,2022-10-12 06:02:48
+10,10,7,6,15.0,Cliff Ma,I1-A1,reached,,2022-01-13,0,open,0,green,,2022-01-12 07:08:52,2022-01-12 07:08:52
+11,18,11,7,23.0,Mitchel McBroom,I1-A1,Graphic restriction scenarios for I-270 & I-670 are sent to Dom to review. Due date has been extended to account for further testing with new template messaging.,,2022-01-28,0,closed,100,green,,2022-01-13 04:35:40,2022-03-10 05:15:18
+12,18,13,8,25.0,Gavincko Alagesan,I1-A1,Change of plans,,2022-04-30,1,closed,35,green,,2022-01-13 04:47:23,2022-03-30 05:27:09
+13,6,12,9,22.0,jk keay,I1-A1,stuff big stuff,,2022-01-28,0,closed,0,green,,2022-01-13 12:52:00,2022-01-15 11:35:07
+14,2,2,10,27.0,Steve Traxidy Tester,I2-A1,Almost done,Review cable and hardware connections,2022-11-10,0,closed,80,green,[],2022-01-14 07:05:46,2022-10-12 06:02:56
+15,2,3,11,28.0,Steve Traxidy Tester,I1-A1,we need to take steps!!,,2022-02-01,1,closed,10,green,,2022-01-14 09:03:30,2022-01-14 09:03:30
+16,2,3,12,3.0,Richard Austin,I2-A1,"Hi Steve, I completed my assigned action.",,2022-02-23,0,closed,100,green,,2022-01-14 09:04:25,2022-01-19 04:20:37
+17,2,3,13,28.0,Steve Traxidy Tester,I3-A1,take some money and do something,,2022-01-26,1,open,5,green,,2022-01-14 09:05:20,2022-01-14 09:05:20
+18,2,3,14,28.0,Steve Traxidy Tester,I4-A1,we decided to not do this,,2022-01-12,1,open,100,green,,2022-01-14 09:06:13,2022-01-14 09:06:13
+19,18,14,15,30.0,Mitchel McBroom,I1-A1,"""NO CNG"" cause (""No Natural Gas"") is left to be updated in SAE. Nate/Todd to send graphic to be used with this template. Step 1 is to create new templates and cause to be used in staging, then request image from Nate/Todd.",,2022-08-31,1,open,15,green,[],2022-01-14 12:34:23,2022-07-27 11:31:03
+20,18,14,16,30.0,Mitchel McBroom,I2-A1,"New addition; cause-specific response plan (cause = ""special event"").",,2022-08-31,0,open,0,green,[],2022-01-14 12:36:28,2022-07-27 11:30:57
+21,18,14,17,30.0,Mitchel McBroom,I3-A1,Moving to closed because Todd and Nate have reviewed - Next step is to decide when/if to push.,,2022-07-31,1,closed,70,green,[],2022-01-14 12:40:35,2022-05-18 18:50:13
+22,18,14,18,30.0,Mitchel McBroom,I4-A1,"After monthly check-in meeting on Wednesday, this response was not discussed as a priority and therefore is removed from the list of PTC response items planned for 6.17.",,2022-02-04,1,closed,0,green,,2022-01-14 12:41:42,2022-02-12 10:04:22
+23,18,14,19,30.0,Mitchel McBroom,I5-A1,Email sent to Todd/Nate,,2022-04-05,1,closed,100,green,,2022-01-14 12:43:24,2022-04-11 15:40:10
+24,18,14,20,30.0,Mitchel McBroom,I6-A1,Updates pushed to PTC Staging,,2022-02-04,1,closed,100,green,,2022-01-14 12:44:40,2022-02-12 09:56:48
+25,18,15,21,32.0,Mitchel McBroom,I1-A1,"New plan of action discussed by Alex: Test John Mundy's account with the new CMM version that includes SAML authentication, rather than the current auth method.",,2022-01-24,1,closed,100,green,,2022-01-14 12:57:24,2022-01-26 07:23:16
+26,6,12,22,33.0,Mimi McBroom,I2-A1,Hire someone,,2022-06-30,0,open,0,green,,2022-01-15 10:51:36,2022-03-27 08:11:51
+27,6,12,22,33.0,Mimi McBroom,I2-A2,Training needed,,2024-01-31,1,open,0,green,,2022-01-15 10:53:44,2022-03-27 08:11:33
+28,6,12,23,33.0,Mimi McBroom,I3-A1,get it done,,2022-01-31,1,closed,15,green,,2022-01-15 11:32:44,2022-03-27 06:33:02
+29,18,17,24,36.0,Mitchel McBroom,I1-A1,Jan 10: Sandusky Rd N' is added to US-52 E refloc list,,2022-01-10,1,closed,100,green,,2022-01-17 09:40:01,2022-01-17 09:40:26
+30,18,18,25,38.0,Mitchel McBroom,I1-A1,Release 6.17 Test Cases,,2022-02-07,1,closed,100,green,,2022-01-18 06:43:20,2022-03-21 15:44:51
+31,18,18,26,38.0,Mitchel McBroom,I2-A1,Release 6.17 User Acceptance Testing,,2022-02-21,0,closed,100,green,,2022-01-18 06:45:09,2022-03-21 15:44:41
+32,18,18,27,37.0,Alex Ariza,I3-A1,Release 6.17 Go-Live,,2022-03-08,1,closed,100,green,,2022-01-18 06:46:07,2022-03-21 15:45:03
+33,18,18,28,38.0,Mitchel McBroom,I4-A1,Send a memo of 6.17 Planned Changes to Michael Pack (requested to be CC'd on email) and to Jeff Beard.,,2022-02-07,1,closed,100,green,,2022-01-18 10:14:50,2022-03-21 15:44:27
+34,2,2,29,13.0,Steve Sammy,I3-A1,working on it,Develop training overview for approval,2022-10-13,0,closed,35,green,[],2022-01-23 04:16:08,2022-10-12 06:02:39
+35,2,2,5,1.0,Janice Wong,I1-A2,"Take the concerns to the tech director for discussion and approval.
+This was decided today in the meeting by Janice Wong. Given to her to proceed and set meeting and get approval.",,2022-03-23,1,closed,90,green,,2022-01-23 04:18:56,2022-03-24 09:29:57
+36,2,2,5,42.0,Steve McBroom,I1-A3,trying to get meetings set,Review Regulatory Requirements,2022-10-28,0,closed,65,yellow,[],2022-01-23 04:22:11,2022-10-12 06:02:33
+39,18,14,20,30.0,Mitchel McBroom,I6-A2,Not sure what these changes are referring to...,,2022-04-30,1,closed,20,green,,2022-01-24 13:40:43,2022-04-07 06:36:14
+40,18,15,31,32.0,Mitchel McBroom,I2-A1,"Test John Mundy's account with the new CMM version that includes SAML authentication, rather than the current auth method.",,2022-02-25,1,closed,100,green,,2022-01-26 07:25:05,2022-03-21 15:41:20
+41,18,23,32,52.0,Mitchel McBroom,I1-A1,Ramp update pushed to production on Friday Feb 11,,2022-02-11,1,closed,100,green,,2022-01-30 12:54:14,2022-02-12 09:52:39
+43,18,23,34,52.0,Mitchel McBroom,I3-A1,Ramp update pushed to production on Friday Feb 11,,2022-02-11,1,closed,100,green,,2022-01-30 12:56:57,2022-02-12 09:52:29
+44,18,23,35,52.0,Mitchel McBroom,I4-A1,"""The ramp from NB 71 to W 14th is also not configured.""",,2022-02-11,1,closed,100,green,,2022-01-30 12:59:55,2022-02-12 09:51:51
+45,42,25,36,54.0,Jose Cortez,I1-A1,Contact vendor,,2022-02-11,1,open,5,green,,2022-02-07 02:31:01,2022-02-07 02:31:01
+48,18,17,38,36.0,Mitchel McBroom,I2-A1,The '192' milepost is a result of wrong mileposts from another roadway (previous issue already fixed). These have been removed from prod db chainage on mon feb 14.,,2022-02-18,1,closed,100,green,,2022-02-12 09:50:32,2022-03-10 07:35:22
+49,32,35,39,65.0,team member 1 last name1,I1-A1,Deployment lead to define training programs for admins.,,2022-02-23,0,open,10,green,,2022-02-15 13:55:19,2022-02-15 13:55:19
+50,46,36,40,67.0,Prod User,I1-A1,Action Description,,2022-03-01,1,open,75,green,,2022-02-28 03:59:44,2022-02-28 03:59:44
+51,46,36,40,66.0,Muhammad Usman,I1-A2,Action 02,,2022-02-23,1,open,20,green,,2022-02-28 03:59:59,2022-02-28 03:59:59
+52,46,36,41,68.0,New Contact,I2-A1,ddtdtcrdt,,2022-03-02,1,closed,25,green,,2022-02-28 06:04:33,2022-02-28 06:04:33
+56,2,2,43,43.0,Jerri Shaw,I4-A1,VP allowed extension of this work,Document review,2022-10-13,1,closed,50,red,[],2022-03-04 11:49:59,2022-10-12 06:02:24
+58,2,2,44,42.0,Steve McBroom,I5-A1,still working it,Need to complete the design,2022-10-20,0,closed,50,yellow,[],2022-03-04 12:26:00,2022-10-12 06:02:16
+60,2,4,45,5.0,Reggy Ralphson,I5-A2,done,install the flooring,2022-05-25,1,closed,60,green,[],2022-03-05 09:32:48,2022-08-30 07:41:22
+61,2,4,46,187.0,Steve McBroom,I6-A1,still need to call contractor and builder,coordinate delivery of the cabinets,2022-09-22,1,open,5,red,[],2022-03-06 10:05:14,2022-08-30 07:40:21
+62,2,4,47,187.0,Steve McBroom,I7-A1,not much progress made but still moving forward,Design of floor plan,2022-12-16,0,open,60,yellow,[],2022-03-07 10:03:16,2022-08-30 07:42:15
+63,2,4,47,76.0,Rob Rowatt,I7-A2,working on it,Develop training manuals,2022-11-17,1,open,20,green,[],2022-03-07 10:05:01,2022-08-30 07:32:32
+64,18,17,48,36.0,Mitchel McBroom,I3-A1,Disregarded,,2022-05-06,1,closed,60,green,[],2022-03-10 07:45:15,2022-05-17 13:23:03
+65,2,4,49,111.0,Traxidy Gmail Acct,I8-A1,done,procedures for security training,2022-08-24,0,closed,100,green,[],2022-03-11 05:29:49,2022-08-30 07:33:34
+67,52,56,50,103.0,B. Oswald,I1-A1,Get it Done,,2023-05-25,0,open,0,green,[],2022-03-12 13:04:27,2023-03-23 06:00:29
+68,52,56,51,104.0,M. Pedecine,I2-A1,Get it Done,,2022-08-15,0,open,0,green,,2022-03-12 13:06:37,2022-03-12 13:25:13
+69,52,56,52,159.0,Steve Traxidy PM,I3-A1,this should be done today,provide contact information for tools vendor,2023-04-05,0,open,90,green,[],2022-03-12 13:07:56,2023-03-23 05:59:06
+70,52,56,53,104.0,M. Pedecine,I4-A1,still working on it,produce supplier listing for selection meeting,2023-03-24,0,open,15,yellow,[],2022-03-12 13:09:41,2023-03-23 06:01:15
+71,52,56,54,159.0,Steve Traxidy PM,I5-A1,all done,,2022-04-01,0,closed,100,green,,2022-03-12 13:10:23,2022-04-11 14:12:20
+72,52,56,55,159.0,Steve Traxidy PM,I6-A1,issues in getting this done,Deliver equipment to site,2023-03-25,0,open,20,red,[],2022-03-12 13:11:06,2023-03-23 06:01:39
+73,52,60,56,107.0,M. Pedecine,I1-A1,still going,provide venue contact info,2023-04-20,0,open,20,green,[],2022-03-13 13:49:21,2023-03-23 06:09:23
+74,52,60,57,108.0,B. Oswald,I2-A1,still doing this and need extension,setup meetings as required and report,2023-03-31,0,open,0,green,[],2022-03-13 13:51:13,2023-03-23 06:08:41
+75,52,56,54,159.0,Steve Traxidy PM,I5-A2,partially completed and will be done this week if I can get the meeting with the architect,Develop blueprints for HVAC build,2023-03-21,0,open,40,green,[],2022-03-14 05:44:00,2023-03-23 05:52:53
+76,7,5,58,112.0,Aram Zahedi,I1-A1,Test Update Description,,2022-03-24,1,open,20,green,"[""https:\/\/google.com"",""https:\/\/facebook.com"",""https:\/\/twitter.com""]",2022-03-14 05:52:50,2022-06-25 02:49:42
+77,52,56,54,104.0,M. Pedecine,I5-A3,hhhhhhhhhhhhhhhhhhhh,,2022-03-17,0,closed,0,green,,2022-03-14 06:15:20,2022-03-14 06:16:49
+78,52,60,59,108.0,B. Oswald,I3-A1,need to work on this,provide contacts list,2023-03-22,0,open,20,yellow,[],2022-03-14 06:38:14,2023-03-23 06:07:00
+80,56,64,61,115.0,Brian Oswald,I1-A1,Walkthrough completed,,2022-03-18,1,closed,0,green,,2022-03-14 10:07:33,2022-03-25 09:04:12
+81,56,64,62,115.0,Brian Oswald,I2-A1,"Get quotes from contractors (Limbach, Binsky, McCloskey) for GWC work.",,2022-04-01,1,closed,25,green,,2022-03-14 10:12:04,2022-04-26 04:35:06
+82,56,64,63,115.0,Brian Oswald,I3-A1,Need valve info from AME and then McCloskey can provide a quote for valve replacement work,,2022-04-15,1,closed,0,green,[],2022-03-14 10:14:59,2022-05-18 07:47:06
+83,56,64,64,115.0,Brian Oswald,I4-A1,Need pricing breakout for UV and AHU work from ICC,,2022-04-01,1,closed,50,green,,2022-03-14 10:25:43,2022-04-26 04:35:11
+84,57,72,65,120.0,Prasad Joshi,I1-A1,Login screen UX/UI,,2022-03-17,0,open,0,green,,2022-03-16 00:52:21,2022-03-16 00:52:21
+85,35,69,66,179.0,Steve McBroom,I1-A1,approval expected tomorrow,,2022-04-13,0,open,95,green,,2022-03-17 10:58:22,2022-04-12 08:02:06
+86,35,69,67,179.0,Steve McBroom,I2-A1,VP has given us more days to get this done. per meeting today,,2022-04-15,1,open,20,green,,2022-03-17 10:59:52,2022-04-12 08:01:00
+87,35,69,68,127.0,Gail Desmond,I3-A1,ensure resource available when sprint 3 is going to be running. get approval from director.,,2022-04-08,0,open,5,green,,2022-03-17 11:02:19,2022-03-17 11:02:19
+88,35,69,69,,SM Test,I4-A1,agreed with client to reduce the scope of sprint 1 by leaving out web development. Agreed to by client today.,,2022-03-17,1,closed,100,green,,2022-03-17 11:05:03,2022-03-17 11:05:15
+91,65,75,72,130.0,William (Bill) Sawchuk,I3-A1,Finalize Bylaw Amendments with Kate.,,2022-05-31,0,open,90,green,,2022-03-18 09:22:14,2022-03-18 09:22:14
+92,65,75,73,128.0,Robyn Tamas-McBroom,I4-A1,Add statement of expenses and submit final draft of Jan 3 meeting minutes to board for review.,,2022-02-25,1,closed,100,green,,2022-03-18 09:23:55,2022-03-18 09:23:55
+93,65,75,74,128.0,Robyn Tamas-McBroom,I5-A1,Create action items spreadsheet,,2022-03-19,0,closed,100,green,,2022-03-18 09:25:08,2022-03-18 09:25:08
+103,65,75,77,129.0,Henry Groen,I6-A1,To be finalized when bylaws finalized. Wording including “executive director” and “artistic director” to be changed to reflect titles in bylaws,,2022-05-31,0,open,50,green,,2022-03-18 09:49:52,2022-03-18 09:49:52
+104,65,75,78,128.0,Robyn Tamas-McBroom,I7-A1,Add statement of expenses to Jan 3 meeting minutes and submit final draft for board review,,2022-03-01,0,closed,100,green,,2022-03-18 09:51:18,2022-03-18 09:51:18
+105,65,75,79,128.0,Robyn Tamas-McBroom,I8-A1,To be completed in Traxidy. Email board members regarding process for review and completion of action items.,,2022-03-25,0,closed,100,green,,2022-03-18 09:52:36,2022-03-18 10:21:29
+106,65,75,80,132.0,Carl Jolliffe,I9-A1,Adjust legal invoice from Kate back to December 2021 as final Dec 31 to balance books.,,2022-04-01,0,open,0,green,,2022-03-18 09:53:37,2022-03-18 09:53:37
+107,65,75,81,130.0,William (Bill) Sawchuk,I10-A1,Finalize bylaws amendments for final draft submission to community members hopefully in the Spring,,2022-05-31,0,open,90,green,,2022-03-18 09:54:47,2022-03-18 09:54:47
+108,65,75,82,132.0,Carl Jolliffe,I11-A1,Obtain quote for Lynx meadows and lynx point sign light repair. May need total replacement. Lights on lynx point sign appears illuminated but very dim.,,2022-04-07,0,open,0,green,,2022-03-18 09:56:11,2022-03-18 09:56:11
+109,65,75,83,133.0,Chris Gall,I12-A1,"Contractor h2o pro has done it historically, most recently quoted at $4500 flat charge plus service/ shop rates. James electric was a potential alternate contractor. Chris to find alternate bids. Back up generators are inside the building along with all specific info on the system. Carl would need to contact H2O pro to access lift station building.",,2022-04-07,0,open,0,green,,2022-03-18 09:58:40,2022-03-18 09:58:40
+110,65,75,84,128.0,Robyn Tamas-McBroom,I13-A1,Meeting agenda and supporting documents emailed to Henry & Rhonda.,,2022-03-31,0,closed,100,green,,2022-03-18 09:59:26,2022-04-05 09:13:46
+111,65,75,84,129.0,Henry Groen,I13-A2,Schedule meeting,,2022-04-04,0,closed,100,green,,2022-03-18 09:59:57,2022-03-18 09:59:57
+112,65,75,84,131.0,Rhonda Duffee,I13-A3,Attend meeting April 4 @ 1pm - 2pm at Tuscany Fire Station Board Room,,2022-04-04,0,closed,100,green,,2022-03-18 10:00:38,2022-04-05 09:13:12
+113,65,75,84,129.0,Henry Groen,I13-A4,Attend meeting April 4 @ 1pm - 2pm at Tuscany Fire Station Board Room,,2022-04-04,0,closed,100,green,,2022-03-18 10:00:59,2022-04-05 09:13:04
+114,65,75,84,128.0,Robyn Tamas-McBroom,I13-A5,Attend meeting April 4 @ 1pm - 2pm at Tuscany Fire Station Board Room,,2022-04-04,0,closed,0,green,,2022-03-18 10:01:17,2022-04-05 09:12:51
+115,65,75,85,133.0,Chris Gall,I14-A1,Obtain competitive bids for landscaping and snow removal. Looking at consolidating the greater region of blazer water treatment area/ watermark/ lynx. Paradise contract expires April 30/2022),,2022-04-07,0,open,0,green,,2022-03-18 10:03:15,2022-03-18 10:03:15
+116,65,75,86,132.0,Carl Jolliffe,I15-A1,Obtain competitive quote for community property insurance pending appraisal,,2022-04-30,0,open,0,green,,2022-03-18 10:04:07,2022-03-18 10:04:07
+117,65,75,87,129.0,Henry Groen,I16-A1,"Current contract expires Sept 15/2022. Need to give 90 days notice, therefore need to confirm city takeover by June 15.",,2022-06-15,0,open,0,green,,2022-03-18 10:05:17,2022-03-18 10:05:17
+118,65,75,88,135.0,Denis Bisson,I17-A1,Develop Architectural Standards amendment re: solar panels. Review March 4 meeting minutes for details to be added.,,2022-06-15,0,open,0,green,,2022-03-18 10:10:09,2022-03-18 10:26:30
+119,65,75,89,128.0,Robyn Tamas-McBroom,I18-A1,Send email re: pet clean up reminder for residents,,2022-03-31,0,open,0,green,,2022-03-18 10:13:36,2022-03-18 10:13:36
+120,65,75,90,128.0,Robyn Tamas-McBroom,I19-A1,Email with Rick Deans @ RVC revealed that the line has been decommissioned and poses no threat to fire suppression in the future. The fire department has inspected and tagged the de-rated hydrants so they are aware of how to appropriately use them in an emergency situation. Rick offered to investigate the cost of re-looping second line to phase two but it was implied that the condo corp would foot the bill. No further action at this time. Forwarded email correspondence to the board.,,2022-03-31,0,closed,100,green,,2022-03-18 10:15:04,2022-04-05 09:12:36
+121,35,70,91,145.0,JD Ishtar,I1-A1,ddddddddddddddddd,,2022-03-22,0,closed,90,green,,2022-03-21 05:12:13,2022-03-31 07:05:08
+122,35,70,92,147.0,Rodger Singh,I2-A1,almost done,,2022-05-10,0,open,90,green,,2022-03-21 05:13:19,2022-03-31 07:05:52
+123,35,70,92,144.0,Stella Walker,I2-A2,plan development required and meet with developer,,2022-03-30,0,open,50,green,,2022-03-21 05:15:35,2022-03-21 05:15:35
+124,35,70,93,147.0,Rodger Singh,I3-A1,sssssssss,,2022-03-25,0,closed,0,green,,2022-03-21 12:18:57,2022-03-31 07:04:52
+125,35,70,94,145.0,JD Ishtar,I4-A1,fffffffffffffffff,,2022-03-23,0,closed,0,green,,2022-03-21 12:21:15,2022-03-31 07:04:43
+127,2,1,95,72.0,Jerri Shaw,I1-A1,done,Set Planning meetings,2022-03-29,1,closed,85,green,[],2022-03-22 05:56:13,2022-08-30 07:53:29
+128,2,1,96,72.0,Jerri Shaw,I2-A1,this is done tomorrow,Test Build Document Approval,2022-03-29,1,closed,100,green,[],2022-03-22 07:02:41,2022-08-30 07:14:43
+129,2,1,97,72.0,Jerri Shaw,I3-A1,still working on it,Develop support desk training binder,2022-09-04,0,open,30,red,[],2022-03-22 07:09:34,2022-08-30 08:24:21
+130,2,1,98,72.0,Jerri Shaw,I4-A1,set for this month,Establish design meetings,2022-03-29,0,closed,95,green,[],2022-03-22 07:10:19,2022-08-30 07:13:52
+133,6,12,101,33.0,Mimi McBroom,I4-A1,update it now,,2022-03-31,0,open,20,green,,2022-03-27 07:11:46,2022-03-27 07:11:46
+134,6,12,102,22.0,jk keay,I5-A1,get it done,,2022-03-31,0,open,0,green,,2022-03-27 07:17:49,2022-03-27 07:17:49
+135,6,12,103,164.0,sami mcbroom,I6-A1,going great,Develop the new page,2023-04-11,0,open,15,green,[],2022-03-27 07:20:40,2022-12-02 14:15:27
+136,6,12,103,164.0,sami mcbroom,I6-A2,still going,This is the description of the task,2023-03-09,0,open,20,yellow,[],2022-03-27 07:22:12,2022-12-02 14:14:50
+138,18,77,105,153.0,Mitchel McBroom,I1-A1,Continued - No Change,,2022-08-31,1,open,20,green,[],2022-03-30 16:10:25,2022-07-27 11:22:20
+140,18,95,107,182.0,Mitchel McBroom,I1-A1,Review the current documentation and prepare for meeting on Monday @ 10AM,,2022-04-04,1,closed,100,green,,2022-04-02 14:25:50,2022-04-04 09:34:14
+141,18,17,108,36.0,Mitchel McBroom,I4-A1,Tested and fixed in prod (2022-04-20),,2022-04-30,1,closed,100,green,,2022-04-02 15:28:04,2022-04-20 14:45:49
+142,18,17,109,36.0,Mitchel McBroom,I5-A1,SR-161 DESTAPE Data Re-Config,,2022-04-30,1,closed,0,green,,2022-04-02 15:29:35,2022-04-19 11:14:58
+143,18,17,110,36.0,Mitchel McBroom,I6-A1,"Unclear which release this should be planned for; maybe 6.19? - In any case, has been pushed back and progress not yet started.",,2022-08-31,1,open,10,green,[],2022-04-02 15:30:58,2022-06-01 10:31:13
+144,18,11,111,23.0,Mitchel McBroom,I2-A1,Moved to Maintenance Project,,2022-04-15,1,closed,100,green,,2022-04-02 15:32:09,2022-04-07 06:12:54
+145,18,77,112,153.0,Mitchel McBroom,I2-A1,Continued - No Change,,2022-08-31,1,open,85,green,[],2022-04-02 15:40:20,2022-07-27 11:22:27
+146,18,77,113,153.0,Mitchel McBroom,I3-A1,Meeting scheduled for April 11 @ 1:00PM,,2022-04-04,1,closed,100,green,,2022-04-02 15:42:06,2022-04-04 11:50:03
+147,18,96,114,183.0,Mitchel McBroom,I1-A1,Review Documents,,2022-08-31,1,open,10,green,[],2022-04-02 15:45:16,2022-07-27 11:38:59
+148,18,96,115,183.0,Mitchel McBroom,I2-A1,Covid Results complete,,2022-04-04,1,closed,100,green,,2022-04-02 15:45:55,2022-04-05 12:26:11
+149,18,96,116,183.0,Mitchel McBroom,I3-A1,Booked and approved by Alex,,2022-04-05,1,closed,100,green,,2022-04-02 15:46:53,2022-04-05 12:25:38
+150,18,95,117,182.0,Mitchel McBroom,I2-A1,Work on updating Cash Sections (3 & 4),,2022-04-26,1,closed,100,green,[],2022-04-04 09:41:31,2022-05-17 12:29:34
+151,18,77,118,153.0,Mitchel McBroom,I4-A1,See other note from related issue. Has been completed and pushed.,,2022-05-31,1,closed,100,green,[],2022-04-04 11:17:25,2022-05-18 18:47:27
+152,65,75,119,135.0,Denis Bisson,I20-A1,To be approved at BOD meeting April 7,,2022-04-07,0,closed,100,green,[],2022-04-05 09:02:58,2022-04-06 14:08:33
+153,18,96,116,183.0,Mitchel McBroom,I3-A2,Sheridan Booked,,2022-04-06,1,closed,100,green,[],2022-04-05 12:25:21,2022-04-07 06:11:31
+154,18,95,120,182.0,Mitchel McBroom,I3-A1,Wednesday Updates to be made,,2022-04-06,1,closed,0,green,[],2022-04-05 12:30:03,2022-04-08 07:22:13
+155,18,95,120,182.0,Mitchel McBroom,I3-A2,Thursday Updates to be made,,2022-04-07,1,closed,0,green,[],2022-04-05 12:30:59,2022-04-08 07:22:06
+156,18,95,120,182.0,Mitchel McBroom,I3-A3,Mitchel's plan to create spreadsheet out of document comments grouping sections/issues/updates together. Also need to begin to colour code the different sections of the document with regard to the separate bridge stakeholder groups.,,2022-04-20,1,closed,30,green,[],2022-04-05 12:31:42,2022-04-18 18:58:49
+158,18,17,122,36.0,Mitchel McBroom,I7-A1,"No restart needed, No feedback yet from ODOT other than positive.",,2022-06-22,1,closed,95,green,[],2022-04-07 06:14:07,2022-06-22 09:13:49
+159,18,77,123,153.0,Mitchel McBroom,I5-A1,This has been closed - No response or reference to this since the originating date - seems like this was just due to confusion from one of PTC's data receivers and requires no action from PTC.,,2022-07-31,0,closed,80,green,[],2022-04-07 06:25:58,2022-07-21 07:45:42
+160,18,77,124,153.0,Mitchel McBroom,I6-A1,Error was reproducible and Bug Report created in DevOps,,2022-04-08,0,closed,100,green,[],2022-04-07 06:27:45,2022-04-11 15:39:40
+161,18,77,125,153.0,Mitchel McBroom,I7-A1,Called Greg and Lawrence - Not sure if Lawrence's phone number is a corporate one but it asked for extension. Left message on Greg's phone to see if he wanted to call back.,,2022-04-08,1,closed,100,green,[],2022-04-07 06:29:54,2022-04-11 11:32:02
+162,18,96,126,183.0,Mitchel McBroom,I4-A1,Get covid results for flight,,2022-04-10,1,closed,100,green,[],2022-04-07 10:50:46,2022-04-10 19:14:22
+163,6,79,127,166.0,jk keay,I2-A1,it's time to make a decision to this are isn't empty,,2022-04-30,1,open,0,green,[],2022-04-09 09:19:04,2022-04-09 09:19:35
+164,18,98,128,188.0,Mitchel McBroom,I1-A1,Todd mentioned that the update looks good - Need to follow up at some point to determine when/if we should push to prod.,,2022-07-31,0,open,90,green,[],2022-04-12 07:27:32,2022-07-04 04:52:39
+165,35,71,129,176.0,Steve McBroom,I1-A1,deliver work for phase one,,2022-04-20,0,open,15,green,[],2022-04-12 07:56:22,2022-04-12 07:56:22
+166,55,91,130,555.0,Tester Seven,I1-A1,"back to 20% progress, taking it to Yellow and extending the due date to Apr 3",develop HL process for finance,2023-04-03,0,open,30,red,"[""https:\/\/traxidy.com""]",2022-04-12 08:04:32,2023-06-08 06:20:28
+167,55,91,130,180.0,Steve McBroom,I1-A2,new date and still working,Review Ops training process,2023-03-17,1,closed,100,green,"[""https:\/\/www.projectmanager.com\/blog\/time-estimation-for-project-managers"",""https:\/\/linkedin.com"",""https:\/\/twitter.com""]",2022-04-12 08:05:07,2023-04-19 11:58:52
+168,18,77,118,153.0,Mitchel McBroom,I4-A2,Lane config has been updated in addition to chainage in this area and has been pushed to prod during restart.,,2022-05-31,1,closed,100,green,[],2022-04-12 09:35:02,2022-05-18 18:46:50
+169,18,14,131,30.0,Mitchel McBroom,I7-A1,Why isn't the General Alert location/county selection process the same as with the weather event selection process window (i.e. Why doesn't the Gen Alert provide list of counties rather than the map/graphical selection used with the Weather Events?),,2022-08-31,0,open,0,green,[],2022-04-12 10:43:57,2022-07-27 11:30:50
+170,18,77,132,153.0,Mitchel McBroom,I8-A1,"CCTVs have been added to API via Camera Config and therefore will now have ""Block"" capability - Note that the ""Blocking"" applies only to the ATMS viewing because the PA511 camera feed comes straight from the CCTV VM feed and not from the API.",,2022-04-15,1,closed,100,green,[],2022-04-13 06:18:31,2022-04-13 09:20:28
+171,18,98,133,188.0,Mitchel McBroom,I2-A1,Meeting scheduled with John Parker and John Fuller. Meeting is to discuss the messaging to be used in prod.,,2022-07-31,0,open,40,green,[],2022-04-13 09:41:52,2022-07-06 12:05:33
+172,18,17,134,36.0,Mitchel McBroom,I8-A1,Clearance response emails and ramp rules/templates are now done and added to script.,,2022-05-20,1,closed,100,green,[],2022-04-13 10:55:00,2022-05-18 18:38:36
+173,18,77,135,153.0,Mitchel McBroom,I9-A1,Removing from list - Has not been referenced since being originally brought up.,,2022-05-13,0,closed,0,green,[],2022-04-14 05:51:25,2022-05-08 18:17:04
+174,18,77,136,153.0,Mitchel McBroom,I10-A1,"Issue is closed and moved to more general ""Response Config"" Task Item.",,2022-08-31,0,closed,80,green,[],2022-04-14 06:07:07,2022-08-25 07:30:31
+175,18,96,137,183.0,Mitchel McBroom,I5-A1,Ohio Phone Bill + PTC Phone Bill,,2022-04-30,1,closed,100,green,[],2022-04-16 14:24:43,2022-05-02 11:07:12
+176,18,96,138,183.0,Mitchel McBroom,I6-A1,Fill out two past weeks timesheets,,2022-04-19,1,closed,100,green,[],2022-04-18 08:35:29,2022-04-19 19:20:43
+177,18,96,139,183.0,Mitchel McBroom,I7-A1,PTO Request - Schedule Friday April 29th,,2022-04-20,1,closed,100,green,[],2022-04-18 08:38:18,2022-04-19 11:01:22
+178,18,96,140,183.0,Mitchel McBroom,I8-A1,Need to get new credit card before NY trip,,2022-04-28,1,closed,100,green,[],2022-04-18 17:40:45,2022-04-28 14:32:40
+179,18,17,141,36.0,Mitchel McBroom,I9-A1,Need to reply to Tim in ODOT Teams Chat,,2022-04-19,0,closed,100,green,[],2022-04-18 19:01:35,2022-04-19 13:07:55
+180,18,77,142,153.0,Mitchel McBroom,I11-A1,disregarding for now,,2022-06-30,0,closed,0,green,[],2022-04-18 19:08:50,2022-05-18 18:47:45
+181,18,77,143,153.0,Mitchel McBroom,I12-A1,Update API response to include Beginning and End mile markers - with optional End mile marker value because the event may be a point event. - Need to confirm with Alex if this is even possible.,,2022-05-02,0,closed,60,green,[],2022-04-18 19:11:44,2022-04-19 11:25:07
+182,18,17,144,36.0,Mitchel McBroom,I10-A1,"'--' is confirmed set in ""Travel Time Parameters""",,2022-06-30,0,closed,100,green,[],2022-04-19 07:01:06,2022-06-29 06:16:32
+183,56,82,145,170.0,William Howard,I1-A1,Issue all SCAs to subcontractors once a PO is received from the school board.,,2022-05-16,1,closed,75,green,[],2022-04-26 04:30:47,2022-05-18 07:46:37
+184,18,96,146,183.0,Mitchel McBroom,I9-A1,Sumbit timesheet,,2022-04-27,1,closed,100,green,[],2022-04-27 05:51:10,2022-05-03 19:40:07
+185,18,96,147,183.0,Mitchel McBroom,I10-A1,Add notes,,2022-04-27,1,closed,100,green,[],2022-04-27 11:18:09,2022-05-03 19:39:59
+186,30,99,148,189.0,mike connolly,I1-A1,Apply for Business license,,2022-06-01,0,open,0,green,[],2022-04-29 05:47:37,2022-04-29 05:47:37
+191,30,99,149,192.0,Jeff Marshall,I2-A1,Shipped June 10th,,2022-05-02,0,closed,100,green,[],2022-04-29 06:08:26,2022-06-10 07:52:07
+192,30,99,150,189.0,mike connolly,I3-A1,Detailed list of new opening marketing activities,,2022-05-11,0,open,0,green,[],2022-04-29 06:11:56,2022-04-29 06:11:56
+193,30,99,151,189.0,mike connolly,I4-A1,List stock items and inventory levels,,2022-06-01,0,open,0,green,[],2022-04-29 06:13:50,2022-04-29 06:13:50
+194,30,99,152,191.0,Crystal Kaufman,I5-A1,Organize fabrication type and supplies needed,,2022-05-11,0,open,0,green,[],2022-04-29 06:15:47,2022-04-29 06:15:47
+195,30,99,153,189.0,mike connolly,I6-A1,Place order,,2022-05-03,0,open,0,green,[],2022-05-03 04:50:27,2022-05-03 04:50:27
+196,30,99,152,191.0,Crystal Kaufman,I5-A2,List supplies needed for lab,,2022-05-31,0,open,0,green,[],2022-05-03 04:53:46,2022-05-03 04:53:46
+197,18,17,154,36.0,Mitchel McBroom,I11-A1,Diversion tables have been migrated from QA to Staging by adding missing roadways. -- Need to create script for the Prod db roadways.,,2022-08-31,1,open,25,green,[],2022-05-03 19:50:27,2022-07-27 11:12:39
+198,18,96,155,183.0,Mitchel McBroom,I11-A1,Completed with comments left in OneNote.,,2022-06-02,1,closed,100,green,"[""https:\/\/outlook.office365.com\/mail\/deeplink?ItemID=AQMkADhiZTMxZDIwLTM0NzEtNDcwMS05MjVjLTJjZmFmMDc0ODViMwBGAAAD9bAwqCbDfU2A3WnRAnjdwQcA6CWqal5ZBkS%2Fq6XISr1QHQAAAgEMAAAApjQngYR%2BvU%2BHihygeq5JLQACxjWLmgAAAA%3D%3D&exvsurl=1""]",2022-05-03 19:59:19,2022-06-03 05:06:14
+199,18,77,156,153.0,Mitchel McBroom,I13-A1,Email sent to Lawrence today following up on investigated items.,,2022-05-20,1,closed,100,green,[],2022-05-04 06:56:05,2022-05-19 18:57:21
+201,7,30,158,194.0,John Doe,I1-A1,Test,,2022-05-17,0,done,0,green,[],2022-05-04 11:14:20,2023-08-16 05:36:51
+202,18,17,159,36.0,Mitchel McBroom,I12-A1,"Message priorities unchanged, dmsMessageMergeRules updated in prod and staging according to ODOT",,2022-06-29,1,closed,100,green,[],2022-05-05 14:32:35,2022-06-29 06:13:37
+203,18,96,160,183.0,Mitchel McBroom,I12-A1,Fill out May 1-7 Timesheet,,2022-05-10,1,closed,100,green,[],2022-05-08 15:24:40,2022-05-17 12:29:17
+204,18,17,161,36.0,Mitchel McBroom,I13-A1,The municipalities map layer includes names that are the same as towns on the map. Ideally these would be distinguished. Refer to oneNote screenshot of Tim's post.,,2022-05-31,1,closed,100,green,[],2022-05-08 18:13:59,2022-05-18 18:36:07
+206,18,77,163,153.0,Mitchel McBroom,I14-A1,Issue has been closed -- Meeting regarding this item was cancelled by PTC last minute and not been rescheduled since then.,,2022-07-31,0,closed,40,green,"[""https:\/\/outlook.office365.com\/mail\/deeplink?ItemID=AQMkADhiZTMxZDIwLTM0NzEtNDcwMS05MjVjLTJjZmFmMDc0ODViMwBGAAAD9bAwqCbDfU2A3WnRAnjdwQcA6CWqal5ZBkS%2Fq6XISr1QHQAAAgEMAAAApjQngYR%2BvU%2BHihygeq5JLQACyGA18AAAAA%3D%3D&exvsurl=1"",""https:\/\/www.ite.org\/pub\/?id=21873631-03DC-A90B-A0E6-AD04D834AD10""]",2022-05-09 11:18:18,2022-07-27 11:22:09
+209,18,17,165,36.0,Mitchel McBroom,I14-A1,Test updates applied to staging and then apply to prod,,2022-05-13,1,closed,100,green,[],2022-05-11 15:09:47,2022-05-17 12:31:06
+210,72,101,166,199.0,Brian Capstick,I1-A1,Build Plan,,2022-05-16,0,closed,0,green,[],2022-05-12 08:07:29,2022-08-23 06:36:47
+211,18,95,167,182.0,Mitchel McBroom,I4-A1,BWB-MDOT PPT's submitted 06-06,,2022-06-06,1,closed,100,green,[],2022-05-17 12:30:25,2022-06-06 14:45:12
+212,18,98,168,188.0,Mitchel McBroom,I3-A1,Has been applied in prod - 2022-06-07,,2022-06-08,1,closed,100,green,[],2022-05-17 12:59:30,2022-06-08 06:54:50
+213,18,98,169,188.0,Mitchel McBroom,I4-A1,Applied in prod 2022-07-06,,2022-06-30,0,closed,100,green,[],2022-05-18 18:40:20,2022-07-06 12:05:49
+214,18,17,170,36.0,Mitchel McBroom,I15-A1,Labelling item as closed - No feedback from Mike after previous change.,,2022-08-31,0,closed,100,green,[],2022-05-18 18:41:24,2022-08-12 06:06:08
+215,18,17,171,36.0,Mitchel McBroom,I16-A1,Has been applied in Prod with the 08-18 ATMS restart.,,2022-08-31,1,closed,100,green,[],2022-05-18 18:43:04,2022-08-25 07:05:24
+216,2,1,172,72.0,Jerri Shaw,I5-A1,have all info just need to condense for support manual,Develop firewall info for support,2022-09-03,0,open,55,red,[],2022-05-23 05:35:33,2022-08-30 07:55:55
+217,2,1,172,71.0,Reggy Ralphson,I5-A2,wringing,Add Security Docs,2022-08-31,0,open,25,red,[],2022-05-23 05:36:10,2022-09-01 07:55:26
+218,2,1,172,72.0,Jerri Shaw,I5-A3,decision made moving out 2 mths,develop hardware wiring diagrams,2022-10-21,1,open,60,green,[],2022-05-23 05:37:03,2022-08-30 07:01:55
+219,18,96,173,183.0,Mitchel McBroom,I13-A1,Submit Timesheet,,2022-06-02,1,closed,100,green,[],2022-06-01 10:23:41,2022-06-02 13:12:21
+220,18,77,174,153.0,Mitchel McBroom,I15-A1,Response to John Fuller & Tara: Requirements sent and DevOps re-imported with negatives + updated steps.,,2022-07-06,1,closed,100,green,[],2022-06-01 10:29:25,2022-07-06 11:23:44
+222,18,17,175,36.0,Mitchel McBroom,I17-A1,From External ODOT Meeting on July 20: Adam says that ODOT now needs to decide how they want to proceed here; they are reviewing how they want to display event info on OHGO and will provide an update at some point as to their decision.,,2022-08-31,0,open,65,green,[],2022-06-01 10:47:42,2022-07-21 07:40:32
+223,6,105,176,202.0,Steve McBroom,I1-A1,Follow Up with Message to Richard contact who is possible project lead,,2023-05-17,0,open,55,green,[],2022-06-01 15:40:57,2023-04-18 01:54:28
+224,6,105,177,202.0,Steve McBroom,I2-A1,post new free trial,,2022-12-14,0,open,15,green,[],2022-06-01 16:11:04,2022-08-17 04:30:11
+225,6,105,177,202.0,Steve McBroom,I2-A2,moved to April 20,this is a description for the action,2023-04-20,0,open,55,yellow,[],2022-06-01 16:11:31,2023-04-18 01:53:39
+226,6,106,178,203.0,Steve McBroom,I1-A1,I've opened the file but still need to go thru it,,2022-06-24,0,open,10,green,"[""https:\/\/drive.google.com\/drive\/u\/1\/folders\/1k3CeD487mlQceZ-hxVc6Kv7_dCzP-G5i""]",2022-06-01 16:52:30,2022-06-14 07:48:20
+227,18,17,179,36.0,Mitchel McBroom,I18-A1,Alex sends email update: Monday June 20th @ 4 AM,,2022-08-31,0,open,0,green,"[""https:\/\/outlook.office365.com\/mail\/deeplink?ItemID=AQMkADhiZTMxZDIwLTM0NzEtNDcwMS05MjVjLTJjZmFmMDc0ODViMwBGAAAD9bAwqCbDfU2A3WnRAnjdwQcA6CWqal5ZBkS%2Fq6XISr1QHQAAAgEMAAAApjQngYR%2BvU%2BHihygeq5JLQAC5wXacQAAAA%3D%3D&exvsurl=1""]",2022-06-02 09:33:10,2022-07-21 07:43:01
+228,18,96,180,183.0,Mitchel McBroom,I14-A1,IBI Password Expiration,,2022-06-05,1,closed,100,green,[],2022-06-02 13:50:43,2022-06-12 19:37:50
+229,18,96,180,183.0,Mitchel McBroom,I14-A2,PTC Password Expiry,,2022-06-05,0,closed,100,green,[],2022-06-02 13:51:04,2022-06-06 14:45:27
+230,18,96,181,183.0,Mitchel McBroom,I15-A1,May Expenses - Include phone bill charged on date May 24 to PTC,,2022-06-30,0,closed,0,green,[],2022-06-03 05:43:20,2022-06-12 19:38:00
+231,18,96,181,183.0,Mitchel McBroom,I15-A2,Review Report and Submit.,,2022-06-30,0,closed,100,green,[],2022-06-03 05:44:21,2022-07-08 12:20:25
+234,6,105,177,202.0,Steve McBroom,I2-A3,Post Social today before 11am ET. See social doc on drive.,,2023-05-09,0,open,80,red,[],2022-06-07 04:26:02,2023-04-18 01:54:07
+235,18,77,184,153.0,Mitchel McBroom,I16-A1,Jackie questions answered.,,2022-06-29,0,closed,100,green,"[""https:\/\/outlook.office365.com\/mail\/deeplink?ItemID=AQMkADhiZTMxZDIwLTM0NzEtNDcwMS05MjVjLTJjZmFmMDc0ODViMwBGAAAD9bAwqCbDfU2A3WnRAnjdwQcA6CWqal5ZBkS%2Fq6XISr1QHQAAAgEMAAAApjQngYR%2BvU%2BHihygeq5JLQAC5w%2F3BwAAAA%3D%3D&exvsurl=1"",""https:\/\/outlook.office365.com\/mail\/deeplink?ItemID=AQMkADhiZTMxZDIwLTM0NzEtNDcwMS05MjVjLTJjZmFmMDc0ODViMwBGAAAD9bAwqCbDfU2A3WnRAnjdwQcA6CWqal5ZBkS%2Fq6XISr1QHQAAAgEMAAAApjQngYR%2BvU%2BHihygeq5JLQAC5w%2F3EwAAAA%3D%3D&exvsurl=1""]",2022-06-08 07:21:05,2022-07-04 04:42:09
+236,2,4,185,187.0,Steve McBroom,I9-A1,set meet with marketing agency,design flyer for grand opening,2022-08-31,0,open,25,yellow,"[""https:\/\/traxidy.com"",""https:\/\/linkedin.com""]",2022-06-10 07:37:50,2022-09-01 06:27:27
+237,2,4,185,187.0,Steve McBroom,I9-A2,ordered from warehouse,new window signage to be installed,2022-08-31,0,open,50,green,[],2022-06-10 07:39:56,2022-08-30 07:30:38
+238,2,4,186,206.0,Alley Beal,I10-A1,order looks like it will be delayed,paint exterior walls,2022-09-07,0,open,35,yellow,[],2022-06-10 07:42:24,2022-09-07 05:04:58
+240,18,95,188,182.0,Mitchel McBroom,I5-A1,Slides to be reviewed for submission on Monday June 13.,,2022-06-13,1,closed,100,green,[],2022-06-12 19:41:50,2022-06-15 05:15:09
+241,2,4,189,111.0,Traxidy Gmail Acct,I11-A1,the latest update is here in text. Moved to 45%. Added link to Google. Changes due date to Jul 18. Made decision 'yes',set up negotiation meetings,2022-09-14,1,open,45,green,"[""https:\/\/traxidy.com\/blog"",""https:\/\/traxidy.com""]",2022-06-14 09:44:14,2022-08-30 07:28:00
+242,2,4,189,187.0,Steve McBroom,I11-A2,sign,complete contract for signature,2022-08-03,0,open,40,green,[],2022-06-14 09:44:48,2022-08-30 07:26:35
+243,18,95,190,182.0,Mitchel McBroom,I6-A1,Past addressable date. Closing item.,,2022-07-29,0,closed,10,green,"[""https:\/\/ibigroup.sharepoint.com\/:f:\/r\/sites\/Projects1\/134839\/Internal%20Documents\/6.0_Technical\/04%20Implementation\/Training%20Plan\/MDOT%20Training%20Material\/Training%20Sessions\/BWB-MDOT?csf=1&web=1&e=snzr2G""]",2022-06-15 05:17:04,2022-07-27 07:21:48
+244,18,95,191,182.0,Mitchel McBroom,I7-A1,"Link added to spreadsheet folder. Items to be addressed for week of June 27th.
+
+10%
+Owner
+MM
+ Mitchel McBroom
+Status
+Open
+Due By
+2022-06-27
+Due in 11 Days
+Decision Made
+ No
+Updated On
+2022-06-15
+Questions/Actions/Follow-Ups have been tracked in spreadsheet and will need to be responded to and addressed.",,2022-07-29,0,closed,0,green,"[""https:\/\/ibigroup.sharepoint.com\/:f:\/r\/sites\/Projects1\/134839\/Internal%20Documents\/6.0_Technical\/04%20Implementation\/Training%20Plan\/MDOT%20Training%20Material\/Training%20Sessions\/IBA?csf=1&web=1&e=TKFYaA""]",2022-06-15 05:18:54,2022-07-27 07:22:01
+245,18,95,192,182.0,Mitchel McBroom,I8-A1,Questions/Actions/Follow-Ups have been tracked in spreadsheet and will need to be responded to and addressed.,,2022-07-29,0,closed,0,green,"[""https:\/\/ibigroup.sharepoint.com\/:f:\/r\/sites\/Projects1\/134839\/Internal%20Documents\/6.0_Technical\/04%20Implementation\/Training%20Plan\/MDOT%20Training%20Material\/Training%20Sessions\/FBCL?csf=1&web=1&e=Mry7te""]",2022-06-15 05:19:56,2022-07-27 07:22:05
+246,18,95,193,182.0,Mitchel McBroom,I9-A1,Need to get approval,,2022-06-16,1,closed,100,green,[],2022-06-15 17:17:28,2022-06-16 13:17:00
+247,6,78,194,162.0,Mimi McBroom,I1-A1,Update Product Sheet,,2022-06-30,0,open,0,green,[],2022-06-19 11:31:57,2022-06-19 11:31:57
+248,80,110,195,209.0,Jeff Marshall,I1-A1,underperforming sales results MTD,,2022-06-27,0,open,0,green,[],2022-06-20 06:42:18,2022-06-20 06:42:18
+249,80,111,196,210.0,Jeff Marshall,I1-A1,Visit Clinic,,2022-06-30,0,open,0,green,[],2022-06-20 06:47:19,2022-06-20 06:47:19
+250,80,111,196,211.0,Andrew Spiers,I1-A2,"Resheduled, owner not in clinic",,2022-07-29,0,open,0,green,[],2022-06-20 07:10:14,2022-07-14 06:39:28
+251,18,17,197,36.0,Mitchel McBroom,I19-A1,Password Updated: Milemarker11!,,2022-06-24,1,closed,100,green,"[""https:\/\/outlook.office365.com\/mail\/deeplink?ItemID=AQMkADhiZTMxZDIwLTM0NzEtNDcwMS05MjVjLTJjZmFmMDc0ODViMwBGAAAD9bAwqCbDfU2A3WnRAnjdwQcA6CWqal5ZBkS%2Fq6XISr1QHQAAAgEMAAAApjQngYR%2BvU%2BHihygeq5JLQAC5w%2F3BwAAAA%3D%3D&exvsurl=1""]",2022-06-20 14:39:15,2022-06-21 04:40:40
+252,18,17,198,36.0,Mitchel McBroom,I20-A1,"DevOps Repo updated (Pointsfile + Polygons).
+Prod has been updated with latest ""TWP"" set.",,2022-07-08,1,closed,100,green,[],2022-06-23 09:55:25,2022-07-12 10:37:41
+253,18,17,199,36.0,Mitchel McBroom,I21-A1,Service area reflocs have been added to the script for prod deployment (not yet pushed) - Next step is to begin configuring event response plans (API response).,,2022-08-26,0,open,20,green,[],2022-07-04 04:45:45,2022-08-12 06:19:16
+254,18,17,200,36.0,Mitchel McBroom,I22-A1,Update applied in prod on 07-06,,2022-07-31,0,closed,100,green,[],2022-07-04 04:47:58,2022-07-12 10:50:01
+255,18,17,201,36.0,Mitchel McBroom,I23-A1,Has been applied in Prod with the 08-18 ATMS restart.,,2022-08-31,1,closed,100,green,[],2022-07-04 04:48:47,2022-08-25 07:04:50
+256,18,98,202,188.0,Mitchel McBroom,I5-A1,Applied in prod 2022-07-06,,2022-07-01,0,closed,100,green,[],2022-07-04 04:57:17,2022-07-06 12:05:20
+257,18,77,203,153.0,Mitchel McBroom,I17-A1,Completed: Spreadsheet sent back to Nate,,2022-07-08,0,closed,100,green,"[""https:\/\/outlook.office365.com\/mail\/deeplink?ItemID=AQMkADhiZTMxZDIwLTM0NzEtNDcwMS05MjVjLTJjZmFmMDc0ODViMwBGAAAD9bAwqCbDfU2A3WnRAnjdwQcA6CWqal5ZBkS%2Fq6XISr1QHQAAAgEMAAAApjQngYR%2BvU%2BHihygeq5JLQAC7xGWzAAAAA%3D%3D&exvsurl=1""]",2022-07-04 05:13:12,2022-07-06 11:18:47
+258,18,17,204,36.0,Mitchel McBroom,I24-A1,"From ATIMS: ""It appears we may have fixed the issue. We are now seeing 200 response codes on our end.""",,2022-07-31,1,closed,100,green,"[""https:\/\/outlook.office365.com\/mail\/deeplink?ItemID=AQMkADhiZTMxZDIwLTM0NzEtNDcwMS05MjVjLTJjZmFmMDc0ODViMwBGAAAD9bAwqCbDfU2A3WnRAnjdwQcA6CWqal5ZBkS%2Fq6XISr1QHQAAAgEMAAAApjQngYR%2BvU%2BHihygeq5JLQAC6n3vVQAAAA%3D%3D&exvsurl=1""]",2022-07-04 05:15:22,2022-07-21 07:38:26
+259,18,77,205,153.0,Mitchel McBroom,I18-A1,James Barbosa brought up the Waze closure feature addition to their API feed. This is an addition to the existing feed and allows the ATMS to publish closure information. Decision is in PTC's court as to where/what circumstances we should be displaying this info in waze.,,2022-08-31,0,open,10,green,"[""https:\/\/developers.google.com\/waze\/data-feed\/road-closure-information#json-feed-file""]",2022-07-04 06:48:27,2022-07-04 06:48:43
+260,18,77,206,153.0,Mitchel McBroom,I19-A1,From meeting with Alex/John Fuller/John Parker - Result of discussion is that IBI will need to redo their TPS code to account for PTC's requested changes. The changes requested for the messaging requires slightly different logic and will therefore require the code to be re-written and deployed again.,,2022-08-26,1,open,90,green,[],2022-07-06 11:25:23,2022-08-25 07:32:18
+261,18,96,181,183.0,Mitchel McBroom,I15-A3,Get hotel receipt and add per diems to a new July expense report.,,2022-07-08,1,closed,0,green,[],2022-07-07 06:05:07,2022-07-08 12:20:16
+262,18,17,207,36.0,Mitchel McBroom,I25-A1,Update applied on 08-18 included points for SR-278 South. Note that in prod (tested on 08-25) events can be declared from beginning of 278 and up to the hocking line using the reference locations. Issue is closed.,,2022-08-31,1,closed,100,green,[],2022-07-07 06:09:32,2022-08-25 07:24:20
+263,80,107,208,204.0,Kimberly Coates,I1-A1,Send updated plan to franchisee and Contractor,,2022-07-15,0,open,0,green,[],2022-07-14 06:32:17,2022-07-14 06:32:17
+264,80,107,209,204.0,Kimberly Coates,I2-A1,"Pedestals, reception desk",,2022-07-25,0,open,0,green,[],2022-07-14 06:33:04,2022-07-14 06:33:04
+265,80,111,210,210.0,Jeff Marshall,I2-A1,"Contractor visited, awaiting quote",,2022-07-28,0,open,80,green,[],2022-07-14 06:40:34,2022-07-28 07:33:49
+266,80,107,211,204.0,Kimberly Coates,I3-A1,Finalize Lease and return to LL,,2022-07-18,1,open,80,green,[],2022-07-14 06:42:28,2022-07-14 06:42:28
+267,18,77,212,153.0,Mitchel McBroom,I20-A1,Issue is closed and instead moved to more general User Acceptance Testing task item.,,2022-08-26,0,closed,0,green,[],2022-07-21 07:48:20,2022-08-25 07:32:39
+268,18,77,213,153.0,Mitchel McBroom,I21-A1,"Note that response updates are being logged in ""PTC 6.18 | Configuration"" email thread. Also note as discussed in PTC check-in meeting that PTC is to provide updated response messaging for twitter response (crashes and other events).",,2022-08-31,0,open,0,green,[],2022-07-21 07:49:20,2022-08-25 07:40:38
+269,18,14,214,30.0,Mitchel McBroom,I8-A1,Need to verify with the response spreadsheet to determine if there are any other outstanding tunnel response items before closing tickets.,,2022-08-31,0,open,80,green,[],2022-07-21 07:52:04,2022-07-27 11:30:23
+270,18,14,215,30.0,Mitchel McBroom,I9-A1,PTC Requesting that Twitter response is turned on in Prod for the 6.18 release. PTC mentioned they would provide an updated spreadsheet of Twitter response messaging.,,2022-08-31,0,open,20,green,[],2022-07-21 07:53:18,2022-07-21 07:53:18
+271,18,77,216,153.0,Mitchel McBroom,I22-A1,From discussion with Todd RE: Check-In meeting -- I-276 East to end at Mile 356.6 and I-276 West to end at Mile 356.3.,,2022-08-31,0,open,60,green,[],2022-07-22 10:56:16,2022-08-25 07:43:13
+274,18,17,218,36.0,Mitchel McBroom,I26-A1,Has been applied in Prod with the 08-18 ATMS restart.,,2022-08-05,1,closed,100,green,[],2022-07-27 18:58:19,2022-08-25 07:05:11
+275,18,95,219,182.0,Mitchel McBroom,I10-A1,Book hotel: Hampton Inn - Aug 8 to Aug 12.,,2022-08-01,1,closed,100,green,[],2022-07-28 12:33:03,2022-08-03 07:30:28
+276,18,95,220,182.0,Mitchel McBroom,I11-A1,"Create (preferably 1 page) customer facing cheat sheet for mobile app - Use the software guide and training material to address FAQs (Login, tags, reload).",,2022-08-19,0,open,0,green,[],2022-08-12 06:05:06,2022-08-12 06:05:06
+277,18,17,221,36.0,Mitchel McBroom,I27-A1,INC and RAMP DMS rules have been updated to include ongoing planned events. No feedback yet from Dom.,,2022-09-09,1,open,100,green,[],2022-08-12 06:20:22,2022-08-25 07:04:14
+278,18,77,222,153.0,Mitchel McBroom,I23-A1,Issue with diversion routes (Plan Xs) being updated in the UI. Not addressed but was brought up in a monthly meeting; PTC is looking to update the description in the UI but can't update routes that were added through the database - Unclear what the change will be in 6.18.,,2022-08-31,0,open,0,green,[],2022-08-25 07:37:06,2022-08-25 07:37:06
+279,18,77,223,153.0,Mitchel McBroom,I24-A1,PTC looking for IBI to propose a solution.,,2022-09-30,0,open,0,green,[],2022-08-25 07:46:45,2022-08-25 07:46:45
+280,2,2,29,152.0,Terry Tester,ACT1,working with each area director still,Develop the list of peple to be trained,2022-09-28,0,open,0,yellow,[],2022-08-26 09:02:54,2022-10-12 06:03:11
+281,2,2,224,152.0,Terry Tester,ISS1,working with HR to obtain list,work with HR to get the list of employees,2022-10-13,0,open,15,green,[],2022-08-26 09:05:41,2022-10-12 06:04:25
+282,2,2,224,43.0,Jerri Shaw,ISS2,meeting set for next week,set meet with Director HR,2022-09-07,0,closed,90,green,[],2022-08-26 09:08:19,2022-10-12 06:02:08
+283,2,2,44,13.0,Steve Sammy,ACT2,will be going into permit office next week,Get permits in place,2022-10-07,0,closed,0,green,[],2022-08-26 09:40:25,2022-10-12 06:01:56
+284,2,2,44,13.0,Steve Sammy,ACT3,revisit the design,build and install cabinets,2022-10-04,0,closed,0,red,[],2022-08-26 10:13:51,2022-10-12 06:01:47
+285,2,2,225,13.0,Steve Sammy,ISS3,contractor is inspecting this week,fix the cabinet received with the counter-top cracked,2022-10-04,0,closed,50,green,[],2022-08-26 10:19:03,2022-10-12 06:01:36
+288,2,1,227,221.0,Cheryl Ghilly,ISS1,still working,Need to determine the vacay schedule for the support desk for the next 6 months,2022-09-30,0,open,30,green,[],2022-08-30 07:05:04,2022-09-01 13:12:00
+289,2,1,228,72.0,Jerri Shaw,ISS2,Started,review latest firewall security upgrades from manufacturer,2022-08-29,0,open,5,yellow,[],2022-08-30 07:17:04,2022-08-30 08:23:53
+290,2,4,229,158.0,Gene Moss,ISS1,,Need to develop the schedule for delivery so that the pieces come at the right time,2022-11-17,0,open,0,yellow,[],2022-08-30 07:45:09,2022-08-30 07:45:09
+291,2,4,230,187.0,Steve McBroom,ACT1,have meeting set for next week,Obtain the local building permits by end of September!,2022-09-28,0,open,30,green,[],2022-08-30 07:48:44,2022-09-07 05:05:25
+292,2,4,230,187.0,Steve McBroom,ACT2,done,Obtain garbage bin permit for time of demolition/construction for Sept 27,2022-09-07,0,closed,100,green,[],2022-08-30 07:50:24,2022-09-01 07:56:52
+293,2,1,231,221.0,Cheryl Ghilly,ACT1,,Develop full schedule for Cust Support area training,2022-10-12,0,open,0,green,[],2022-08-30 08:11:43,2022-08-30 08:11:43
+294,2,1,172,72.0,Jerri Shaw,ACT2,,find info and report,2022-09-09,0,open,0,green,[],2022-09-01 07:53:01,2022-09-01 07:53:01
+302,2,4,230,187.0,Steve McBroom,ACT4,have to do a meeting next week,Get the permit for the pool,2022-09-30,0,closed,10,green,[],2022-09-08 08:23:27,2022-09-08 08:27:19
+303,2,125,234,225.0,Steve McBroom,ACT1,here is the latest ...,Confirm resources for project,2022-10-28,0,closed,25,green,[],2022-10-12 07:08:01,2022-10-12 07:53:54
+304,2,125,235,225.0,Steve McBroom,ACT2,have put several options together and will present next week,Develop new screen,2022-11-17,0,open,30,green,[],2022-10-19 13:25:32,2022-11-15 11:40:56
+305,2,125,236,225.0,Steve McBroom,ISS1,still trying to get a meeting setup,setup a meeting with Dir. to discuss,2022-12-02,1,open,95,red,[],2022-10-19 13:27:38,2022-12-12 13:06:55
+306,2,2,237,161.0,Contributor Person,ACT4,,develop list of people offices and hardware by serial number,2022-11-03,0,open,0,green,[],2022-10-20 06:24:34,2022-10-20 06:24:34
+307,2,125,238,230.0,Jeff Marshawn,ACT3,short discussion with vendor yesterday but will meet again today,ensure purchases are made for installation,2022-11-16,0,open,30,yellow,[],2022-10-21 06:13:29,2022-11-16 05:13:13
+308,2,125,239,228.0,Sam Tigre,ISS2,starting to share potential dates with all groups,Review needed for training schedule. It's not allowing enough people to attend,2022-11-15,0,open,50,red,[],2022-10-21 06:14:44,2022-11-04 11:39:58
+309,2,126,240,260.0,Mary Kelly,ACT1,still working on it,Order install and test tech systems for store,2024-01-26,1,open,15,green,"[""https:\/\/businessdrive.ia\/financialinvoices\/POS""]",2022-10-26 05:45:08,2024-01-23 09:19:07
+313,2,126,243,259.0,Geray Shaw,ISS1,"The success of a project is achieving the measurable objectives for time scope and cost. More critical for the organization is the planned outcomes of the project and the expected measurable goals like reducing time, saving money, or increasing sales. The success of a project is achieving the measurable objectives for time scope and cost. More critical for the organization is the planned","Review, select and order the store security system",2024-01-23,0,open,65,yellow,[],2022-11-01 11:39:41,2024-01-23 07:55:28
+314,2,126,243,260.0,Mary Kelly,ISS2,we decided on the system to use and will continue to ensure this gets in,Install and test the store security system,2024-01-20,1,open,10,green,[],2022-11-01 11:41:10,2024-01-16 15:12:01
+315,2,127,244,241.0,Diane Bart,ACT1,Decided to use past info. Approved by CEO.,Complete section A,2023-10-13,1,closed,20,yellow,"[""https:\/\/googlese.com\/mainfileRFP""]",2022-11-08 12:52:19,2023-08-30 11:03:24
+316,2,127,244,242.0,Frank Devo,ACT2,need to source some technical cert info but will have it done soon,Complete section W,2023-07-06,0,done,65,red,[],2022-11-08 12:53:07,2023-08-30 11:03:08
+317,2,127,244,241.0,Diane Bart,ACT3,trying to understand what they are asking for so need nmore time,Complete addendum 34,2024-04-10,0,open,30,green,[],2022-11-08 12:53:39,2024-01-30 12:53:39
+318,2,127,245,242.0,Frank Devo,ISS1,We continue to work on this,Follow up with your supplier to finalize pricing and delivery timeline,2024-02-07,0,open,65,yellow,[],2022-11-08 12:57:22,2023-11-07 07:48:15
+319,2,127,246,239.0,Sam Sheppard,ACT4,made some progress but had to extend by 3 weeks to get the job done,Consolidate and input content from all areas,2024-03-20,0,open,55,yellow,"[""https:\/\/googldriv.com\/mainrfxsheet1""]",2022-11-08 13:05:05,2024-01-30 12:53:31
+327,2,125,251,225.0,Steve McBroom,ACT4,good,work needs to be done,2023-01-13,0,open,60,green,[],2022-11-24 05:36:50,2022-12-02 13:27:23
+328,2,125,251,225.0,Steve McBroom,ACT5,have to move date up one week,more work needs to be done with this,2022-12-09,0,open,10,yellow,[],2022-11-24 05:37:25,2022-12-02 13:27:02
+329,2,125,251,228.0,Sam Tigre,ACT6,this is hard work but moving ahead,something more here,2022-12-04,0,open,25,green,[],2022-11-24 05:37:55,2022-12-02 13:26:36
+330,2,125,251,232.0,Steve Drill,ACT7,starting to see progress,this is for test1,2023-01-04,0,open,20,red,[],2022-11-24 05:38:23,2022-12-02 13:26:01
+331,2,125,251,261.0,Nihal Shaikh,ACT8,nothing to report,test action for Nihal,2022-12-03,0,open,5,yellow,[],2022-11-25 03:57:08,2022-12-02 13:27:47
+335,2,132,253,284.0,Traxidy Nine,ACT1,decision to extend approved by VP,Develop budget and get approval,2023-09-20,1,done,30,green,[],2023-02-09 07:44:16,2023-10-24 08:28:32
+336,2,132,253,282.0,Jake Cherkovski,ACT2,need to set up a few more meetings to get confirmation,Obtain sponsorship from partners.,2024-02-07,1,open,35,green,[],2023-02-09 07:44:55,2024-01-29 08:46:06
+337,2,132,253,612.0,Steve McBroom,ACT3,need to verify acceptance,Secure one of the MIS3 execs for a speaking role at the event. Secure time on the stage too.,2024-01-30,0,done,35,yellow,[],2023-02-09 07:46:06,2024-01-29 09:51:22
+338,2,132,253,512.0,Jerri Shaw,ACT4,done and i'll call shipper,ensure we have all the pieces to our regular MIS3 booth set up together and ship to location.,2024-01-30,0,open,0,green,[],2023-02-09 07:47:29,2024-01-29 08:45:58
+339,2,132,254,612.0,Steve McBroom,ACT5,working it the printer now,Develop social ads and info to promote the event.,2024-03-06,0,open,55,yellow,[],2023-02-09 07:48:57,2024-01-16 07:46:19
+340,2,132,255,612.0,Steve McBroom,ISS1,trouble,get permission to spend rush fees,2024-02-01,0,open,25,green,[],2023-02-09 08:12:01,2024-01-16 09:46:52
+341,22,133,256,554.0,Traxidy Nine,ACT1,,Set schedule,2023-03-03,0,open,0,green,[],2023-02-13 09:40:05,2023-06-08 06:18:00
+342,22,133,256,553.0,Traxidy Eight,ACT2,,Confirm attendance,2023-06-14,0,open,0,green,[],2023-02-13 09:40:26,2023-06-13 13:16:30
+343,22,133,256,554.0,Traxidy Nine,ACT3,,Order food for work lunch in room,2023-06-01,0,open,0,green,[],2023-02-13 09:41:02,2023-06-08 06:17:42
+344,22,133,257,269.0,Steve Traxidy7 PM,ISS1,,schedule has too many conflicts and needs to be redone,2023-12-21,0,open,0,green,[],2023-02-13 09:42:13,2024-01-17 04:24:17
+345,7,134,258,272.0,Nihal Shaikh,ACT1,,Descriptoion,2023-03-09,0,open,0,green,[],2023-03-07 06:28:54,2023-03-07 06:28:54
+346,2,132,254,512.0,Jerri Shaw,ACT6,almost done,Arrange for rooms,2023-07-05,0,done,90,green,[],2023-03-15 12:01:13,2024-01-29 08:45:38
+347,7,135,259,289.0,Steve McBroom,ISS1,,Send out the Level of Effort sheet to MIS3 Team as required,2023-01-16,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+348,7,135,260,289.0,Steve McBroom,ISS2,,Provide MIS3 blank RFP Response for Sales into the shared drive,2023-02-17,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+349,7,135,261,290.0,Paul Amodeo,ISS3,,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',2023-02-19,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+350,7,135,262,290.0,Paul Amodeo,ISS4,,"Send out RFP questions to client, if any",2023-02-19,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+351,7,135,263,,,ISS5,,Ensure all LOE forms are returned to the shared drive and are complete,2023-02-20,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+352,7,135,264,,,ISS6,,Complete the PMO level of effort LOE sheet & return to the shared drive,2023-02-18,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+353,7,135,265,291.0,Kevin Matt,ISS7,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-22,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+354,7,135,266,292.0,Shawn Brook,ISS8,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-23,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+355,7,135,267,,,ISS9,,Ensure your Partner Response costing is complete and in the shared drive,2023-02-19,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+356,7,135,268,,,ISS10,,Set up a meeting to review final information if required,2023-02-20,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+357,7,135,269,,,ISS11,,Put together the final RFP response into the shared drive,2023-02-25,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+358,7,135,270,,,ISS12,,Close project/tasks and submit closure report,2023-03-01,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+359,7,135,271,,,ISS13,,"Record learnings, if any",2023-03-02,0,open,0,green,"""[]""",2023-03-28 05:44:05,2023-03-28 05:44:05
+360,2,135,272,289.0,Steve McBroom,ISS14,,Send out the Level of Effort sheet to MIS3 Team as required,2023-01-16,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+361,2,135,273,289.0,Steve McBroom,ISS15,,Provide MIS3 blank RFP Response for Sales into the shared drive,2023-02-17,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+362,2,135,274,290.0,Paul Amodeo,ISS16,,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+363,2,135,275,290.0,Paul Amodeo,ISS17,,"Send out RFP questions to client, if any",2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+364,2,135,276,,,ISS18,,Ensure all LOE forms are returned to the shared drive and are complete,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+365,2,135,277,,,ISS19,,Complete the PMO level of effort LOE sheet & return to the shared drive,2023-02-18,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+366,2,135,278,291.0,Kevin Matt,ISS20,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-22,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+367,2,135,279,292.0,Shawn Brook,ISS21,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-23,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+368,2,135,280,,,ISS22,,Ensure your Partner Response costing is complete and in the shared drive,2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+369,2,135,281,,,ISS23,,Set up a meeting to review final information if required,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+370,2,135,282,,,ISS24,,Put together the final RFP response into the shared drive,2023-02-25,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+371,2,135,283,,,ISS25,,Close project/tasks and submit closure report,2023-03-01,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+372,2,135,284,,,ISS26,,"Record learnings, if any",2023-03-02,0,open,0,green,"""[]""",2023-03-28 06:09:15,2023-03-28 06:09:15
+373,2,135,285,289.0,Steve McBroom,ISS27,,Send out the Level of Effort sheet to MIS3 Team as required,2023-01-16,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+374,2,135,286,289.0,Steve McBroom,ISS28,,Provide MIS3 blank RFP Response for Sales into the shared drive,2023-02-17,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+375,2,135,287,290.0,Paul Amodeo,ISS29,,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+376,2,135,288,290.0,Paul Amodeo,ISS30,,"Send out RFP questions to client, if any",2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+377,2,135,289,,,ISS31,,Ensure all LOE forms are returned to the shared drive and are complete,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+378,2,135,290,,,ISS32,,Complete the PMO level of effort LOE sheet & return to the shared drive,2023-02-18,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+379,2,135,291,291.0,Kevin Matt,ISS33,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-22,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+380,2,135,292,292.0,Shawn Brook,ISS34,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-23,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+381,2,135,293,,,ISS35,,Ensure your Partner Response costing is complete and in the shared drive,2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+382,2,135,294,,,ISS36,,Set up a meeting to review final information if required,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+383,2,135,295,,,ISS37,,Put together the final RFP response into the shared drive,2023-02-25,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+384,2,135,296,,,ISS38,,Close project/tasks and submit closure report,2023-03-01,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+385,2,135,297,,,ISS39,,"Record learnings, if any",2023-03-02,0,open,0,green,"""[]""",2023-03-28 06:13:53,2023-03-28 06:13:53
+386,2,135,298,289.0,Steve McBroom,ISS40,,Send out the Level of Effort sheet to MIS3 Team as required,2023-01-16,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+387,2,135,299,289.0,Steve McBroom,ISS41,,Provide MIS3 blank RFP Response for Sales into the shared drive,2023-02-17,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+388,2,135,300,290.0,Paul Amodeo,ISS42,,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+389,2,135,301,290.0,Paul Amodeo,ISS43,,"Send out RFP questions to client, if any",2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+390,2,135,302,,,ISS44,,Ensure all LOE forms are returned to the shared drive and are complete,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+391,2,135,303,,,ISS45,,Complete the PMO level of effort LOE sheet & return to the shared drive,2023-02-18,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+392,2,135,304,291.0,Kevin Matt,ISS46,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-22,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+393,2,135,305,292.0,Shawn Brook,ISS47,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-23,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+394,2,135,306,,,ISS48,,Ensure your Partner Response costing is complete and in the shared drive,2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+395,2,135,307,,,ISS49,,Set up a meeting to review final information if required,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+396,2,135,308,,,ISS50,,Put together the final RFP response into the shared drive,2023-02-25,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+397,2,135,309,,,ISS51,,Close project/tasks and submit closure report,2023-03-01,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+398,2,135,310,,,ISS52,,"Record learnings, if any",2023-03-02,0,open,0,green,"""[]""",2023-03-28 06:14:11,2023-03-28 06:14:11
+399,2,135,311,289.0,Steve McBroom,ISS53,,Send out the Level of Effort sheet to MIS3 Team as required,2023-01-16,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+400,2,135,312,289.0,Steve McBroom,ISS54,,Provide MIS3 blank RFP Response for Sales into the shared drive,2023-02-17,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+401,2,135,313,290.0,Paul Amodeo,ISS55,,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+402,2,135,314,290.0,Paul Amodeo,ISS56,,"Send out RFP questions to client, if any",2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+403,2,135,315,,,ISS57,,Ensure all LOE forms are returned to the shared drive and are complete,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+404,2,135,316,,,ISS58,,Complete the PMO level of effort LOE sheet & return to the shared drive,2023-02-18,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+405,2,135,317,291.0,Kevin Matt,ISS59,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-22,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+406,2,135,318,292.0,Shawn Brook,ISS60,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-23,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+407,2,135,319,,,ISS61,,Ensure your Partner Response costing is complete and in the shared drive,2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+408,2,135,320,,,ISS62,,Set up a meeting to review final information if required,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+409,2,135,321,,,ISS63,,Put together the final RFP response into the shared drive,2023-02-25,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+410,2,135,322,,,ISS64,,Close project/tasks and submit closure report,2023-03-01,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+411,2,135,323,,,ISS65,,"Record learnings, if any",2023-03-02,0,open,0,green,"""[]""",2023-03-28 06:18:13,2023-03-28 06:18:13
+412,2,137,324,293.0,Steve McBroom,ISS1,,Send out the Level of Effort sheet to MIS3 Team as required,2023-01-16,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+413,2,137,325,293.0,Steve McBroom,ISS2,,Provide MIS3 blank RFP Response for Sales into the shared drive,2023-02-17,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+414,2,137,326,294.0,Paul Amodeo,ISS3,,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+415,2,137,327,294.0,Paul Amodeo,ISS4,,"Send out RFP questions to client, if any",2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+416,2,137,328,,,ISS5,,Ensure all LOE forms are returned to the shared drive and are complete,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+417,2,137,329,,,ISS6,,Complete the PMO level of effort LOE sheet & return to the shared drive,2023-02-18,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+418,2,137,330,295.0,Kevin Matt,ISS7,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-22,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+419,2,137,331,296.0,Shawn Brook,ISS8,,Ensure your information is complete for the RFP response and in the shared drive,2023-02-23,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+420,2,137,332,,,ISS9,,Ensure your Partner Response costing is complete and in the shared drive,2023-02-19,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+421,2,137,333,,,ISS10,,Set up a meeting to review final information if required,2023-02-20,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+422,2,137,334,,,ISS11,,Put together the final RFP response into the shared drive,2023-02-25,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+423,2,137,335,,,ISS12,,Close project/tasks and submit closure report,2023-03-01,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+424,2,137,336,,,ISS13,,"Record learnings, if any",2023-03-02,0,open,0,green,"""[]""",2023-03-28 06:27:49,2023-03-28 06:27:49
+425,2,138,337,,,ISS1,,neet to send a card,2023-07-09,0,open,0,green,"""[]""",2023-03-28 08:34:07,2023-03-28 08:34:07
+426,2,138,338,297.0,Steve McBroom,ISS2,,take the paint home,2023-08-23,0,open,0,green,"""[]""",2023-03-28 08:34:07,2023-03-28 08:34:07
+427,2,138,339,,,ISS3,,make a full list of what needs to be working,2023-08-17,0,open,0,green,"""[]""",2023-03-28 08:34:07,2023-03-28 08:34:07
+428,2,138,340,,,ISS4,,this is the time to check on this,2023-07-03,0,open,0,green,"""[]""",2023-03-28 08:34:07,2023-03-28 08:34:07
+429,2,138,341,,,ISS5,,Info Gather Done,2023-06-16,0,open,0,green,"""[]""",2023-03-28 08:34:07,2023-03-28 08:34:07
+430,2,138,342,,,ISS6,,more to do,1970-01-01,0,open,0,green,"""[]""",2023-03-28 08:34:07,2023-03-28 08:34:07
+467,2,150,379,321.0,Pat Best,ACT1,,identify goals,2023-07-06,0,open,0,green,"""[]""",2023-04-10 07:33:22,2023-04-10 07:33:22
+468,2,150,380,322.0,Steve Dunbar,ACT2,,determine deliverables,2023-07-10,0,open,0,green,"""[]""",2023-04-10 07:33:22,2023-04-10 07:33:22
+469,2,150,381,323.0,Sheila Matt,ACT3,,conduct stakeholer interviews,2023-07-03,0,open,0,green,"""[]""",2023-04-10 07:33:22,2023-04-10 07:33:22
+470,2,150,382,322.0,Steve Dunbar,ACT4,,develop resource requirements,2023-06-16,0,open,0,green,"""[]""",2023-04-10 07:33:22,2023-04-10 07:33:22
+471,2,150,383,323.0,Sheila Matt,ACT5,,build schedule and plan,2023-02-20,0,open,0,green,"""[]""",2023-04-10 07:33:22,2023-04-10 07:33:22
+472,2,150,384,321.0,Pat Best,ACT6,,obtain resources,2023-02-22,0,open,0,green,"""[]""",2023-04-10 07:33:23,2023-04-10 07:33:23
+473,2,150,385,323.0,Sheila Matt,ACT7,,build as planned,1970-01-01,0,open,0,green,"""[]""",2023-04-10 07:33:23,2023-04-10 07:33:23
+474,2,150,386,324.0,Alfi Singh,ACT8,,test and review,2023-07-07,0,open,0,green,"""[]""",2023-04-10 07:33:23,2023-04-10 07:33:23
+475,2,150,387,321.0,Pat Best,ACT9,,manage team updates,2023-08-10,0,open,0,green,"""[]""",2023-04-10 07:33:23,2023-04-10 07:33:23
+476,2,150,388,321.0,Pat Best,ACT10,,manage risks,1970-01-01,0,open,0,green,"""[]""",2023-04-10 07:33:23,2023-04-10 07:33:23
+477,2,150,389,321.0,Pat Best,ACT11,,manage isssues,2023-08-12,0,open,0,green,"""[]""",2023-04-10 07:33:23,2023-04-10 07:33:23
+478,2,150,390,321.0,Pat Best,ACT12,,manage changes,1970-01-01,0,open,0,green,"""[]""",2023-04-10 07:33:23,2023-04-10 07:33:23
+479,2,150,391,323.0,Sheila Matt,ACT13,,finalize and obtain sign-off,1970-01-01,0,open,0,green,"""[]""",2023-04-10 07:33:23,2023-04-10 07:33:23
+510,2,156,422,338.0,Pat Best,ACT1,,identify goals,2023-07-06,0,open,0,green,"""[]""",2023-04-17 07:59:16,2023-04-17 07:59:16
+519,2,160,431,346.0,Pat Best,ACT1,,identify goals,2023-07-06,0,open,0,green,"""[]""",2023-04-17 08:13:46,2023-04-17 08:13:46
+520,2,160,432,347.0,Steve Dunbar,ACT2,,conduct stakeholer interviews,2023-07-03,0,open,0,green,"""[]""",2023-04-17 08:13:47,2023-04-17 08:13:47
+521,2,161,433,348.0,Pat Best,ACT1,,identify goals,2023-07-06,0,open,0,green,"""[]""",2023-04-17 08:19:48,2023-04-17 08:19:48
+522,2,161,434,349.0,Steve Dunbar,ACT2,,conduct stakeholer interviews,2023-07-03,0,open,0,green,"""[]""",2023-04-17 08:19:48,2023-04-17 08:19:48
+523,2,161,435,,,ACT3,,conduct stakeholer interviews,2023-07-03,0,open,0,green,"""[]""",2023-04-17 08:19:48,2023-04-17 08:19:48
+524,2,161,436,,,ACT4,,develop resource requirements,2023-06-16,0,open,0,green,"""[]""",2023-04-17 08:19:48,2023-04-17 08:19:48
+525,2,161,437,,,ACT5,,build schedule and plan,2023-02-27,0,open,0,green,"""[]""",2023-04-17 08:19:48,2023-04-17 08:19:48
+526,2,161,438,,,ACT6,,obtain resources,2023-02-22,0,open,0,green,"""[]""",2023-04-17 08:19:48,2023-04-17 08:19:48
+527,2,161,439,,,ACT7,,build as planned,2023-06-19,0,open,0,green,"""[]""",2023-04-17 08:19:48,2023-04-17 08:19:48
+528,2,161,440,,,ACT8,,test and review,2023-07-07,0,open,0,green,"""[]""",2023-04-17 08:19:48,2023-04-17 08:19:48
+529,2,162,441,350.0,Pat Best,ACT1,,identify goals,2023-07-06,0,open,0,green,"""[]""",2023-04-17 08:27:11,2023-04-17 08:27:11
+530,2,162,442,351.0,Steve Dunbar,ACT2,,conduct stakeholder interviews,2023-07-03,0,open,0,green,"""[]""",2023-04-17 08:27:11,2023-04-17 08:27:11
+531,2,162,443,,,ACT3,,conduct stakeholder interviews #2,2023-07-03,0,open,0,green,"""[]""",2023-04-17 08:27:11,2023-04-17 08:27:11
+532,2,162,444,,,ACT4,,develop resource requirements,2023-06-16,0,open,0,green,"""[]""",2023-04-17 08:27:11,2023-04-17 08:27:11
+533,2,162,445,,,ACT5,,build schedule and plan,2023-02-27,0,open,0,green,"""[]""",2023-04-17 08:27:11,2023-04-17 08:27:11
+534,2,162,446,,,ACT6,,obtain resources,2023-02-22,0,open,0,green,"""[]""",2023-04-17 08:27:11,2023-04-17 08:27:11
+535,2,162,447,,,ACT7,,build as planned,2023-06-19,0,open,0,green,"""[]""",2023-04-17 08:27:11,2023-04-17 08:27:11
+536,2,162,448,,,ACT8,,test and review,2023-07-07,0,open,0,green,"""[]""",2023-04-17 08:27:11,2023-04-17 08:27:11
+552,2,166,464,361.0,Pat Best,ACT1,,identify goals,2023-07-06,0,open,0,green,"""[]""",2023-04-17 09:14:11,2023-04-17 09:14:11
+553,2,166,465,362.0,Steve Dunbar,ACT2,,conduct stakeholder interviews,2023-07-03,0,open,0,green,"""[]""",2023-04-17 09:14:11,2023-04-17 09:14:11
+554,2,166,466,363.0,Sheila Rebert,ACT3,,develop resource requirements,2023-06-16,0,open,0,green,"""[]""",2023-04-17 09:14:11,2023-04-17 09:14:11
+555,2,166,467,361.0,Pat Best,ACT4,,build schedule and plan,2023-02-27,0,open,0,green,"""[]""",2023-04-17 09:14:11,2023-04-17 09:14:11
+556,2,166,468,,,ACT5,,obtain resources,2023-02-22,0,open,0,green,"""[]""",2023-04-17 09:14:11,2023-04-17 09:14:11
+557,2,166,469,,,ACT6,,build as planned,2023-06-19,0,open,0,green,"""[]""",2023-04-17 09:14:11,2023-04-17 09:14:11
+558,2,166,470,,,ACT7,,test and review,2023-07-07,0,open,0,green,"""[]""",2023-04-17 09:14:11,2023-04-17 09:14:11
+559,2,167,471,364.0,Pat Best,ACT1,,identify goals,2023-07-06,0,open,0,green,"""[]""",2023-04-17 09:27:18,2023-04-17 09:27:18
+560,2,167,472,365.0,Steve Dunbar,ACT2,,conduct stakeholder interviews,2023-07-03,0,open,0,green,"""[]""",2023-04-17 09:27:18,2023-04-17 09:27:18
+561,2,167,473,366.0,Sheila Rebert,ACT3,,develop resource requirements,2023-06-16,0,open,0,green,"""[]""",2023-04-17 09:27:18,2023-04-17 09:27:18
+562,2,167,474,364.0,Pat Best,ACT4,,build schedule and plan,2023-02-27,0,open,0,green,"""[]""",2023-04-17 09:27:18,2023-04-17 09:27:18
+563,2,167,475,,,ACT5,,obtain resources,2023-02-22,0,open,0,green,"""[]""",2023-04-17 09:27:18,2023-04-17 09:27:18
+564,2,167,476,,,ACT6,,build as planned,2023-06-19,0,open,0,green,"""[]""",2023-04-17 09:27:18,2023-04-17 09:27:18
+565,2,167,477,,,ACT7,,test and review,2023-07-07,0,open,0,green,"""[]""",2023-04-17 09:27:18,2023-04-17 09:27:18
+566,2,167,478,,,ACT8,,manage risks,2023-08-12,0,open,0,green,"""[]""",2023-04-17 09:27:19,2023-04-17 09:27:19
+567,2,167,479,,,ACT9,,manage isssues,2023-08-12,0,open,0,green,"""[]""",2023-04-17 09:27:19,2023-04-17 09:27:19
+568,2,167,480,,,ACT10,,manage changes,2023-08-27,0,open,0,green,"""[]""",2023-04-17 09:27:19,2023-04-17 09:27:19
+581,2,170,493,373.0,Pat Best,ACT1,,identify goals,2023-07-06,0,open,0,green,"""[]""",2023-04-17 09:54:14,2023-04-17 09:54:14
+582,2,170,494,374.0,Steve Dunbar,ACT2,,conduct stakeholder interviews,2023-07-03,0,open,0,green,"""[]""",2023-04-17 09:54:14,2023-04-17 09:54:14
+583,2,170,495,375.0,Sheila Rebert,ACT3,,develop resource requirements,2023-06-16,0,open,0,green,"""[]""",2023-04-17 09:54:14,2023-04-17 09:54:14
+584,2,170,496,373.0,Pat Best,ACT4,,build schedule and plan,2023-02-27,0,open,0,green,"""[]""",2023-04-17 09:54:15,2023-04-17 09:54:15
+585,2,170,497,,,ACT5,,obtain resources,2023-02-22,0,open,0,green,"""[]""",2023-04-17 09:54:15,2023-04-17 09:54:15
+586,2,170,498,,,ACT6,,build as planned,2023-06-19,0,open,0,green,"""[]""",2023-04-17 09:54:15,2023-04-17 09:54:15
+587,2,170,499,373.0,Pat Best,ACT7,,test and review,2023-07-07,0,open,0,green,"""[]""",2023-04-17 09:54:15,2023-04-17 09:54:15
+588,2,170,500,,,ACT8,,manage risks,2023-08-12,0,open,0,green,"""[]""",2023-04-17 09:54:15,2023-04-17 09:54:15
+589,2,170,501,,,ACT9,,manage isssues,2023-08-12,0,open,0,green,"""[]""",2023-04-17 09:54:15,2023-04-17 09:54:15
+590,2,170,502,,,ACT10,,manage changes,2023-08-27,0,open,0,green,"""[]""",2023-04-17 09:54:15,2023-04-17 09:54:15
+591,2,170,503,373.0,Pat Best,ACT11,,identify goals,2023-07-06,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+592,2,170,504,374.0,Steve Dunbar,ACT12,,conduct stakeholder interviews,2023-06-22,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+593,2,170,505,,,ACT13,,conduct stakeholder interviews,2023-06-22,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+594,2,170,506,375.0,Sheila Rebert,ACT14,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+595,2,170,507,373.0,Pat Best,ACT15,,build schedule and plan,2023-03-15,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+596,2,170,508,,,ACT16,,obtain resources,2023-02-22,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+597,2,170,509,,,ACT17,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+598,2,170,510,373.0,Pat Best,ACT18,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+599,2,170,511,,,ACT19,,manage risks,2023-08-12,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+600,2,170,512,,,ACT20,,manage isssues,2023-08-12,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+601,2,170,513,,,ACT21,,manage changes,2023-08-27,0,open,0,green,[],2023-04-20 11:34:55,2023-04-20 11:34:55
+602,2,171,514,376.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-20 11:43:42,2023-04-20 11:43:42
+603,2,172,515,377.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-20 11:50:41,2023-04-20 11:50:41
+604,2,172,516,,,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-20 11:50:41,2023-04-20 11:50:41
+605,2,172,517,378.0,Steve Dunbar,ACT3,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-04-20 11:50:41,2023-04-20 11:50:41
+606,2,172,518,378.0,Steve Dunbar,ACT4,,build schedule and plan,2023-02-27,0,open,0,green,[],2023-04-20 11:50:41,2023-04-20 11:50:41
+607,2,172,519,379.0,Sheila Rebert,ACT5,,obtain resources,2023-02-22,0,open,0,green,[],2023-04-20 11:50:41,2023-04-20 11:50:41
+608,2,172,520,379.0,Sheila Rebert,ACT6,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 11:50:41,2023-04-20 11:50:41
+609,2,172,521,379.0,Sheila Rebert,ACT7,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 11:50:41,2023-04-20 11:50:41
+610,2,173,522,381.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-20 12:18:59,2023-04-20 12:18:59
+611,2,173,523,382.0,extra name-here,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-20 12:18:59,2023-04-20 12:18:59
+612,2,173,524,383.0,Steve Dunbar,ACT3,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-04-20 12:19:00,2023-04-20 12:19:00
+613,2,173,525,383.0,Steve Dunbar,ACT4,,build schedule and plan,2023-02-27,0,open,0,green,[],2023-04-20 12:19:00,2023-04-20 12:19:00
+614,2,173,526,384.0,Sheila Rebert,ACT5,,obtain resources then go to the store to buy a loaf of bread for the team lunch to eat,2023-05-26,0,open,0,green,[],2023-04-20 12:19:00,2023-04-20 12:19:34
+615,2,173,527,384.0,Sheila Rebert,ACT6,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 12:19:00,2023-04-20 12:19:00
+616,2,173,528,384.0,Sheila Rebert,ACT7,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 12:19:00,2023-04-20 12:19:00
+617,2,174,529,386.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+618,2,174,530,387.0,extra name-here,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+619,2,174,531,388.0,Steve Dunbar,ACT3,,build schedule and plan,2023-02-27,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+620,2,174,532,389.0,Sheila Rebert,ACT4,,obtain resources then go to the store to buy a loaf of bread for the team lunch to eat and tehn we can continue to see how the project is advancing ahead for eh organization,2023-02-22,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+621,2,174,533,389.0,Sheila Rebert,ACT5,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+622,2,174,534,389.0,Sheila Rebert,ACT6,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+623,2,174,535,,,ACT7,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+624,2,174,536,,,ACT8,,obtain resources then go to the store to buy a loaf of bread for the team lunch to eat and tehn we can continue to see how the project is advancing ahead for eh organization,2023-02-22,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+625,2,174,537,,,ACT9,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+626,2,174,538,,,ACT10,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 12:24:52,2023-04-20 12:24:52
+630,2,176,542,395.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-20 13:03:06,2023-04-20 13:03:06
+631,2,176,543,396.0,extra name-here,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-20 13:03:06,2023-04-20 13:03:06
+632,2,176,544,397.0,Steve Dunbar,ACT3,,build schedule and plan,2023-02-27,0,open,0,green,[],2023-04-20 13:03:07,2023-04-20 13:03:07
+633,2,176,545,398.0,Another Person,ACT4,,obtain resources then go to the store ...shorted,2023-03-01,0,open,0,green,[],2023-04-20 13:03:07,2023-04-20 13:03:07
+634,2,176,546,399.0,Sheila Rebert,ACT5,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 13:03:07,2023-04-20 13:03:07
+635,2,176,547,399.0,Sheila Rebert,ACT6,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 13:03:07,2023-04-20 13:03:07
+636,2,176,548,,,ACT7,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-04-20 13:03:07,2023-04-20 13:03:07
+637,2,176,549,,,ACT8,,obtain resources then go to the store to buy a loaf of bread for the team lunch to eat and tehn we can continue to see how the project is advancing ahead for eh organization,2023-02-22,0,open,0,green,[],2023-04-20 13:03:07,2023-04-20 13:03:07
+638,2,176,550,,,ACT9,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 13:03:07,2023-04-20 13:03:07
+639,2,176,551,,,ACT10,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 13:03:07,2023-04-20 13:03:07
+640,2,177,552,401.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-20 13:05:28,2023-04-20 13:05:28
+641,2,177,553,402.0,extra name-here,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-20 13:05:28,2023-04-20 13:05:28
+642,2,177,554,403.0,Steve Dunbar,ACT3,,build schedule and plan,2023-02-27,0,open,0,green,[],2023-04-20 13:05:28,2023-04-20 13:05:28
+643,2,177,555,404.0,Another Person,ACT4,,obtain resources then go to the store ...shorted,2023-03-01,0,open,0,green,[],2023-04-20 13:05:28,2023-04-20 13:05:28
+644,2,177,556,405.0,Sheila Rebert,ACT5,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 13:05:28,2023-04-20 13:05:28
+645,2,177,557,405.0,Sheila Rebert,ACT6,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 13:05:28,2023-04-20 13:05:28
+646,2,177,558,,,ACT7,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-04-20 13:05:28,2023-04-20 13:05:28
+653,2,179,565,413.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-20 13:50:28,2023-04-20 13:50:28
+654,2,179,566,414.0,extra name-here,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-20 13:50:28,2023-04-20 13:50:28
+655,2,179,567,415.0,Steve Dunbar,ACT3,,build schedule and plan,2023-02-27,0,open,0,green,[],2023-04-20 13:50:28,2023-04-20 13:50:28
+656,2,179,568,416.0,Another Person,ACT4,,obtain resources then go to the store ...shorted,2023-03-01,0,open,0,green,[],2023-04-20 13:50:28,2023-04-20 13:50:28
+657,2,179,569,417.0,Sheila Rebert,ACT5,,build as planned,2023-06-19,0,open,0,green,[],2023-04-20 13:50:28,2023-04-20 13:50:28
+658,2,179,570,417.0,Sheila Rebert,ACT6,,test and review,2023-07-07,0,open,0,green,[],2023-04-20 13:50:28,2023-04-20 13:50:28
+659,2,179,571,419.0,Bad NoEmailPerson,ACT7,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-04-20 13:50:28,2023-04-20 13:50:29
+669,2,182,581,448.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:03:52,2023-04-25 08:03:52
+670,2,182,582,449.0,Extra Namer,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-25 08:03:52,2023-04-25 08:03:52
+671,2,182,583,,,ACT3,,build schedule and plan,2023-07-27,0,open,0,green,[],2023-04-25 08:03:52,2023-04-25 08:03:52
+678,2,185,590,459.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:16:18,2023-04-25 08:16:18
+679,2,185,591,460.0,Extra Namer,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-25 08:16:18,2023-04-25 08:16:18
+680,2,186,592,464.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:21:29,2023-04-25 08:21:29
+681,2,186,593,465.0,Extra Namer,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-25 08:21:29,2023-04-25 08:21:29
+682,2,186,594,465.0,Extra Namer,ACT3,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:21:29,2023-04-25 08:21:29
+683,2,186,595,466.0,Jay Dunbar,ACT4,,Hold several meetings vvvvvvvvvv,2023-06-15,0,open,0,green,[],2023-04-25 08:21:29,2023-04-25 08:21:29
+684,2,186,596,468.0,Sheila Rebert,ACT5,,identify goals,2023-08-07,0,open,0,green,[],2023-04-25 08:21:29,2023-04-25 08:21:29
+685,2,186,597,465.0,Extra Namer,ACT6,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-25 08:21:29,2023-04-25 08:21:29
+686,2,187,598,469.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:28:22,2023-04-25 08:28:22
+687,2,187,599,535.0,Traxidy Seven,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-25 08:28:22,2023-05-25 09:07:23
+688,2,187,600,470.0,Extra Namer,ACT3,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:28:22,2023-04-25 08:28:22
+689,2,187,601,537.0,Traxidy Tester8ya,ACT4,,Hold several meetings to discus strategy,2023-05-27,0,open,0,green,[],2023-04-25 08:28:22,2023-05-25 09:06:56
+690,2,187,602,473.0,Sheila Rebert,ACT5,,identify goals,2023-08-07,0,open,0,green,[],2023-04-25 08:28:22,2023-04-25 08:28:22
+691,2,187,603,470.0,Extra Namer,ACT6,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-25 08:28:22,2023-04-25 08:28:22
+692,2,187,604,535.0,Traxidy Seven,ACT7,,this,2023-03-22,0,open,0,green,[],2023-04-25 08:28:22,2023-05-25 08:45:51
+693,2,187,605,537.0,Traxidy Tester8ya,ACT8,,that,2023-03-27,0,open,10,red,[],2023-04-25 08:28:22,2023-05-25 08:47:41
+694,2,187,606,535.0,Traxidy Seven,ACT9,,the other thing,2023-04-15,0,open,0,green,[],2023-04-25 08:28:22,2023-05-25 09:06:08
+695,2,187,607,539.0,Test 9Nine,ACT10,,go ahead and do it,2023-04-25,0,open,0,green,[],2023-04-25 08:28:22,2023-05-25 09:05:51
+696,2,187,608,538.0,Traxidy Tester13,ACT11,,the esting,2023-05-08,0,open,45,red,[],2023-04-25 08:28:22,2023-05-25 08:48:19
+697,2,187,609,537.0,Traxidy Tester8ya,ACT12,,the work to do it,2023-05-16,0,open,55,yellow,[],2023-04-25 08:28:22,2023-05-25 08:48:00
+698,2,187,610,536.0,Traxidy TEST1,ACT13,,more work to be done,2023-05-27,0,open,0,green,[],2023-04-25 08:28:22,2023-05-25 08:46:39
+699,2,188,611,474.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:34:18,2023-04-25 08:34:18
+700,2,188,612,475.0,Extra Namer,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-25 08:34:18,2023-04-25 08:34:18
+701,2,188,613,532.0,Traxidy Tester9,ACT3,,identify goals,2023-05-08,0,open,0,green,[],2023-04-25 08:34:18,2023-05-25 09:03:36
+702,2,188,614,476.0,Jay Dunbar,ACT4,,Hold several meetings vvvvvvvvvv,2023-06-15,0,open,0,green,[],2023-04-25 08:34:18,2023-04-25 08:34:18
+703,2,188,615,533.0,Traxidy Eight,ACT5,,identify goals,2023-05-25,0,open,15,red,[],2023-04-25 08:34:18,2023-05-25 08:41:34
+704,2,188,616,531.0,Traxidy Tester7,ACT6,,Hold several meetings,2023-05-18,0,open,15,yellow,[],2023-04-25 08:34:18,2023-05-25 09:03:17
+705,2,188,617,528.0,Steve McBroom,ACT7,,this,2023-05-24,0,open,0,green,[],2023-04-25 08:34:18,2023-05-24 09:54:23
+706,2,188,618,481.0,Fredd jazz,ACT8,,that,2023-03-27,0,open,0,green,[],2023-04-25 08:34:18,2023-04-25 08:34:18
+707,2,188,619,482.0,Gait rock,ACT9,,the other thing,2023-04-15,0,open,0,green,[],2023-04-25 08:34:18,2023-04-25 08:34:18
+708,2,188,620,478.0,Sheila Rebert,ACT10,,go ahead and do it,2023-04-25,0,open,0,red,[],2023-04-25 08:34:18,2023-05-25 09:13:41
+709,2,188,621,533.0,Traxidy Eight,ACT11,,the esting,2023-05-08,0,open,30,green,[],2023-04-25 08:34:18,2023-05-25 09:02:59
+710,2,188,622,533.0,Traxidy Eight,ACT12,decision was to move this by Director person,the work to do it,2023-05-27,1,open,5,green,[],2023-04-25 08:34:18,2023-05-25 09:14:19
+711,2,188,623,528.0,Steve McBroom,ACT13,,more work to be done,2023-06-01,0,open,15,green,[],2023-04-25 08:34:18,2023-05-24 09:53:26
+712,2,189,624,483.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+713,2,189,625,484.0,Extra Namer,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+714,2,189,626,484.0,Extra Namer,ACT3,,identify goals,2023-07-27,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+715,2,189,627,485.0,Jay Dunbar,ACT4,,Hold several meetings vvvvvvvvvv,2023-06-15,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+716,2,189,628,487.0,Sheila Rebert,ACT5,,identify goals,2023-08-07,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+717,2,189,629,484.0,Extra Namer,ACT6,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+718,2,189,630,489.0,Deb Anote,ACT7,,this,2023-03-22,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+719,2,189,631,490.0,Fredd jazz,ACT8,,that,2023-03-27,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+720,2,189,632,491.0,Gait rock,ACT9,,the other thing,2023-04-15,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+721,2,189,633,487.0,Sheila Rebert,ACT10,,go ahead and do it,2023-04-25,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+722,2,189,634,488.0,This One,ACT11,,the esting,2023-05-08,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+723,2,189,635,489.0,Deb Anote,ACT12,,the work to do it,2023-05-16,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+724,2,189,636,490.0,Fredd jazz,ACT13,,more work to be done,2023-06-01,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+725,2,189,637,487.0,Sheila Rebert,ACT14,,identify goals,2023-08-07,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+726,2,189,638,484.0,Extra Namer,ACT15,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+727,2,189,639,489.0,Deb Anote,ACT16,,this,2023-04-06,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+728,2,189,640,490.0,Fredd jazz,ACT17,,that,2023-04-11,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+729,2,189,641,491.0,Gait rock,ACT18,,the other thing,2023-04-16,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+730,2,189,642,491.0,Gait rock,ACT19,,go ahead and do it,2023-04-21,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+731,2,189,643,487.0,Sheila Rebert,ACT20,,the esting,2023-04-26,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+732,2,189,644,487.0,Sheila Rebert,ACT21,,the work to do it,2023-05-01,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+733,2,189,645,484.0,Extra Namer,ACT22,,more work to be done,2023-05-06,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+734,2,189,646,489.0,Deb Anote,ACT23,,identify goals,2023-05-11,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+735,2,189,647,490.0,Fredd jazz,ACT24,,Hold several meetings,2023-05-16,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+736,2,189,648,491.0,Gait rock,ACT25,,this,2023-05-21,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+737,2,189,649,491.0,Gait rock,ACT26,,that,2023-05-26,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+738,2,189,650,483.0,Pat Best,ACT27,,the other thing,2023-05-31,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+739,2,189,651,484.0,Extra Namer,ACT28,,go ahead and do it,2023-06-05,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+740,2,189,652,484.0,Extra Namer,ACT29,,the esting,2023-05-08,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+741,2,189,653,485.0,Jay Dunbar,ACT30,,the work to do it,2023-05-16,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+742,2,189,654,486.0,Another Person,ACT31,,more work to be done,2023-06-01,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+743,2,189,655,486.0,Another Person,ACT32,,identify goals,2023-08-07,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+744,2,189,656,486.0,Another Person,ACT33,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+745,2,189,657,484.0,Extra Namer,ACT34,,go ahead and do it,2023-05-21,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+746,2,189,658,485.0,Jay Dunbar,ACT35,,get it,2023-05-26,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+747,2,189,659,484.0,Extra Namer,ACT36,,do this,2023-05-31,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+748,2,189,660,485.0,Jay Dunbar,ACT37,,do that,2023-06-05,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+749,2,189,661,486.0,Another Person,ACT38,,help,2023-05-08,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+750,2,189,662,483.0,Pat Best,ACT39,,this,2023-05-16,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+751,2,189,663,483.0,Pat Best,ACT40,,goes,2023-06-01,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+752,2,189,664,485.0,Jay Dunbar,ACT41,,id people,2023-08-07,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+753,2,189,665,484.0,Extra Namer,ACT42,,go to it,2023-09-01,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+754,2,189,666,486.0,Another Person,ACT43,,this,2023-06-05,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+755,2,189,667,486.0,Another Person,ACT44,,that,2023-06-10,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+756,2,189,668,486.0,Another Person,ACT45,,the other thing,2023-06-15,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+757,2,189,669,483.0,Pat Best,ACT46,,go ahead and do it,2023-06-20,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+758,2,189,670,485.0,Jay Dunbar,ACT47,,the esting,2023-06-25,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+759,2,189,671,484.0,Extra Namer,ACT48,,the work to do it,2023-06-30,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+760,2,189,672,485.0,Jay Dunbar,ACT49,,more work to be done,2023-07-05,0,open,0,green,[],2023-04-25 08:46:56,2023-04-25 08:46:56
+761,2,189,673,483.0,Pat Best,ACT50,,identify goals,2023-07-27,0,open,0,green,[],2023-04-27 12:50:11,2023-04-27 12:50:11
+762,2,189,674,484.0,Extra Namer,ACT51,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-27 12:50:11,2023-04-27 12:50:11
+763,2,189,675,484.0,Extra Namer,ACT52,,identify goals,2023-07-27,0,open,0,green,[],2023-04-27 12:50:11,2023-04-27 12:50:11
+764,2,189,676,485.0,Jay Dunbar,ACT53,,Hold several meetings vvvvvvvvvv,2023-06-15,0,open,0,green,[],2023-04-27 12:50:11,2023-04-27 12:50:12
+765,2,189,677,487.0,Sheila Rebert,ACT54,,identify goals,2023-08-07,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+766,2,189,678,484.0,Extra Namer,ACT55,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+767,2,189,679,489.0,Deb Anote,ACT56,,this,2023-03-22,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+768,2,189,680,490.0,Fredd jazz,ACT57,,that,2023-03-27,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+769,2,189,681,491.0,Gait rock,ACT58,,the other thing,2023-04-15,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+770,2,189,682,487.0,Sheila Rebert,ACT59,,go ahead and do it,2023-04-25,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+771,2,189,683,488.0,This One,ACT60,,the esting,2023-05-08,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+772,2,189,684,489.0,Deb Anote,ACT61,,the work to do it,2023-05-16,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+773,2,189,685,490.0,Fredd jazz,ACT62,,more work to be done,2023-06-01,0,open,0,green,[],2023-04-27 12:50:12,2023-04-27 12:50:12
+774,2,189,686,487.0,Sheila Rebert,ACT63,,identify goals,2023-08-07,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+775,2,189,687,484.0,Extra Namer,ACT64,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+776,2,189,688,489.0,Deb Anote,ACT65,,this,2023-04-06,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+777,2,189,689,490.0,Fredd jazz,ACT66,,that,2023-04-11,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+778,2,189,690,491.0,Gait rock,ACT67,,the other thing,2023-04-16,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+779,2,189,691,491.0,Gait rock,ACT68,,go ahead and do it,2023-04-21,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+780,2,189,692,487.0,Sheila Rebert,ACT69,,the esting,2023-04-26,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+781,2,189,693,487.0,Sheila Rebert,ACT70,,the work to do it,2023-05-01,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+782,2,189,694,484.0,Extra Namer,ACT71,,more work to be done,2023-05-06,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+783,2,189,695,489.0,Deb Anote,ACT72,,identify goals,2023-05-11,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+784,2,189,696,490.0,Fredd jazz,ACT73,,Hold several meetings,2023-05-16,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+785,2,189,697,491.0,Gait rock,ACT74,,this,2023-05-21,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+786,2,189,698,491.0,Gait rock,ACT75,,that,2023-05-26,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+787,2,189,699,483.0,Pat Best,ACT76,,the other thing,2023-05-31,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+788,2,189,700,484.0,Extra Namer,ACT77,,go ahead and do it,2023-06-05,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+789,2,189,701,484.0,Extra Namer,ACT78,,the esting,2023-05-08,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+790,2,189,702,485.0,Jay Dunbar,ACT79,,the work to do it,2023-05-16,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+791,2,189,703,486.0,Another Person,ACT80,,more work to be done,2023-06-01,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+792,2,189,704,486.0,Another Person,ACT81,,identify goals,2023-08-07,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+793,2,189,705,486.0,Another Person,ACT82,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+794,2,189,706,484.0,Extra Namer,ACT83,,go ahead and do it,2023-05-21,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+795,2,189,707,485.0,Jay Dunbar,ACT84,,get it,2023-05-26,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+796,2,189,708,484.0,Extra Namer,ACT85,,do this,2023-05-31,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+797,2,189,709,485.0,Jay Dunbar,ACT86,,do that,2023-06-05,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+798,2,189,710,486.0,Another Person,ACT87,,help,2023-05-08,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+799,2,189,711,483.0,Pat Best,ACT88,,this,2023-05-16,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+800,2,189,712,483.0,Pat Best,ACT89,,goes,2023-06-01,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+801,2,189,713,485.0,Jay Dunbar,ACT90,,id people,2023-08-07,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+802,2,189,714,484.0,Extra Namer,ACT91,,go to it,2023-09-01,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+803,2,189,715,486.0,Another Person,ACT92,,this,2023-06-05,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+804,2,189,716,486.0,Another Person,ACT93,,that,2023-06-10,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+805,2,189,717,486.0,Another Person,ACT94,,the other thing,2023-06-15,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:13
+806,2,189,718,483.0,Pat Best,ACT95,,go ahead and do it,2023-06-20,0,open,0,green,[],2023-04-27 12:50:13,2023-04-27 12:50:14
+807,2,189,719,485.0,Jay Dunbar,ACT96,,the esting,2023-06-25,0,open,0,green,[],2023-04-27 12:50:14,2023-04-27 12:50:14
+808,2,189,720,484.0,Extra Namer,ACT97,,the work to do it,2023-06-30,0,open,0,green,[],2023-04-27 12:50:14,2023-04-27 12:50:14
+809,2,189,721,485.0,Jay Dunbar,ACT98,,more work to be done,2023-07-05,0,open,0,green,[],2023-04-27 12:50:14,2023-04-27 12:50:14
+810,2,186,722,464.0,Pat Best,ACT7,,identify goals,2023-07-27,0,open,0,green,[],2023-04-28 06:28:37,2023-04-28 06:28:37
+811,2,186,723,465.0,Extra Namer,ACT8,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-28 06:28:37,2023-04-28 06:28:37
+812,2,186,724,465.0,Extra Namer,ACT9,,identify goals,2023-07-27,0,open,0,green,[],2023-04-28 06:28:37,2023-04-28 06:28:37
+813,2,186,725,466.0,Jay Dunbar,ACT10,,Hold several meetings vvvvvvvvvv,2023-06-15,0,open,0,green,[],2023-04-28 06:28:37,2023-04-28 06:28:37
+814,2,186,726,468.0,Sheila Rebert,ACT11,,identify goals,2023-08-07,0,open,0,green,[],2023-04-28 06:28:37,2023-04-28 06:28:37
+815,2,186,727,465.0,Extra Namer,ACT12,,Hold several meetings,2023-09-01,0,open,0,green,[],2023-04-28 06:28:37,2023-04-28 06:28:37
+816,2,190,728,509.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-04-28 06:34:10,2023-04-28 06:34:10
+817,2,190,729,510.0,Jay Dunbar,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-04-28 06:34:10,2023-04-28 06:34:10
+819,2,188,611,477.0,Another Person,ACT15,,review documents,2023-06-05,0,open,0,red,[],2023-05-18 04:45:42,2023-05-25 09:12:20
+820,2,188,730,532.0,Traxidy Tester9,ISS1,,Action 223 needs to be done,2023-05-23,0,open,25,yellow,[],2023-05-18 04:46:21,2023-05-25 09:02:35
+821,2,188,730,477.0,Another Person,ISS2,,Review and document current security measures,2023-05-30,0,open,20,green,[],2023-05-18 04:46:36,2023-05-25 09:13:35
+826,2,188,730,474.0,Pat Best,ISS7,,Begin review immediately and show the main constraints,2023-05-22,0,open,0,green,[],2023-05-18 04:48:14,2023-05-25 09:12:57
+827,55,91,130,529.0,Tester Three,ACT1,,do item 456,2023-05-19,0,open,0,green,[],2023-05-25 08:34:15,2023-05-25 08:34:15
+828,55,91,130,555.0,Tester Seven,ACT2,,do item 765,2023-05-31,0,open,0,green,[],2023-05-25 08:34:32,2023-06-08 06:20:20
+829,2,126,240,235.0,Shelly Dart,ACT4,new results still to come,Counter top refinishing,2024-02-08,0,done,30,yellow,[],2023-05-25 09:08:37,2024-01-23 07:56:50
+830,2,191,731,540.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-05-25 13:07:38,2023-05-25 13:07:38
+831,2,191,732,541.0,Jay Dunbar,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-05-25 13:07:38,2023-05-25 13:07:38
+832,2,192,733,543.0,Pat Best,ACT1,,identify goals,2023-05-26,0,open,0,green,[],2023-05-25 13:29:28,2023-05-25 13:29:28
+833,2,192,734,544.0,Jay Dunbar,ACT2,,Hold several meetings,2023-05-27,0,open,0,green,[],2023-05-25 13:29:28,2023-05-25 13:29:28
+834,2,192,735,546.0,Jan Newton,ACT3,,review key deliverables and timing,2023-06-04,0,open,0,green,[],2023-05-25 13:29:28,2023-05-25 13:29:28
+835,2,192,736,546.0,Jan Newton,ACT4,,develop plan,2023-06-10,0,open,0,green,[],2023-05-25 13:29:28,2023-05-25 13:29:28
+836,2,192,737,543.0,Pat Best,ACT5,,build charts,2023-06-17,0,open,0,green,[],2023-05-25 13:29:28,2023-05-25 13:29:28
+837,2,192,738,547.0,Evon Dhamko,ACT6,,build main dashboard,2023-06-15,0,open,0,green,[],2023-05-25 13:29:28,2023-05-25 13:29:28
+838,2,193,739,548.0,Pat Best,ACT1,,identify goals,2024-05-09,0,open,80,green,[],2023-05-25 13:52:42,2023-08-22 06:42:39
+839,2,193,740,549.0,Jay Dunbar,ACT2,,Hold several meetings,2024-04-29,0,open,0,green,[],2023-05-25 13:52:42,2023-08-22 06:42:50
+840,2,193,741,551.0,Jan Newton,ACT3,,review key deliverables and timing,2023-06-04,0,open,0,green,[],2023-05-25 13:52:42,2023-05-25 13:52:42
+841,2,193,742,551.0,Jan Newton,ACT4,,develop plan,2023-06-10,0,open,0,green,[],2023-05-25 13:52:43,2023-05-25 13:52:43
+842,2,193,743,548.0,Pat Best,ACT5,,build charts,2023-07-04,0,open,0,green,[],2023-05-25 13:52:43,2023-07-04 06:55:04
+843,2,193,744,552.0,Evon Dhamko,ACT6,,build main dashboard,2023-06-15,0,open,0,green,[],2023-05-25 13:52:43,2023-05-25 13:52:43
+844,2,132,745,612.0,Steve McBroom,ISS2,its ok im working on it,need to get more money,2024-01-30,0,open,85,green,[],2023-06-06 11:47:24,2024-01-29 09:50:04
+845,41,194,746,557.0,Traxidy Eight,ACT1,,do some planning as Tester Eight needs to,2023-06-09,0,open,0,yellow,[],2023-06-08 06:25:48,2023-06-08 06:25:48
+846,41,194,746,556.0,Traxidy Seven,ACT2,,this work is for tester seven who needs to be able to do this because it is important to do and test. You are already behind the due date!!,2023-06-06,0,open,0,green,[],2023-06-08 06:26:49,2023-06-08 06:26:49
+847,41,193,747,548.0,Pat Best,ACT7,,identify goals,2023-05-26,0,open,0,green,[],2023-06-12 12:14:37,2023-06-12 12:14:37
+848,41,193,748,549.0,Jay Dunbar,ACT8,,Hold several meetings,2023-07-07,0,open,0,green,[],2023-06-12 12:14:37,2023-07-04 06:55:13
+849,41,193,749,551.0,Jan Newton,ACT9,,review key deliverables and timing,2024-06-21,0,open,80,yellow,[],2023-06-12 12:14:37,2023-08-22 06:43:03
+850,41,193,750,551.0,Jan Newton,ACT10,,develop plan,2023-07-07,0,open,0,green,[],2023-06-12 12:14:37,2023-07-04 06:55:20
+851,41,193,751,548.0,Pat Best,ACT11,,build charts,2024-06-19,0,open,70,yellow,[],2023-06-12 12:14:37,2023-08-22 06:42:18
+852,41,193,752,,,ACT12,,build main dashboard,2024-05-21,0,open,90,yellow,[],2023-06-12 12:14:37,2023-08-22 06:41:34
+853,41,193,753,548.0,Pat Best,ACT13,,identify goals,2023-11-16,0,closed,20,red,[],2023-06-12 12:15:01,2023-08-22 06:41:04
+854,41,193,754,549.0,Jay Dunbar,ACT14,,Hold several meetings,2023-11-30,0,open,0,green,[],2023-06-12 12:15:01,2023-08-22 06:40:41
+855,41,193,755,593.0,Steve McBroom,ACT15,,review key deliverables and timing,2023-06-04,0,closed,0,green,[],2023-06-12 12:15:01,2023-07-19 11:49:02
+856,41,193,756,551.0,Jan Newton,ACT16,,develop plan,2024-09-11,0,open,15,green,[],2023-06-12 12:15:01,2023-08-22 06:39:47
+857,41,193,757,548.0,Pat Best,ACT17,,build charts,2023-11-23,0,open,0,green,[],2023-06-12 12:15:01,2023-07-04 06:54:27
+858,41,193,758,593.0,Steve McBroom,ACT18,,build main dashboard,2024-06-20,0,open,20,yellow,[],2023-06-12 12:15:01,2023-08-22 06:40:26
+859,41,193,759,548.0,Pat Best,ACT19,,identify goals,2023-05-26,0,done,0,green,[],2023-06-12 12:15:45,2023-08-09 05:13:08
+860,41,193,760,549.0,Jay Dunbar,ACT20,,Hold several meetings,2023-07-05,0,closed,0,green,[],2023-06-12 12:15:45,2023-07-19 11:44:44
+861,41,193,761,551.0,Jan Newton,ACT21,,review key deliverables and timing,2023-12-21,0,open,75,red,[],2023-06-12 12:15:45,2023-08-22 06:41:54
+862,41,193,762,551.0,Jan Newton,ACT22,,develop plan,2023-07-13,0,done,100,green,[],2023-06-12 12:15:45,2023-08-22 06:40:05
+863,41,193,763,593.0,Steve McBroom,ACT23,,build charts,2023-07-06,0,closed,0,green,[],2023-06-12 12:15:45,2023-07-19 11:43:28
+864,41,193,764,593.0,Steve McBroom,ACT24,fffffffff,build main dashboard,2023-09-20,0,open,20,red,[],2023-06-12 12:15:45,2023-08-24 06:11:21
+865,2,192,765,543.0,Pat Best,ACT7,,identify goals,2023-05-26,0,open,0,green,[],2023-06-12 12:21:10,2023-06-12 12:21:10
+866,2,192,766,544.0,Jay Dunbar,ACT8,,Hold several meetings,2023-05-27,0,open,0,green,[],2023-06-12 12:21:10,2023-06-12 12:21:10
+867,2,192,767,546.0,Jan Newton,ACT9,,review key deliverables and timing,2023-06-04,0,open,0,green,[],2023-06-12 12:21:10,2023-06-12 12:21:10
+868,2,192,768,546.0,Jan Newton,ACT10,,develop plan,2023-06-10,0,open,0,green,[],2023-06-12 12:21:10,2023-06-12 12:21:10
+869,2,192,769,543.0,Pat Best,ACT11,,build charts,2023-06-17,0,open,0,green,[],2023-06-12 12:21:10,2023-06-12 12:21:10
+870,2,192,770,547.0,Evon Dhamko,ACT12,,build main dashboard,2023-06-15,0,open,0,green,[],2023-06-12 12:21:10,2023-06-12 12:21:10
+871,41,195,771,558.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-06-12 12:23:15,2023-06-12 12:23:15
+872,41,195,772,559.0,Jay Dunbar,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-06-12 12:23:15,2023-06-12 12:23:15
+873,41,196,773,561.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+874,41,196,774,562.0,Jay Dunbar,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+875,41,196,775,,,ACT3,,conduct stakeholer interviews,2023-07-03,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+876,41,196,776,,,ACT4,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+877,41,196,777,,,ACT5,,build schedule and plan,2023-06-16,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+878,41,196,778,561.0,Pat Best,ACT6,,obtain resources,2023-06-05,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+879,41,196,779,562.0,Jay Dunbar,ACT7,,build as planned,2023-06-22,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+880,41,196,780,563.0,Sheila Rebert,ACT8,,test and review,2023-07-07,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+881,41,196,781,,,ACT9,,manage team updates,2023-08-10,0,open,0,green,[],2023-06-12 12:32:19,2023-06-12 12:32:19
+882,41,196,782,561.0,Pat Best,ACT10,,identify goals,2023-07-27,0,open,0,green,[],2023-06-12 12:36:27,2023-06-12 12:36:27
+883,41,196,783,562.0,Jay Dunbar,ACT11,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-06-12 12:36:27,2023-06-12 12:36:27
+884,41,196,784,,,ACT12,,conduct stakeholer interviews,2023-07-03,0,open,0,green,[],2023-06-12 12:36:27,2023-06-12 12:36:27
+885,41,196,785,,,ACT13,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-06-12 12:36:27,2023-06-12 12:36:27
+886,41,196,786,,,ACT14,,build schedule and plan,2023-06-16,0,open,0,green,[],2023-06-12 12:36:27,2023-06-12 12:36:27
+887,41,196,787,561.0,Pat Best,ACT15,,obtain resources,2023-06-05,0,open,0,green,[],2023-06-12 12:36:27,2023-06-12 12:36:27
+888,41,196,788,562.0,Jay Dunbar,ACT16,,build as planned,2023-06-22,0,open,0,green,[],2023-06-12 12:36:28,2023-06-12 12:36:28
+889,41,196,789,563.0,Sheila Rebert,ACT17,,test and review,2023-07-07,0,open,0,green,[],2023-06-12 12:36:28,2023-06-12 12:36:28
+890,41,196,790,,,ACT18,,manage team updates,2023-08-10,0,open,0,green,[],2023-06-12 12:36:28,2023-06-12 12:36:28
+891,41,194,791,570.0,Traxidy Nine,ACT3,,identify goals,2023-06-12,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 13:53:10
+892,41,194,792,565.0,Jay Dunbar,ACT4,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 12:39:57
+893,41,194,793,557.0,Traxidy Eight,ACT5,,conduct stakeholer interviews,2023-06-14,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 13:50:35
+894,41,194,794,557.0,Traxidy Eight,ACT6,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 13:50:05
+895,41,194,795,556.0,Traxidy Seven,ACT7,,build schedule and plan,2023-06-16,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 13:50:13
+896,41,194,796,556.0,Traxidy Seven,ACT8,,obtain resources,2023-06-05,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 13:49:49
+897,41,194,797,565.0,Jay Dunbar,ACT9,,build as planned,2023-06-22,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 12:39:57
+898,41,194,798,566.0,Sheila Rebert,ACT10,,test and review,2023-07-07,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 12:39:57
+899,41,194,799,,,ACT11,,manage team updates,2023-08-10,0,open,0,green,[],2023-06-12 12:39:57,2023-06-12 12:39:57
+900,41,197,800,567.0,Pat Best,ACT1,,identify goals,2023-07-27,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+901,41,197,801,568.0,Jay Dunbar,ACT2,,Hold several meetings,2023-07-15,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+902,41,197,802,,,ACT3,,conduct stakeholer interviews,2023-07-03,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+903,41,197,803,,,ACT4,,develop resource requirements,2023-06-16,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+904,41,197,804,,,ACT5,,build schedule and plan,2023-06-16,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+905,41,197,805,567.0,Pat Best,ACT6,,obtain resources,2023-06-05,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+906,41,197,806,568.0,Jay Dunbar,ACT7,,build as planned,2023-06-22,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+907,41,197,807,569.0,Sheila Rebert,ACT8,,test and review,2023-07-07,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+908,41,197,808,,,ACT9,,manage team updates,2023-08-10,0,open,0,green,[],2023-06-12 13:10:13,2023-06-12 13:10:13
+909,2,198,809,573.0,Silvia Spallacci,ACT1,,ED Refresh financial approval,2023-04-17,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+910,2,198,810,574.0,Ken Robertson,ACT2,,Vendor provide two quotes,2023-06-02,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+911,2,198,811,573.0,Silvia Spallacci,ACT3,,Clinical submit purchase requisition,2023-06-09,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+912,2,198,812,573.0,Silvia Spallacci,ACT4,,Clinical submit purchase requisition,2023-06-09,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+913,2,198,813,574.0,Ken Robertson,ACT5,,Vendor receives order,2023-06-13,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+914,2,198,814,576.0,Carling Provost,ACT6,,ED- complete SED configuration document,2023-06-29,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+915,2,198,815,573.0,Silvia Spallacci,ACT7,,UCC-Floor plan,2023-06-29,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+916,2,198,816,574.0,Ken Robertson,ACT8,,vendor to provide tracking,2023-08-08,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+917,2,198,817,580.0,Wade Sabean,ACT9,,"Building services - move existing equipment, install wall mounts for speakers & kiosk",2023-08-08,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+918,2,198,818,581.0,Jeff Lauer,ACT10,,Cable Assembly - complete electrical,2023-08-08,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+919,2,198,819,583.0,Jeff Dionne,ACT11,,server ,2023-08-08,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+920,2,198,820,584.0,Kyle Anderson,ACT12,,network,2023-08-08,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+921,2,198,821,585.0,Shawn Fletcher,ACT13,,firewalls,2023-08-08,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+922,2,198,822,585.0,Shawn Fletcher,ACT14,,Active Directory ,2023-08-08,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:28
+923,2,198,823,579.0,Dave  Perry,ACT15,,Support - Desktop,2023-08-08,0,open,0,green,[],2023-06-16 11:06:28,2023-06-16 11:06:29
+924,2,198,824,583.0,Jeff Dionne,ACT16,,Support - Service Desk,2023-08-08,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+925,2,198,825,575.0,Kim Descrochers,ACT17,,Vendor provide training (Server admin),2023-08-08,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+926,2,198,826,575.0,Kim Descrochers,ACT18,,Vendor provide training (Operations panel (manager)) Incl SA/DS support team member,2023-08-08,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+927,2,198,827,575.0,Kim Descrochers,ACT19,,Vendor provide training (clerks)  Incl SA/DS support team member,2023-08-08,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+928,2,198,828,571.0,Alison Copoc,ACT20,,Go live (transition to DS ops + QMATIC Ops),2023-09-04,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+929,2,198,829,586.0,David  Walther,ACT21,,DS teams to integrate API for Dovetale,2023-09-04,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+930,2,198,830,586.0,David  Walther,ACT22,,DS teams to produce reports ,2023-09-04,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+931,2,198,831,571.0,Alison Copoc,ACT23,,Lessons learned,2023-09-04,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+932,2,198,832,571.0,Alison Copoc,ACT24,,Finalize billing,2023-09-04,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+933,2,198,833,571.0,Alison Copoc,ACT25,,Release Resources,2023-09-04,0,open,0,green,[],2023-06-16 11:06:29,2023-06-16 11:06:29
+934,55,199,834,587.0,Dal Opert,ACT1,,Set meetings and document findings,2023-06-03,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+935,55,199,835,588.0,Traxidy Seven,ACT2,Gggggggg,review resources for technical expertise and availability,2023-09-29,0,open,20,yellow,[],2023-06-26 12:41:40,2023-09-06 07:13:21
+936,55,199,836,589.0,Rose Yallon,ACT3,,set meetings to elaborate on resources and work,2023-06-18,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+937,55,199,837,590.0,Traxidy Nine,ACT4,,review plan and get approval,2023-06-30,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+938,55,199,838,590.0,Traxidy Nine,ACT5,,construct required infrastructure ,2023-08-22,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+939,55,199,839,591.0,Steve McBroom,ACT6,,add additional machines and program to start,2023-09-27,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+940,55,199,840,587.0,Dal Opert,ACT7,,perform testing one and review fix issues bugs,2023-10-28,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+941,55,199,841,592.0,Traxidy Eight,ACT8,,perform testing two and review fix issues,2023-11-27,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+942,55,199,842,590.0,Traxidy Nine,ACT9,,write the infrastructure design details in a document,2023-12-02,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+943,55,199,843,588.0,Traxidy Seven,ACT10,,develop the support material required for support,2023-11-30,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+944,55,199,844,591.0,Steve McBroom,ACT11,,establish dates for review with sponsor,2023-12-05,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+945,55,199,845,588.0,Traxidy Seven,ACT12,,conduct lessons learned,2023-12-10,0,open,0,green,[],2023-06-26 12:41:40,2023-06-26 12:41:40
+946,2,126,243,234.0,Stan Rayment,ISS3,,re-install software for hub,2024-03-12,0,open,25,green,[],2023-07-04 09:33:14,2024-01-23 07:56:02
+947,2,200,846,,,ACT1,,Create Required IAM Users ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+948,2,200,847,,,ACT2,,Discuss the Roles for Each users ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+949,2,200,848,,,ACT3,,Set Up AWS IAM Users and Groups ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+950,2,200,849,,,ACT4,,Gather Requirements and Constraints for Network Design ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+951,2,200,850,,,ACT5,,Identify Network Components and Topology,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+952,2,200,851,,,ACT6,,Determining Appropriate Region for our infrastructure ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+953,2,200,852,,,ACT7,,Create a HL Diagram,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+954,2,200,853,,,ACT8,,Create AWS VPC with Appropriate CIDR Blocks,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+955,2,200,854,,,ACT9,,"Configure Route Tables, Subnets, and Internet Gateway",1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+956,2,200,855,,,ACT10,,Implement Network Access Control Lists (NACLs),1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+957,2,200,856,,,ACT11,,Define Subnet Requirements for Different Components,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+958,2,200,857,,,ACT12,, Designing and Configuring Subnet Range for Resources  ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+959,2,200,858,,,ACT13,,Create Public and Private Subnets in Appropriate Availability Zones ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+960,2,200,859,,,ACT14,,Associate Subnets with Appropriate Route Tables,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+961,2,200,860,,,ACT15,,"Design Security Groups for Different Layers (Front-end, Back-end, Database)",1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+962,2,200,861,,,ACT16,,Implement Inbound and Outbound Rules for Security Groups,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+963,2,200,862,,,ACT17,,Review Security Group Rules for Functionality,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+964,2,200,863,,,ACT18,,Security Group Setup Complete,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+965,2,200,864,,,ACT19,,Create and Attach Internet Gateway to VPC,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+966,2,200,865,,,ACT20,,Configure Network Address Translation (NAT) Gateway for Private Subnets,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+967,2,200,866,,,ACT21,,Set Up EC2 Instance as Bastion Host,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+968,2,200,867,,,ACT22,,Configure Security Groups and Access Control for Bastion Host,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+969,2,200,868,,,ACT23,,Bastion Host Setup Complete,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+970,2,200,869,,,ACT24,,RDS Instance Creation and Configuration,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+971,2,200,870,,,ACT25,,Create AWS RDS MySQL Instance in Private Subnet,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+972,2,200,871,,,ACT26,,"Configure Storage, Backup, and Maintenance Settings",1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+973,2,200,872,,,ACT27,,Enable Encryption at Rest with AWS KMS,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+974,2,200,873,,,ACT28,,Access Control for RDS Instance,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+975,2,200,874,,,ACT29,,Configure Security Groups for Database Access,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+976,2,200,875,,,ACT30,,Test Database Connectivity from Backend Subnet Only (Troubleshooting Included),1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+977,2,200,876,,,ACT31,,8. Database Security Implementation ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+978,2,200,877,,,ACT32,,API Gateway Configuration,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+979,2,200,878,,,ACT33,, Create API Gateway and Define API Endpoints,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+980,2,200,879,,,ACT34,,Implement Authentication and Authorization for API Requests,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+981,2,200,880,,,ACT35,,Set Up Rate Limiting and Throttling for API Usage ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+982,2,200,881,,,ACT36,,Create AWS Cognito User Pool for IAM Services,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+983,2,200,882,,,ACT37,,"Configure User Attributes, Password Policies, and MFA",1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+984,2,200,883,,,ACT38,," Test User Registration, Login, and Password Management (Troubleshooting Included)",1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+985,2,200,884,,,ACT39,,Set Up AWS Cognito Identity Pool for Token Management ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+986,2,200,885,,,ACT40,,Define Roles and Permissions for Authenticated Users,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+987,2,200,886,,,ACT41,, Test Token Verification for API Requests (Troubleshooting Included),1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+988,2,200,887,,,ACT42,,Create AWS WAF WebACLs,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+989,2,200,888,,,ACT43,,Define Rules for OWASP Core Rule Sets,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+990,2,200,889,,,ACT44,,Set Up Custom Rules for Specific Application Security,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+991,2,200,890,,,ACT45,,Associate WAF with API Gateway and Front-end Resources,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+992,2,200,891,,,ACT46,,Link AWS WAF to API Gateway Endpoints,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+993,2,200,892,,,ACT47,,Integrate WAF with Front-end Web Application,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+994,2,200,893,,,ACT48,,Testing of Applications with different vulnerabilities ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+995,2,200,894,,,ACT49,,WAF Configuration Complete,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+996,2,200,895,,,ACT50,,Create S3 Buckets for File Storage,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+997,2,200,896,,,ACT51,,Design Bucket Structure and Naming Conventions,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+998,2,200,897,,,ACT52,,Set Up Bucket Policies for Access Control,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+999,2,200,898,,,ACT53,, Implement Retention Policies for S3 Objects,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1000,2,200,899,,,ACT54,, Configure Lifecycle Rules for Object Deletion or Archiving ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1001,2,200,900,,,ACT55,,Test Object Retention and Access Control,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1002,2,200,901,,,ACT56,,Evaluate Data Synchronization Requirements,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1003,2,200,902,,,ACT57,,Identify Data Sources and Targets for Synchronization,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1004,2,200,903,,,ACT58,, Determine Synchronization Frequency and Scope,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1005,2,200,904,,,ACT59,,Choose Data Synchronization Solution ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1006,2,200,905,,,ACT60,,Evaluate Hevodata CDC and T-SQL Triggers as Alternatives,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1007,2,200,906,,,ACT61,,Select Best-Fit Solution Based on Requirements,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1008,2,200,907,,,ACT62,,Implement Data Synchronization Process,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1009,2,200,908,,,ACT63,,Set Up Hevodata CDC or Develop T-SQL Triggers,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1010,2,200,909,,,ACT64,,Monitor and Test Data Synchronization,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1011,2,200,910,,,ACT65,,"Create AWS Dev, Staging, and Production Environments",1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1012,2,200,911,,,ACT66,,Provision EC2 Instances for Each Environment,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1013,2,200,912,,,ACT67,, Configure Security Groups and Access Control ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1014,2,200,913,,,ACT68,,Prepare Environment for Development Workloads,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1015,2,200,914,,,ACT69,,Optimize Resource Allocation for Non-Production Environments,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1016,2,200,915,,,ACT70,,Install Required Software and Dependencies,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1017,2,200,916,,,ACT71,,Upgrade Production Environment if Necessary ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1018,2,200,917,,,ACT72,,Monitor Production Workloads and Performance,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1019,2,200,918,,,ACT73,,Scale Up Resources as Required,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1020,2,200,919,,,ACT74,,Testing for Security Group with our infrastructure,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1021,2,200,920,,,ACT75,,Test Connectivity to Internal Resources via Bastion Host,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1022,2,200,921,,,ACT76,,13. Hosting Environment Setup,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1023,2,200,922,,,ACT77,,Set Up AWS WAF for Front-end Protection ,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1024,2,200,923,,,ACT78,,Design WAF Rules for Web Application Protection,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1025,2,200,924,,,ACT79,,Configure WebACLs and Rule Groups,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1026,2,200,925,,,ACT80,,Monitor and Respond to WAF Alerts,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1027,2,200,926,,,ACT81,,Monitor WAF Metrics and Security Alarms,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:54
+1028,2,200,927,,,ACT82,,Respond to Suspicious Activities and Security Threats,1970-01-01,0,open,0,green,[],2023-08-24 10:14:54,2023-08-24 10:14:55
+1029,2,200,928,,,ACT83,, Configure Security Groups for Resources Security,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1030,2,200,929,,,ACT84,,Define Inbound and Outbound Rules for Security Groups,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1031,2,200,930,,,ACT85,,Restrict Access to Resources Based on Security Policies,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1032,2,200,931,,,ACT86,,Restrict External Access to Database,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1033,2,200,932,,,ACT87,,Configure RDS Security Group to Allow Access Only from Backend Subnet,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1034,2,200,933,,,ACT88,,Test Database Connectivity from Backend Subnet Only,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1035,2,200,934,,,ACT89,,Application Access Configuration,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1036,2,200,935,,,ACT90,, Implement AWS Cognito IAM for Front-end Application Access,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1037,2,200,936,,,ACT91,, Set Up Authentication and Authorization Rules for Front-end Users,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1038,2,200,937,,,ACT92,,"Test User Registration, Login, and Role-Based Access",1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1039,2,200,938,,,ACT93,,Firewalls & Authentication and Access Management Complete,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1040,2,200,939,,,ACT94,,Configure Amazon CloudWatch for Monitoring,1970-01-01,0,open,0,green,[],2023-08-24 10:14:55,2023-08-24 10:14:55
+1041,2,201,940,602.0,Steve McBroom-Gmail,ACT1,,Create Required IAM Users ,2024-01-01,0,done,0,green,[],2023-08-24 13:36:25,2023-11-14 06:46:36
+1042,2,201,941,602.0,Steve McBroom-Gmail,ACT2,next steps?,Set Up AWS IAM Users and Groups,2024-04-18,0,done,20,yellow,[],2023-08-24 13:36:25,2023-11-14 06:46:01
+1043,2,201,942,602.0,Steve McBroom-Gmail,ACT3,action moved to new owner Steve Gmail.,Gather Requirements and Constraints for Network Design,2023-11-06,0,done,25,red,[],2023-08-24 13:36:25,2023-11-14 06:46:06
+1044,2,201,943,602.0,Steve McBroom-Gmail,ACT4,update,Identify Network Components and Topology,2023-09-27,0,done,30,green,[],2023-08-24 13:36:25,2023-11-14 06:45:54
+1045,2,203,944,595.0,Steve McBroom,ACT1,,Meet/Review Traxidy RFP plan with Sales. Set Up meet in Traxidy and send out meeting minutes,2023-08-26,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1046,2,203,945,595.0,Steve McBroom,ACT2,,Set up Who/What/When meeting to confirm work ownership (Sales to Lead),2023-08-28,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1047,2,203,946,595.0,Steve McBroom,ACT3,,Team meeting to review draft information for completeness,2023-08-28,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1048,2,203,947,595.0,Steve McBroom,ACT4,,Team Status Update meetings as required,2023-08-28,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1049,2,203,948,596.0,Junior Williams,ACT5,,Submit a work-to-date draft of your created documentation to the shared drive,2023-08-31,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1050,2,203,949,597.0,Naveen Krishnamurthy,ACT6,,Submit a work-to-date draft of your created RFP information to the MIS3 shared drive,2023-08-31,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1051,2,203,950,597.0,Naveen Krishnamurthy,ACT7,,Submit the Partner response costing to MIS3 shared drive,2023-08-31,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1052,2,203,951,598.0,Neil Mistry,ACT8,,Submit RFP questions to client if necessary,2023-09-11,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1053,2,203,952,595.0,Steve McBroom,ACT9,,Facilitate Status Update Meeting #1,2023-09-02,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1054,2,203,953,595.0,Steve McBroom,ACT10,,Facilitate Status Update Meeting #2,2023-09-09,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1055,2,203,954,596.0,Junior Williams,ACT11,,Finalize your information for the RFP response and place it in the shared drive,2023-09-27,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1056,2,203,955,597.0,Naveen Krishnamurthy,ACT12,,Finalize your information for the RFP response and place it in the shared drive,2023-09-27,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1057,2,203,956,598.0,Neil Mistry,ACT13,,Review the submitted work for completeness and take next steps,2023-09-29,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1058,2,203,957,598.0,Neil Mistry,ACT14,,Complete & Submit RFP response documentation,2023-09-29,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1059,2,203,958,595.0,Steve McBroom,ACT15,,Close project/tasks,2023-10-04,0,open,0,green,[],2023-08-30 11:08:12,2023-08-30 11:08:12
+1075,2,203,974,595.0,Steve McBroom,ACT16,,Meet/Review Traxidy RFP plan with Sales. Set Up meet in Traxidy and send out meeting minutes,2023-08-26,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1076,2,203,975,595.0,Steve McBroom,ACT17,,Set up Who/What/When meeting to confirm work ownership (Sales to Lead),2023-08-28,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1077,2,203,976,595.0,Steve McBroom,ACT18,,Team meeting to review draft information for completeness,2023-08-28,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1078,2,203,977,595.0,Steve McBroom,ACT19,,Team Status Update meetings as required,2023-08-28,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1079,2,203,978,596.0,Junior Williams,ACT20,,Submit a work-to-date draft of your created documentation to the shared drive,2023-08-31,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1080,2,203,979,597.0,Naveen Krishnamurthy,ACT21,,Submit a work-to-date draft of your created RFP information to the MIS3 shared drive,2023-08-31,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1081,2,203,980,597.0,Naveen Krishnamurthy,ACT22,,Submit the Partner response costing to MIS3 shared drive,2023-08-31,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1082,2,203,981,598.0,Neil Mistry,ACT23,,Submit RFP questions to client if necessary,2023-09-11,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1083,2,203,982,595.0,Steve McBroom,ACT24,,Facilitate Status Update Meeting #1,2023-09-02,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1084,2,203,983,595.0,Steve McBroom,ACT25,,Facilitate Status Update Meeting #2,2023-09-09,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1085,2,203,984,596.0,Junior Williams,ACT26,,Finalize your information for the RFP response and place it in the shared drive,2023-09-27,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1086,2,203,985,597.0,Naveen Krishnamurthy,ACT27,,Finalize your information for the RFP response and place it in the shared drive,2023-09-27,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1087,2,203,986,598.0,Neil Mistry,ACT28,,Review the submitted work for completeness and take next steps,2023-09-29,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1088,2,203,987,598.0,Neil Mistry,ACT29,,Complete & Submit RFP response documentation,2023-09-29,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1089,2,203,988,595.0,Steve McBroom,ACT30,,Close project/tasks,2023-10-04,0,open,0,green,[],2023-08-31 08:09:40,2023-08-31 08:09:40
+1145,2,203,1044,595.0,Steve McBroom,ACT31,,Meet/Review Traxidy RFP plan with Sales. Set Up meet in Traxidy and send out meeting minutes,2023-08-26,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1146,2,203,1045,595.0,Steve McBroom,ACT32,,Set up Who/What/When meeting to confirm work ownership (Sales to Lead),2023-08-28,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1147,2,203,1046,595.0,Steve McBroom,ACT33,,Team meeting to review draft information for completeness,2023-08-28,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1148,2,203,1047,595.0,Steve McBroom,ACT34,,Team Status Update meetings as required,2023-08-28,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1149,2,203,1048,596.0,Junior Williams,ACT35,,Submit a work-to-date draft of your created documentation to the shared drive,2023-08-31,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1150,2,203,1049,597.0,Naveen Krishnamurthy,ACT36,,Submit a work-to-date draft of your created RFP information to the MIS3 shared drive,2023-08-31,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1151,2,203,1050,597.0,Naveen Krishnamurthy,ACT37,,Submit the Partner response costing to MIS3 shared drive,2023-08-31,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1152,2,203,1051,598.0,Neil Mistry,ACT38,,Submit RFP questions to client if necessary,2023-09-11,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1153,2,203,1052,595.0,Steve McBroom,ACT39,,Facilitate Status Update Meeting #1,2023-09-02,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1154,2,203,1053,595.0,Steve McBroom,ACT40,,Facilitate Status Update Meeting #2,2023-09-09,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1155,2,203,1054,596.0,Junior Williams,ACT41,,Finalize your information for the RFP response and place it in the shared drive,2023-09-27,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1156,2,203,1055,597.0,Naveen Krishnamurthy,ACT42,,Finalize your information for the RFP response and place it in the shared drive,2023-09-27,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1157,2,203,1056,598.0,Neil Mistry,ACT43,,Review the submitted work for completeness and take next steps,2023-09-29,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1158,2,203,1057,598.0,Neil Mistry,ACT44,,Complete & Submit RFP response documentation,2023-09-29,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1159,2,203,1058,595.0,Steve McBroom,ACT45,,Close project/tasks,2023-10-04,0,open,0,green,[],2023-08-31 08:30:24,2023-08-31 08:30:24
+1180,78,208,1079,603.0,Steve Traxidy-Acct,ACT1,,Set up meetings to review the established goals for the project including timelines.,2023-10-26,0,open,0,green,[],2023-10-10 06:24:37,2023-10-10 06:24:37
+1181,2,211,1080,613.0,Install Manager,ACT1,most of the windows have been framed properly so job is going well so far.,Install tracks for automated curtains on floor 1,2023-10-25,0,open,25,green,[],2023-10-17 12:32:26,2023-10-17 12:35:44
+1182,2,211,1081,613.0,Install Manager,ACT2,,Install curtains on auto-tracks for floor 1,2023-11-01,0,open,0,green,[],2023-10-17 12:33:48,2023-10-17 12:33:48
+1183,2,211,1080,613.0,Install Manager,ACT3,,Install tracks for automated curtains on floor 2,2023-10-25,0,open,0,green,[],2023-10-17 12:34:58,2023-10-17 12:34:58
+1184,2,211,1082,613.0,Install Manager,ISS1,,Room 307 has a broken frame on the window and cannot accommodate the track at this time. Need to reframe the window. Waiting on the next steps from Project Manager.,2023-10-20,0,open,0,red,[],2023-10-17 12:38:45,2023-10-17 12:40:04
+1185,2,201,943,594.0,Eric Danso,ACT5,,develop the design,2023-11-24,0,done,0,green,[],2023-11-07 07:38:20,2023-11-14 06:45:42
+1186,2,132,253,266.0,Kavan Layne,ACT7,want to continue meetings,new stuff,2023-11-17,0,done,60,green,[],2023-11-07 09:17:00,2024-01-11 11:52:15
+1187,2,212,1083,616.0,Steve McBroom,ACT1,,Bid No Bid/Meet/Review RFP with techs and Sales. Setup plan and next steps.,2023-11-16,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1188,2,212,1084,616.0,Steve McBroom,ACT2,,Set up Who/What/When meeting to confirm work ownership (Sales to Lead),2023-11-18,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1189,2,212,1085,616.0,Steve McBroom,ACT3,,"Setup Status Update Meetings as required, to review draft information for completeness",2023-11-18,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1190,2,212,1086,,,ACT4,,Submit a work-to-date draft of your created documentation to MIS3 or the shared Google Drive,2023-11-21,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1191,2,212,1087,,,ACT5,,Submit a work-to-date draft of your created RFP information to MIS3 or the shared Google Drive,2023-11-21,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1192,2,212,1088,,,ACT6,,Submit the Partner response costing to MIS3 or the shared Google Drive,2023-11-21,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1193,2,212,1089,617.0,Neil Mistry,ACT7,,Submit RFP questions to client if necessary,2023-11-20,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1194,2,212,1090,616.0,Steve McBroom,ACT8,,Facilitate Status Update Meeting #1 and produce minutes report,2023-11-23,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1195,2,212,1091,616.0,Steve McBroom,ACT9,,Facilitate Status Update Meeting #2 and produce minutes report,2023-11-30,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1196,2,212,1092,,,ACT10,,Finalize your information for the RFP response and place it in the shared drive or send to MIS3,2023-11-25,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1197,2,212,1093,,,ACT11,,Finalize your information for the RFP response and place it in the shared drive or send to MIS3,2023-11-25,0,done,0,green,[],2023-11-16 12:46:43,2023-11-22 10:00:40
+1198,2,212,1094,617.0,Neil Mistry,ACT12,,Review the submitted work for completeness and take next steps if required,2023-11-29,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1199,2,212,1095,617.0,Neil Mistry,ACT13,,Complete & Submit RFP response documentation,2023-11-30,0,done,0,red,[],2023-11-16 12:46:43,2023-11-22 10:00:23
+1200,2,212,1096,616.0,Steve McBroom,ACT14,,Close project/tasks,2023-12-05,0,open,0,green,[],2023-11-16 12:46:43,2023-11-16 12:46:43
+1201,2,213,1097,618.0,Steve McBroom,ACT1,,Meet/Review Traxidy RFP plan with Sales. Set Up meet in Traxidy and send out meeting minutes,2023-11-03,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1202,2,213,1098,618.0,Steve McBroom,ACT2,,Team meeting to review draft information for completeness,2023-11-12,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1203,2,213,1099,618.0,Steve McBroom,ACT3,,Team Status Update meetings as required,2023-11-22,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1204,2,213,1100,619.0,Neil Bright,ACT4,,Submit a work-to-date draft of your created documentation to the shared drive,2023-11-27,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1205,2,213,1101,620.0,Jo Minster,ACT5,,Submit a work-to-date draft of your created RFP information to the MIS3 shared drive,2023-12-05,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1206,2,213,1102,621.0,Sharon Dyalt,ACT6,,Submit the Partner response costing to MIS3 shared drive,2023-12-10,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1207,2,213,1103,622.0,Sam Smith,ACT7,,Submit RFP questions to client if necessary,2023-12-14,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1208,2,213,1104,620.0,Jo Minster,ACT8,,setup the environment,2023-01-22,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1209,2,213,1105,621.0,Sharon Dyalt,ACT9,,perform UAT testing,2023-02-07,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1210,2,213,1106,621.0,Sharon Dyalt,ACT10,,summarize testing results,2023-02-22,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1211,2,213,1107,618.0,Steve McBroom,ACT11,,Final presentation,2023-02-24,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1212,2,213,1108,,,ACT12,,sign-off of all material and obtain acceptance,2023-03-11,0,open,0,green,[],2023-11-22 10:58:09,2023-11-22 10:58:09
+1213,2,214,1109,623.0,Steve McBroom,ACT1,,Bid No Bid/Meet/Review RFP with techs and Sales. Setup plan and next steps.,2023-11-14,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1214,2,214,1110,,,ACT2,,Set up plan development meeting to confirm work ownership of work tasks,2023-11-16,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1215,2,214,1111,624.0,Neil Bright,ACT3,,"Setup Status Update Meetings as required, to review draft information for completeness",2023-11-16,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1216,2,214,1112,625.0,Sam Smith,ACT4,,Submit a work-to-date draft of your created documentation to the shared  Drive,2023-11-19,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1217,2,214,1113,626.0,Jo Minster,ACT5,,Submit a work-to-date draft of your created RFP information ,2023-11-19,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1218,2,214,1114,626.0,Jo Minster,ACT6,,Submit the Partner response costing ,2023-11-19,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1219,2,214,1115,627.0,Sharon Dyalt,ACT7,,Submit RFP questions to client if necessary,2023-11-20,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1220,2,214,1116,623.0,Steve McBroom,ACT8,,Facilitate Status Update Meeting #1 and produce minutes report,2023-11-21,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1221,2,214,1117,623.0,Steve McBroom,ACT9,,Facilitate Status Update Meeting #2 and produce minutes report,2023-11-28,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1222,2,214,1118,,,ACT10,,Finalize your information for the RFP response and place it in the shared drive or send to MIS3,2023-12-15,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1223,2,214,1119,626.0,Jo Minster,ACT11,,Review the submitted work for completeness and take next steps if required,2023-12-17,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1224,2,214,1120,,,ACT12,,Complete & Submit RFP response documentation,2023-12-20,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1225,2,214,1121,623.0,Steve McBroom,ACT13,,Close project/tasks,2023-12-25,0,open,0,green,[],2023-11-28 06:12:52,2023-11-28 06:12:52
+1244,2,219,1140,635.0,stab jsghfs,ACT1,,again,2024-05-12,0,open,0,green,[],2024-01-30 14:42:44,2024-01-30 14:42:44
+1245,2,220,1141,636.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 14:45:05,2024-01-30 14:45:05
+1247,2,222,1143,640.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 14:48:42,2024-01-30 14:48:42
+1248,2,223,1144,642.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 14:50:22,2024-01-30 14:50:22
+1249,2,223,1145,,,ACT2,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 14:50:22,2024-01-30 14:50:22
+1250,2,224,1146,644.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 14:52:00,2024-01-30 14:52:00
+1251,2,224,1147,,,ACT2,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 14:52:00,2024-01-30 14:52:00
+1252,2,224,1148,,,ACT3,,install roof trusses,2024-05-21,0,open,0,green,[],2024-01-30 14:52:00,2024-01-30 14:52:00
+1253,2,224,1149,,,ACT4,,install roof sheathing and shingles,2024-05-27,0,open,0,green,[],2024-01-30 14:52:00,2024-01-30 14:52:00
+1254,2,225,1150,646.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 14:53:26,2024-01-30 14:53:26
+1255,2,225,1151,,,ACT2,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 14:53:26,2024-01-30 14:53:26
+1256,2,225,1152,,,ACT3,,install roof trusses,2024-05-21,0,open,0,green,[],2024-01-30 14:53:26,2024-01-30 14:53:26
+1257,2,225,1153,,,ACT4,,install roof sheathing and shingles,2024-05-27,0,open,0,green,[],2024-01-30 14:53:26,2024-01-30 14:53:26
+1258,2,226,1154,649.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 14:55:09,2024-01-30 14:55:09
+1259,2,226,1155,651.0,Wallimina Good,ACT2,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 14:55:09,2024-01-30 14:55:09
+1260,2,226,1156,,,ACT3,,install roof trusses,2024-05-21,0,open,0,green,[],2024-01-30 14:55:09,2024-01-30 14:55:09
+1261,2,226,1157,652.0,Roofus Rep,ACT4,,install roof sheathing and shingles,2024-05-27,0,open,0,green,[],2024-01-30 14:55:09,2024-01-30 14:55:09
+1262,2,227,1158,653.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 14:56:58,2024-01-30 14:56:58
+1263,2,227,1159,655.0,Wallimina Good,ACT2,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 14:56:58,2024-01-30 14:56:58
+1264,2,227,1160,,,ACT3,,install roof trusses,2024-05-21,0,open,0,green,[],2024-01-30 14:56:58,2024-01-30 14:56:58
+1265,2,227,1161,656.0,Roofus Rep,ACT4,,install roof sheathing and shingles,2024-05-27,0,open,0,green,[],2024-01-30 14:56:58,2024-01-30 14:56:58
+1266,2,228,1162,657.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 15:01:25,2024-01-30 15:01:25
+1267,2,228,1163,659.0,Wallimina Good,ACT2,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 15:01:25,2024-01-30 15:01:25
+1268,2,228,1164,,,ACT3,,install roof trusses,2024-05-21,0,open,0,green,[],2024-01-30 15:01:25,2024-01-30 15:01:25
+1269,2,228,1165,660.0,Roofus Rep,ACT4,,install roof sheathing and shingles,2024-05-27,0,open,0,green,[],2024-01-30 15:01:25,2024-01-30 15:01:25
+1270,2,229,1166,,,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 15:14:44,2024-01-30 15:14:44
+1271,2,229,1167,,,ACT2,,buy the materials,2024-05-03,0,open,0,green,[],2024-01-30 15:14:44,2024-01-30 15:14:44
+1272,2,229,1168,,,ACT3,,level the ground with gravel,2024-05-06,0,open,0,green,[],2024-01-30 15:14:44,2024-01-30 15:14:44
+1273,2,229,1169,,,ACT4,,build floor frame,2024-05-08,0,open,0,green,[],2024-01-30 15:14:44,2024-01-30 15:14:44
+1274,2,229,1170,,,ACT5,,build walls to plan,2024-05-10,0,open,0,green,[],2024-01-30 15:14:44,2024-01-30 15:14:44
+1275,2,229,1171,,,ACT6,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 15:14:44,2024-01-30 15:14:44
+1276,2,229,1172,,,ACT7,,install roof trusses,2024-05-21,0,open,0,green,[],2024-01-30 15:14:44,2024-01-30 15:14:44
+1277,2,229,1173,,,ACT8,,install roof sheathing and shingles,2024-05-27,0,open,0,green,[],2024-01-30 15:14:44,2024-01-30 15:14:45
+1278,2,230,1174,661.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 15:19:34,2024-01-30 15:19:34
+1279,2,230,1175,,,ACT2,,buy the materials,2024-05-03,0,open,0,green,[],2024-01-30 15:19:34,2024-01-30 15:19:34
+1280,2,230,1176,,,ACT3,,level the ground with gravel,2024-05-06,0,open,0,green,[],2024-01-30 15:19:34,2024-01-30 15:19:34
+1281,2,230,1177,662.0,Bobby Builder,ACT4,,build floor frame,2024-05-08,0,open,0,green,[],2024-01-30 15:19:34,2024-01-30 15:19:34
+1282,2,230,1178,663.0,Wallimina Good,ACT5,,build walls to plan,2024-05-10,0,open,0,green,[],2024-01-30 15:19:34,2024-01-30 15:19:34
+1283,2,230,1179,663.0,Wallimina Good,ACT6,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 15:19:34,2024-01-30 15:19:34
+1284,2,230,1180,,,ACT7,,install roof trusses,2024-05-21,0,open,0,green,[],2024-01-30 15:19:34,2024-01-30 15:19:34
+1285,2,230,1181,664.0,Roofus Rep,ACT8,,install roof sheathing and shingles,2024-05-27,0,open,0,green,[],2024-01-30 15:19:34,2024-01-30 15:19:34
+1286,2,231,1182,665.0,Steve McBroom,ACT1,,make a list of materials,2024-04-30,0,open,0,green,[],2024-01-30 15:24:28,2024-01-30 15:24:28
+1287,2,231,1183,,,ACT2,,buy the materials,2024-05-03,0,open,0,green,[],2024-01-30 15:24:28,2024-01-30 15:24:28
+1288,2,231,1184,,,ACT3,,level the ground with gravel,2024-05-06,0,open,0,green,[],2024-01-30 15:24:28,2024-01-30 15:24:28
+1289,2,231,1185,666.0,Bobby Builder,ACT4,,build floor frame,2024-05-08,0,open,0,green,[],2024-01-30 15:24:28,2024-01-30 15:24:28
+1290,2,231,1186,667.0,Wallimina Good,ACT5,,build walls to plan,2024-05-10,0,open,0,green,[],2024-01-30 15:24:28,2024-01-30 15:24:28
+1291,2,231,1187,667.0,Wallimina Good,ACT6,,install all walls per blueprints,2024-05-15,0,open,0,green,[],2024-01-30 15:24:28,2024-01-30 15:24:28
+1292,2,231,1188,,,ACT7,,install roof trusses,2024-05-21,0,open,0,green,[],2024-01-30 15:24:28,2024-01-30 15:24:28
+1293,2,231,1189,668.0,Roofus Rep,ACT8,,install roof sheathing and shingles,2024-05-27,0,open,0,green,[],2024-01-30 15:24:28,2024-01-30 15:24:28
