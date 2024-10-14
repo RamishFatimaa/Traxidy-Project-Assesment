@@ -1,0 +1,21 @@
+id,key,description,title,subtitle,icon,url,created_at,updated_at
+1,dashboard,Dashboard > Main Page,Video Overviews,Getting Started with an overview of the Traxidy Dashboard is the subtitle,,https://youtu.be/22pWIym9krs,2021-11-22 12:28:01,2023-01-18 06:17:28
+2,account_settings,Dashboard > Account Settings,Dashboard > Account Settings,Subtitle for Dashboard > Account Settings,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+3,closed_projects,Dashboard > Closed Projects,Dashboard > Closed Projects,Subtitle for Dashboard > Closed Projects,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+4,all_contacts,Dashboard > All Contacts,Dashboard > All Contacts,Subtitle for Dashboard > All Contacts,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+5,all_learnings,Dashboard > All Learnings,Dashboard > All Learnings,Subtitle for Dashboard > All Learnings,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+6,rewards,Dashboard > Rewards,Dashboard > Rewards,Subtitle for Dashboard > Rewards,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+7,project_information,Project > Project Information,Project > Project Information,Subtitle for Project > Project Information,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+8,contacts,Project > Contacts,Project > Contacts,Subtitle for Project > Contacts,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+9,meetings,Project > Meetings,Project > Meetings,Subtitle for Project > Meetings,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+10,aid,Project > AID,Video: How to Add Actions & Issues,A short video showing how to add actions and issues,,https://youtu.be/rF13W3CJx3g,2021-11-22 12:28:01,2023-01-06 06:52:06
+11,risks,Project > Risks,Project > Risks,Subtitle for Project > Risks,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+12,gyr,Project > Constraints GYR,Project > Constraints GYR,Subtitle for Project > Constraints GYR,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+13,status,Project > Project Status,Project > Project Status,Subtitle for Project > Project Status,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+14,changes,Project > Changes,Project > Changes,Subtitle for Project > Changes,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+15,high_level_plan,Project > High Level Plan,Project > High Level Plan,Subtitle for Project > High Level Plan,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+16,learnings,Project > Learn and Improve,Project > Learn and Improve,Subtitle for Project > Learn and Improve,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+17,project_settings,Project > Project Settings,Project > Project Settings,Subtitle for Project > Project Settings,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+18,meeting_minutes,Project > Meeting Minutes,Project > Meeting Minutes,Subtitle for Project > Meeting Minutes,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+19,reports,Project > Reports,Project > Reports,Subtitle for Project > Reports,,,2021-11-22 12:28:01,2021-11-22 12:28:01
+20,entire_overview,Entire Overview,Traxidy Demo Overview,A full overview of the Traxidy application and the key areas to help you be more successful,,https://youtu.be/7ZCJMIO3fAY,2021-11-22 12:28:01,2022-05-09 13:16:12

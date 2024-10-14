@@ -1,0 +1,6 @@
+id,project_id,contributor_id,alert_when_an_action_overdue,alert_when_multiple_actions_overdue,alert_when_multiple_actions_overdue_days_count,created_at,updated_at
+1,72,62,1,1,2,2022-11-24 23:00:10,2022-11-24 23:00:10
+2,75,66,1,1,2,2022-11-24 23:00:11,2022-11-24 23:00:11
+3,75,67,1,1,2,2022-11-24 23:00:11,2022-11-24 23:00:11
+4,12,69,1,1,5,2022-11-24 23:00:11,2022-12-02 14:17:55
+5,105,78,1,1,5,2022-11-24 23:00:12,2022-12-01 10:10:04

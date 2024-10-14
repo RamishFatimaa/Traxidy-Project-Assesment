@@ -1,0 +1,38 @@
+id,creator_id,risk_id,description,created_at,updated_at
+1,2,5,We will be managed through the PMO and follow the existing planning and execution process as much as possible.,2021-11-29 12:07:25,2021-11-29 12:07:25
+2,2,6,We will be managed through the PMO and follow the existing planning and execution process as much as possible.,2021-11-29 12:07:31,2021-11-29 12:07:31
+3,2,1,We will be managed through the PMO and follow the existing planning and execution process as much as possible.,2021-11-29 12:07:37,2021-11-29 12:07:37
+4,42,15,Test using different tools,2022-02-07 02:33:06,2022-02-07 02:33:06
+5,32,16,Develop manual workaround processes.,2022-02-15 14:00:26,2022-02-15 14:00:26
+6,46,17,Test Contingency.,2022-02-28 04:00:27,2022-02-28 04:00:27
+7,46,18,We were unable to successfully deploy to your site: good-deeds-api.thedemo.co.,2022-02-28 04:01:29,2022-02-28 04:01:29
+8,2,11,Priorities that need to be done. The 1st priority is putting together all the data that’s required for the demo project. Then we need an overview list of the other short demos that we could use.,2022-03-04 12:10:08,2022-03-04 12:10:08
+9,2,11,Priorities that need to be done. The 1st priority is putting together all the data that’s required for the demo project. Then we need an overview list of the other short demos that we could use.,2022-03-04 12:10:17,2022-03-04 12:10:17
+10,2,7,conmtingency is iimpotandt and we need to have the information available to us when needed,2022-03-04 13:09:17,2022-03-04 13:09:17
+11,2,22,contingency work will include putting together a change request if this actually does happen and have a effect on the project,2022-03-05 08:34:28,2022-03-05 08:34:28
+12,2,23,contingency work will include putting together a change request if this actually does happen and have a effect on the project,2022-03-05 08:35:06,2022-03-05 08:35:06
+13,2,24,contingency work will include putting together a change request if this actually does happen and have a effect on the project,2022-03-05 08:35:16,2022-03-05 08:35:16
+14,2,11,contingency work will include putting together a change request if this actually does happen and have a effect on the project,2022-03-05 08:35:26,2022-03-05 08:35:26
+15,2,7,contingency work will include putting together a change request if this actually does happen and have a effect on the project,2022-03-05 08:35:39,2022-03-05 08:35:39
+16,2,19,contingency work will include putting together a change request if this actually does happen and have a effect on the project,2022-03-05 08:35:57,2022-03-05 08:35:57
+17,2,25,May need to adjust plan with change record,2022-03-06 10:16:27,2022-03-06 10:16:27
+18,2,25,Still not sure if CR needed,2022-03-06 10:18:45,2022-03-06 10:18:45
+19,2,26,we will need to review the plan for potential extended time and review with sponsor.,2022-03-09 04:19:20,2022-03-09 04:19:20
+20,52,6,xxxxxxxxxxxxxxxxx,2022-03-14 06:42:05,2022-03-14 06:42:05
+21,56,31,A change order is required to cover any overruns due to working second shift,2022-03-14 10:28:12,2022-03-14 10:28:12
+22,35,35,we will see if we can get someone to represent the sponsor for that week,2022-03-21 05:18:51,2022-03-21 05:18:51
+23,35,34,see about replacement contractors over that time period,2022-03-21 05:20:13,2022-03-21 05:20:13
+24,35,34,this could run us over budget but I will al least get an estimate of the costs,2022-03-21 05:20:56,2022-03-21 05:20:56
+25,2,6,"we will need to plan for the risk , not only occurring but the risk also having an impact on the project.",2022-03-24 05:20:24,2022-03-24 05:20:24
+26,2,4,"we will need to plan for the risk , not only occurring but the risk also having an impact on the project",2022-03-24 05:20:46,2022-03-24 05:20:46
+27,2,9,"we will need to plan for the risk , not only occurring but the risk also having an impact on the project",2022-03-24 05:21:10,2022-03-24 05:21:10
+28,2,38,"we will need to plan for the risk , not only occurring but the risk also having an impact on the project",2022-03-24 05:21:25,2022-03-24 05:21:25
+30,6,39,Reduce parameters,2022-03-27 10:04:29,2022-03-27 10:04:29
+31,6,40,contract,2022-03-27 10:05:30,2022-03-27 10:05:30
+32,6,41,Go with it,2022-03-27 10:06:25,2022-03-27 10:06:25
+33,56,43,Push date back for completion,2022-03-29 10:11:46,2022-03-29 10:11:46
+34,2,38,we will need to revisit the plan and plan for an appropriate window to go in,2022-03-31 12:36:58,2022-03-31 12:36:58
+35,55,47,review extended work and do resourcing and costing analysis,2022-04-25 15:32:34,2022-04-25 15:32:34
+36,2,48,ensure subs are available,2022-05-04 10:51:39,2022-05-04 10:51:39
+37,2,48,have had meeting with VP and she assures me there will be substitute people available to continue the work. I will obtain a list of the people and their respective substitutes.,2022-05-18 06:02:03,2022-05-18 06:02:03
+38,2,47,still working with the areas to develop a clear change process for change amount if there is one.,2022-05-18 06:03:11,2022-05-18 06:03:27

@@ -1,0 +1,534 @@
+id,creator_id,contact_id,project_id,first_name,last_name,full_name,email,company_name,department,phone_number,position_title,role,access_type,created_at,updated_at
+1,2,1,2,Janice,Wong,Janice Wong,JW@rogattnet.au,Rogatt Networks,,443-87659,Director,sponsor,not_needed,2021-11-23 05:07:29,2021-11-23 05:07:29
+2,2,2,3,Steve,Sammy,Steve Sammy,steve@traxidy.com,Traxidy Inc.,,,Project Manager,sponsor,not_needed,2021-11-23 05:11:21,2021-11-23 05:16:11
+3,2,3,3,Richard,Austin,Richard Austin,richard_austin@rogers.com,,Development,,Boffin,team_member,not_needed,2021-11-23 05:13:37,2022-01-20 07:37:04
+4,2,4,3,Jan,Dietrich,Jan Dietrich,jan.dietrich@traxidy.com,Traxidy Inc.,Marketing,,CMO,sponsor,reviewer,2021-11-23 05:15:05,2022-01-14 09:02:21
+5,2,5,4,Reggy,Ralphson,Reggy Ralphson,RR@shalphy.com,,,,VP Technology,sponsor,not_needed,2021-11-26 12:01:31,2021-11-26 12:01:31
+6,2,6,4,T.J.,Shalmark,T.J. Shalmark,TJS@delkjyar.ci,,Purchasing,,Team Lead,,not_needed,2021-11-26 12:09:17,2021-11-26 12:09:17
+7,2,7,4,Jerri,Shaw,Jerri Shaw,Jshaw@dhelk.au,Dhelk Co.,Licensing,,Section Head,subject_matter_expert,not_needed,2021-11-26 12:12:42,2021-11-26 12:12:42
+8,2,8,4,Sal,Nuberg,Sal Nuberg,sss@traxidy.com,ABC Co.,Development,,Director,key_stakeholder,not_needed,2021-11-29 05:47:36,2022-03-31 13:37:52
+12,2,4,4,Janet,Dietrich,Janet Dietrich,jan.dietrich@traxidy.com,Traxidy Inc.,Marketing,,CMO,key_stakeholder,reviewer,2021-11-29 06:07:46,2022-03-31 13:37:29
+13,2,2,2,Steve,Sammy,Steve Sammy,steve@traxidy.com,Traxidy Inc.,,,Manager,project_manager,not_needed,2021-12-01 11:40:55,2021-12-01 11:40:55
+14,25,33,6,Rakesh,Pancholi,Rakesh Pancholi,r.pancholi@primomechanical.com,Primo Mechanical Inc,,9058516718,,sponsor,not_needed,2022-01-12 04:25:29,2022-01-12 04:25:29
+15,10,35,7,Cliff,Ma,Cliff Ma,cliff@capstick.ca,Elexicon,,,,sponsor,not_needed,2022-01-12 05:20:16,2022-01-12 05:20:16
+16,10,36,8,Tom,Bliangas,Tom Bliangas,tom@thetravellersinc.com,The Travellers Inc,,,Head of IT,sponsor,not_needed,2022-01-12 06:28:03,2022-01-12 06:28:03
+17,10,37,8,Dhiva,Navaratnam,Dhiva Navaratnam,dhiva.navaratnam@mis3.ca,MIS3,,4166840337,VP of Delivery and Eng,team_member,not_needed,2022-01-12 06:37:32,2022-01-12 06:37:32
+18,10,17,9,Brian,Capstick,Brian Capstick,brian@capstick.ca,,,,,sponsor,not_needed,2022-01-12 06:58:02,2022-01-12 06:58:02
+19,29,40,10,Owen,Stokes,Owen Stokes,owen@owenstokes.com,Skill Samurai,,,Director,sponsor,not_needed,2022-01-12 10:39:05,2022-01-12 10:39:05
+20,18,41,11,Alex,Ariza,Alex Ariza,alex.ariza@ibigroup.com,IBI Group,,,ATMS Manager,sponsor,not_needed,2022-01-13 04:09:56,2022-01-13 04:09:56
+21,18,42,11,Mike,McNeil,Mike McNeil,michael.mcneill@dot.ohio.gov,ODOT,TOC,,Manager,client,not_needed,2022-01-13 04:22:53,2022-01-13 04:22:53
+22,6,43,12,jk,keay,jk keay,mimimcbroom22@gmail.com,,,,,sponsor,not_needed,2022-01-13 04:32:11,2022-01-13 04:32:11
+23,18,25,11,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@ibigroup.com,IBI Group,,,,team_member,contributor,2022-01-13 04:35:31,2022-01-13 04:35:31
+24,18,25,13,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@ibigroup.com,IBI Group,,,ODOT Maintenance Analyst,sponsor,not_needed,2022-01-13 04:41:19,2022-01-13 04:41:19
+25,18,44,13,Gavincko,Alagesan,Gavincko Alagesan,gavincko.alagesan@ibigroup.com,IBI Group,ATMS,,IBI Analyst,team_member,not_needed,2022-01-13 04:47:05,2022-01-13 04:47:05
+26,7,47,5,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,Traxidy,IT,,Team Member,team_member,not_needed,2022-01-13 23:27:15,2022-04-12 08:48:33
+27,2,48,2,Steve,Traxidy Tester,Steve Traxidy Tester,traxidy.tester7@gmail.com,Bogo To Forever,Executive,,Checking Master,subject_matter_expert,contributor,2022-01-14 07:04:40,2022-01-14 07:04:40
+28,2,48,3,Steve,Traxidy Tester,Steve Traxidy Tester,traxidy.tester7@gmail.com,Bogo To Forever,Executive,,Checking Master,key_stakeholder,contributor,2022-01-14 09:00:21,2022-01-14 09:01:40
+29,18,41,14,Alex,Ariza,Alex Ariza,alex.ariza@ibigroup.com,IBI Group,,,ATMS Manager,sponsor,not_needed,2022-01-14 12:29:44,2022-01-14 12:29:44
+30,18,25,14,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@ibigroup.com,IBI Group,ATMS,6473911798,IBI Analyst,team_member,not_needed,2022-01-14 12:34:06,2022-01-14 12:34:06
+31,18,41,15,Alex,Ariza,Alex Ariza,alex.ariza@ibigroup.com,IBI Group,,,ATMS Manager,sponsor,not_needed,2022-01-14 12:51:05,2022-01-14 12:51:05
+32,18,25,15,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@ibigroup.com,IBI Group,ATMS,,IBI Analyst,team_member,not_needed,2022-01-14 12:56:55,2022-01-14 12:56:55
+33,6,49,12,Mimi,McBroom,Mimi McBroom,mimi.mcbroom22@gmail.com,,,,,team_member,contributor,2022-01-15 10:51:22,2022-01-15 11:10:43
+34,7,51,5,John,Doe,John Doe,aramzahedi@mail.com,,IT,,Developer,team_member,reviewer,2022-01-16 11:36:18,2022-01-17 03:41:10
+35,2,6,16,T.J.,Shalmark,T.J. Shalmark,TJS@delkjyar.ci,Big Co. Ltd.,,,President,sponsor,not_needed,2022-01-17 04:05:15,2022-01-17 04:05:15
+36,18,52,17,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@gmail.com,IBI Group,,6473911798,ATMS Maintenance & Config,sponsor,not_needed,2022-01-17 09:37:22,2022-01-17 09:37:22
+37,18,41,18,Alex,Ariza,Alex Ariza,alex.ariza@ibigroup.com,IBI Group,,,ATMS Manager,sponsor,not_needed,2022-01-18 06:39:53,2022-01-18 06:39:53
+38,18,52,18,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@gmail.com,IBI Group,ATMS,6473911798,ATMS Maintenance & Config,team_member,not_needed,2022-01-18 06:41:12,2022-01-18 06:41:12
+41,24,31,19,Ahmad,Damlakhi,Ahmad Damlakhi,ahmaddum@gmail.com,247Labs,,,,sponsor,not_needed,2022-01-19 15:24:09,2022-01-19 15:24:09
+42,2,10,2,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,Traxidy,PMO,416-801-5117,Project Manager / PMO,project_manager,not_needed,2022-01-23 04:21:43,2022-03-24 08:15:32
+43,2,7,2,Jerri,Shaw,Jerri Shaw,Jshaw@dhelk.au,Dhelk Co.,Licensing,,Section Head,team_member,contributor,2022-01-23 04:29:33,2022-10-21 06:10:59
+44,2,59,2,Gus,Marquez Sr.,Gus Marquez Sr.,gusmarquez_sr@yahoo.com,Marquez Consulting Ltd,Operations,,Consultant,subject_matter_expert,not_needed,2022-01-23 04:34:33,2022-01-23 04:34:33
+45,2,48,20,Steve,Traxidy Tester,Steve Traxidy Tester,traxidy.tester7@gmail.com,Bogo To Forever,,,Checking Master,sponsor,not_needed,2022-01-23 12:29:46,2022-01-23 12:29:46
+46,2,6,20,T.J.,Shalmark,T.J. Shalmark,TJS@delkjyar.ci,,Purchasing,,Team Lead,,not_needed,2022-01-23 12:34:11,2022-01-23 12:34:11
+47,2,7,20,Jerri,Shaw,Jerri Shaw,Jshaw@dhelk.au,Dhelk Co.,Licensing,,Section Head,subject_matter_expert,not_needed,2022-01-23 12:34:11,2022-01-23 12:34:11
+48,2,8,20,Shally,Singh-Smith,Shally Singh-Smith,sss@traxidy.com,,Development,,Director,subject_matter_expert,not_needed,2022-01-23 12:34:11,2022-01-23 12:34:11
+49,2,61,20,Rebecca,Rowat,Rebecca Rowat,becca_rowat@hotmail.com,,Consulting,416-580-5845,Lead Consultant,subject_matter_expert,contributor,2022-01-23 12:42:56,2022-01-23 12:42:56
+50,2,48,21,Steve,Traxidy Tester,Steve Traxidy Tester,traxidy.tester7@gmail.com,Bogo To Forever,,,Checking Master,sponsor,not_needed,2022-01-25 12:54:45,2022-01-25 12:54:45
+51,27,38,22,clinton,McFadden,clinton McFadden,jemmett6@gmail.com,9475656 Canada Ltd.,,4167375860,CISO,sponsor,not_needed,2022-01-25 13:20:01,2022-01-25 13:20:01
+52,18,52,23,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@gmail.com,IBI Group,,6473911798,ATMS Maintenance & Config,sponsor,not_needed,2022-01-28 08:48:11,2022-01-28 08:48:11
+53,42,66,25,Mister,Client,Mister Client,misterclient@newclient.com,New Client,,647-987-6543,Owner,sponsor,not_needed,2022-02-07 02:09:17,2022-02-07 02:09:17
+54,42,67,25,Jose,Cortez,Jose Cortez,jose.cortez@mycompany.com,My company,IT,647-369-963,Project Manager,project_manager,contributor,2022-02-07 02:30:43,2022-02-07 02:30:43
+55,42,68,26,Madame,Client,Madame Client,madame.client@newcompany2.com,New Company 2,,647-123-4567,Sponsor,sponsor,not_needed,2022-02-07 02:42:26,2022-02-07 02:42:26
+56,42,69,26,Team,player1,Team player1,teamplayer1@newcompany2.com,New Company 2,IT,647-987-5321,Network,team_member,reviewer,2022-02-07 02:49:44,2022-02-07 02:49:44
+58,2,4,27,Jan,Dietrich,Jan Dietrich,jan.dietrich@traxidy.com,Traxidy Inc.,Marketing,,CMO,key_stakeholder,contributor,2022-02-07 06:45:09,2022-02-07 08:06:05
+61,2,10,27,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,Traxidy,Executive,416-801-5117,PM,project_manager,contributor,2022-02-07 08:01:24,2022-02-07 08:05:51
+63,43,71,34,Mohammed,Smith,Mohammed Smith,M.smith@aol.com,Company ABC,,,Project Lead,sponsor,not_needed,2022-02-14 08:20:10,2022-02-14 08:20:10
+64,32,72,35,Sponsor 1,Sponsor last name,Sponsor 1 Sponsor last name,dd@dd.com,,,,,sponsor,not_needed,2022-02-15 07:58:22,2022-02-15 07:58:22
+65,32,73,35,team member 1,last name1,team member 1 last name1,ddd@lll.com,,,,,,not_needed,2022-02-15 07:59:32,2022-02-15 07:59:32
+66,46,76,36,Muhammad,Usman,Muhammad Usman,muhammad.usman@247labs.com,Traxidy Prod,,+923064839926,Reporter,release_engineer,not_needed,2022-02-28 03:48:49,2022-02-28 03:48:49
+67,46,77,36,Prod,User,Prod User,Test02@gmail.com,Traxidy,Pharmacy,1231331313,HOD,scrum_master,not_needed,2022-02-28 03:50:09,2022-02-28 03:50:09
+68,46,78,36,New,Contact,New Contact,Test00@gmail.com,Traxidy,Urdu,8999798979879,Head,client,not_needed,2022-02-28 03:51:07,2022-02-28 03:51:07
+69,2,79,27,Selma,Trichet,Selma Trichet,traxidy.test1@gmail.com,,,,,,contributor,2022-03-02 10:29:26,2022-03-21 10:34:51
+70,36,82,38,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,Traxidy,,,VP,sponsor,not_needed,2022-03-04 09:57:09,2022-03-04 09:57:09
+71,2,5,1,Reggy,Ralphson,Reggy Ralphson,RR@shalphy.com,,,,VP Technology,sponsor,not_needed,2022-03-05 08:06:27,2022-03-05 08:06:27
+72,2,7,1,Jerri,Shaw,Jerri Shaw,Jshaw@dhelk.au,Dhelk Co.,Licensing,,Section Head,subject_matter_expert,not_needed,2022-03-05 08:06:28,2022-03-05 08:06:28
+73,2,59,1,Gus,Marquez Sr.,Gus Marquez Sr.,gusmarquez_sr@yahoo.com,Marquez Consulting Ltd,Operations,,Consultant,team_member,not_needed,2022-03-05 08:06:28,2022-03-05 08:06:45
+74,2,61,1,Rebecca,Rowat,Rebecca Rowat,becca_rowat@hotmail.com,,Consulting,416-580-5845,Lead Consultant,subject_matter_expert,not_needed,2022-03-05 08:06:28,2022-03-05 08:06:28
+76,2,61,4,Rob,Rowatt,Rob Rowatt,becca_rowat@hotmail.com,ABC Co.,Consulting,461-555-5845,Lead Consultant,subject_matter_expert,not_needed,2022-03-06 09:59:23,2022-03-31 12:50:36
+77,49,85,39,Henry,Groen,Henry Groen,hgroen01@gmail.com,,,,,sponsor,not_needed,2022-03-07 08:04:12,2022-03-07 08:04:12
+78,49,86,40,Carl,Jolliffe,Carl Jolliffe,carl@charterpm.ca,,,,,sponsor,not_needed,2022-03-07 08:12:38,2022-03-07 08:12:38
+79,49,87,41,William,Sawchuk,William Sawchuk,wmsawchuk@shaw.ca,,,,,sponsor,not_needed,2022-03-07 08:19:22,2022-03-07 08:19:22
+80,49,86,42,Carl,Jolliffe,Carl Jolliffe,carl@charterpm.ca,,,,,sponsor,not_needed,2022-03-07 08:21:17,2022-03-07 08:21:17
+81,49,88,43,Chris,Gall,Chris Gall,ckgall66@gmail.com,,,,Contracts Coordinator,sponsor,not_needed,2022-03-07 08:23:35,2022-03-07 08:23:35
+82,49,85,44,Henry,Groen,Henry Groen,hgroen01@gmail.com,,,,,sponsor,not_needed,2022-03-07 08:26:38,2022-03-07 08:26:38
+83,49,83,45,Robyn,Tamas-McBroom,Robyn Tamas-McBroom,rkmcbroom@gmail.com,Lynx Ridge Estates Board of Directors,,,Secretary,sponsor,not_needed,2022-03-07 08:28:08,2022-03-07 08:28:08
+84,49,89,46,Rhonda,Duffee,Rhonda Duffee,duffee@me.com,Lynx Ridge Estates Board of Directors,,,Treasurer,sponsor,not_needed,2022-03-07 08:29:47,2022-03-07 08:29:47
+85,49,87,47,William,Sawchuk,William Sawchuk,wmsawchuk@shaw.ca,,,,Board Advisor & Web Mgmt,sponsor,not_needed,2022-03-07 08:35:06,2022-03-07 08:35:06
+86,49,85,48,Henry,Groen,Henry Groen,hgroen01@gmail.com,Lynx Ridge Estates Board of Directors,,,President,sponsor,not_needed,2022-03-07 08:39:21,2022-03-07 08:39:21
+87,49,88,49,Chris,Gall,Chris Gall,ckgall66@gmail.com,,,,Contracts Coordinator,sponsor,not_needed,2022-03-07 08:42:14,2022-03-07 08:42:14
+88,49,86,50,Carl,Jolliffe,Carl Jolliffe,carl@charterpm.ca,Charter Property Management,,,Property Manager,sponsor,not_needed,2022-03-07 08:43:54,2022-03-07 08:43:54
+89,49,85,51,Henry,Groen,Henry Groen,hgroen01@gmail.com,Lynx Ridge Estates Board of Directors,,,President,sponsor,not_needed,2022-03-07 08:45:29,2022-03-07 08:45:29
+90,49,90,52,Denis,Bisson,Denis Bisson,bisson55@gmail.com,,,,VP & Arch. Standards,sponsor,not_needed,2022-03-07 08:50:06,2022-03-07 08:50:06
+91,49,83,53,Robyn,Tamas-McBroom,Robyn Tamas-McBroom,rkmcbroom@gmail.com,Lynx Ridge Estates Board of Directors,,,Secretary,sponsor,not_needed,2022-03-07 08:51:27,2022-03-07 08:51:27
+92,49,83,54,Robyn,Tamas-McBroom,Robyn Tamas-McBroom,rkmcbroom@gmail.com,Lynx Ridge Estates Board of Directors,,,Secretary,sponsor,not_needed,2022-03-07 08:52:43,2022-03-07 08:52:43
+93,49,83,55,Robyn,Tamas-McBroom,Robyn Tamas-McBroom,rkmcbroom@gmail.com,Lynx Ridge Estates Board of Directors,,,Secretary,sponsor,not_needed,2022-03-07 08:56:23,2022-03-07 08:56:23
+97,2,5,20,Reggy,Ralphson,Reggy Ralphson,RR@shalphy.com,,,,VP Technology,sponsor,not_needed,2022-03-10 07:11:22,2022-03-10 07:11:22
+98,2,10,20,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,Traxidy Inc.,,,,team_member,not_needed,2022-03-10 07:11:22,2022-03-10 07:11:22
+99,2,94,20,Redari,Chervesko,Redari Chervesko,redari.chervesko@xcgi.com,CGI,IT Infrastructure,,Technical Lead,team_member,not_needed,2022-03-10 07:11:22,2022-03-10 07:11:22
+100,2,95,20,Trax,Test9,Trax Test9,traxidy.tester9@gmail.com,,QA Testing,,Lead Tester - QA,subject_matter_expert,not_needed,2022-03-10 07:11:22,2022-03-10 07:11:22
+101,2,79,20,Trax,Test1,Trax Test1,traxidy.test1@gmail.com,,,,,,not_needed,2022-03-10 10:19:10,2022-03-10 10:19:10
+102,52,97,56,William,Howard,William Howard,whoward@dbnj.com,D & B Building Solutions,,,Team Manager,key_stakeholder,not_needed,2022-03-12 12:53:19,2022-03-12 12:56:56
+103,52,98,56,B.,Oswald,B. Oswald,boswald@dbnj.com,D & B Building Solutions,Fabrication,,Manager,team_member,not_needed,2022-03-12 12:54:47,2022-03-12 12:58:26
+104,52,99,56,M.,Pedecine,M. Pedecine,mpedecine@dbnj.com,D & B Building Solutions,Installation,,Manager,team_member,not_needed,2022-03-12 12:56:30,2022-03-12 12:56:30
+105,52,92,56,Steve,McBroom,Steve McBroom,traxidy@gmail.com,Traxidy,,,,team_member,contributor,2022-03-12 12:57:52,2022-04-25 15:53:45
+106,52,100,56,Client,Person,Client Person,client.person@njboard.xau,NJ BOE,,,Board Chair,client,not_needed,2022-03-12 13:00:26,2022-03-12 13:00:26
+107,52,99,60,M.,Pedecine,M. Pedecine,mpedecine@dbnj.com,D & B Building Solutions,Installation,,Manager,subject_matter_expert,not_needed,2022-03-13 13:49:02,2022-03-13 13:49:02
+108,52,98,60,B.,Oswald,B. Oswald,boswald@dbnj.com,D & B Building Solutions,,,,subject_matter_expert,not_needed,2022-03-13 13:50:42,2022-03-13 13:50:42
+109,52,97,60,William,Howard,William Howard,whoward@dbnj.com,D & B Building Solutions,,,Team Lead,key_stakeholder,not_needed,2022-03-13 13:55:29,2022-03-13 13:55:29
+111,2,102,4,Traxidy,Gmail Acct,Traxidy Gmail Acct,traxidy@gmail.com,ABC Co,Marketing,,Lead Tester,subject_matter_expert,contributor,2022-03-14 04:33:44,2022-07-06 05:19:31
+112,7,14,5,Aram,Zahedi,Aram Zahedi,aram.zahedi@247labs.com,247Labs,,,,team_member,contributor,2022-03-14 05:47:54,2022-03-14 05:52:21
+113,52,101,60,Contributor,Person,Contributor Person,traxidy.tester8@gmail.com,D & B Building Solutions,,,Build Lead,team_member,not_needed,2022-03-14 06:39:29,2023-06-13 12:58:40
+114,52,101,56,Contributor,Person,Contributor Person,traxidy.tester8@gmail.com,D & B Building Solutions,,,Build Lead,,not_needed,2022-03-14 07:14:32,2023-06-13 13:00:05
+115,56,104,64,Brian,Oswald,Brian Oswald,boswald@dbnj.com,DBSG,,8568897087,Project Manager,team_member,not_needed,2022-03-14 10:07:01,2022-03-14 10:07:01
+116,56,103,64,William,Howard,William Howard,whoward@dbnj.com,"DBSG, LLC",,609-289-1339,,team_member,not_needed,2022-03-14 10:31:29,2022-03-14 10:51:36
+117,56,105,64,Jason,Bless,Jason Bless,jbless@jdcenergyservices.com,JDC/ DCO,DCO,908-334-2872,PM,key_stakeholder,not_needed,2022-03-14 10:47:06,2022-03-14 10:47:06
+119,57,106,72,Sachin,B P,Sachin B P,jayanth_nadig@yahoo.com,,,,Director,sponsor,not_needed,2022-03-16 00:47:19,2022-03-16 00:47:19
+120,57,107,72,Prasad,Joshi,Prasad Joshi,prasadnjoshi@gmail.com,,IT,,Project Manager,project_manager,contributor,2022-03-16 00:51:43,2022-03-16 00:51:43
+121,56,109,73,Ted,Moran,Ted Moran,tmoran@dbnj.com,D&B Service Group,,732-433-5544,SSR,key_stakeholder,reviewer,2022-03-16 06:10:17,2022-03-16 06:12:25
+122,56,109,64,Ted,Moran,Ted Moran,tmoran@dbnj.com,D&B Service Group,,732-433-5544,SSR,key_stakeholder,reviewer,2022-03-16 06:15:24,2022-03-16 06:15:24
+123,56,110,64,Chris,Pedecine,Chris Pedecine,cpedecine@dbnj.com,D&B Service Group,PM TEAM,646-334-0634,Sales/ Ownership,key_stakeholder,reviewer,2022-03-16 06:17:31,2022-03-16 06:17:31
+124,56,111,74,Lew,Ischinger,Lew Ischinger,lischinger@dbnj.com,D&B Service Group,,908-552-9219,SSR,key_stakeholder,reviewer,2022-03-16 06:22:45,2022-03-16 06:26:51
+125,56,103,74,William,Howard,William Howard,whoward@dbnj.com,"DBSG, LLC",,,Sr. Project Manager,project_manager,not_needed,2022-03-16 06:25:25,2022-03-16 06:26:17
+126,56,104,74,Brian,Oswald,Brian Oswald,boswald@dbnj.com,DBSG,,8568897087,Project Manager,team_member,not_needed,2022-03-16 06:25:25,2022-03-16 06:25:25
+127,35,114,69,Gail,Desmond,Gail Desmond,gdesmond@rrrtresd.xcb,,Developers,,Team Lead,team_member,not_needed,2022-03-17 10:58:10,2022-03-17 10:58:10
+128,65,117,75,Robyn,Tamas-McBroom,Robyn Tamas-McBroom,rkmcbroom@gmail.com,Lynx Ridge Board of Directors,,4039914680,Secretary,sponsor,not_needed,2022-03-18 08:43:42,2022-03-18 08:43:42
+129,65,118,75,Henry,Groen,Henry Groen,Hgroen01@gmail.com,,,,President,team_member,contributor,2022-03-18 08:52:38,2022-03-18 08:52:38
+130,65,119,75,William (Bill),Sawchuk,William (Bill) Sawchuk,Wmsawchuk@shaw.ca,,,,Member at Large,team_member,contributor,2022-03-18 09:21:43,2022-03-18 09:21:43
+131,65,120,75,Rhonda,Duffee,Rhonda Duffee,Duffee@me.com,,,,Treasurer,team_member,contributor,2022-03-18 09:28:19,2022-03-18 09:28:19
+132,65,121,75,Carl,Jolliffe,Carl Jolliffe,Carl@charterpm.ca,Charter Property Management,,,Property Manager,team_member,contributor,2022-03-18 09:35:17,2022-03-18 09:35:17
+133,65,122,75,Chris,Gall,Chris Gall,Ckgall66@gmail.com,,,,Contracts Coordinator,team_member,contributor,2022-03-18 09:41:20,2022-03-18 09:41:20
+135,65,123,75,Denis,Bisson,Denis Bisson,Bisson55@hotmail.com,,,,VP & Arch. Standards,team_member,contributor,2022-03-18 10:24:56,2022-03-18 10:24:56
+136,9,16,76,Gus,Marquez,Gus Marquez,gmarquez_sr@yahoo.com,G&M,,4168895267,Owner,sponsor,not_needed,2022-03-18 12:46:42,2022-03-18 12:46:42
+137,9,124,76,Robert,Susnjar,Robert Susnjar,robert.susnjar@fsresidential.com,FSRESIDENTIAL,,416 293 5900,Property Manager,key_stakeholder,not_needed,2022-03-18 13:33:31,2022-03-18 13:33:31
+138,9,125,76,Security,JohnPaul,Security JohnPaul,np@np.com,Bronte Harbour,,905 825 3608,Front door,team_member,not_needed,2022-03-18 13:35:07,2022-03-18 13:35:46
+139,9,126,76,Shalani,Panda,Shalani Panda,shalani.panda@fsresidential.com,FSRESIDENTIAL,,416-847-3777 Ext 72078,Accounting,key_stakeholder,not_needed,2022-03-18 13:37:25,2022-03-18 13:37:25
+140,9,127,76,Locksmith,Mary,Locksmith Mary,mary@superiorlock.ca,Superior Lock & Safe,,(905) 825-1235,Manager,team_member,not_needed,2022-03-18 13:50:22,2022-03-18 13:50:22
+141,9,128,76,Angie,Tsopelas,Angie Tsopelas,angie@propertiesandhomes.ca,REMAX,,416 670 4777 & 905 338 9000,RealEstate,key_stakeholder,not_needed,2022-03-18 13:52:29,2022-03-18 13:52:29
+142,9,129,76,Steve,Quinn,Steve Quinn,np@np.ca,,,905 464 6102,Painter,team_member,not_needed,2022-03-18 13:54:54,2022-03-18 13:54:54
+143,35,114,70,Gail,Desmond,Gail Desmond,gdesmond@rrrtresd.xcb,ABC Co.,Developers,,Team Lead,scrum_master,not_needed,2022-03-21 05:01:41,2022-03-21 05:08:36
+144,35,56,70,Stella,Walker,Stella Walker,traxidy.test1@gmail.com,JR Contracting,Software Development,,Developer,team_member,contributor,2022-03-21 05:04:15,2022-03-21 12:23:39
+145,35,130,70,JD,Ishtar,JD Ishtar,jdishtar@jdiii.xco,JR Contracting,Software Development,5515554325,DB Developer,subject_matter_expert,not_needed,2022-03-21 05:06:02,2022-03-21 05:08:14
+146,35,131,70,Channel,Legit,Channel Legit,chan.legit@ABChht.xvf,ABC Company,Executive,,CEO,sponsor,not_needed,2022-03-21 05:07:59,2022-03-21 05:07:59
+147,35,132,70,Rodger,Singh,Rodger Singh,rod.rt.hhty@asdf.xvc,,Software Development,,Project Director,release_engineer,not_needed,2022-03-21 05:10:04,2022-03-21 05:10:04
+148,35,56,69,Stella,Walker,Stella Walker,traxidy.test1@gmail.com,JR Contracting,Software Development,,Developer,team_member,not_needed,2022-03-21 05:36:02,2022-03-21 05:36:02
+149,35,130,69,JD,Ishtar,JD Ishtar,jdishtar@jdiii.xco,JR Contracting,Software Development,5515554325,DB Developer,,not_needed,2022-03-21 05:36:02,2022-03-21 05:36:02
+150,35,131,69,Channel,Legit,Channel Legit,chan.legit@ABChht.xvf,ABC Company,Executive,,CEO,sponsor,not_needed,2022-03-21 05:36:02,2022-03-21 05:36:02
+151,35,132,69,Rodger,Singh,Rodger Singh,rod.rt.hhty@asdf.xvc,,Software Development,,Project Director,release_engineer,not_needed,2022-03-21 05:36:02,2022-03-21 05:36:02
+152,2,79,2,Terry,Tester,Terry Tester,traxidy.test1@gmail.com,,,,Reviewer PMO,,reviewer,2022-03-21 10:46:14,2022-03-23 10:55:21
+153,18,25,77,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@ibigroup.com,IBI Group,,6473911798,ATMS Maintenance & Config,sponsor,not_needed,2022-03-21 15:48:18,2022-03-21 15:48:18
+154,35,134,69,Gord,Mott,Gord Mott,gordmott144@gmail.com,Traxidy Boffin,QA,,Lead Tester,team_member,not_needed,2022-03-23 10:50:37,2022-03-23 10:51:13
+155,2,135,2,Gord,Mott,Gord Mott,gordmott144@gmail.com,,Consulting,,Lead Architect,subject_matter_expert,not_needed,2022-03-23 10:55:02,2022-04-07 05:05:58
+158,2,135,4,Gene,Moss,Gene Moss,gordmott144@gmail.com,Contractor,Consulting,,Researcher,subject_matter_expert,not_needed,2022-03-23 11:25:18,2022-03-31 13:37:13
+159,52,136,56,Steve,Traxidy PM,Steve Traxidy PM,steve.mcbroom@traxidy.com,,,,,scrum_master,not_needed,2022-03-24 07:51:50,2023-06-13 12:59:56
+160,52,136,60,Steve,Traxidy PM,Steve Traxidy PM,steve.mcbroom@traxidy.com,,,,,scrum_master,reviewer,2022-03-24 07:54:31,2022-03-24 07:54:38
+161,2,102,2,Contributor,Person,Contributor Person,traxidy@gmail.com,,,,Lead,subject_matter_expert,reviewer,2022-03-24 08:15:12,2022-03-24 08:15:40
+162,6,49,78,Mimi,McBroom,Mimi McBroom,mimi.mcbroom22@gmail.com,,,,,sponsor,not_needed,2022-03-26 11:51:53,2022-03-26 11:51:53
+163,6,137,79,Steve,McBroom,Steve McBroom,steve.mcbroom@gmail.com,-- Year --,,,,,not_needed,2022-03-26 12:50:36,2022-03-26 12:50:36
+164,6,138,12,sami,mcbroom,sami mcbroom,traxidy.tester2@gmail.com,,,,,,contributor,2022-03-27 08:15:23,2022-03-27 08:15:23
+165,6,13,79,Janice,Keay,Janice Keay,janice.keay@gmail.com,Personal,,,,team_member,not_needed,2022-03-28 13:53:04,2022-03-28 13:53:04
+166,6,43,79,jk,keay,jk keay,mimimcbroom22@gmail.com,,,,,sponsor,not_needed,2022-03-28 13:53:04,2022-03-28 13:53:04
+167,6,49,79,Mimi,McBroom,Mimi McBroom,mimi.mcbroom22@gmail.com,,,,,team_member,not_needed,2022-03-28 13:53:04,2022-03-28 13:53:04
+168,6,138,79,sami,mcbroom,sami mcbroom,traxidy.tester2@gmail.com,,,,,,not_needed,2022-03-28 13:53:04,2022-03-28 13:53:04
+169,56,111,82,Lew,Ischinger,Lew Ischinger,lischinger@dbnj.com,D&B Service Group,,908-552-9219,SSR,sponsor,reviewer,2022-03-29 09:59:10,2022-03-29 09:59:29
+170,56,103,82,William,Howard,William Howard,whoward@dbnj.com,"DBSG, LLC",,,,team_member,not_needed,2022-03-29 09:59:58,2022-03-29 09:59:58
+171,56,104,82,Brian,Oswald,Brian Oswald,boswald@dbnj.com,DBSG,,8568897087,Project Manager,team_member,not_needed,2022-03-29 09:59:58,2022-03-29 09:59:58
+172,56,139,83,Greg,Santos,Greg Santos,gsantos@dbnj.com,D&B Service Group,,908-935-7653,SSR,sponsor,reviewer,2022-03-29 10:06:36,2022-03-29 10:06:47
+173,56,103,83,William,Howard,William Howard,whoward@dbnj.com,"DBSG, LLC",,,,team_member,not_needed,2022-03-29 10:07:10,2022-03-29 10:07:10
+174,56,104,83,Brian,Oswald,Brian Oswald,boswald@dbnj.com,DBSG,,8568897087,Project Manager,team_member,not_needed,2022-03-29 10:07:10,2022-03-29 10:07:10
+175,35,140,70,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,,,,,,reviewer,2022-03-30 02:36:19,2022-03-30 02:36:19
+176,35,140,71,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,,,,,,reviewer,2022-03-30 02:36:38,2022-03-30 02:36:45
+177,35,114,71,Gail,Desmond,Gail Desmond,gdesmond@rrrtresd.xcb,ABC Co.,Developers,,Team Lead,team_member,not_needed,2022-03-30 02:37:02,2022-03-30 02:37:02
+178,35,131,71,Channel,Legit,Channel Legit,chan.legit@ABChht.xvf,ABC Company,Executive,,CEO,sponsor,not_needed,2022-03-30 02:37:02,2022-03-30 02:37:02
+179,35,140,69,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,,,,,,reviewer,2022-03-30 02:37:21,2022-03-30 02:37:29
+180,55,141,91,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,ABC Company,Support,,Project Director,subject_matter_expert,not_needed,2022-03-31 06:51:04,2023-06-13 12:57:26
+181,55,142,91,H.,Jensen,H. Jensen,euyht@resrt.xcv,,Dev Ops,,DB Developer,team_member,not_needed,2022-03-31 06:52:16,2022-03-31 06:52:16
+182,18,52,95,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@gmail.com,IBI Group,MDOT,6473911798,Analyst,,not_needed,2022-04-02 14:25:35,2022-04-02 14:25:35
+183,18,52,96,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@gmail.com,IBI Group,,6473911798,ATMS Maintenance & Config,sponsor,not_needed,2022-04-02 15:44:43,2022-04-02 15:44:43
+184,9,143,97,Tony,Dacosta,Tony Dacosta,a@a.com,5070 PineDale,,289-337-0534,Tenant,sponsor,not_needed,2022-04-05 13:19:53,2022-04-06 05:38:28
+185,9,144,97,Rob,Pinedale,Rob Pinedale,a@a.ca,5070 PineDale,,289 707 5997,Supervisor,subject_matter_expert,not_needed,2022-04-06 05:35:42,2022-04-06 05:35:42
+186,6,13,78,stee,yup,stee yup,janice.keay@gmail.com,No,,6472202700,,,not_needed,2022-04-07 05:56:37,2022-04-07 05:56:37
+187,2,10,4,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,Traxidy Inc.,,,,team_member,contributor,2022-04-11 13:58:10,2022-06-13 04:04:48
+188,18,52,98,Mitchel,McBroom,Mitchel McBroom,mitchel.mcbroom@gmail.com,IBI Group,,6473911798,ATMS Maintenance & Config,sponsor,not_needed,2022-04-12 07:25:49,2022-04-12 07:25:49
+189,30,145,99,mike,connolly,mike connolly,mconnolly@bioped.com,BioPed,,14167373800,Business Manger,sponsor,not_needed,2022-04-29 05:45:00,2022-04-29 05:45:00
+190,30,146,99,Bob,Page,Bob Page,blackdogprojects@gmail.com,Black Dog Projects,,604-218-1080,GC,project_manager,contributor,2022-04-29 05:54:17,2022-04-29 05:54:17
+191,30,147,99,Crystal,Kaufman,Crystal Kaufman,ckaufman@bioped.com,BioPed,,,Principal,key_stakeholder,contributor,2022-04-29 06:00:54,2022-04-29 06:00:54
+192,30,148,99,Jeff,Marshall,Jeff Marshall,jmarshall@bioped.com,BioPed,,416-892-6079,Operations Manager,team_member,contributor,2022-04-29 06:07:50,2022-04-29 06:07:50
+194,7,51,30,John,Doe,John Doe,aramzahedi@mail.com,,IT,,Developer,,not_needed,2022-05-04 11:14:13,2023-03-01 07:09:36
+195,71,150,100,Neil,Mistry,Neil Mistry,neil@mis3.ca,Test ABC Company,,6472093303,VP of Sales,sponsor,not_needed,2022-05-11 05:00:10,2022-05-11 05:00:10
+196,72,152,101,Neil,Mistry,Neil Mistry,neil@mis3.ca,MIS3 Inc,,647.209.3303,CEO,team_member,reviewer,2022-05-11 06:17:42,2022-05-11 06:17:42
+197,72,153,101,David,Borsato,David Borsato,david.borsato@mis3.ca,MIS3 Inc,,905.955.4832,Enterprise Architect,team_member,reviewer,2022-05-11 06:19:00,2022-05-11 06:19:00
+198,72,152,102,Neil,Mistry,Neil Mistry,neil@mis3.ca,MIS3 Inc,,647.209.3303,CEO,team_member,not_needed,2022-05-11 06:35:58,2022-05-11 06:35:58
+199,72,154,101,Brian,Capstick,Brian Capstick,Brian.capstick@mis3.ca,MIS3 Inc,PMO,905 399-8110,PM,project_manager,contributor,2022-05-11 06:44:37,2022-05-11 06:44:37
+200,72,156,102,Davis,Kwan,Davis Kwan,davis.kwan@richmond.ca,City of Richmond Hill,IT,,IT Manager,sponsor,not_needed,2022-05-11 07:16:33,2022-05-11 07:16:33
+201,2,79,103,ali,hunter,ali hunter,traxidy.test1@gmail.com,,,,sponsor,sponsor,not_needed,2022-05-11 07:25:52,2022-05-11 07:25:52
+202,6,137,105,Steve,McBroom,Steve McBroom,steve.mcbroom@gmail.com,-- Year --,,,,,not_needed,2022-06-01 15:40:39,2023-06-13 13:11:52
+203,6,137,106,Steve,McBroom,Steve McBroom,steve.mcbroom@gmail.com,-- Year --,,,,,contributor,2022-06-01 16:52:18,2022-06-01 16:52:18
+204,80,161,107,Kimberly,Coates,Kimberly Coates,kcoates@bioped.com,,,,Franchisee,,not_needed,2022-06-10 07:20:33,2022-06-10 07:20:33
+206,2,163,4,Alley,Beal,Alley Beal,abeal@traxidy.com,,,,,project_manager,not_needed,2022-06-15 05:57:35,2022-06-15 05:57:35
+207,27,38,108,George,Kostanza,George Kostanza,jemmett6@gmail.com,my company,,4167375860,chief cheese,sponsor,not_needed,2022-06-16 04:56:17,2022-06-16 04:56:17
+208,27,167,108,Chandler,Bing,Chandler Bing,jemmett2@hotmail.com,My Company,Processing,,Manager,client,not_needed,2022-06-16 04:58:18,2022-06-16 04:58:18
+209,80,160,110,Jeff,Marshall,Jeff Marshall,jmarshall@bioped.com,Bioped,,,,,not_needed,2022-06-20 06:42:16,2022-06-20 06:42:16
+210,80,160,111,Jeff,Marshall,Jeff Marshall,jmarshall@bioped.com,Bioped,,,,,not_needed,2022-06-20 06:47:16,2022-06-20 06:47:16
+211,80,169,111,Andrew,Spiers,Andrew Spiers,aspiers@bioped.com,,,,,,not_needed,2022-06-20 07:09:48,2022-06-20 07:09:48
+212,6,174,79,Janice,Ruth,Janice Ruth,janice.ruth@gmail.com,No,,6472202700,,,not_needed,2022-06-28 07:12:13,2023-06-13 13:11:23
+213,2,2,4,Fred,Smith,Fred Smith,steve@traxidy.com,,,,,,not_needed,2022-07-07 04:45:34,2022-07-07 04:45:34
+214,2,95,116,Brice,Robberts,Brice Robberts,traxidy.tester9@gmail.com,,QA Testing,,Lead Tester - QA,subject_matter_expert,not_needed,2022-07-14 07:55:22,2022-07-14 07:55:22
+215,2,102,116,Sam,Tigre,Sam Tigre,traxidy@gmail.com,,,,Lead,subject_matter_expert,not_needed,2022-07-14 07:55:22,2022-07-14 07:55:22
+216,2,135,116,Gord,Mott,Gord Mott,gordmott144@gmail.com,,Consulting,,Ironman,subject_matter_expert,not_needed,2022-07-14 07:55:22,2022-07-14 07:55:22
+217,2,179,27,Madeleine,Bullett,Madeleine Bullett,madeleine.bullett@outlook.com,Launchfire,Marketing,,Project Coordinator,team_member,not_needed,2022-07-26 04:01:48,2022-07-26 04:01:48
+218,2,180,27,Brian,Capstick,Brian Capstick,brian.capstick@mis3.ca,Mis3,Consulting,,Project Director,client,not_needed,2022-07-27 05:04:10,2022-07-27 05:04:10
+219,94,182,117,Sabih,Siddiqui,Sabih Siddiqui,sabih@tblocks.com,TechBlocks,IT,,CTO,project_manager,not_needed,2022-08-10 20:39:37,2022-08-10 20:39:37
+220,95,183,118,sheraz,khan,sheraz khan,sheraz.khan@247labs.com,247Labs,,4161234567,,sponsor,not_needed,2022-08-23 11:06:58,2022-08-23 11:06:58
+221,2,79,1,Cheryl,Ghilly,Cheryl Ghilly,traxidy.test1@gmail.com,,,,Lead,subject_matter_expert,not_needed,2022-08-30 08:11:32,2022-08-30 08:11:32
+222,2,163,119,Alley,Beal,Alley Beal,abeal@traxidy.com,,,,,subject_matter_expert,not_needed,2022-09-01 12:09:38,2022-09-01 12:09:38
+223,2,184,119,Jeff,Marshall,Jeff Marshall,jmar@resrstttrttt.cs,,,,,subject_matter_expert,not_needed,2022-09-01 12:11:04,2022-09-01 12:11:04
+224,2,149,119,Steve,Drill,Steve Drill,traxidy.tester8@gmail.com,,Marketing,,PM,team_member,not_needed,2022-09-01 12:12:01,2022-09-01 12:12:01
+225,2,10,125,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,Coffee Shop Co.,PMO,0001,Project Manager,team_member,contributor,2022-10-12 07:06:13,2022-10-12 07:49:00
+226,2,79,125,Cheryl,Ghilly,Cheryl Ghilly,traxidy.test1@gmail.com,Coffee Shop Co.,PMO,3344,Project Admin,team_member,contributor,2022-10-12 07:06:13,2022-11-24 05:26:38
+227,2,95,125,Brice,Robberts,Brice Robberts,traxidy.tester9@gmail.com,Coffee Shop Co.,QA Testing,0988,Lead Tester - QA,subject_matter_expert,not_needed,2022-10-12 07:06:13,2022-10-12 07:06:13
+228,2,102,125,Sam,Tigre,Sam Tigre,traxidy@gmail.com,Hardware Co.,POS Manufacturing,2-344-5559-8878,Lead Contractor,subject_matter_expert,contributor,2022-10-12 07:06:13,2022-10-21 06:11:49
+229,2,163,125,Alley,Beal,Alley Beal,abeal@traxidy.com,Coffee Shop Co.,Cust Ops,2231,Lead Trainer,team_member,not_needed,2022-10-12 07:06:13,2022-10-12 07:06:13
+230,2,184,125,Jeff,Marshawn,Jeff Marshawn,jmar@resrstttrttt.cs,Coffee Shop Co.,IT,8999,Developer,team_member,contributor,2022-10-12 07:06:13,2022-10-21 06:12:24
+231,2,185,125,Jackson,Utility,Jackson Utility,ju@cofshopco.ci,Coffee Shop Company,Logistics,,Area Lead,subject_matter_expert,not_needed,2022-10-12 07:13:52,2022-10-21 08:42:09
+232,2,149,125,Steve,Drill,Steve Drill,traxidy.tester8@gmail.com,Coffee Shop Co.,Business Dev.,6676,PM,subject_matter_expert,contributor,2022-10-12 07:14:21,2022-11-24 05:26:21
+233,2,186,126,Taylor,Holt,Taylor Holt,taylor@theCS.com,Coffee Shop Company,Executive,,COO,sponsor,reviewer,2022-10-21 10:23:06,2022-11-09 09:19:46
+234,2,187,126,Stan,Rayment,Stan Rayment,steve@theCS.com,Coffee Shop Company,Project Management,,Project Manager,project_manager,contributor,2022-10-21 10:30:46,2023-07-04 06:51:48
+235,2,188,126,Shelly,Dart,Shelly Dart,shelly@theCS.com,Coffee Shop Company,Operations,,Purchasing Manager,team_member,reviewer,2022-10-21 10:32:17,2023-01-13 04:53:22
+236,2,189,126,Sam,Tigre,Sam Tigre,tigre@shopbuild.us,ShopBuild Co.,Contractor,,Contractor,team_member,contributor,2022-10-21 10:35:03,2023-07-04 06:52:01
+237,2,190,126,R. J.,Batherson,R. J. Batherson,rj@thecs.com,Coffee Shop Company,IT,,Director,team_member,contributor,2022-10-26 05:43:04,2023-07-04 09:36:08
+239,2,192,127,Sam,Sheppard,Sam Sheppard,sam@miiis3.com,Mis3,Sales,,Director,team_member,contributor,2022-11-08 12:40:56,2022-11-08 12:46:54
+240,2,193,127,Brian,Capstick,Brian Capstick,brianc@miiis3.com,Mis3,Delivery,,VP,project_manager,not_needed,2022-11-08 12:42:43,2022-11-08 12:47:07
+241,2,194,127,Diane,Bart,Diane Bart,sal@miiis3.com,Mis3,IT,,Director,team_member,not_needed,2022-11-08 12:43:47,2023-06-13 12:55:28
+242,2,195,127,Frank,Devo,Frank Devo,devo@frankii.com,Franky IT,Contractor,,Vendor,team_member,not_needed,2022-11-08 12:44:57,2023-06-13 12:55:37
+243,2,196,127,Neil,Mistry,Neil Mistry,neil@miiis3.com,Mis3,Consulting,,CEO,sponsor,reviewer,2022-11-08 12:46:10,2022-11-08 12:46:10
+244,2,192,129,Sam,Sheppard,Sam Sheppard,sam@miiis3.com,Mis3,Sales,,Director,team_member,not_needed,2022-11-08 13:09:15,2022-11-08 13:10:51
+245,2,193,129,Brian,Capstick,Brian Capstick,brianc@miiis3.com,Mis3,Delivery,,VP,project_manager,not_needed,2022-11-08 13:09:15,2022-11-08 13:10:15
+246,2,194,129,Diane,Bart,Diane Bart,sal@miiis3.com,Mis3,IT,,Manager,team_member,not_needed,2022-11-08 13:09:15,2022-11-08 13:10:40
+247,2,195,129,Frank,Devo,Frank Devo,devo@frankii.com,,Contractor,,Vendor,team_member,not_needed,2022-11-08 13:09:15,2022-11-08 13:09:15
+248,2,196,129,Neil,Mistry,Neil Mistry,neil@miiis3.com,Mis3,Consulting,,CEO,sponsor,not_needed,2022-11-08 13:09:15,2022-11-08 13:09:15
+249,2,192,128,Sam,Sheppard,Sam Sheppard,sam@miiis3.com,Mis3,Sales,,Director,team_member,contributor,2022-11-08 13:11:14,2022-11-08 13:14:26
+250,2,193,128,Brian,Capstick,Brian Capstick,brianc@miiis3.com,Mis3,Delivery,,VP,project_manager,not_needed,2022-11-08 13:11:14,2022-11-08 13:12:42
+251,2,194,128,Diane,Bart,Diane Bart,sal@miiis3.com,Mis3,IT,,Manager,team_member,contributor,2022-11-08 13:11:14,2022-11-08 13:14:08
+252,2,195,128,Frank,Devo,Frank Devo,devo@frankii.com,Franky IT,Contractor,,Vendor,team_member,contributor,2022-11-08 13:11:14,2022-11-08 13:13:48
+253,2,196,128,Neil,Mistry,Neil Mistry,neil@miiis3.com,Mis3,Consulting,,CEO,sponsor,reviewer,2022-11-08 13:11:14,2022-11-08 13:13:28
+254,2,192,130,Sam,Sheppard,Sam Sheppard,sam@miiis3.com,Mis3,Sales,,,team_member,not_needed,2022-11-09 05:10:09,2022-11-09 05:10:09
+255,2,193,130,Brian,Capstick,Brian Capstick,brianc@miiis3.com,Mis3,Delivery,,,project_manager,not_needed,2022-11-09 05:10:09,2022-11-09 05:10:09
+256,2,194,130,Sally,Smart,Sally Smart,sal@miiis3.com,Mis3,IT,,,team_member,not_needed,2022-11-09 05:10:09,2022-11-09 05:10:09
+257,2,195,130,Frank,Devo,Frank Devo,devo@frankii.com,,Contractor,,Vendor,team_member,contributor,2022-11-09 05:10:09,2022-11-09 05:10:36
+258,2,196,130,Neil,Mistry,Neil Mistry,neil@miiis3.com,Mis3,Consulting,,CEO,sponsor,not_needed,2022-11-09 05:10:09,2022-11-09 05:10:09
+259,2,197,126,Geray,Shaw,Geray Shaw,shali@thecs.com,Coffee Shop Co.,Operations,,Store Manager,team_member,contributor,2022-11-10 11:37:25,2023-07-04 06:52:10
+260,2,10,126,Mary,Kelly,Mary Kelly,steve.mcbroom@traxidy.com,Coffee Shop Co.,Delivery,,PMO Manager,key_stakeholder,reviewer,2022-11-15 11:02:48,2023-04-19 07:01:20
+261,2,199,125,Nihal,Shaikh,Nihal Shaikh,nihal.shaikh@247labs.com,247labs,Consulting,,Developer,key_stakeholder,contributor,2022-11-25 03:56:53,2022-11-25 03:56:53
+262,7,200,5,Nihal,Shaikh,Nihal Shaikh,nihal.shaikh@247labs.com,,,,,,reviewer,2023-01-11 09:29:01,2023-01-11 09:29:01
+263,2,201,126,Traxidy,Tester13,Traxidy Tester13,traxidy.tester13@gmail.com,,,,,,reviewer,2023-01-13 05:07:02,2023-01-13 05:07:02
+264,2,149,126,Traxidy,Eight,Traxidy Eight,traxidy.tester8@gmail.com,Select 4,,,Teacher,team_member,contributor,2023-01-13 05:10:31,2023-07-04 06:52:20
+265,2,196,132,Neil,Mistry,Neil Mistry,neil@miiis3.com,Mis3,Consulting,,CEO,client,not_needed,2023-02-09 07:33:54,2023-06-13 12:52:49
+266,2,202,132,Kavan,Layne,Kavan Layne,jh@miiis3.ca,MIS3,Marketing,,Project Lead,team_member,not_needed,2023-02-09 07:35:45,2023-02-09 07:35:45
+267,2,203,132,Kevin,Ash,Kevin Ash,kjhf@miiis3.ca,MIS3,Marketing,,Manager,team_member,not_needed,2023-02-09 07:38:33,2023-02-09 07:38:33
+268,2,204,132,Duane,Browne,Duane Browne,db@miiis3.ca,MIS3,Marketing,,VP,key_stakeholder,not_needed,2023-02-09 07:42:02,2023-06-13 12:52:34
+269,22,29,133,Steve,Traxidy7 PM,Steve Traxidy7 PM,traxidy.tester7@gmail.com,Big Company Co.,,,,team_member,not_needed,2023-02-13 09:37:26,2024-01-17 04:24:14
+270,22,205,133,Randy,Finnes,Randy Finnes,rf@sdae.bvc,,Sales,,,subject_matter_expert,not_needed,2023-02-13 09:38:10,2023-03-15 08:20:43
+271,22,206,133,Steve,Traxidy,Steve Traxidy,steve.mcbroom@traxidy.com,,,,,key_stakeholder,reviewer,2023-02-13 09:39:12,2024-01-17 04:23:14
+272,7,200,134,Nihal,Shaikh,Nihal Shaikh,nihal.shaikh@247labs.com,,,,,,not_needed,2023-03-07 06:28:48,2023-03-07 06:28:48
+274,2,149,132,Traxidy,Eight,Traxidy Eight,traxidy.tester8@gmail.com,,,,,,not_needed,2023-03-15 08:01:10,2023-06-13 12:52:23
+275,2,207,127,Sherie,Johns,Sherie Johns,sj@edfesr.au,,,,,,not_needed,2023-03-15 08:02:06,2023-03-15 08:02:06
+276,2,208,127,Jake,Cherkovski,Jake Cherkovski,jake@erfsyhuj.coj,,,,,,not_needed,2023-03-15 08:03:15,2023-03-15 08:03:15
+277,2,197,132,Gerry,Shali,Gerry Shali,shali@thecs.com,Coffee Shop Co.,Operations,,Store Manager,team_member,not_needed,2023-03-15 08:58:38,2023-03-15 08:58:38
+278,2,189,132,Sam,Tigre,Sam Tigre,tigre@shopbuild.us,ShopBuild Co.,Contractor,,Contractor,team_member,not_needed,2023-03-15 09:06:34,2023-03-15 09:06:34
+282,2,208,132,Jake,Cherkovski,Jake Cherkovski,jake@erfsyhuj.coj,,,,,,not_needed,2023-03-15 09:06:34,2023-03-15 09:06:34
+283,2,1,132,Janice,Wong,Janice Wong,JW@rogattnet.au,Rogatt Networks,,443-87659,Director,sponsor,not_needed,2023-03-15 11:56:31,2023-03-15 11:56:31
+284,2,95,132,Traxidy,Nine,Traxidy Nine,traxidy.tester9@gmail.com,Coffee Shop Co.,QA Testing,0988,Lead Tester - QA,subject_matter_expert,contributor,2023-03-15 11:56:31,2023-06-06 11:40:23
+285,2,190,132,R. J.,Batherson,R. J. Batherson,rj@thecs.com,Coffee Shop Company,IT,,Director,team_member,not_needed,2023-03-15 11:56:31,2023-03-15 11:56:31
+286,2,192,132,Sam,Sheppard,Sam Sheppard,sam@miiis3.com,Mis3,Sales,,,team_member,not_needed,2023-03-15 11:56:31,2023-03-15 11:56:31
+289,7,210,135,Steve,McBroom,Steve McBroom,steve.mcbroom@mis3.ca,247Labs,,,,,not_needed,2023-03-28 05:44:05,2023-03-28 05:44:05
+290,7,211,135,Paul,Amodeo,Paul Amodeo,pa@miiis.ca,247Labs,,,,,not_needed,2023-03-28 05:44:05,2023-03-28 05:44:05
+291,7,212,135,Kevin,Matt,Kevin Matt,"km@werk,dsa",247Labs,,,,,not_needed,2023-03-28 05:44:05,2023-03-28 05:44:05
+292,7,213,135,Shawn,Brook,Shawn Brook,shawn@miiis.ca,247Labs,,,,,not_needed,2023-03-28 05:44:05,2023-03-28 05:44:05
+293,2,215,137,Steve,McBroom,Steve McBroom,steve.mcbroom@mis3.ca,Traxidy Inc.,,,,,not_needed,2023-03-28 06:27:49,2023-03-28 06:27:49
+294,2,216,137,Paul,Amodeo,Paul Amodeo,pa@miiis.ca,Traxidy Inc.,,,,,not_needed,2023-03-28 06:27:49,2023-03-28 06:27:49
+295,2,217,137,Kevin,Matt,Kevin Matt,"km@werk,dsa",Traxidy Inc.,,,,,not_needed,2023-03-28 06:27:49,2023-03-28 06:27:49
+296,2,218,137,Shawn,Brook,Shawn Brook,shawn@miiis.ca,Traxidy Inc.,,,,,not_needed,2023-03-28 06:27:49,2023-03-28 06:27:49
+297,2,219,138,Steve,McBroom,Steve McBroom,stev@traxllo.cu,Traxidy Inc.,,,,,not_needed,2023-03-28 08:34:07,2023-03-28 08:34:07
+298,2,217,138,Kevin,Matt,Kevin Matt,"km@werk,dsa",Traxidy Inc.,,,,,not_needed,2023-03-28 08:34:07,2023-03-28 08:34:07
+299,2,217,139,Steve,McBroom,Steve McBroom,"km@werk,dsa",Traxidy Inc.,,,,,not_needed,2023-03-28 09:02:54,2023-03-28 09:02:54
+300,2,219,139,Steve,McBroom,Steve McBroom,stev@traxllo.cu,Traxidy Inc.,,,,,not_needed,2023-03-28 09:02:54,2023-03-28 09:02:54
+321,2,222,150,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-10 07:33:22,2023-04-10 07:33:22
+322,2,223,150,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-10 07:33:22,2023-04-10 07:33:22
+323,2,224,150,Sheila,Matt,Sheila Matt,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-10 07:33:22,2023-04-10 07:33:22
+324,2,225,150,Alfi,Singh,Alfi Singh,albert@dfresfr.ca,,,,,,not_needed,2023-04-10 07:33:23,2023-04-10 07:33:23
+338,2,222,156,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-17 07:59:16,2023-04-17 07:59:16
+346,2,222,160,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-17 08:13:46,2023-04-17 08:13:46
+347,2,223,160,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-17 08:13:47,2023-04-17 08:13:47
+348,2,222,161,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-17 08:19:48,2023-04-17 08:19:48
+349,2,223,161,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-17 08:19:48,2023-04-17 08:19:48
+350,2,222,162,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-17 08:27:11,2023-04-17 08:27:11
+351,2,223,162,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-17 08:27:11,2023-04-17 08:27:11
+361,2,222,166,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-17 09:14:11,2023-04-17 09:14:11
+362,2,223,166,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-17 09:14:11,2023-04-17 09:14:11
+363,2,224,166,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-17 09:14:11,2023-04-17 09:14:11
+364,2,222,167,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-17 09:27:18,2023-04-17 09:27:18
+365,2,223,167,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-17 09:27:18,2023-04-17 09:27:18
+366,2,224,167,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-17 09:27:18,2023-04-17 09:27:18
+373,2,222,170,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-17 09:54:14,2023-04-17 09:54:14
+374,2,223,170,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-17 09:54:14,2023-04-17 09:54:14
+375,2,224,170,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-17 09:54:14,2023-04-17 09:54:14
+376,2,222,171,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-20 11:43:42,2023-04-20 11:43:42
+377,2,222,172,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-20 11:50:41,2023-04-20 11:50:41
+378,2,223,172,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-20 11:50:41,2023-04-20 11:50:41
+379,2,224,172,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-20 11:50:41,2023-04-20 11:50:41
+380,2,226,172,deter,brainly,deter brainly,db@2345.com,,,,,,not_needed,2023-04-20 11:50:41,2023-04-20 11:50:41
+381,2,222,173,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-20 12:18:59,2023-04-20 12:18:59
+382,2,227,173,extra,name-here,extra name-here,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-20 12:18:59,2023-04-20 12:18:59
+383,2,223,173,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-20 12:19:00,2023-04-20 12:19:00
+384,2,224,173,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-20 12:19:00,2023-04-20 12:19:00
+385,2,226,173,deter,brainly,deter brainly,db@2345.com,,,,,,not_needed,2023-04-20 12:19:00,2023-04-20 12:19:00
+386,2,222,174,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-20 12:24:52,2023-04-20 12:24:52
+387,2,227,174,extra,name-here,extra name-here,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-20 12:24:52,2023-04-20 12:24:52
+388,2,223,174,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-20 12:24:52,2023-04-20 12:24:52
+389,2,224,174,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-20 12:24:52,2023-04-20 12:24:52
+390,2,226,174,deter,brainly,deter brainly,db@2345.com,,,,,,not_needed,2023-04-20 12:24:52,2023-04-20 12:24:52
+395,2,222,176,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-20 13:03:06,2023-04-20 13:03:06
+396,2,227,176,extra,name-here,extra name-here,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-20 13:03:06,2023-04-20 13:03:06
+397,2,223,176,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-20 13:03:06,2023-04-20 13:03:06
+398,2,229,176,Another,Person,Another Person,apersonrede@23deadsw.cou,,,,,,not_needed,2023-04-20 13:03:07,2023-04-20 13:03:07
+399,2,224,176,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-20 13:03:07,2023-04-20 13:03:07
+400,2,226,176,deter,brainly,deter brainly,db@2345.com,,,,,,not_needed,2023-04-20 13:03:07,2023-04-20 13:03:07
+401,2,222,177,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-20 13:05:28,2023-04-20 13:05:28
+402,2,227,177,extra,name-here,extra name-here,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-20 13:05:28,2023-04-20 13:05:28
+403,2,223,177,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-20 13:05:28,2023-04-20 13:05:28
+404,2,229,177,Another,Person,Another Person,apersonrede@23deadsw.cou,,,,,,not_needed,2023-04-20 13:05:28,2023-04-20 13:05:28
+405,2,224,177,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-20 13:05:28,2023-04-20 13:05:28
+406,2,226,177,deter,brainly,deter brainly,db@2345.com,,,,,,not_needed,2023-04-20 13:05:28,2023-04-20 13:05:28
+413,2,222,179,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-20 13:50:28,2023-04-20 13:50:28
+414,2,227,179,extra,name-here,extra name-here,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-20 13:50:28,2023-04-20 13:50:28
+415,2,223,179,Steve,Dunbar,Steve Dunbar,stevd@rfetrxa.cua,,,,,,not_needed,2023-04-20 13:50:28,2023-04-20 13:50:28
+416,2,229,179,Another,Person,Another Person,apersonrede@23deadsw.cou,,,,,,not_needed,2023-04-20 13:50:28,2023-04-20 13:50:28
+417,2,224,179,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-20 13:50:28,2023-04-20 13:50:28
+418,2,226,179,deter,brainly,deter brainly,db@2345.com,,,,,,not_needed,2023-04-20 13:50:28,2023-04-20 13:50:28
+419,2,230,179,Bad,NoEmailPerson,Bad NoEmailPerson,berst@sdae3esd.ca,,,,,,not_needed,2023-04-20 13:50:28,2023-04-20 13:50:28
+429,2,194,176,Sally,Smart,Sally Smart,sal@miiis3.com,Mis3,IT,,,team_member,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+430,2,195,176,Frank,Devo,Frank Devo,devo@frankii.com,,Contractor,,Vendor,team_member,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+431,2,196,176,Neil,Mistry,Neil Mistry,neil@miiis3.com,Mis3,Consulting,,CEO,sponsor,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+432,2,197,176,Gerry,Shali,Gerry Shali,shali@thecs.com,Coffee Shop Co.,Operations,,Store Manager,team_member,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+433,2,199,176,Nihal,Shaikh,Nihal Shaikh,nihal.shaikh@247labs.com,247labs,Consulting,,Developer,key_stakeholder,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+434,2,201,176,Traxidy,Tester13,Traxidy Tester13,traxidy.tester13@gmail.com,,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+435,2,202,176,Kavan,Layne,Kavan Layne,jh@miiis3.ca,MIS3,Marketing,,Project Lead,team_member,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+436,2,203,176,Kevin,Ash,Kevin Ash,kjhf@miiis3.ca,MIS3,Marketing,,Manager,team_member,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+437,2,204,176,Duane,Browne,Duane Browne,db@miiis3.ca,MIS3,Marketing,,VP,key_stakeholder,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+438,2,207,176,Sherie,Johns,Sherie Johns,sj@edfesr.au,,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+439,2,208,176,Jake,Cherkovski,Jake Cherkovski,jake@erfsyhuj.coj,,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+440,2,209,176,Test,ForEcho,Test ForEcho,techo@wethenorth.cu,,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+441,2,215,176,Steve,McBroom,Steve McBroom,steve.mcbroom@mis3.ca,Traxidy Inc.,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+442,2,216,176,Paul,Amodeo,Paul Amodeo,pa@miiis.ca,Traxidy Inc.,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+443,2,217,176,Kevin,Matt,Kevin Matt,"km@werk,dsa",Traxidy Inc.,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+444,2,218,176,Shawn,Brook,Shawn Brook,shawn@miiis.ca,Traxidy Inc.,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+445,2,219,176,Steve,McBroom,Steve McBroom,stev@traxllo.cu,Traxidy Inc.,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+446,2,225,176,Alfi,Singh,Alfi Singh,albert@dfresfr.ca,Traxidy Inc.,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+447,2,230,176,Bad,NoEmailPerson,Bad NoEmailPerson,berst@sdae3esd.ca,,,,,,not_needed,2023-04-25 05:53:13,2023-04-25 05:53:13
+448,2,222,182,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-25 08:03:52,2023-04-25 08:03:52
+449,2,227,182,Extra,Namer,Extra Namer,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-25 08:03:52,2023-04-25 08:03:52
+450,2,231,182,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-04-25 08:03:52,2023-04-25 08:03:52
+459,2,222,185,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-25 08:16:18,2023-04-25 08:16:18
+460,2,227,185,Extra,Namer,Extra Namer,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-25 08:16:18,2023-04-25 08:16:18
+461,2,231,185,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-04-25 08:16:18,2023-04-25 08:16:18
+462,2,229,185,Another,Person,Another Person,apersonrede@23deadsw.cou,,,,,,not_needed,2023-04-25 08:16:18,2023-04-25 08:16:18
+463,2,224,185,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-25 08:16:18,2023-04-25 08:16:18
+464,2,222,186,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-25 08:21:29,2023-04-25 08:21:29
+465,2,227,186,Extra,Namer,Extra Namer,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-25 08:21:29,2023-04-25 08:21:29
+466,2,231,186,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-04-25 08:21:29,2023-04-25 08:21:29
+467,2,229,186,Another,Person,Another Person,apersonrede@23deadsw.cou,,,,,,not_needed,2023-04-25 08:21:29,2023-04-25 08:21:29
+468,2,224,186,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-25 08:21:29,2023-04-25 08:21:29
+469,2,222,187,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-25 08:28:22,2023-04-25 08:28:22
+470,2,227,187,Extra,Namer,Extra Namer,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-25 08:28:22,2023-04-25 08:28:22
+471,2,231,187,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-04-25 08:28:22,2023-04-25 08:28:22
+472,2,229,187,Another,Person,Another Person,apersonrede@23deadsw.cou,,,,,,not_needed,2023-04-25 08:28:22,2023-04-25 08:28:22
+473,2,224,187,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-25 08:28:22,2023-04-25 08:28:22
+474,2,222,188,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+475,2,227,188,Extra,Namer,Extra Namer,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+476,2,231,188,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+477,2,229,188,Another,Person,Another Person,apersonrede@23deadsw.cou,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+478,2,224,188,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+479,2,232,188,This,One,This One,tyhy@sdaew.ca,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+480,2,233,188,Deb,Anote,Deb Anote,agrf@wsadwesda.au,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+481,2,234,188,Fredd,jazz,Fredd jazz,stsrefsef@sdas.ca,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+482,2,235,188,Gait,rock,Gait rock,gafard.kijuh@sadea.ca,,,,,,not_needed,2023-04-25 08:34:18,2023-04-25 08:34:18
+483,2,222,189,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+484,2,227,189,Extra,Namer,Extra Namer,exrea@eradfsgstg.co,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+485,2,231,189,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+486,2,229,189,Another,Person,Another Person,apersonrede@23deadsw.cou,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+487,2,224,189,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+488,2,232,189,This,One,This One,tyhy@sdaew.ca,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+489,2,233,189,Deb,Anote,Deb Anote,agrf@wsadwesda.au,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+490,2,234,189,Fredd,jazz,Fredd jazz,stsrefsef@sdas.ca,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+491,2,235,189,Gait,rock,Gait rock,gafard.kijuh@sadea.ca,,,,,,not_needed,2023-04-25 08:46:56,2023-04-25 08:46:56
+492,2,94,189,Redari,Chervesko,Redari Chervesko,redari.chervesko@xcgi.com,Coffee Shop Co.,IT Infrastructure,4537,Technical Lead,team_member,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+493,2,95,189,Brice,Robberts,Brice Robberts,traxidy.tester9@gmail.com,Coffee Shop Co.,QA Testing,0988,Lead Tester - QA,subject_matter_expert,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+494,2,102,189,Sherry,Jackson,Sherry Jackson,traxidy@gmail.com,Hardware Co.,POS Manufacturing,2-344-5559-8878,Admin,subject_matter_expert,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+495,2,149,189,Steve,Drill,Steve Drill,traxidy.tester8@gmail.com,Coffee Shop Co.,Business Dev.,6676,PM,subject_matter_expert,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+496,2,163,189,Alley,Beal,Alley Beal,abeal@traxidy.com,Coffee Shop Co.,Cust Ops,2231,Lead Trainer,team_member,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+497,2,184,189,Jeff,Marshawn,Jeff Marshawn,jmar@resrstttrttt.cs,Coffee Shop Co.,IT,8999,Developer,team_member,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+498,2,201,189,Traxidy,Tester13,Traxidy Tester13,traxidy.tester13@gmail.com,,,,,,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+499,2,202,189,Kavan,Layne,Kavan Layne,jh@miiis3.ca,MIS3,Marketing,,Project Lead,team_member,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+500,2,203,189,Kevin,Ash,Kevin Ash,kjhf@miiis3.ca,MIS3,Marketing,,Manager,team_member,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+501,2,204,189,Duane,Browne,Duane Browne,db@miiis3.ca,MIS3,Marketing,,VP,key_stakeholder,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+502,2,207,189,Sherie,Johns,Sherie Johns,sj@edfesr.au,,,,,,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+503,2,208,189,Jake,Cherkovski,Jake Cherkovski,jake@erfsyhuj.coj,,,,,,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+504,2,209,189,Test,ForEcho,Test ForEcho,techo@wethenorth.cu,,,,,,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+505,2,215,189,Steve,McBroom,Steve McBroom,steve.mcbroom@mis3.ca,Traxidy Inc.,,,,,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+506,2,216,189,Paul,Amodeo,Paul Amodeo,pa@miiis.ca,Traxidy Inc.,,,,,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+507,2,217,189,Kevin,Matt,Kevin Matt,"km@werk,dsa",Traxidy Inc.,,,,,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+508,2,218,189,Shawn,Brook,Shawn Brook,shawn@miiis.ca,Traxidy Inc.,,,,,not_needed,2023-04-25 09:00:26,2023-04-25 09:00:26
+509,2,222,190,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-04-28 06:34:10,2023-04-28 06:34:10
+510,2,231,190,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-04-28 06:34:10,2023-04-28 06:34:10
+511,2,224,190,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-04-28 06:34:10,2023-04-28 06:34:10
+512,2,7,132,Jerri,Shaw,Jerri Shaw,Jshaw@dhelk.au,Dhelk Co.,Licensing,809-555-11767,Section Head,subject_matter_expert,not_needed,2023-05-04 10:05:27,2023-05-04 10:05:27
+513,2,48,132,Traxidy,Seven,Traxidy Seven,traxidy.tester7@gmail.com,Coffee Shop Co.,Executive,12866,Checking Master,sponsor,reviewer,2023-05-04 10:05:27,2023-09-19 06:59:13
+516,2,185,132,Jacques,Utalis,Jacques Utalis,ju@cofshopco.ci,Coffee Shop Company,Logistics,,Area Lead,subject_matter_expert,not_needed,2023-05-04 10:05:27,2023-05-04 10:05:27
+517,2,201,132,Traxidy,Tester13,Traxidy Tester13,traxidy.tester13@gmail.com,,,,,,not_needed,2023-05-04 10:05:27,2023-06-13 12:52:00
+519,2,217,132,Kevin,Matt,Kevin Matt,"km@werk,dsa",Traxidy Inc.,,,,,not_needed,2023-05-04 10:05:27,2023-05-04 10:05:27
+520,2,218,132,Shawn,Brook,Shawn Brook,shawn@miiis.ca,Traxidy Inc.,,,,,not_needed,2023-05-04 10:05:27,2023-05-04 10:05:27
+521,2,222,132,Pat,Best,Pat Best,pbjam@dfresfr.ca,Traxidy Inc.,,,,,not_needed,2023-05-04 10:05:27,2023-05-04 10:05:27
+526,2,234,132,Fredd,jazz,Fredd jazz,stsrefsef@sdas.ca,,,,,,not_needed,2023-05-04 10:05:27,2023-05-04 10:05:27
+527,2,235,132,Gait,rock,Gait rock,gafard.kijuh@sadea.ca,,,,,,not_needed,2023-05-04 10:05:27,2023-05-04 10:05:27
+528,2,10,188,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,,,,,subject_matter_expert,contributor,2023-05-24 09:52:31,2023-05-24 09:52:31
+529,55,236,91,Tester,Three,Tester Three,traxidy.tester3@gmail.com,,,,,,not_needed,2023-05-25 08:32:01,2023-06-13 12:57:15
+530,55,237,91,Tester,Thirteen,Tester Thirteen,traxidy.tester13@gmail.com,,,,,team_member,not_needed,2023-05-25 08:33:31,2023-06-13 12:57:07
+531,2,48,188,Traxidy,Tester7,Traxidy Tester7,traxidy.tester7@gmail.com,Coffee Shop Co.,Executive,12866,Checking Master,sponsor,contributor,2023-05-25 08:38:27,2023-05-25 08:49:10
+532,2,95,188,Traxidy,Tester9,Traxidy Tester9,traxidy.tester9@gmail.com,Coffee Shop Co.,QA Testing,0988,Lead Tester - QA,subject_matter_expert,contributor,2023-05-25 08:38:27,2023-05-25 08:49:03
+533,2,149,188,Traxidy,Eight,Traxidy Eight,traxidy.tester8@gmail.com,Coffee Shop Co.,Business Dev.,6676,PM,subject_matter_expert,contributor,2023-05-25 08:38:27,2023-05-25 08:48:56
+534,2,201,188,Traxidy,Tester13,Traxidy Tester13,traxidy.tester13@gmail.com,,,,,,contributor,2023-05-25 08:38:27,2023-05-25 08:48:47
+535,2,48,187,Traxidy,Seven,Traxidy Seven,traxidy.tester7@gmail.com,Coffee Shop Co.,Executive,12866,Checking Master,sponsor,contributor,2023-05-25 08:43:06,2023-05-25 08:44:57
+536,2,79,187,Traxidy,TEST1,Traxidy TEST1,traxidy.test1@gmail.com,Coffee Shop Co.,PMO,3344,Project Admin,team_member,contributor,2023-05-25 08:43:06,2023-05-25 08:44:30
+537,2,149,187,Traxidy,Tester8ya,Traxidy Tester8ya,traxidy.tester8@gmail.com,Coffee Shop Co.,Business Dev.,6676,PM,subject_matter_expert,contributor,2023-05-25 08:43:06,2023-05-25 08:47:18
+538,2,201,187,Traxidy,Tester13,Traxidy Tester13,traxidy.tester13@gmail.com,,,,,,contributor,2023-05-25 08:43:06,2023-05-25 08:43:22
+539,2,95,187,Test,9Nine,Test 9Nine,traxidy.tester9@gmail.com,Coffee Shop Co.,QA Testing,0988,Lead Tester - QA,subject_matter_expert,contributor,2023-05-25 09:05:00,2023-05-25 09:05:30
+540,2,222,191,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-05-25 13:07:38,2023-05-25 13:07:38
+541,2,231,191,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-05-25 13:07:38,2023-05-25 13:07:38
+542,2,224,191,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-05-25 13:07:38,2023-05-25 13:07:38
+543,2,222,192,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-05-25 13:29:28,2023-05-25 13:29:28
+544,2,231,192,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-05-25 13:29:28,2023-05-25 13:29:28
+545,2,224,192,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-05-25 13:29:28,2023-05-25 13:29:28
+546,2,238,192,Jan,Newton,Jan Newton,jan.newtom@trax.cu,,,,,,not_needed,2023-05-25 13:29:28,2023-05-25 13:29:28
+547,2,239,192,Evon,Dhamko,Evon Dhamko,ed@itrfre.au,,,,,,not_needed,2023-05-25 13:29:28,2023-05-25 13:29:28
+548,2,222,193,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-05-25 13:52:42,2023-05-25 13:52:42
+549,2,231,193,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-05-25 13:52:42,2023-05-25 13:52:42
+550,2,224,193,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-05-25 13:52:42,2023-05-25 13:52:42
+551,2,238,193,Jan,Newton,Jan Newton,jan.newtom@trax.cu,,,,,,not_needed,2023-05-25 13:52:42,2023-05-25 13:52:42
+552,2,239,193,Evon,Dhamko,Evon Dhamko,ed@itrfre.au,,,,,,not_needed,2023-05-25 13:52:43,2023-05-25 13:52:43
+553,22,240,133,Traxidy,Eight,Traxidy Eight,traxidy.tester8@gmail.com,,,,,team_member,contributor,2023-06-08 06:16:11,2023-06-13 13:15:58
+554,22,241,133,Traxidy,Nine,Traxidy Nine,traxidy.tester9@gmail.com,Traxidy,,,,team_member,contributor,2023-06-08 06:16:58,2023-06-08 06:16:58
+555,55,242,91,Tester,Seven,Tester Seven,traxidy.tester7@gmail.com,,,,,team_member,contributor,2023-06-08 06:20:04,2023-06-26 12:40:26
+556,41,243,194,Traxidy,Seven,Traxidy Seven,traxidy.tester7@gmail.com,,,,,team_member,not_needed,2023-06-08 06:24:17,2023-06-13 12:49:06
+557,41,244,194,Traxidy,Eight,Traxidy Eight,traxidy.tester8@gmail.com,,,,,team_member,not_needed,2023-06-08 06:24:57,2023-06-13 12:48:58
+558,41,245,195,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-06-12 12:23:15,2023-06-12 12:23:15
+559,41,246,195,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-06-12 12:23:15,2023-06-12 12:23:15
+560,41,247,195,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-06-12 12:23:15,2023-06-12 12:23:15
+561,41,245,196,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-06-12 12:32:19,2023-06-12 12:32:19
+562,41,246,196,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-06-12 12:32:19,2023-06-12 12:32:19
+563,41,247,196,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-06-12 12:32:19,2023-06-12 12:32:19
+564,41,245,194,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-06-12 12:39:57,2023-06-12 12:39:57
+565,41,246,194,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-06-12 12:39:57,2023-06-12 12:39:57
+566,41,247,194,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-06-12 12:39:57,2023-06-12 12:39:57
+567,41,245,197,Pat,Best,Pat Best,pbjam@dfresfr.ca,,,,,,not_needed,2023-06-12 13:10:13,2023-06-12 13:10:13
+568,41,246,197,Jay,Dunbar,Jay Dunbar,jd@rfetrxa.cua,,,,,,not_needed,2023-06-12 13:10:13,2023-06-12 13:10:13
+569,41,247,197,Sheila,Rebert,Sheila Rebert,shellertt@dfresfr.ca,,,,,,not_needed,2023-06-12 13:10:13,2023-06-12 13:10:13
+570,41,64,194,Traxidy,Nine,Traxidy Nine,traxidy.tester9@gmail.com,,Testing,,The Project PM,project_manager,not_needed,2023-06-12 13:52:38,2023-06-13 12:48:47
+571,2,250,198,Alison,Copoc,Alison Copoc,acopoc@stjoes.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+572,2,251,198,Rob,Law,Rob Law,rlaw@stjoes.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+573,2,252,198,Silvia,Spallacci,Silvia Spallacci,sspallac@stjosham.on.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+574,2,253,198,Ken,Robertson,Ken Robertson,krobertson@trica.com,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+575,2,254,198,Kim,Descrochers,Kim Descrochers,kim.desrochers@tricacxm.com,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+576,2,255,198,Carling,Provost,Carling Provost,cprovost@stjoes.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+577,2,256,198,Jesse,Tolan,Jesse Tolan,tolanj@stjoes.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+578,2,257,198,Syed ,Hassan,Syed  Hassan,syed.hassan@tricacxm.com,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+579,2,258,198,Dave ,Perry,Dave  Perry,dperry@stjosham.on.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+580,2,259,198,Wade,Sabean,Wade Sabean,wsabean@stjosham.on.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+581,2,260,198,Jeff,Lauer,Jeff Lauer,jlauer@cableassembly.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+582,2,261,198,Ilya  ,Epshteyn,Ilya   Epshteyn,ilya.epshteyn@tricacxm.com,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+583,2,262,198,Jeff,Dionne,Jeff Dionne,jedionne@stjoes.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+584,2,263,198,Kyle,Anderson,Kyle Anderson,kyanders@stjosham.on.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+585,2,264,198,Shawn,Fletcher,Shawn Fletcher,sfletcher@stjosham.on.ca,,,,,,not_needed,2023-06-16 11:06:28,2023-06-16 11:06:28
+586,2,265,198,David ,Walther,David  Walther,dwalther@stjosham.on.ca,,,,,,not_needed,2023-06-16 11:06:29,2023-06-16 11:06:29
+587,55,266,199,Dal,Opert,Dal Opert,dopert@qwmj54.ca,,,,,,not_needed,2023-06-26 12:41:40,2023-06-26 12:41:40
+588,55,242,199,Traxidy,Seven,Traxidy Seven,traxidy.tester7@gmail.com,,,,,,contributor,2023-06-26 12:41:40,2023-06-27 06:31:15
+589,55,267,199,Rose,Yallon,Rose Yallon,ryal43@fgsfr4.ca,,,,,,not_needed,2023-06-26 12:41:40,2023-06-26 12:41:40
+590,55,268,199,Traxidy,Nine,Traxidy Nine,Traxidy.tester9@gmail.com,,,,,,not_needed,2023-06-26 12:41:40,2023-06-26 12:41:40
+591,55,141,199,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,,,,,,not_needed,2023-06-26 12:41:40,2023-06-26 12:41:40
+592,55,269,199,Traxidy,Eight,Traxidy Eight,traxidy.tester8@gmail.com,,,,,,not_needed,2023-06-26 12:41:40,2023-06-26 12:41:40
+593,2,10,193,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,,,,,team_member,contributor,2023-07-04 07:11:27,2023-07-04 07:11:27
+594,2,270,201,Eric,Danso,Eric Danso,eric.danso@mis3.ca,,,,,,not_needed,2023-08-24 13:36:25,2023-08-24 13:36:25
+595,2,219,203,Steve,McBroom,Steve McBroom,steve.mcbroom@mis3.ca,,,,,,not_needed,2023-08-30 11:08:12,2023-08-30 11:08:12
+596,2,271,203,Junior,Williams,Junior Williams,junior.williams@mis3.ca,,,,,,not_needed,2023-08-30 11:08:12,2023-08-30 11:08:12
+597,2,272,203,Naveen,Krishnamurthy,Naveen Krishnamurthy,naveen.krishnamurthy@sisainfosec.com,,,,,,not_needed,2023-08-30 11:08:12,2023-08-30 11:08:12
+598,2,196,203,Neil,Mistry,Neil Mistry,neil@mis3.ca,,,,,,not_needed,2023-08-30 11:08:12,2023-08-30 11:08:12
+601,22,273,133,Steve,McBroom-Gmail,Steve McBroom-Gmail,steve.mcbroom@gmail.com,,,,,sponsor,contributor,2023-09-18 06:36:46,2024-01-17 04:23:35
+602,2,274,201,Steve,McBroom-Gmail,Steve McBroom-Gmail,steve.mcbroom@gmail.com,,,,,team_member,contributor,2023-09-18 06:40:33,2023-09-18 06:40:33
+603,78,275,208,Steve,Traxidy-Acct,Steve Traxidy-Acct,steve.mcbroomj@traxidy.com,,,,,team_member,reviewer,2023-10-10 04:57:56,2023-10-10 04:57:56
+612,2,10,132,Steve,McBroom,Steve McBroom,steve.mcbroom@traxidy.com,Coffee Shop Co.,PMO,0001,Project Manager,team_member,contributor,2023-10-17 06:59:51,2023-10-17 07:01:36
+613,2,48,211,Install,Manager,Install Manager,traxidy.tester7@gmail.com,Westport,Installations,,Manager,subject_matter_expert,not_needed,2023-10-17 12:31:57,2023-10-17 12:31:57
+614,2,284,201,David,Walther,David Walther,dwalther@stjosssham.on.ca,St Joes,Consulting,,Manager,team_member,not_needed,2023-11-07 07:42:47,2023-11-07 07:42:47
+615,2,274,126,Steve,McBroom-Gmail,Steve McBroom-Gmail,steve.mcbroom@gmail.com,,,,,team_member,contributor,2023-11-07 08:29:00,2023-11-07 08:29:00
+616,2,219,212,Steve,McBroom,Steve McBroom,steve.mcbroom@mis3.ca,,,,,,not_needed,2023-11-16 12:46:43,2023-11-16 12:46:43
+617,2,196,212,Neil,Mistry,Neil Mistry,neil@mis3.ca,,,,,,not_needed,2023-11-16 12:46:43,2023-11-16 12:46:43
+618,2,219,213,Steve,McBroom,Steve McBroom,steve.mcbroom@gmail.com,,,,,,not_needed,2023-11-22 10:58:09,2023-11-22 10:58:09
+619,2,285,213,Neil,Bright,Neil Bright,neil@wintr.ca,,,,,,not_needed,2023-11-22 10:58:09,2023-11-22 10:58:09
+620,2,286,213,Jo,Minster,Jo Minster,jm@hthg.com,,,,,,not_needed,2023-11-22 10:58:09,2023-11-22 10:58:09
+621,2,287,213,Sharon,Dyalt,Sharon Dyalt,day@weas.com,,,,,,not_needed,2023-11-22 10:58:09,2023-11-22 10:58:09
+622,2,288,213,Sam,Smith,Sam Smith,smitty@erade.ca,,,,,,not_needed,2023-11-22 10:58:09,2023-11-22 10:58:09
+623,2,219,214,Steve,McBroom,Steve McBroom,steve.mcbroom@gmail.com,,,,,,not_needed,2023-11-28 06:12:52,2023-11-28 06:12:52
+624,2,285,214,Neil,Bright,Neil Bright,neil@wintr.ca,,,,,,not_needed,2023-11-28 06:12:52,2023-11-28 06:12:52
+625,2,288,214,Sam,Smith,Sam Smith,smitty@erade.ca,,,,,,not_needed,2023-11-28 06:12:52,2023-11-28 06:12:52
+626,2,286,214,Jo,Minster,Jo Minster,jm@hthg.com,,,,,,not_needed,2023-11-28 06:12:52,2023-11-28 06:12:52
+627,2,287,214,Sharon,Dyalt,Sharon Dyalt,day@weas.com,,,,,,not_needed,2023-11-28 06:12:52,2023-11-28 06:12:52
+635,2,292,219,stab,jsghfs,stab jsghfs,hsgste@rgsrstfs.com,,,,,,not_needed,2024-01-30 14:42:44,2024-01-30 14:42:44
+636,2,219,220,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 14:45:05,2024-01-30 14:45:05
+637,2,293,220,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 14:45:05,2024-01-30 14:45:05
+640,2,219,222,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 14:48:42,2024-01-30 14:48:42
+641,2,293,222,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 14:48:42,2024-01-30 14:48:42
+642,2,219,223,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 14:50:22,2024-01-30 14:50:22
+643,2,293,223,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 14:50:22,2024-01-30 14:50:22
+644,2,219,224,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 14:52:00,2024-01-30 14:52:00
+645,2,293,224,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 14:52:00,2024-01-30 14:52:00
+646,2,219,225,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 14:53:26,2024-01-30 14:53:26
+647,2,293,225,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 14:53:26,2024-01-30 14:53:26
+648,2,294,225,Wallimina,Good,Wallimina Good,wallgood@traxidy.com,,,,,,not_needed,2024-01-30 14:53:26,2024-01-30 14:53:26
+649,2,219,226,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 14:55:09,2024-01-30 14:55:09
+650,2,293,226,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 14:55:09,2024-01-30 14:55:09
+651,2,294,226,Wallimina,Good,Wallimina Good,wallgood@traxidy.com,,,,,,not_needed,2024-01-30 14:55:09,2024-01-30 14:55:09
+652,2,295,226,Roofus,Rep,Roofus Rep,roof.rep@traxidy.com,,,,,,not_needed,2024-01-30 14:55:09,2024-01-30 14:55:09
+653,2,219,227,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 14:56:58,2024-01-30 14:56:58
+654,2,293,227,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 14:56:58,2024-01-30 14:56:58
+655,2,294,227,Wallimina,Good,Wallimina Good,wallgood@traxidy.com,,,,,,not_needed,2024-01-30 14:56:58,2024-01-30 14:56:58
+656,2,295,227,Roofus,Rep,Roofus Rep,roof.rep@traxidy.com,,,,,,not_needed,2024-01-30 14:56:58,2024-01-30 14:56:58
+657,2,219,228,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 15:01:25,2024-01-30 15:01:25
+658,2,293,228,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 15:01:25,2024-01-30 15:01:25
+659,2,294,228,Wallimina,Good,Wallimina Good,wallgood@traxidy.com,,,,,,not_needed,2024-01-30 15:01:25,2024-01-30 15:01:25
+660,2,295,228,Roofus,Rep,Roofus Rep,roof.rep@traxidy.com,,,,,,not_needed,2024-01-30 15:01:25,2024-01-30 15:01:25
+661,2,219,230,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 15:19:34,2024-01-30 15:19:34
+662,2,293,230,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 15:19:34,2024-01-30 15:19:34
+663,2,294,230,Wallimina,Good,Wallimina Good,wallgood@traxidy.com,,,,,,not_needed,2024-01-30 15:19:34,2024-01-30 15:19:34
+664,2,295,230,Roofus,Rep,Roofus Rep,roof.rep@traxidy.com,,,,,,not_needed,2024-01-30 15:19:34,2024-01-30 15:19:34
+665,2,219,231,Steve,McBroom,Steve McBroom,steve@traxidy.com,,,,,,not_needed,2024-01-30 15:24:28,2024-01-30 15:24:28
+666,2,293,231,Bobby,Builder,Bobby Builder,bbuilder@traxidy.com,,,,,,not_needed,2024-01-30 15:24:28,2024-01-30 15:24:28
+667,2,294,231,Wallimina,Good,Wallimina Good,wallgood@traxidy.com,,,,,,not_needed,2024-01-30 15:24:28,2024-01-30 15:24:28
+668,2,295,231,Roofus,Rep,Roofus Rep,roof.rep@traxidy.com,,,,,,not_needed,2024-01-30 15:24:28,2024-01-30 15:24:28

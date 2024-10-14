@@ -1,0 +1,141 @@
+id,creator_id,meeting_id,comments,meeting_time,created_at,updated_at
+1,10,11,,2022-01-12 06:00:00,2022-01-12 07:09:33,2022-01-12 07:09:33
+2,18,12,DMS Graphics were discussed. Dom bought up the fact that the graphics for three digit roadways actually takes up slightly more space than the two digit. Mike mentioned that there had been a couple of cases during testing where the DMS message had defaulted to text instead of using the graphic version (the reason is currently unknown at this time). Mitchel is going to take a look at why the templates might be defaulting for certain locations/events and begin to investigate a solution to the issue of different size messages.,2022-01-11 20:30:00,2022-01-13 04:30:38,2022-01-13 04:30:38
+3,18,18,Mitchel to review results of the testing (nothing was determined unusual about John's account within Azure AD; problem seems to be that John's credentials are not being registered in the AD (CMM to AD pipeline is not working).,2022-01-06 04:00:00,2022-01-14 12:54:56,2022-01-14 12:54:56
+4,18,19,"Discussion for 6.17 Design Doc, Response plan updates in progress, New External links menu",2022-01-18 22:00:00,2022-01-18 10:21:32,2022-01-18 10:21:32
+6,42,26,Gathering team for announcing new project,2022-02-01 03:00:00,2022-02-07 02:26:27,2022-02-07 02:26:27
+7,32,32,"- Mtg min line 1
+- Mtg min line2-",2022-02-15 22:00:00,2022-02-15 13:53:21,2022-02-15 13:53:21
+8,46,34,Test Comments,2022-03-11 23:00:00,2022-02-28 03:55:47,2022-02-28 03:55:47
+12,2,45,,2022-03-04 11:00:00,2022-03-04 11:58:39,2022-03-04 11:58:39
+16,2,43,Test results were reviewed along with several outstanding Actions and Risks,2022-03-03 23:00:00,2022-03-07 08:14:45,2022-03-07 08:14:45
+24,52,63,,2022-03-14 01:00:00,2022-03-14 06:56:54,2022-03-14 06:56:54
+29,6,77,,2022-03-28 15:27:00,2022-03-28 15:28:06,2022-03-28 15:28:06
+30,6,78,,2022-03-14 05:00:00,2022-03-28 15:31:39,2022-03-28 15:31:39
+36,2,89,,2022-03-30 16:00:00,2022-03-31 13:42:19,2022-03-31 13:42:19
+37,6,100,,2022-03-31 14:35:00,2022-03-31 15:08:44,2022-03-31 15:08:44
+38,6,101,ssss,2022-03-31 15:00:00,2022-03-31 15:19:03,2022-03-31 15:19:03
+40,18,103,Mitchel to begin refining the User Manual using Bertina's OneNote file & Anthony's email chart. Mitchel to provide update at end of week with status of User Manual.,2022-04-04 06:00:00,2022-04-04 09:37:19,2022-04-04 09:37:19
+41,6,75,esssss,2022-04-27 09:00:00,2022-04-09 06:13:43,2022-04-09 06:13:43
+42,6,72,testing to see if logo appears,2022-04-06 09:00:00,2022-04-09 06:15:30,2022-04-09 06:15:30
+43,6,71,Testing logo placement,2022-03-30 09:00:00,2022-04-09 06:18:26,2022-04-09 06:18:26
+45,2,49,Review was a success,2022-03-09 11:00:00,2022-04-11 13:24:07,2022-04-11 13:24:07
+46,2,90,Need to ensure Gene sends a sub next time,2022-04-06 16:00:00,2022-04-11 13:27:55,2022-04-11 13:27:55
+47,2,84,Several actions and risks were also discussed at this CAB,2022-02-17 03:00:00,2022-04-11 13:35:33,2022-04-11 13:35:33
+48,2,105,,2022-04-06 02:00:00,2022-04-12 09:27:09,2022-04-12 09:27:09
+49,2,106,,2022-04-15 23:00:00,2022-04-16 06:06:18,2022-04-16 06:06:18
+50,30,107,list,2022-05-02 20:01:00,2022-05-03 05:03:08,2022-05-03 05:03:08
+51,2,91,cccccccccccccc,2022-04-13 16:00:00,2022-05-04 07:10:11,2022-05-04 07:10:11
+52,2,108,,2022-05-11 21:00:00,2022-05-12 09:41:54,2022-05-12 09:41:54
+53,2,109,,2022-07-07 01:00:00,2022-07-07 05:14:41,2022-07-07 05:14:41
+56,2,112,on a google meets call,2022-07-27 05:00:00,2022-07-27 07:07:53,2022-07-27 07:07:53
+57,94,113,,2022-08-12 05:00:00,2022-08-10 20:40:24,2022-08-10 20:40:24
+58,2,119,"See the attached action we will discuss
+Agenda
+This
+That
+This",2022-09-07 13:00:00,2022-09-07 05:14:52,2022-09-07 05:14:52
+59,2,120,,2022-09-08 00:00:00,2022-09-08 08:34:50,2022-09-08 08:34:50
+61,2,122,"Traxidy provides easy-to-use project work tracking software for Project Managers (PMs), project leaders and teams to improve efficiency and increase project success. The intuitive project workspace offers an easier way to track, manage, collaborate and report on the real day-to-day planned and unplanned project work in one centralized and automated place. Our project work tracking software offers flexibility for all types of projects and simplifies the management of the smaller actions and critical information that needs to be tracked, managed and reported on, to support the project plan and schedule. 
+
+Automated project Risks, Actions, Issues and Decisions tracking (RAID log and Action log), real-time project Status Reports, work-sharing collaboration, clear visibility to project priorities, Meeting Minutes and more, help Project Managers to save time, increase team engagement and deliver on project goals.
+
+Traxidy is uniquely designed for Project Managers – by Project Managers. 
+It complements and supports all project management platforms, methodologies and planning and scheduling tools to help increase efficiency, productivity and project success. Feature highlights:
+•	Stay on track with automated Risks, Actions, Issues and Decisions tracking (RAID log and Action log) all in one place
+•	Easily manage priorities with an interactive Dashboard and visual key project indicators 
+•	Collaborate with team members and get proactive notifications of due dates and updates 
+•	Share real-time, tailored and automated Project Status Reports, produced in minutes
+•	Simplify, assess and manage projects risks with automated Risk log tracking 
+•	Improve project performance tracking with custom real-time Project Portfolio Dashboards 
+
+We’re passionate about creating solutions that help Project Managers and project teams to amaze stakeholders and increase effectiveness and overall project success.",2022-10-04 23:00:00,2022-10-05 12:23:37,2022-10-05 12:28:23
+62,2,123,"‘GoSolo’ Interview Series Q&A
+Traxidy - Project Work Tracking Software
+Steve McBroom, Founder & CEO
+
+1. What's your business and who are your customers? (Pro tip: inspire us! — why should readers want to support your business?)
+
+Traxidy provides easy-to-use project work tracking software for Project Managers (PMs), project leaders and teams to improve efficiency and increase project success. The intuitive project workspace offers an easier way to track, manage, collaborate and report on the real day-to-day planned and unplanned project work in one centralized and automated place. Our project work tracking software offers flexibility for all types of projects and simplifies the management of the smaller actions and critical information that needs to be tracked, managed and reported on, to support the project plan and schedule. 
+
+Automated project Risks, Actions, Issues and Decisions tracking (RAID log and Action log), real-time project Status Reports, work-sharing collaboration, clear visibility to project priorities, Meeting Minutes and more, help Project Managers to save time, increase team engagement and deliver on project goals.
+
+Traxidy is uniquely designed for Project Managers – by Project Managers. 
+It complements and supports all project management platforms, methodologies and planning and scheduling tools to help increase efficiency, productivity and project success. Feature highlights:
+•	Stay on track with automated Risks, Actions, Issues and Decisions tracking (RAID log and Action log) all in one place
+•	Easily manage priorities with an interactive Dashboard and visual key project indicators 
+•	Collaborate with team members and get proactive notifications of due dates and updates 
+•	Share real-time, tailored and automated Project Status Reports, produced in minutes
+•	Simplify, assess and manage projects risks with automated Risk log tracking 
+•	Improve project performance tracking with custom real-time Project Portfolio Dashboards 
+
+We’re passionate about creating solutions that help Project Managers and project teams to amaze stakeholders and increase effectiveness and overall project success. 
+
+‘GoSolo’ Interview Series Q&A
+Traxidy - Project Work Tracking Software
+Steve McBroom, Founder & CEO
+
+1. What's your business and who are your customers? (Pro tip: inspire us! — why should readers want to support your business?)
+
+Traxidy provides easy-to-use project work tracking software for Project Managers (PMs), project leaders and teams to improve efficiency and increase project success. The intuitive project workspace offers an easier way to track, manage, collaborate and report on the real day-to-day planned and unplanned project work in one centralized and automated place. Our project work tracking software offers flexibility for all types of projects and simplifies the management of the smaller actions and critical information that needs to be tracked, managed and reported on, to support the project plan and schedule. 
+
+Automated project Risks, Actions, Issues and Decisions tracking (RAID log and Action log), real-time project Status Reports, work-sharing collaboration, clear visibility to project priorities, Meeting Minutes and more, help Project Managers to save time, increase team engagement and deliver on project goals.
+
+Traxidy is uniquely designed for Project Managers – by Project Managers. 
+It complements and supports all project management platforms, methodologies and planning and scheduling tools to help increase efficiency, productivity and project success. Feature highlights:
+•	Stay on track with automated Risks, Actions, Issues and Decisions tracking (RAID log and Action log) all in one place
+•	Easily manage priorities with an interactive Dashboard and visual key project indicators 
+•	Collaborate with team members and get proactive notifications of due dates and updates 
+•	Share real-time, tailored and automated Project Status Reports, produced in minutes
+•	Simplify, assess and manage projects risks with automated Risk log tracking 
+•	Improve project performance tracking with custom real-time Project Portfolio Dashboards 
+
+We’re passionate about creating solutions that help Project Managers and project teams to amaze stakeholders and increase effectiveness and overall project success.",2022-10-03 22:00:00,2022-10-05 12:33:38,2022-10-05 12:33:38
+63,2,44,"‘GoSolo’ Interview Series Q&A
+Traxidy - Project Work Tracking Software
+Steve McBroom, Founder & CEO
+
+1. What's your business and who are your customers? (Pro tip: inspire us! — why should readers want to support your business?)
+
+Traxidy provides easy-to-use project work tracking software for Project Managers (PMs), project leaders and teams to improve efficiency and increase project success. The intuitive project workspace offers an easier way to track, manage, collaborate and report on the real day-to-day planned and unplanned project work in one centralized and automated place. Our project work tracking software offers flexibility for all types of projects and simplifies the management of the smaller actions and critical information that needs to be tracked, managed and reported on, to support the project plan and schedule. 
+
+Automated project Risks, Actions, Issues and Decisions tracking (RAID log and Action log), real-time project Status Reports, work-sharing collaboration, clear visibility to project priorities, Meeting Minutes and more, help Project Managers to save time, increase team engagement and deliver on project goals.
+
+Traxidy is uniquely designed for Project Managers – by Project Managers. 
+It complements and supports all project management platforms, methodologies and planning and scheduling tools to help increase efficiency, productivity and project success. Feature highlights:
+•	Stay on track with automated Risks, Actions, Issues and Decisions tracking (RAID log and Action log) all in one place
+•	Easily manage priorities with an interactive Dashboard and visual key project indicators 
+•	Collaborate with team members and get proactive notifications of due dates and updates 
+•	Share real-time, tailored and automated Project Status Reports, produced in minutes
+•	Simplify, assess and manage projects risks with automated Risk log tracking 
+•	Improve project performance tracking with custom real-time Project Portfolio Dashboards 
+
+We’re passionate about creating solutions that help Project Managers and project teams to amaze stakeholders and increase effectiveness and overall project success.",2022-03-04 11:00:00,2022-10-05 12:36:46,2022-10-05 12:36:46
+64,2,124,,2022-10-18 22:00:00,2022-10-19 13:32:10,2022-10-19 13:32:10
+65,2,131,Discussed the competitive landscape for this type of bid,2022-10-31 02:00:00,2022-11-08 13:47:28,2022-11-08 13:47:28
+66,2,133,aaaaaaaaaaaaa,2022-11-09 00:00:00,2022-11-09 05:00:25,2022-11-09 05:00:25
+67,2,134,,2022-11-16 00:00:00,2022-11-16 06:42:48,2022-11-16 06:42:48
+68,52,59,,2022-03-16 02:00:00,2023-02-02 05:57:10,2023-02-02 05:57:10
+69,2,135,"Parking Lot Items
+new books for technical reading
+the marketing expo and attendance
+file sharing within the google drive
+
+We were able to have the full compliment of people available from each aarea within theTeam today. Good work!",2023-03-02 08:00:00,2023-03-02 12:13:12,2023-03-02 12:13:12
+70,2,136,other information here,2023-03-23 05:00:00,2023-03-23 06:18:43,2023-03-23 06:18:43
+71,2,137,,2023-03-23 00:00:00,2023-03-23 07:28:14,2023-03-23 07:28:14
+72,2,138,,2023-04-19 14:00:00,2023-04-19 11:35:34,2023-04-19 11:35:34
+73,2,139,,2023-05-18 00:00:00,2023-05-18 04:41:25,2023-05-18 04:41:25
+74,2,140,aaaaaaaaaaaaaaaaaaaaaaaaaaaa,2023-05-17 22:00:00,2023-05-18 04:49:21,2023-05-18 04:49:21
+75,2,141,,2023-05-29 22:00:00,2023-05-30 12:43:32,2023-05-30 12:43:32
+76,2,142,test,2023-06-20 20:00:00,2023-06-21 11:10:22,2023-06-21 11:10:22
+77,2,143,,2023-06-22 00:00:00,2023-06-21 11:11:01,2023-06-21 11:11:01
+78,2,144,,2023-06-23 01:00:00,2023-06-21 11:11:34,2023-06-21 11:11:34
+79,2,145,,2023-06-22 07:00:00,2023-06-21 11:13:52,2023-06-21 11:13:52
+80,2,146,,2023-06-23 06:00:00,2023-06-21 11:15:10,2023-06-21 11:15:10
+81,2,147,,2023-07-04 00:00:00,2023-07-04 09:38:46,2023-07-04 09:38:46
+82,2,148,,2023-08-29 23:00:00,2023-08-30 10:58:53,2023-08-30 10:58:53
+83,2,149,test,2023-09-10 21:00:00,2023-09-11 08:22:42,2023-09-11 08:22:42
+84,2,150,,2023-09-12 00:00:00,2023-09-11 08:37:10,2023-09-11 08:37:10
+85,2,151,,2023-09-12 22:00:00,2023-09-13 11:12:46,2023-09-13 11:12:46
+86,2,152,,2024-01-15 21:00:00,2024-01-16 08:47:20,2024-01-16 08:47:20

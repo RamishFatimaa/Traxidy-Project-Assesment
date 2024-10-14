@@ -1,0 +1,1943 @@
+id,creator_id,category_id,title,body,created_at,updated_at
+1,1,1,Using the Getting Started area,"<h2>Using the Getting Started Area</h2>
+<p>&nbsp;</p>
+<p>The <strong>Getting Started</strong> section starts with a list of the Traxidy Areas, each one with a link to a short video which provides a guided tour of each Area.</p>
+<p>Feel free to pause or rewind the video at any time to allow a thorough read of the information.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/ybcNw9vN409HJ5R3Kmp9wj03J4RgL0Aamfb3l49o.jpg"" width=""898"" height=""307"" /></p>",2021-11-24 11:52:25,2022-04-18 15:57:51
+2,1,2,Start Here,"<h3><a name=""_Toc63758096""></a>Start Here</h3>
+<p>&nbsp;</p>
+<p>Traxidy makes it easier to track, manage and report on Project Actions, Issues, Priorities, Risks and Changes and helps guide meetings and conversations. From the time you learn you have a new project to manage, until you close the project, Traxidy helps to make your role easier.</p>
+<p>We purposely designed Traxidy for Project Managers to unify all your day-to-day, real project work and help you stay on track and in control for greater project success. Traxidy is your personal project workspace to complement any project management platform and methodology.</p>
+<p>&nbsp;</p>
+<p>Use Traxidy from the first time you learn about your new project.</p>
+<ol>
+<li><strong> </strong>Simply add the new project name to the new project template along with any details you have about the project in the <strong>Project Information </strong>Area<strong>.</strong> You can add more details and information or update at any time.</li>
+<li><strong> </strong>Add any contacts that will be part of the project in the <strong>Contacts </strong>Area<strong>.</strong>&nbsp;Include contacts that will deliver the project as well as key stakeholders that will need to see the <strong>Project Status A</strong>rea. You can easily add contacts at any time.</li>
+<li><strong> </strong>Use Traxidy <strong>Meetings </strong>Area to establish the meeting schedule that you will use to work with stakeholders to build your project plan.</li>
+<li><strong> </strong>Each time you meet, use Traxidy to easily record, track and update any key <strong>Actions, Issues, Decisions (AID)</strong>, owners and timing, Risks and Changes and easily create <strong><em>Meeting Minutes</em></strong>. All updates made to Actions, Risks or Changes are available in the record details. The historical updates allow you to see how the information or progress of the work has changed over time.</li>
+<li><strong> </strong>Use Traxidy to easily show, report and communicate on the real-time <strong>Project Status</strong> as you move through your project work.</li>
+<li><strong> </strong>Use the Traxidy <strong>High-Level Plan</strong> (<strong>HL Plan</strong>) Area to support the real-time <strong>Project Status</strong> and show your sponsor the high-level view of the project work timeframe and milestones. It can be used as a simplified, stand-alone project plan. Traxidy complements whatever you normally use to develop a project Gantt chart.</li>
+<li><strong> </strong>Once the plan is approved and set, manage any of the changes to the approved plan in <strong>Changes</strong> and use <strong>Learn &amp; Improve</strong> to record your notes and lessons learned along the way.</li>
+</ol>
+<h4>&nbsp;</h4>
+<h4><span style=""color: #169179;""><em>Tips!</em></span></h4>
+<p>Use Traxidy to better manage and control your project&mdash;in every meeting, after all conversations and during any discussion.</p>
+<p>Always have Traxidy open and available to easily add project <strong>Actions, Issues and Decisions (AID)</strong> at any time. <br />As the Project Manager, you <em>know</em> these are details you don&rsquo;t want to forget or leave to chance. Keep all your project work and details consolidated in Traxidy.</p>
+<p>&nbsp;</p>
+<h4><span style=""color: #236fa1;""><em>Best Practice </em></span></h4>
+<p>Share your Traxidy screen with all team members during your project <strong>Meetings </strong>so everyone in the meeting can see what you are recording. This will enhance the team trust in your role as a Project Manager. It will ensure that the information captured is understood and agreed-on by everyone as it is recorded.</p>
+<p>&nbsp;</p>
+<h3><a name=""_Toc63758102""></a>Getting Started Guided Tour</h3>
+<p>Our guided tour highlights key Traxidy features and helpful tips. Click&nbsp;<a href=""https://youtu.be/22pWIym9krs""> here </a>to open this presentation.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",2021-11-26 05:28:35,2022-04-18 15:58:29
+5,1,3,Navigation in the Traxidy Areas,"<h2><a name=""_Toc63758098""></a>Navigation in the Traxidy Areas</h2>
+<p>&nbsp;</p>
+<p>Like most systems, Traxidy has a set of terms that we use regularly, many are standard and some are unique to us. Below is a list of key terms to know when working with Traxidy.</p>
+<h3>&nbsp;</h3>
+<h3>Main Menu, Area Names &amp; Terminology</h3>
+<ul>
+<li><u>For each Project</u>, the sections in Traxidy, as listed on the left side <strong>Main Menu</strong> are called a <strong>Traxidy Area</strong>. The <strong>Traxidy Area Name</strong> will be clearly labelled near the top of each page, along with the Project Name.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/CN8DVhZXjcbfyb8k6kr9ZY9ofL0WAPIFXSnsKZTf.jpg"" width=""1057"" height=""521"" /></p>
+<h3>&nbsp;</h3>
+<h3><strong>Area Records - Expandable Rows per Page</strong></h3>
+<ul>
+<li>Traxidy shows a manageable number of records on each Area. Look to the bottom of the current list to show more or less records per page at one time.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Traxidy Colors&mdash;Green Yellow Red (GYR)</h3>
+<ul>
+<li>Traxidy is constantly tracking dates and information and letting you know what may need your attention through data visualization. Colors and charts are used throughout Traxidy to represent the status and key dates of activities including Actions, Risks, Changes and project constraints.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Overall Project Status Color &amp; Elapsed Time Bar</h3>
+<ul>
+<li>Each project has an <strong>Overall Project</strong> <strong>Status Color and Elapsed Timeframe </strong>bar<strong> </strong>that shows the progress through the project timeframe as a percentage of elapsed time based on the project start date, end date and today&rsquo;s date.</li>
+<li>The Overall Project Status Color and Elapsed Timeframe bar is color-coded to show the current <strong>Overall Project Status</strong> with the associated color and letter, Green (G), Yellow (Y) or Red (R).</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Area Record Data Titles</h3>
+<ul>
+<li>The <strong>Area Records</strong> show the information and key details for that record. The information is shown horizontally from left to right, and organized by the Data Titles.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Quick Sort on Traxidy Area Record Titles</h3>
+<ul>
+<li>Click on any Area <strong>Record Title</strong> as listed over the Records in any Traxidy Area and the list of records will be sorted by that Title information.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Area Charts &amp; Data</h3>
+<ul>
+<li><strong>Area Charts</strong> provide a color-coded quick view of the Traxidy Area key stats and data.</li>
+<li><strong>Click a chart </strong>and go directly to the Traxidy Area for the details.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Key Action Button</h3>
+<ul>
+<li>Traxidy Area <strong>blue</strong> <strong><em>Key Action</em></strong> buttons provide a quick function for easy management of next steps.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Collaboration Access Level &nbsp;</h3>
+<p>If you provide any of your contacts with either the Access level - Contributor or Reviewer, when the contact signs in to Traxidy, they will begin on the Dashboard Area and the Access Type will appear here.</p>
+<p><strong>If you are a Full Access Member and also become a Contributor or Reviewer </strong>on another Member's Traxidy Project, you can simply toggle this area to view your Access Level information. This will be <strong>a different set of information </strong>and Dashboard than your own project Dashboard.</p>
+<ul>
+<li><strong>Contributor:</strong> Traxidy enables <strong>you to choose to provide access</strong> to any Contact (<strong>Access Type</strong>) so they can access a limited amount of the project information in your Traxidy project allowing them to update <strong>only <em>their</em> (as Owners) Actions and Risks</strong></li>
+<li><strong>Reviewer: </strong>Traxidy enables you to choose to provide access to any Contact (Access Type) so they can access only the Project Information, Project Status, Constraints GYR and the High-Level Plan. They have <strong>no ability to edit</strong> information and can only see those specific status areas.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3><strong>Helpful Icons</strong></h3>
+<p>There are a number of icons used throughout Traxidy to help you learn more, save time and get the most out of Traxidy.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/upsh1WPIenStLWRRE6mbRjneQ7Thx9lPGMFekiVG.jpg"" width=""46"" height=""52"" /> &nbsp;<strong>Information (Help)</strong>&nbsp;Icon&nbsp; &nbsp;</p>
+<p>The Information icon appears after titles and will provide useful tips and explanations.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/xkjpi7oJaKdIIOQNQOetO9bCWr45EgZHyczJKJF5.jpg"" width=""40"" height=""50"" /> &nbsp;<strong>Historic Changes Made</strong>&nbsp;Icon</p>
+<p>The Historic Changes Made icon provides an historic view of the changes that have been made to this information during the timeframe of the project.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/m2Z2XFoa3Iv4ZFX1oUdILUspNJYcGCgLK6fsjGzW.jpg"" width=""48"" height=""44"" /> &nbsp;<strong>Open Calendar&nbsp;</strong>Icon</p>
+<p>Open Calendar icon enables easy point-click for entering dates.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/gNHEEXxbtPH5DPONmBhgfKbgKkfp9fQk7jFGsubz.jpg"" width=""55"" height=""50"" /> &nbsp;<strong>Open Edit&nbsp;</strong>Icon</p>
+<p>Open Edit icon appears beside the Constraint Weighting information in the Project Information Area for quick and easy updates.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Na5f9vqopqUuBAUdrrZlqYbsXbbozsyQlooYH1Hl.jpg"" width=""40"" height=""65"" /> &nbsp;<strong>Save (Check Mark) &amp; Cancel (X)&nbsp;</strong>Icons</p>
+<p>Save and Cancel icons appear after clicking on editable information. A surrounding box appears with both a check mark and an &lsquo;X&rsquo; located at one end of the box. Click the Check Mark to save the changes or click the &lsquo;X&rsquo; to cancel the changes and leave the information as it was.</p>",2021-11-26 09:18:38,2022-04-18 15:58:58
+6,1,2,Traxidy Area Record Details,"<h2>Area Record Details</h2>
+<p>Click any <strong>Area Record</strong> to open and view the expanded <strong>Record Details </strong>in an<strong> </strong>Area Record Details window<strong> </strong>on the right side of the screen.</p>
+<p>Easily add information, make edits and save updates.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/FxAdzs3lIpOgFLQp9KRj9x4GhHfQVgpjeAo5Xx3o.jpg"" width=""932"" height=""471"" /></p>",2021-11-26 09:22:07,2021-12-07 15:51:38
+7,1,2,Main Navigation Icons,"<h2>Main Navigation Icons</h2>
+<p><br />The Main Navigation icons are visible on the top Navigation bars in the <strong>Dashboard</strong>, <strong>Getting Started</strong>, <strong>Tips &amp; Help</strong>, <strong>Rewards, </strong>and <strong>Feedback </strong>Areas.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/l04Pu8qax8Nk4OsN1GZTiZB5BcFb6osSyeTmLySL.jpg"" width=""895"" height=""56"" /></p>
+<h3>&nbsp;</h3>
+<h3>Upgrade Button</h3>
+<ul>
+<li>You can upgrade<strong> </strong>from a Free Trial to a full membership at any time. Click <strong>Upgrade</strong> and fill in your payment and billing details.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Alerts &amp; Notifications (Bell)</h3>
+<ul>
+<li>Here you will find your Project <strong>Alerts &amp; Notifications</strong>. Hover over the Bell and open the Alerts &amp; Notifications for a quick view to items past due, priorities and next best actions.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Account Avatar</h3>
+<p>This is the icon of the letters of your name that will appear in the top right corner when you are logged into Traxidy.&nbsp;&nbsp;</p>",2021-11-26 09:23:49,2022-04-18 15:59:31
+8,1,5,Access Your Account Settings,"<h1><a name=""_Toc63758107""></a>Access Your Account Settings</h1>
+<p>&nbsp;</p>
+<p>Access your <strong>Account</strong> from your initial <strong>Avatar </strong>in the top right corner of the Traxidy Areas: <strong>Dashboard</strong>, <strong>Getting Started, Tips &amp; Help, Feedback and Rewards.</strong></p>
+<p>&nbsp;</p>
+<p><strong><img src=""https://backend-apis.traxidy.com/storage/uploads/ENDXGAEucwJiUUJBUNIz5Ola0TTSVza1qafDFzSa.jpg"" width=""1006"" height=""365"" /></strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>From <strong>Account</strong>, click on <strong>My Settings</strong> to add your own avatar, confirm your email, company name and phone number.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/k8QXOuyk9lLziSPsj6WVc5xOFrmUoQZyA91MoItm.jpg"" width=""996"" height=""644"" /></p>
+<p>&nbsp;</p>",2021-11-26 13:11:02,2022-04-18 16:00:31
+9,1,4,Quick Help - Using Information Icons,"<h1><a name=""_Toc63758101""></a>3. Orientation: The Basics</h1>
+<p>&nbsp;</p>
+<p>Helpful tips and options to easily view, sort, and edit your project information.</p>
+<p>&nbsp;</p>
+<h3><a name=""_Toc63758103""></a>Quick Help with Information Icons &nbsp;<img src=""https://backend-apis.traxidy.com/storage/uploads/xFAkjJQuq6cDkvVWSnEOc9c9DeSyVB3Sa5YgcH7t.jpg"" alt="""" width=""33"" height=""36"" /></h3>
+<ul>
+<li>Many Traxidy titles include an <strong>Information Icon<span style=""text-decoration: line-through;"">s</span></strong> (i) for quick reference and tips.</li>
+<li>Simply click the icon for more information including definitions (in case you use different terminology), best practice tips, and more.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/P7zlX2jGJTYjf5MlSocshboMaJfZr5cUo4pNHoXH.jpg"" /></p>
+<p>&nbsp;</p>",2021-12-07 12:19:57,2022-04-18 16:00:53
+10,1,4,View & Edit Any Record Details,"<h2><a name=""_Toc63758104""></a>View &amp; Edit Any Record Details</h2>
+<h3>Edit Records by Hovering Over Data</h3>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Hover over data</strong> to see the area behind the data turn gray allowing you to make changes to that data. If the information cannot be changed, that means it is a system generated piece of information based on existing data.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/SsLa4hdzghhiydt6bC62ZxZJvLJviICVYhiIl5IK.jpg"" /></p>
+<h3>Click Any Chart to See the Details</h3>
+<p>&nbsp;</p>
+<ul>
+<li>If a Traxidy Area Chart shows items that need attention, including over-due Actions, and you want to work on that Area, simply <strong>click a chart </strong>for quick and direct access to the Traxidy Area including the <strong>AID,</strong> <strong>Risks</strong> and <strong>Changes</strong></li>
+</ul>
+<p>&nbsp;</p>
+<h3>Drop-Down Boxes</h3>
+<ul>
+<li>Traxidy Area records have drop-down boxes to simplify information capture. Try the drop-down arrow to find what you are looking for, or simply start typing in the box to find the information.</li>
+<li>If the information is in your database of collected information it will appear. If not, <strong>simply type it in</strong>. With Traxidy, once you have put in the information it will always be available.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Hover Over Text for More Details</h3>
+<ul>
+<li>Hover over a record field of information and the text box will expand to show more details.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/TihWObcuB0bwKpdVEpjQAVoQ8PRWCUv92IbbZbLh.jpg"" width=""714"" height=""299"" /></p>",2021-12-07 12:26:57,2022-01-19 13:20:14
+11,1,4,Visual Priority Tracking,"<h1><a name=""_Toc63758105""></a><strong>Visual Priority Tracking</strong></h1>
+<p>&nbsp;</p>
+<ul>
+<li>Traxidy tracks project priorities and recommended next best actions.</li>
+<li><strong>Items in RED</strong>, including the overall status of any project, should be looked at right away. Click on the RED in any chart to see the area records and take control.</li>
+<li>Some Traxidy Areas like the <strong>Dashboard, Actions</strong> <strong>Issues Decisions</strong> include multiple charts that track key data including the expected timing for activities and the days remaining between start and end dates.</li>
+</ul>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Set your Alerts &amp; Notifications for each project, in <strong>Project Settings</strong>, so you can receive timely reminders of Actions that are close to their due date or past-due along with notices of upcoming meetings. Go to <strong>Project Settings (Gear Icon) / Alerts &amp; Notifications</strong>.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Gq5paezWvIJ9Bsn76qn45aHXby8IXHuHz05qtzQM.jpg"" /></p>",2021-12-07 12:28:49,2022-01-19 13:19:23
+13,1,5,Change Your Password,"<h1>Change Your Password</h1>
+<p>&nbsp;</p>
+<ul>
+<li>From Account / My Settings, click <strong>Change Password</strong> if you want to reset your password or change it for security reasons. To change your password, you need to enter your current password, then enter a new one twice.</li>
+<li>Remember your password must contain at least 8 characters, upper and lower case letters with at least one number and character. Click <strong>Save Changes</strong>.</li>
+<li>The next time you log in you will need to use your new password.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/gnjT52ztizRSju1fQQXLdQhRcKFczzAxJD5swk1C.jpg"" /></p>
+<p>&nbsp;</p>",2021-12-07 12:54:06,2022-01-19 13:26:11
+14,1,5,Receive Updates from Traxidy,"<h1>Receive Updates from Traxidy</h1>
+<p>&nbsp;</p>
+<p>Our initial settings are setup to email you directly with any of the latest important Traxidy software updates and you receive the best ways to utilize Traxidy through our Tips and Tricks information.</p>
+<p>&nbsp;</p>
+<p>To be the first to receive our latest blogs, before it gets to our website, check the box for the Traxidy Blogs and News.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/ZXX4Vaskly95m7Alip7UbtHod1OxImd1PTUde6Zv.jpg"" /></p>",2021-12-07 12:58:00,2022-01-19 13:25:44
+15,1,5,See Your Billing Information,"<h1>See Your Billing Information</h1>
+<p>&nbsp;</p>
+<p>We make it easy for you to see and report your Membership billing. We include the ability to print a receipt at any time.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/CQN7imdMOY2oGihoD2d1EoAOnGJrQ1KDZ0O6d8hQ.jpg"" width=""1009"" height=""224"" /></p>",2021-12-07 12:59:46,2022-01-19 13:28:10
+16,1,6,Settings for Each Project – Dates & Meetings,"<h2><a name=""_Toc63758111""></a>Settings for Each Project &ndash; Dates &amp; Meetings</h2>
+<p>&nbsp;</p>
+<ul>
+<li>Multiple settings are available for each project. Easily tailor multiple project settings including different delivery phases, work days, date formats and colors.</li>
+<li>The <strong>Project Settings Gear</strong> is always available in each of the <strong>Areas</strong> for any <strong>Project </strong>on the Top Navigation bar.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/C8iQbAUAMJK0bhmf5hs7rLgcrEGpaWrSmiGd5o9U.jpg"" width=""838"" height=""290"" /></p>
+<h3>&nbsp;</h3>
+<h3>Dates and Format</h3>
+<ul>
+<li>From Project Settings, select your specific Project Settings including <strong>Dates &amp; Meeting Types</strong></li>
+<li>Traxidy Project Setting default includes: 5 Work Days per Week, YYYY-MM-DD Date Format.</li>
+<li>Select the appropriate Work Days and Date Format for your specific project.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Project Meeting Types</h3>
+<ul>
+<li>From Project Settings, select your specific <strong>Project Meeting Types</strong> including Project Team (PT), Steering Committee (SC), Unscheduled (UN), and more, with the option to add your own with the <strong>New Meeting Type</strong></li>
+<li>Creating a<strong> New Meeting</strong> becomes easier with Traxidy. Simply select the <strong>Meeting Type</strong> and all of your contacts that are connected to that Meeting Type will automatically be added for quick invitation set-up, attendance tracking and easier Meeting Minutes.</li>
+<li>The<strong> Meeting Type</strong> helps you save time and simplifies scheduling and reporting and supports the automation of Meeting Minutes.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/5FPoalyNh0C2vCvqvbZyIgetGIoNRxJCJxa5uNJw.jpg"" width=""880"" height=""611"" /></p>",2021-12-07 15:02:39,2022-07-12 05:00:19
+17,1,6,Set Your Branding and Colors,"<h2>Set Your Branding &amp; Colors</h2>
+<p>&nbsp;</p>
+<ul>
+<li>You can adjust the colors of select Traxidy views to better suit your company&rsquo;s brand or a specific project&rsquo;s brand.</li>
+<li>Click on the <strong>Project Settings Gear</strong> in the top Navigation bar of each project to access Project Settings, and then click <strong>Branding &amp; Colors</strong></li>
+<li>Select a color theme that will be applied throughout Traxidy, along with color options for the High-Level Plan and supporting elements.<br /><br /></li>
+</ul>
+<h3>Add Your Brand Logo to Traxidy Reports</h3>
+<ul>
+<li><strong>Your brand logo</strong> can be added to all the Traxidy Reports. Under Project Settings, click <strong>Branding &amp;</strong> <strong>Colors </strong>and add your logo. Logo file formats include JPG, GIF or PNG and maximum size is 800KB.</li>
+<li>Your logo will be added and anchored to the<strong> </strong>top right corner of all Traxidy Reports including the Risk Management Report, High-Level Plan, Meeting Minutes and Project Status Reports.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/USiulYXfX1GGhYmKTVnPq4H3eGIXeiiPHC9BMTzG.jpg"" /></p>",2021-12-07 15:33:06,2022-04-18 16:02:11
+18,1,6,Set Project Alerts & Notifications,"<h2><a name=""_Toc63758113""></a>Set Project Alerts &amp; Notifications</h2>
+<ul>
+<li>Alerts &amp; Notifications are &lsquo;by Project&rsquo;</li>
+<li>Click on the <strong>Project Settings Gear</strong> in the top Navigation bar of each project to access Project Settings, and then click <strong>Project Alerts &amp; Notifications</strong>.</li>
+<li>Easily turn Alerts On and Off and select the specific notification timeframe in which you would like to receive updates.</li>
+<li>View <strong>Alerts &amp; Notifications</strong> quickly from the <strong>Bell</strong> <strong>icon</strong> in the top Navigation bar on the <strong>Dashboard.</strong></li>
+<li>Project Alerts &amp; Notifications defaults are set when a project is within 10 days of the project end date, when an action is overdue, the day before a scheduled meeting and when a contact has made an edit to their action.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/uucJFcqUYC51tPRNQj2R8ivdqHAFIHQ2nLygQVkE.jpg"" width=""938"" height=""638"" /></p>",2021-12-07 15:35:07,2021-12-07 15:53:27
+19,1,6,Set the Project Risk Rank Line,"<h2><a name=""_Toc63758114""></a><strong>Set the Project Risk Rank Line (RRL)</strong></h2>
+<ul>
+<li>To Set the Project <strong>Risk Rank Line</strong>, click on the Project Settings Gear in the top Navigation bar of your project to access Project Settings, and click <strong>Risk Rank Line (RRL).</strong></li>
+<li>Traxidy helps you to track and manage project risks with each risk getting a <strong>Risk Score</strong> of <strong>Probability multiplied by Impact</strong>.</li>
+<li>Traxidy ranks the risks that have a Risk Score <strong>equal to or above</strong> the Risk Rank Line (RRL).</li>
+<li>The RRL helps track the most important risks that need to be monitored and managed.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/O3kZy9Ew2u3IT9LL2172YlfCljP56SJTxU7xZtwl.jpg"" /></p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/LPGv2TE7IfU8lVByzUjrMXjQ5btOHSGQgRpx5KPY.jpg"" /></p>",2021-12-07 15:37:09,2021-12-07 15:37:09
+20,1,6,"Traxidy Risk Score, Line and Rank","<h2>Traxidy Risk Score, Line and Rank</h2>
+<h3>Risk Score is calculated for Each Risk</h3>
+<ul>
+<li>When a new risk is recorded in the <strong>Project Risks </strong>Area, you will select the percent <strong>Probability</strong> of the risk occurring and the level of <strong>Impact</strong> the risk would have, to create the Risk Score.</li>
+<li>Each risk receives a <strong>Risk Score</strong>. Each risk is evaluated by you and your team by applying both a percentage<strong> Probability </strong>(that the risk will happen) and the<strong> Impact </strong>the risk would have on the project (if it was to occur). The multiplication of these two numbers is the <strong>Risk Score.</strong></li>
+</ul>
+<ul>
+<li>The higher the <strong>Risk Score</strong>, the more critical it is to manage the risk.</li>
+</ul>
+<h3>The Cut-Off is at the Risk Rank Line (RRL)</h3>
+<ul>
+<li>Risk Rank Line (RRL) helps you to set apart and track the risks that are seen as important and need to be monitored and managed.</li>
+<li>The RRL is set by you in Project Settings, through your selection of a risk threshold based on a specific Probability and Impact level. The RRL <strong>is the cut-off point for ranking your risks</strong>.</li>
+</ul>
+<ul>
+<ul>
+<li>If the RRL is set <u>too low</u>&mdash;most risk scores will be <strong>above the RRL</strong> and most risks will then be ranked and will appear to be important.</li>
+<li>It would be expected that all ranked risks be monitored and managed. Traxidy prioritizes and reports these risks for you.</li>
+<li>If the RRL is set <u>too high</u>&mdash;most risk scores will fall <strong>below the RRL</strong><strong> </strong>and <strong>will not be </strong><strong>ranked. </strong>Traxidy will record but not prioritize and report these unranked risks.</li>
+<li>The Project Risk Rank Line can be <strong>changed at any time</strong>.</li>
+</ul>
+</ul>
+<h3>Important Risks are Ranked Risks</h3>
+<ul>
+<li>In Traxidy, if a risk is &lsquo;<strong>Ranked&rsquo;</strong> it will be shown to be important, it will be tracked and reported and you will need to manage or work on it. It will have a Risk Score <strong>equal to or above the RRL</strong>.</li>
+<li>If a risk is <strong>not &lsquo;Ranked&rsquo;,</strong> it is not tracked or monitored or reported and does not need to be actively managed by you. It will have a Risk Score <strong>below the RRL</strong>.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img style=""float: left;"" src=""https://backend-apis.traxidy.com/storage/uploads/4PYYVePhKP4xv2kFG2pEMpr1T60C8UYjkYIJZM41.jpg"" /></p>
+<p>&nbsp;</p>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3>PROJECT EXAMPLE:</h3>
+<p>For this example the Risk Rank Line (RRL) has been set in Project Settings with the Probability <strong>70%</strong> and Impact <strong>3</strong> out of 5.</p>
+<ul>
+<li>The Risk Rank Line = 70 x 3 = 210.</li>
+<li>The Project RRL is set at <strong>210</strong>.</li>
+</ul>
+<p>For this example,<em> &lsquo;There is a new risk to the project that the development team will not be able to hire a new resource when they are needed for the project.&rsquo;</em></p>
+<ul>
+<li>The Team estimates a<strong><em> Probability</em></strong> of this risk occurring at <strong>75%</strong></li>
+<li>The Team estimates an<strong><em> Impact</em></strong> to the project if this risk was to happen at <strong>4</strong> out of 5</li>
+<li>The Impacted Key <strong>Constraint</strong> for this risk is the <strong><em>Schedule</em></strong></li>
+<li>The calculated<strong> Risk Score</strong> is 75 x 4 = 300</li>
+<li>This Risk Score of 300 is above the Risk Rank Line (RRL) of 210&mdash;so this risk <em>will</em> show as a &lsquo;Ranked Risk&rsquo;.</li>
+<li>All &lsquo;Ranked Risks&rsquo; are listed in order of their Risk Score, with the highest Risk Score ranked #1.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/eYID1CyQGIdUuSOZ9p1rlPySz8jx4Pe8wFhEPVfQ.jpg"" /></p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Some of your projects may be more or less sensitive to risks and the time required to manage those risks. Traxidy gives you the ability to match that sensitivity and control the Risk Rank Line (the Risk Score cut-off) for each specific project.</p>
+<h3>Select Your Color for Top Ranked Risks</h3>
+<ul>
+<li>Traxidy provides the option to color-code a select number of Top <strong>Ranked Risks</strong> for at-a-glance priority views.</li>
+<li>Traxidy tracks all ranked open risks, and provides the option to add a color bar to the risk records in the <strong>Risk </strong>Area with the <strong>highest Risk Scores</strong>, to assist in priority views and discussions.</li>
+<li>In your Project Settings, click <strong>Risk Rank Line</strong>, and <strong>Color for Top Ranked Risks</strong>.</li>
+<li>Select the number of Top Ranked Risks and the associated color to easily identify priority risks.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/jXOxSKMjOd8zb2T1t0ARONLicnHnskZVKW2Yt24v.jpg"" width=""841"" height=""530"" /></p>",2021-12-07 15:42:11,2021-12-07 15:56:39
+21,1,6,Set Project Delivery Process Phases,"<h2><a name=""_Toc63758115""></a><strong>Set Project Delivery Process Phases</strong></h2>
+<p>&nbsp;</p>
+<ul>
+<li>Click on the <strong>Project Settings Gear</strong> in the top Navigation bar of each Project to access Project Settings, and the click <strong>Project Delivery Phases.</strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Choose the Project Delivery Phase for your specific project. We&rsquo;ve provided a list of standard delivery phases as the default, along with the option to select a more complex list of phases and the <strong>opportunity to create your own list</strong> to better suit your project or the delivery phases expected to be used.</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>The current Project Delivery Phase for each project is reported in multiple Traxidy Areas including the <strong>Dashboard, Project Information, Constraints GYR and Project Status.</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong><img src=""https://backend-apis.traxidy.com/storage/uploads/RSrFM0QqwHLk9A2OnnRYumJccpXHNKksTs5gMaak.jpg"" width=""848"" height=""521"" /></strong></p>",2021-12-07 15:46:10,2022-04-18 16:01:44
+22,1,7,Start with Your Dashboard,"<h2><a name=""_Toc63758117""></a>Start with Your Dashboard</h2>
+<p>&nbsp;</p>
+<p>When you log into Traxidy, your <strong>Dashboard</strong> is where you start. Your priority work for all your projects will be clear from the colors and tracking information, so you can easily determine next best steps.</p>
+<p>&nbsp;</p>
+<ul>
+<li>The <strong>Dashboard</strong> helps you quickly focus on priority work across all projects with data visualization, <strong>interactive charts and color-coded information</strong>.</li>
+<li>The information tiles at the top of your Dashboard will alert you to <strong>Past Due Actions, Projects in Red, Projects in Yellow </strong>and<strong> Pending Changes</strong>.</li>
+<li>Your Dashboard includes a <strong>Project Record</strong> and an overview status for each project. Project Record features include:
+<ul>
+<li><strong>Overall Project Status</strong> rating, shown as Green (G), Yellow (Y) or Red (R).</li>
+<li>Your high priorities shown in Red (R).</li>
+<li>A quick check of each project&rsquo;s status with color-coded charts including Actions, Issues, Decisions (AID), Risks and Changes.</li>
+</ul>
+</li>
+<li>Click the&nbsp;<strong>Project Name</strong>&nbsp;to go directly to&nbsp;<strong>Project Status</strong></li>
+<li>Click the&nbsp;<strong>Overall Project Status</strong>&nbsp;Timeframe Chart to go directly to&nbsp;<strong>Constraints GYR</strong></li>
+<li>Click a&nbsp;<strong>Project Chart (AID, RISKS&nbsp;</strong>and<strong>&nbsp;CHANGES)</strong>&nbsp;to go directly to that Project Area for more details.</li>
+<li>Click <em>anywherre else</em> on a <strong>Project Record</strong> to go directly to the <strong>Project Information</strong> Area for more details.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/G4KXW1K22eeikzIg1nE67sqFNVsatw8uFZ8mPDKI.jpg"" width=""974"" height=""561"" /></p>",2021-12-08 05:31:47,2022-04-18 15:56:24
+23,1,7,Start a New Project,"<h2>Start a New Project (from here)</h2>
+<ul>
+<li>To add a New Project to Traxidy, start from your <strong>Dashboard</strong> Area and click the <strong><em>+ New Project</em></strong> Alternatively, you can click the &ldquo;+&rdquo; in the Main Menu beside the <strong>Projects</strong> title.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/0TszXrXfOuZ1nTfqFfr7ZlYOjdsYiu3lO79m4tl3.jpg"" width=""826"" height=""317"" /></p>
+<ul>
+<li>New Project pop-up windows provide an easy way to add the basic project information.</li>
+<li>There are three (3) sections in the pop-up windows which ask for:</li>
+</ul>
+<ol>
+<li style=""text-align: left;""><strong> </strong>Project Details</li>
+<li style=""text-align: left;""><strong> </strong>Sponsor</li>
+<li style=""text-align: left;""><strong> </strong>and Dates</li>
+</ol>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/DQ8aUlFO6QvOVqCT8b4Tc1sXehSda6GpnI75C4uo.jpg"" width=""820"" height=""776"" /></p>
+<ul>
+<li>Fill in the information that you know as you start but only the project name is needed on the first window. Later you can add or change any of the other information in the Project Information Area. You can update the information at any time.</li>
+<li>Add the name of your <strong>Project Sponsor</strong> and email and any other details you have. This will go into your Contacts list for the project.</li>
+<li>Next, the dates for he project. The End Date may be an <strong>Estimate </strong>when you first set up the project, before your final project plan is complete. These can be updated in the Project Information Area once the details are Firm.</li>
+</ul>",2021-12-08 05:40:05,2021-12-08 05:41:43
+24,1,7,Video: Getting Started with the Traxidy Dashboard,"<h2><strong>Getting Started Guided Tour</strong></h2>
+<h4>The Getting Started Area has a guided tour video regarding the use of the Dashboard or use the link <a title=""Traxidy Dashboard Overview"" href=""https://youtu.be/22pWIym9krs"">HERE</a>.</h4>
+<h3><span style=""color: #1319ee;""><em>Tips! </em></span></h3>
+<p>To save you time, you only have to type a contact&rsquo;s name into Traxidy once. From then on, it can be easily found in a contact drop-down field and added for any project.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",2021-12-08 05:48:44,2021-12-08 05:48:44
+25,1,8,Add a New Project,"<h2><a name=""_Toc63758119""></a>Add a New Project</h2>
+<p>&nbsp;</p>
+<p>To add a New Project to Traxidy, start from your <strong>Dashboard</strong> Area and click the <strong><em>+ New Project</em></strong> button. Alternatively, you can click the &ldquo;+&rdquo; in the Main Menu beside the <strong>Projects</strong> title.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/BaJB0G95NT6ido6EYcGo6xjPBasmjMS70PMDEp5D.jpg"" width=""748"" height=""279"" /></p>
+<p><strong>New Project</strong> <strong>pop-up windows</strong> provide an easy way to add the basic project information.</p>
+<p>There are three (3) easy to complete sections of information including details, key contacts and dates. Get started with the information you know, and update with more details at a later time:</p>
+<ol>
+<li><strong> </strong><strong>Details</strong> (Project Name, Scope, Budget and Deliverables)&mdash;Fill in the information that you know, including the Project Name and the Original Budget Amount. This may be an <strong>Estimate</strong> when you first set up the project. If so, set the <em>Status</em> of the budget in the drop-down to <strong>Note:</strong> Currency will appear as USD unless otherwise selected.</li>
+<li><strong> </strong><strong>Key Contacts</strong> (Sponsor information)&mdash;Add as much of the Project Sponsor information as you have.</li>
+<li><strong> </strong><strong>Dates</strong> (Project Start and End Dates)&mdash;The Project End Date may be an <strong>Estimate </strong>when you first set up the project, before your final project plan is complete. This <em>Status</em> can be updated in the <strong>Project Information</strong> Area once the details are <strong>Firm</strong>.</li>
+</ol>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/EEjIC67aZKCteG8wvvYJ7jfnaMksiRcN0XHQUEPv.jpg"" width=""693"" height=""417"" /></p>
+<h3>&nbsp;</h3>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>To save you time, you only have to type a contact&rsquo;s name into Traxidy once. From then on, it can be easily found in any contact drop-down field.</p>
+<p>&nbsp;</p>
+<h3>Key Constraints &amp; Importance</h3>
+<p><strong>Consider</strong>: Which of the three main project constraints are the most important for <em>this</em> project, Scope, Schedule or Budget? Is one more important than another?</p>
+<ul>
+<li>Understanding the relative weighting of importance of the three main project constraints, Scope, Schedule and Budget helps you to better understand the criticality of successfully managing each of these project aspects. This is especially true if changes are needed later in the project. In the <strong>Key Constraints Weighting</strong> section, the Key Constraints and weighting of importance will total 100%.</li>
+</ul>
+<p>&nbsp;</p>
+<h4>Best Practice</h4>
+<p>Reviewing <strong>Key Constraint Weighting</strong> of importance with your Project Sponsor is a great opportunity to clarify the importance of each constraint. It is vital that all team members are aware and aligned on the key constraints and relative importance for a specific project.</p>
+<p>&nbsp;</p>",2021-12-08 05:56:25,2022-04-18 16:00:06
+26,1,8,The Value of a Scope Statement,"<h3>The Value of a Scope Statement</h3>
+<p>A New Project set up includes detailing the Project Scope Statement.</p>
+<ul>
+<li>The project <strong>Scope Statement</strong> usually comes from knowledge of the project through a project requirements document.</li>
+<li>Make the Scope Statement as long and as detailed as you need. The text box is unlimited.</li>
+<li>The Scope Statement builds upon the key deliverables and expected benefits, the schedule and budget. Add the information you have now and update with more details following discussions with your stakeholders and especially with your sponsor or client.</li>
+<li>The Scope Statement provides a key piece of information when exporting or printing the <strong>Project Information</strong> Area in Traxidy. The resulting report can be used as a high level Project Charter.</li>
+</ul>
+<p>The Scope Statement can be <strong>updated anytime in the Project Information</strong> Area</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/OIQ9MRUhtzm57v26U0oyug89QrkB7AauZ8hlCT6k.jpg"" width=""405"" height=""558"" /></p>",2021-12-08 06:20:04,2021-12-08 06:20:04
+27,1,8,Key Dates & Original Budget: Firm or Estimate,"<h2><a name=""_Toc63758121""></a>Key Dates &amp; Original Budget: Firm or Estimate</h2>
+<p>A New Project set up includes the addition of key project dates.</p>
+<ul>
+<li>Select the <strong>Project Start Date</strong>, based on the agreed upon start date with sponsor and or clients. The start date will appear on the Project Information and Project Status Area and will be treated as firm.</li>
+<li>The <strong>Project</strong> <strong>End Date</strong> and the <strong>Budget </strong>are typically entered with an &lsquo;Estimate&rsquo; status to start, until the entire project plan has been presented to the client or sponsor and dates and costs become &lsquo;Firm&rsquo;.</li>
+<li>Once the project plan details and the <strong>End Date </strong>are agreed-to, then it is important to ensure the <em>Status</em> of the End Date is changed to Firm.</li>
+<li>Note that any change(s) to the Project End Date should be updated in the <strong>Approved</strong> <strong>Revised End Date </strong>in the<strong> Project Information </strong>Area<strong>.</strong></li>
+</ul>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p>Keeping an up-to-date record of changes is important and a key capability that Traxidy helps with. Remember that once your <strong>Project End Date</strong> is &lsquo;Firm&rsquo; then it is best practice to record any further changes to that date in the box titled <strong>Approved Revised End Date. </strong>A history of those<strong> changes are tracked</strong> in Traxidy for future reference.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/mk80pMtsJcZPrszPJrvP4LDeRXPu1hKoyPKdN8Sa.jpg"" width=""651"" height=""230"" /></p>",2021-12-08 06:28:30,2021-12-08 06:28:30
+28,1,8,Saving Your New Project Record,"<h2>Saving Your New Project Record</h2>
+<p>The last step in your New Project set up is the <strong>Save Project</strong> button.</p>
+<ul>
+<li>Once you have added all the basic project information including Details, Key Contacts, and Dates, click the <strong>Save Project</strong></li>
+<li>Your new Project Name will now appear as a record on your <strong>Dashboard</strong> and will be listed in your Main Menu under Projects.</li>
+<li>Click on your new Project Name in either the Dashboard or on the Main Menu and you will go directly to the <strong>Project Information Area.</strong> You can now easily access all your Traxidy Project Areas regarding that project.</li>
+<li>Saving the New Project <strong>takes you to the Project Information</strong> Access the project information to add/update details as needed. Your new project will now be added to the Dashboard.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/i6iG2YEoyKBiwC07q11tynRR2hSu9qsMNNzSDdbP.jpg"" width=""491"" height=""343"" /></p>",2021-12-08 06:29:42,2021-12-08 06:29:42
+29,1,9,Project Information Area,"<h2><a name=""_Toc63758125""></a>Project Information Area</h2>
+<ul>
+<li>Access a <strong>Project Information</strong> Area by clicking on the Project Name from your <strong>Dashboard</strong> Project Record or on the Main Menu.</li>
+<li>Each project will have its own <strong>Project Information</strong> Area for all project details including key contact names, key dates, revisions, budgets, scope statement and key constraints and key deliverables.</li>
+<li>Add project details anytime as they become available. The <strong>Project Information</strong> Area can support your Project Charter, simply click the <strong><em>Export</em></strong> button for the Project Information report if needed.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/s3gV9atLXa7HO4tcVOXmauobfVvxVxr1ZQKQAUIg.jpg"" width=""650"" height=""518"" /></p>",2021-12-08 08:09:04,2021-12-08 08:11:55
+30,1,9,Project Information Revisions & Updates,"<h2><a name=""_Toc63758127""></a>Project Information Revisions &amp; Updates</h2>
+<ul>
+<li>In setting up your new project, you may have set the <strong>Status</strong> for dates or budget as an <strong>Estimate</strong>. You can update the status and make it <strong>Firm</strong> and add or change other project information, at any time.</li>
+<li>Go ahead and make revisions and updates as needed. Simply hover over any data section to see the area behind the data turn gray, which allows you to make changes to that data.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/iQOW439TzPyDoC96rvDjQpMXWV7NKrZg26WWT7RB.jpg"" width=""732"" height=""468"" /></p>
+<p>&nbsp;</p>
+<h3>Project Deliverables</h3>
+<ul>
+<li>Project Deliverables will become clear as the project requirements come into focus. These should be listed by adding them in the Key Deliverables area, and updated as required as the project plan is developed and approved.</li>
+</ul>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Remember to ensure that each Deliverable listed in the <strong>Project Information</strong> Area is represented in the High-Level Plan. When working with the <strong>HL Plan</strong> also remember to update both the Milestones in the <strong>Project Status</strong> and the Deliverables in the <strong>Project information</strong>.</p>",2021-12-08 08:14:30,2021-12-08 08:14:30
+31,1,9,Linked Project Information Charts,"<h2><a name=""_Toc63758128""></a><strong>Linked Project Information Charts</strong><strong><u> </u></strong></h2>
+<p>&nbsp;</p>
+<ul>
+<li>Traxidy Area <strong>Charts</strong> are interactive and Project specific. Click-a-chart for quick and direct access to the specific Project Area and more detailed information.</li>
+<li>Click on any chart including <strong>Issues </strong>by Priority, <strong>Actions, Risks</strong> and <strong>Changes</strong> and go directly to that Traxidy Area for more information.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/RBmXnJUC5FsIsj9jPcybo8cRpqCs1cFpcxRYw0sE.jpg"" width=""719"" height=""541"" /></p>",2021-12-08 08:15:46,2022-04-18 15:55:59
+32,1,9,Activity Timeline,"<h2>Activity Timeline</h2>
+<ul>
+<li>The Traxidy <strong>Activity Timeline</strong> is a record of key project activities and the associated dates, with the most recent activity at the top of the list&mdash;for quick reference.</li>
+<li>The Activity Timeline list is auto-populated based on key project activities and updates including additions and edits:
+<ul>
+<li>New Project</li>
+<li>Overall Project Status</li>
+<li>Key Constraint Status</li>
+<li>Project Mode</li>
+<li>Delivery Phase</li>
+<li>Start Date</li>
+<li>Approved Revised End Date</li>
+<li>Original Budget</li>
+<li>Approved Revised Budget</li>
+<li>A Change Record Status = Approved</li>
+<li>An Issue Status = Escalated</li>
+<li>A Change Request Form created</li>
+</ul>
+</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/kiDedcNRckeD8xb4Qn4ZEe8SdprxwC3yKyq0TPoa.jpg"" width=""766"" height=""664"" /></p>
+<p>&nbsp;</p>",2021-12-08 08:17:36,2021-12-08 08:17:36
+33,1,10,What are Contacts?,"<h2><a name=""_Toc63758131""></a>What are Contacts?</h2>
+<ul>
+<li>Contacts in Traxidy are individual records that represent a single person.</li>
+<li>Each Contact must have a different email address.</li>
+<li>Contacts can have:</li>
+</ul>
+<ul>
+<ul>
+<li>Multiple <strong>Meeting Types</strong> that easily connects them as an invitee to multiple types of meetings when you set up the Project <strong>Meetings</strong> in Traxidy.</li>
+<li>A specific<strong> Project Role</strong> for each project. These can include roles such as Team Member, Subject Matter Expert, Key Stakeholder or another project role you want to choose.</li>
+<li>A collaboration <strong>Access Type</strong> different <span style=""text-decoration: underline;"">for each specific project</span> of:</li>
+<ul>
+<li><strong>Not Needed</strong></li>
+<li><strong>Contributor</strong>, that allows the contact to edit their own Actions or</li>
+<li><strong>Reviewer</strong>, to enable the Contact to view or review the Project Information, Project Status, Constraints GYR and High-Level Plan Areas directly in Traxidy.</li>
+</ul>
+</ul>
+</ul>",2021-12-08 08:19:47,2022-03-05 07:38:56
+34,1,10,Add a Contact,"<h2>Add a Contact</h2>
+<ul>
+<li>From the Project Contacts Area, click the + New Contact button and add the information in the pop-up window, including First and Last Name, and Email Address and click Save Contact. Contact Records can be updated anytime.</li>
+<li>Add all known Contacts that are connected with your project today and Contacts that might be connected with your project in the future.</li>
+<li>You can add more Contacts at any time.</li>
+<li>New Contacts can be added from a Project Contacts Area or from any Area with a Contact Name field. Simply start typing a Contact Name directly into a Name field. If the name is already in the system (<u>attached to any project</u>) it will appear, if it is not already in your Contacts then choose <strong>+ New Contact</strong> from the drop-down and complete the information.</li>
+</ul>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;""><em>Tips! </em></span></h3>
+<p>When using the <strong>+ New Contact</strong> form, start typing the first name into the field. If the person is already in your Traxidy system with any current or past project, the name and the registered email will appear. This Contact may have other details that are different for this particular project, so indicate the differences for your contact before saving.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/bnxOZiOZXJukLN8S0xLQm5zIJ6AyGCB1vjNYoG68.jpg"" width=""767"" height=""211"" /></p>",2021-12-08 08:29:14,2021-12-08 08:29:14
+35,1,10,Meeting Types,"<h2>Meeting Types</h2>
+<ul>
+<li>Contacts in Traxidy can be easily associated and connected with multiple Meeting Types for the Project, helping you save time when setting up meetings.</li>
+<li>Connect Contacts with the project Meeting Type(s) that the Contact would be invited to. Meeting types include Project Team, Steering Committee, Unscheduled and your specific Meeting Types (see Project Settings).</li>
+<li>Connect Contacts with any number of Meeting Types and save time:</li>
+</ul>
+<ul>
+<ul>
+<li>The Contacts become &lsquo;Members&rsquo; of that Meeting Type and are automatic &lsquo;invitees&rsquo; when you schedule that meeting (no need to enter their names again)</li>
+<li>The Contacts are automatically listed when you take attendance for that meeting</li>
+<li>The Contacts are listed when you create your automated <strong>Traxidy Meeting Minutes</strong>.</li>
+</ul>
+</ul>
+<h3>Save &amp; Add New Contact Button</h3>
+<p>Use the <strong><em>+ Save &amp; Add New Contact</em></strong> button to continue adding more contacts without going back to the main Contacts Area. This opens a blank New Contact information window and saves the contact and information that you just finished.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/RHXfhuGpWZH1h4KCdHPEes1UFRrrS6aCBp5yadgf.jpg"" /></p>",2021-12-08 08:30:43,2021-12-08 08:30:43
+36,1,10,Project Role,"<h2>Project Role</h2>
+<ul>
+<li>A Contact Project Role includes roles like Team Member, Steering Committee Member, and more. Add your own project role titles in the box.</li>
+<li>This Contact descriptor is used in Traxidy Meeting Minutes to provide information for anyone reading the Minutes about the Contact&rsquo;s role and purpose for attending the meeting.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/OmYmYFAOD5hwOYhasqbi9lkd9xctaidi2zfiZxb5.jpg"" /></p>",2021-12-08 08:32:20,2021-12-08 08:32:20
+37,1,10,Collaboration Access Types & Contacts,"<h2>Collaboration Access Types &amp; Contacts</h2>
+<ul>
+<li>Set up Contacts with a particular Collaboration Access Type to enable a level of collaboration access for a specific Project Area</li>
+<li>For many Contacts, there may be no need for a Collaboration Access Type associated with them. Access Type is not a required field and the default is <strong>Not Needed</strong>.</li>
+<li>Traxidy has two Access Types you can use when setting up any Contact:</li>
+</ul>
+<ol>
+<li><strong> </strong><strong>Edit Actions</strong>&mdash;Allow any Team Member to update their own <strong>Actions</strong> in the Traxidy Actions, Issues, Decisions (AID) Area</li>
+<li><strong> </strong><strong>Viewer</strong>&mdash;Provide a Key Sponsor or Manager with access to view your <strong>Project Information, Project Status</strong>, <strong>Constraints GYR</strong> and the <strong>High-Level Plan</strong></li>
+</ol>
+<h3><a name=""_Toc63758136""></a>Access Type: Edit Actions</h3>
+<ul>
+<li>Select Access Type, Edit Actions to enable a Contact to collaborate with you on your project with the ability for the Contact to go directly into the Traxidy Project AID Area and update any of their specific Actions (i.e. the Actions with their name set as the Owner) at any time.</li>
+<li>Note: the Actions must have the Contact Name listed as the Owner in the record for the Contact to be able to access and update.</li>
+</ul>
+<h3><a name=""_Toc63758137""></a>Access Type: Viewer</h3>
+<ul>
+<li>Select Access Type, Viewer to enable a Contact to collaborate with you on your project with the ability to go directly into Traxidy and view the specific project status Areas; Project Status, Constraints GYR, High-Level Plan, and Project Information.</li>
+<li>Contacts with Viewer access cannot make any edits or changes in the project.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/6rlV01aHhCi5V4hXuD50V4K1hwKBTea0lhroJdyB.jpg"" /></p>
+<h3><span style=""color: #1319ee;""><em>Tips! </em></span></h3>
+<p>While Access Type is not a mandatory field for any Contact, the <strong>Edit Actions</strong> access can save you time by allowing a Contact access to their Action items in your Traxidy Project AID Area, to update their work, before the next Team meeting.</p>
+<p>&nbsp;</p>",2021-12-08 08:35:12,2021-12-08 08:35:12
+38,1,10,Import Contacts to a New Project,"<h2>Import Contacts to a New Project</h2>
+<p>&nbsp;</p>
+<ul>
+<li>As you start a project and open the Contacts Area, select the <strong><em>Import</em></strong> button to open the <strong>Import Contacts</strong> window and then <em>Select Contacts From Any Project</em>.</li>
+<li>The listing of any previous contacts are collected in the All Contacts list, and helps you save time by allowing you to import and sync any of those existing contacts.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/jhDR35GcVL0xi7a3mmVicQDTss8BQA2mDd8qqRC0.jpg"" /></p>
+<p>&nbsp;</p>
+<ul>
+<li>Start to search for any name you have already used as a Contact in any project, or use the scroll bar and then select the person(s) you want to add then select <strong><em>Add Contacts to Project</em></strong></li>
+</ul>
+<p>&nbsp;</p>
+<h3>ADD Details: Meeting Membership, Role and Access Type</h3>
+<p>&nbsp;</p>
+<ul>
+<li>As each contact is put into the Contacts list for the project, ensure that each one has the proper <strong>Meeting Membership</strong> for this project and ensure their <strong>Project Role</strong> and <strong>Access Type</strong> for this project are also correct. Click the individual record to open the Contact details to make changes.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Y3BdoIPR7xNilbwfPWbDUEYp3St84chJjMcJFCm8.jpg"" /></p>",2021-12-08 08:38:29,2022-04-18 15:55:32
+39,1,11,Add a New Meeting,"<h2><a name=""_Toc63758139""></a>Add a New Meeting</h2>
+<ul>
+<li>Add meetings in Traxidy to easily record, track and update any project work and activities (Actions, Issues, Decisions, Risks and Changes) along with confirming attendance for that meeting in Traxidy.</li>
+<li>There are <strong>three </strong>(3) <strong>tabs</strong> in the Traxidy Meetings Area, including <strong>Upcoming</strong>, <strong>Past</strong> and <strong>Meeting Minutes</strong></li>
+<li>Traxidy Meetings also makes the creation of Meeting Minutes easy and quick with a full record of the activities.</li>
+</ul>
+<ol>
+<li><strong> </strong>To add a <strong>New Meeting</strong>, from the Meetings Area, click the <strong><em>+ New Meeting </em></strong></li>
+<li>A New Meeting pop-up window, will request Meeting <strong>Details</strong>. Add the meeting details, including the meeting Subject, Meeting Type, Date and Time.</li>
+</ol>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/ml8wzbu5tMAe0FPWTMEL52CWklFlfC2xgGsWt6YP.jpg"" /></p>
+<p>3. Choose whether the meeting repeats and the frequency (Daily, Weekly or Monthly). The maximum number of meeting repeat occurrences is 20. Click the <strong>Next</strong> <strong>&gt;</strong> button.</p>
+<p>4. On the New Meeting <strong>Invitees</strong> pop-up window, confirm the Invitees list based on the Meeting Type and add additional contacts if needed.</p>
+<p>5. New Meetings will be added to the Project Meetings Area under the <strong>Upcoming</strong> tab to easily view and manage.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/nPyVC56w7cgzCcDV0zyiYDBWQXe60e9L6EPeUDuK.jpg"" /></p>
+<p>&nbsp;</p>",2021-12-08 10:57:03,2021-12-08 11:06:42
+40,1,11,Start a Meeting by Confirming Attendance,"<h2>Start a Meeting by Confirming Attendance</h2>
+<p>&nbsp;</p>
+<p>Any meetings set for <em>Today</em> or in the future will appear on the <strong>Upcoming</strong> tab. Any meetings scheduled <u>before</u> <em>Today</em> will automatically move into the meetings <strong>Past</strong> tab.</p>
+<p><strong>Note:</strong> The <strong><em>Confirm Attendance </em></strong>button is <u>not visible</u> until the start date <em>and time</em> for the meeting has past.</p>
+<p>&nbsp;</p>
+<h3>Start the Meeting</h3>
+<p>There are two ways to take attendance as you begin your meeting.</p>
+<ol>
+<li><strong> </strong>Simply click anywhere on the meeting record to bring up the Meeting Details Window, then click on the <strong>Confirm Attendance</strong> Check the names expected to be there based on the Meeting Type and add contact name(s) for anyone else attending,</li>
+</ol>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/C9HEAp7hn8MKbXOZy1vZy7SedPQykCk98aeE5Ssl.jpg"" width=""785"" height=""474"" /></p>
+<p>&nbsp;</p>
+<p><strong>or</strong></p>
+<p>2. Click directly on the &lsquo;To Be Confirmed&rsquo; section in the meeting record, then check the names expected to be there based on the Meeting Type and add contact name(s) for anyone else attending.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/hRAbu9MpGqsKoLIV9Z7Hd5XciQsnoWz5r1Rd1RKC.jpg"" width=""791"" height=""482"" /></p>
+<h3>&nbsp;</h3>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Traxidy makes it easier than ever to create Meeting Minutes.</p>
+<p>After confirming attendance, use the Traxidy AID, Risks or Changes Areas during your meeting to easily record any new activities and updates. Once the meeting is over, you will notice the meeting record has a count of the meeting activities including new/edited Issues, Decisions, Risks and Changes listed for easy reference.</p>
+<p>&nbsp;</p>
+<p>Click on that meeting record at any time to see the details of the meeting and easily create the Meeting Minutes. The Issues/Actions, Decisions, Risks and Changes which were added or updated during the meeting, <u>will automatically be added</u> to the Meeting Minutes.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Hqdxpljr2vgNx2on3Ex90N9nSQ7T3T3Fhk4bKLnh.jpg"" width=""773"" height=""250"" /></p>
+<p>&nbsp;</p>
+<h3>Meeting Minutes can also be created <em>without</em> having a meeting record</h3>
+<p>Traxidy makes it easy to create Meeting Minutes even when a meeting has not been scheduled, assuming:</p>
+<ol>
+<li><strong> </strong>The meeting was Unscheduled or you did not have it listed in the <strong>Meetings</strong> Area, <em>and</em></li>
+<li><strong> </strong>The Issues, Actions, Decisions, Risks and Changes discussed in that meeting have been updated in Traxidy</li>
+</ol>
+<p>&nbsp;Simply click the <strong><em>Unscheduled Meeting Minutes</em></strong> button from the <strong>Meetings</strong> Area.</p>
+<p>&nbsp;</p>
+<p><strong>Note</strong>, as this meeting is considered &lsquo;Unscheduled&rsquo; there will not be any meeting record listed in the <strong>Meetings</strong> Area.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Zy9TvjAhaGM1AGlMELs68PEDuPgTbdC4E8j7eqdh.jpg"" width=""741"" height=""332"" /></p>
+<p>&nbsp;</p>
+<p>The Meeting Minutes Form <strong>opens with blanks</strong> in the Meeting Details and Attendees, and without any of the AID, Risks or Changes records pre-selected.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/1WazKpXkCtbeB3kqf8uHOAqMrhJWauWxfX1IJ5mc.jpg"" width=""737"" height=""397"" /></p>
+<p>&nbsp;</p>
+<p>As the meeting was unscheduled, <strong>add the meeting details</strong>, attendees and <strong>select the Activities</strong> (Actions, Issues, Risks, Changes, Decisions, and more) that were part of the meeting.</p>
+<p>&nbsp;</p>",2021-12-08 11:28:55,2022-04-18 15:54:43
+41,1,12,Meeting Minutes for Meetings Scheduled in Traxidy,"<h2><a name=""_Toc63758141""></a>Meeting Minutes for Meetings Scheduled in Traxidy</h2>
+<p>&nbsp;</p>
+<ul>
+<li>Start by choosing a meeting from the main <strong>Meetings</strong> If the meeting is more than a day old, you will find it listed in the <strong>Past<em> </em>Tab</strong>. If you are creating your Meeting Minutes on the same day you had your meeting, then look on the <strong>Upcoming Tab</strong>.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/6XY7Yyysvu2ijtNb1Hu81ysEpu2GVQdLKL6sG6Nk.jpg"" /></p>
+<p>&nbsp;</p>
+<ul>
+<li>Choose the meeting that you want to create the Meeting Minutes for &mdash; simply click on the Meeting Record to open the Record Details Window, and click the <strong><em>Create</em></strong> <strong><em>Meeting Minutes </em></strong>button.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/zxSAB6WxgoXlmDRwf6mtkTsWOT6j8mVXJErObzIB.jpg"" width=""726"" height=""361"" /></p>
+<p>&nbsp;</p>
+<ul>
+<li>The Meeting Minutes window will open with the meeting information automatically populated.</li>
+<li>Add a meeting Subject and also any free-text Comments regarding the meeting.</li>
+<li>The <strong>tabs</strong> for <strong>AID, Risks</strong> and <strong>Changes</strong> will show a list of the records associated with each and are presented based on your Meeting Recorded date, and provides a quick list for your review.</li>
+<li>Add or adjust any records for AID, Risks and Changes from the lists by checking or unchecking the boxes.</li>
+<li>Save the Meeting Minutes and send it out in email or store the file for sharing.</li>
+<li>Your historical Meeting Minutes will be saved in the <strong>Meeting Minutes Tab</strong> for your reference.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/DUwilhSfznhMqOkaEtMuIXpN7Ne7FIF0kj7eCMfr.jpg"" width=""729"" height=""439"" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",2021-12-08 11:31:15,2022-03-05 09:48:24
+42,1,12,Meeting Minutes Meetings Not Scheduled in Traxidy,"<h2>Meeting Minutes for Meetings <em>Not</em> Scheduled in Traxidy</h2>
+<p>&nbsp;</p>
+<ul>
+<li>If a Project Meeting was held without being scheduled in Traxidy, you can still easily create Meeting Minutes by clicking on the <strong><em>Unscheduled Meeting Minutes</em></strong> button on the <strong>Meetings Area</strong> and entering the information on the Meeting Minutes window.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/2AMblpSMLkdYE9ck7h8jOYXRSDc6MpWn0JOz1v59.jpg"" width=""723"" height=""326"" /></p>
+<p>&nbsp;</p>
+<ul>
+<li>Add the Meeting Details; Subject of the meeting, date of the meeting, select the Meeting Type and add any free-text Comments regarding the meeting.</li>
+<li>Add attendees from your Contact list.</li>
+<li>The <strong>AID tab</strong> shows first. Choose the records you want to have listed in the Meeting Minutes by clicking first on the tab for AID and on the boxes next to that record.</li>
+<li>The <strong>tabs for Risks and Changes</strong> will also show a list of the records associated with each. Again click on the boxes next to the records you want to incude in the Meeting Minutes.</li>
+<li>Save the Meeting Minutes and send it out in email or store the file for sharing.</li>
+<li>Your historical Meeting Minutes will be saved in the <strong>Meeting Minutes Tab</strong> for your reference.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/CTEWU3dbfJVhDz6TgPbopey4kc9QmbEJVbsoIPYP.jpg"" width=""723"" height=""442"" /></p>",2021-12-08 11:50:09,2022-03-05 09:47:35
+43,1,13,"Project Actions, Issues & Decisions","<h2><a name=""_Toc63758144""></a>Project Actions, Issues &amp; Decisions</h2>
+<p>&nbsp;</p>
+<p>Use Traxidy to easily record <strong>Issues</strong> as they are discovered, and manage all related actions effectively.</p>
+<p>Access AID from the left Navigation Panel, click Project Name and click <strong>Actions, Issues Decisions AID</strong>. You can also start from the Dashboard, and click on the AID chart in the Project Record</p>
+<h3>&nbsp;</h3>
+<h3>Use Traxidy to better track all your project work details in one place.</h3>
+<ul>
+<li>As the project <strong>plan is</strong> <strong>developed</strong>&mdash;Issues may be uncovered.<strong> </strong>Discussions, meetings and interactions lead to issues or key next steps that you need to record, track and report on as you work towards finalizing the plan.</li>
+<li>Once the project <strong>plan is</strong> <strong>set</strong>&mdash;Issues may be discovered<strong>. </strong>Discussions, meetings and interactions lead to Issues that potentially challenge the plan. Actions need to be accomplished to overcome the issues and keep the plan on track. Record, track and report all actions until the project is closed.</li>
+<li>The Traxidy <strong>AID</strong> Area is your place for all project Actions, Issues and Decisions (AID), including descriptions, priorities, owners, progress, due date and status.</li>
+<li>Record everything you want to track in your project&mdash;especially the day-to-day real work details that support the actual project plan or Gantt chart. As a project manager, you often manage many <strong>additional pieces of work</strong> that are not specifically noted on the project plan or Gantt Chart.</li>
+<li><strong>Collaborate with Action Owners.</strong> To collaborate with your team doing the work, ensure actions are connected with the proper owners<em>.</em> Set up the owner with the <strong>Access Type -</strong> <strong>Edit Actions </strong>(see <strong>Contacts</strong> Area, Access Type options).</li>
+<li>Also, ensure you have a scheduled due date for the action and let Traxidy do the tracking for you.</li>
+<li><strong>View and Sort by Issue or Priority</strong>&mdash;Simplify and direct meeting discussions by using the Sorting feature in AID. Quickly sort by issue and view all the associated actions across owners and dates or sort by priority, and focus your time on the highest priority issues and actions.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Status Tracking Helps You Focus</h3>
+<p>Traxidy does the action tracking for you, based on the action due date and multiple status intervals and provides a fast focus of the critical work that needs to be done.</p>
+<ul>
+<li>Action status due date intervals helps you focus. The AID Area <strong>Actions Overview</strong> chart and the record <strong>Due Status</strong> intervals include:
+<ul>
+<li>Past Due</li>
+<li>Due Today</li>
+<li>Due in 2 Days</li>
+<li>Due in 5 days</li>
+<li>Due Later</li>
+</ul>
+</li>
+<li>Quickly see all <strong>Actions Past Due </strong>by clicking the <strong>Status </strong>title above the AID Records to sort all action records. Past Due records will be at the top, then Due Today and so on, in the order of importance of the time remaining.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Easy Follow Up with Action &amp; Risk Owners</h3>
+<p>The way to save time and easily follow up and get Action (or Risk planning) updates directly from Owners is to ensure the Contact and Owner of an Action or Risk, is setup to collaborate on the project with you.</p>
+<p>In the Contact Details, ensure the Owner has the Access Type - Collaborator (see Contacts Area, Access Type options). This will grant the Oner access to Traxidy and only the Actions or Risks they are connected to as ""Owners"". They <span style=""text-decoration: underline;"">see nothing else</span> other than the Project Information Area.</p>
+<p>This will allow the Action Owners to see and update their specific Actions or Risks anytime. Once anyone with Contributor Access has updated their work, the system has a notification show in the Notification Bell at the top of the Dashboard Area (or email as set up in Project Settings will be sent to you) showing the latest update and exactly when it was done.</p>
+<h3>&nbsp;</h3>
+<h3>Important Charts in AID</h3>
+<p>There are three charts to easily visualize your project priorities for Actions, Issues and Decisions and next best steps.</p>
+<ol>
+<li><strong> </strong><strong>Issues by Priority:</strong> get a quick view of the total number of issues by priority including Escalated, High, Medium and Low.</li>
+<li><strong> </strong><strong>Actions Overview:</strong> view of all Actions and status for quick focus.</li>
+<li><strong> </strong><strong>Decisions Made:</strong> tracking the Decisions made by date across the project timeframe.</li>
+</ol>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/UJ70rmxoJILR4NRdNmVEeLz1EKB9AZkVDgbFCjm7.jpg"" width=""779"" height=""255"" /></p>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Remember &ndash;Traxidy is your guide and tracker of all the day-to-day real pieces of work that arise as you build and finalize the plan. Issues and stresses on the project plan will happen and Traxidy can help you stay on top of this work and be successful with the delivery of the project.</p>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p>As you build your plan and work through issues and associated actions with project team contacts, also <strong>listen for potential risks</strong> to the project success. Easily record and monitor the risks with the highest probability of occurring and the biggest impact on the project, with the Traxidy <strong>Risks</strong> Area.</p>
+<p>&nbsp;</p>",2021-12-08 12:06:19,2022-03-05 09:53:06
+44,1,13,Add New Issue with Actions,"<h2>Add New Issue with Actions</h2>
+<ul>
+<li>An &lsquo;<strong>Issue&rsquo;</strong> in Traxidy is a main concern currently having a negative effect on the project, that needs to be overcome during the project. While the &lsquo;<strong>Action&rsquo;</strong> or <strong>multiple</strong> <strong>Actions</strong> are the work effort required to overcome that Issue. Every action needs ownership and scheduled timing&mdash;both of which are easy to record and track in Traxidy.</li>
+<li>To create a New Issue and the associated Action(s) click the <strong><em>&lsquo;+ New Issue&rsquo;</em></strong> button from the <strong>Actions Issues Decisions (AID)</strong> Area</li>
+<li>An AID pop-up screen will allow you to record the <strong>Issue Description</strong> (keep it brief), the priority level and the first <strong>Action</strong> associated with that <strong>Issue</strong>.</li>
+<li>Be sure to choose an <strong>Owner</strong> who is taking the action or will at least report on its progress to you and the Project Team. Record a <strong>Due Date</strong> for the action to be</li>
+<li>If there are more actions to be recorded and associated with this same Issue, click <strong>+ Save &amp; Add New Action</strong> button and continue with the action information again.</li>
+<li>When all actions connected to this issue have been added, simply click the <strong>Save Action<em> </em></strong>button and each record will all be listed in the AID Area.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/pJSnkhbxVA6QpS2HkVy5ZSalCTtqYFepxljTH2Fe.jpg"" width=""806"" height=""486"" /></p>
+<h3><span style=""color: #1319ee;""><em>Tips! </em></span></h3>
+<p>You may want to add information to the issue description, including a reference to what Task # this issue is related to in your planning application e.g. Microsoft Project.</p>
+<p>&nbsp;</p>
+<h3>Issue Info is a Separate Tab</h3>
+<p>The Issue Description is available on a separate <strong>tab</strong> in the record details window. Click on an <strong>AID Record</strong> to open its record details window.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/qh1GcvmH4cxrc9nCK2BMY42fLF992j2nJxnTTJsB.jpg"" width=""819"" height=""360"" /></p>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p>The Issue Description is a clear, concise statement of the problem and should remain consistent over time. If the Issue Description needs to change, we suggest that you start a new issue and associated actions to keep your records straight. This works to minimize confusion later on.</p>
+<p>&nbsp;</p>",2021-12-08 12:19:59,2021-12-08 12:19:59
+45,1,13,Recording Decisions,"<h2>Recording Decisions</h2>
+<p>&nbsp;</p>
+<p>In Traxidy, we link Decisions with a specific issue or action. Decisions typically have a major impact on the direction or plan of a project and will be recorded, tracked and reported throughout the project.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Register Decisions</strong> &ndash;Click on the Action Record to open the Record Details Window, then select a <strong>Decision Made</strong> status from the drop-down box to register a Decision having been made.</li>
+<li>Record Decisions &ndash;It is critical to ensure text is recorded in the <strong>Update Action</strong> box which fully explains the Decision including why it was made, what the actual decision was, and who made or approved the decision.</li>
+<li>The <strong>Decisions Made chart</strong> shows the date and decisions made over the project timeframe.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/FPFwkVXXcp2yHprRSYdKo4eVlNL4cW0FeVpuO847.jpg"" width=""820"" height=""373"" /></p>",2021-12-08 12:31:53,2022-03-05 09:51:43
+46,1,13,Easily Update Actions and Issues,"<h2>Easily Update Actions and Issues</h2>
+<ul>
+<li>Every Action update that is recorded in Traxidy is available in the <strong>Action History</strong> for that record. Easily see how the information or movement of the work has changed over time. This includes recording and tracking the <strong>Progress</strong> at each update.</li>
+<li>Click on the Action Record to open the <strong>Action Record Details</strong> <strong>Window,</strong> to access and view the Action History section.</li>
+<li>You can add more Actions and make updates at any time. S&shy;&shy;imply click on the AID Record and the AID Record Details Window will open on the right side. Add a new Action Description and Save Updates.</li>
+<li>When the Action is completed set the <strong>Status</strong> to <strong>Closed</strong>, and the record moves to the <strong>Closed tab</strong>.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/YyC8YE3Sum8R5fhe2wGL18Ykr5o1SlRSyj0NolUP.jpg"" width=""771"" height=""497"" /></p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Updates to actions are typically made during meetings or discussions with Team Members. Have Traxidy ready on the <strong>AID</strong> Area and update actions as they are discussed.</p>
+<p>Remember to be concise and brief when entering or updating information.&nbsp; This will ensure clarity of meaning and understanding of the information, over the timeframe of the project.</p>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p>If a report of the meeting is required, use the Traxidy automated Meeting Minutes function once your meeting has concluded. It will take minutes to produce a professional Meeting Minutes document (see <strong>Meetings</strong> Area). Sending out timely, consistent and comprehensive Meeting Minutes continues to build trust as the project leader.</p>
+<p>&nbsp;</p>",2021-12-08 12:34:29,2021-12-08 12:34:29
+47,1,14,Capture and Record Risks,"<h2>Capture &amp; Record Risks</h2>
+<ul>
+<li>Use the Traxidy<strong> </strong><strong>Risks </strong>Area to record all project risks.</li>
+<li>Access the project<strong> </strong><strong>Risks</strong> Area directly from your<strong> </strong>From the project record, click on the Risks Chart. Alternatively, from the Project Information Area, you can click on the <strong>Risks Overview</strong> Chart or go to the <strong>Main Menu</strong>, and select <strong>Risks.</strong></li>
+<li>Collect and record risks as you learn about them. Remember managing a Risk register is not an exact science &mdash; it helps to record all known Risks, each with varying levels of probability and impact.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/dike0x1rrlGnAhN2T2UCmcMFWnIhMzuERVf7tqtD.jpg"" width=""809"" height=""273"" /></p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/ylfWB92l0NyzYwzmZd5m3k3O0eztkJgkfg1j7JaK.jpg"" width=""848"" height=""423"" /></p>",2021-12-08 12:37:24,2021-12-08 12:39:28
+48,1,14,Add a Risk,"<h2>Add a Risk</h2>
+<p>From the Main Menu click <strong>Risks</strong>. In the <strong>Risks</strong> Area, click the <strong>+ New Risk</strong> button.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/kolFIyLOVUhh5cU48Xhu3Vvj5YjDn9f7P4TtUf4b.jpg"" width=""866"" height=""416"" /></p>
+<p>&nbsp;</p>
+<h3>Risk Assessment &amp; Prioritization</h3>
+<ul>
+<li>Start with the <strong>Risk Statement</strong> and describe the Risk in a short sentence. The description could start with words like &lsquo;<em>There is a risk that &hellip; may happen, and if it happens then it will affect the project key constraint of &hellip;&rsquo;</em></li>
+<li><strong>Reminder</strong>: A Risk is something that <em>may</em> happen <em>and</em> <em>will</em> have an impact on your project.</li>
+<li>Use Traxidy as your step-by-step guide to assess a risk and prioritize the work on the risk, by following the next steps:</li>
+</ul>
+<ol>
+<li><strong> </strong>Record the Risk and Identify the Constraint(s) Impacted</li>
+<li><strong> </strong>Calculate the Risk Score through Probability &amp; Impact</li>
+<li><strong> </strong>Obtain the Risk Ranking &amp; Prioritization</li>
+</ol>
+<h3>Identify the Key Constraint Impact</h3>
+<ul>
+<li>In the Impacted Key Constraint drop-down box, indicate which key project constraint(s) will be impacted the most.
+<ul>
+<li>Indicate whether it is the Scope (or Goals, Benefits), Schedule or Budget or a combination.</li>
+<li>This helps to better understand the risk and what might be done to reduce the impact (Mitigation) or the when developing a strategy if the risk presents itself (Contingency).</li>
+</ul>
+</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/WBpBpFvy3YBHmzvDsSQmlH6vieLZBY6rr8DRAtHU.jpg"" /></p>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p>Understanding the weighting or importance of the Key Constraints (see Project Information) will influence the impact a risk may have on the project.&nbsp; A risk that will have an impact on the highest weighted Key Constraint should generally have a higher impact (number).</p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Knowing the key constraints that would be most impacted if a risk becomes a reality, will also help with the explanation of the change requirement(s), when creating a Change Request record if it is required. Use Traxidy to help create and submit a Change Request Form for approval (see Traxidy <strong>Changes</strong> Area).</p>
+<h3>A Calculated Risk Score for Each Risk</h3>
+<ul>
+<li><strong>Risk Scores &amp; Assessment:</strong> Each risk receives a <strong>Risk Score</strong> that is estimated by you and your team, by applying both a percentage<strong> Probability </strong>(that the risk will happen) and the<strong> Impact </strong>the risk would have on the project (if it was to occur). The multiplication of these two numbers is the <strong>Risk Score.</strong></li>
+<li>The higher the Risk Score, the more critical it is to monitor and manage the risk by developing a Mitigation and a Contingency plan associated with the risk.</li>
+</ul>
+<p><strong><img src=""https://backend-apis.traxidy.com/storage/uploads/67aIXFaHWfhAC4ww8P2CuyjZLDtLauNPuAZCRx30.jpg"" /></strong></p>
+<h3>Risk Scores and Priority Ranking</h3>
+<ul>
+<li><strong>Ranked Risks are Prioritized:</strong> From your choice of the Probability and Impact, Traxidy will calculate the Risk Score and rank each risk as compared to the other risks you have recorded. The ranking of a risk is indicated in the <strong>Risk Rank</strong> box and is system generated.</li>
+<li>If a Risk Score is on or above the Risk Rank Line (RRL), the risk is<strong> ranked as high priority </strong>and considered important.
+<ul>
+<li>Ranked Risks are prioritized and will be tracked and reported on, making it easier for you to manage.</li>
+</ul>
+</li>
+<li>If a Risk Score is below the Risk Rank Line (RRL), the risk is not considered a priority and the Risk Rank box will indicate <em>&lsquo;Not Ranked&rsquo;</em>.
+<ul>
+<li>Risks that are <strong>Not Ranked </strong>are not prioritized. The risk has been recorded, however it does not need to be monitored and managed unless you have time.</li>
+</ul>
+</li>
+</ul>
+<p><span style=""text-decoration: line-through;""><img src=""https://backend-apis.traxidy.com/storage/uploads/lOt5SUamnDslByqVIumK8Ysm0mUXBpMHNxn4fAZh.jpg"" /></span></p>
+<p>&nbsp;</p>
+<h3>Risk Rank Line (RRL) &amp; Prioritization</h3>
+<ul>
+<li>Think of the RRL as the prioritization line or cut-off point. Risks on or above the RRL are ranked and prioritized.</li>
+<li>The risks that score <strong>on or</strong> <strong>above the RRL</strong> (ranked risks) are important, high <strong>priority risks</strong> that you will need to focus on and<strong> </strong>take time to monitor, plan for and manage<strong>.</strong></li>
+<li>Any risks that score <strong>below the RRL</strong> (they are not Ranked) are a low priority. They have been recorded, but typically, you would <strong>not</strong> <strong>manage</strong> them unless you have the time.<br /><br /></li>
+</ul>",2021-12-08 12:46:00,2021-12-08 12:46:00
+49,1,13,Setting Priorities with the Risk Rank Line (RRL),"<h2>Setting Priorities with the Risk Rank Line (RRL)</h2>
+<p>There are two ways to set the Risk Rank Line to assess and prioritize risks:</p>
+<ol>
+<li><strong> </strong>Directly on the Traxidy <strong>Risks</strong> Area in the <strong>Risk Rank Line chart</strong> on the top of the page or,</li>
+<li><strong> </strong>Select the <strong>Project</strong> <strong>Settings Gear</strong> in the top Navigation bar of each project, to access <strong>Project Settings</strong>, and then click on <strong>Risk Rank Line (RRL) </strong></li>
+</ol>
+<ul>
+<li>To set the Risk Rank Line (RRL) for risk prioritization, select any Probability and Impact from the drop-down menu. Ranked Risks are high priority and have Risk Scores equal to or above the RRL. The Traxidy RRL makes it easier to focus and manage your time and efforts.
+<ul>
+<li><strong>Note:</strong> the RRL default setting is 210 and is calculated by using a 70% Probability and a 3 out of 5 Impact.</li>
+</ul>
+</li>
+<li>The Risk Rank Line (RRL) can be <strong>set anywhere on the scale</strong> for each project. As the risks for each project are different, set the RRL to meet your project needs.
+<ul>
+<li>Select a <strong>Probability</strong> of the risk occurring, between 5% to 95% and the <strong>Impact</strong> of the risk, between 1 to 5, with 1 having a very low impact and 5 having a very high impact if the risk was to occur.</li>
+<li>The highest RRL on the scale is 475 by using 95% Probability and 5 Impact.</li>
+</ul>
+</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/hZV3AXCa8dTDAdBncdHGR3gprFLqKWL8pJfnLpfz.jpg"" width=""795"" height=""442"" /></p>
+<p>&nbsp;</p>
+<h3>The Risk Rank Line (RRL) and Ranked Risks</h3>
+<ul>
+<li>Risk Rank Line (RRL) helps to identify the prioritized, ranked risks that are seen as important and need to be monitored and managed.</li>
+<li>Think of the RRL as the prioritization line or cut-off point. Risks on or above the RRL are ranked and prioritized.
+<ul>
+<li>The risks that score <strong>on or</strong> <strong>above the RRL</strong> (ranked risks) are important, high <strong>priority risks</strong> that you will need to focus on and<strong> </strong>manage<strong>.</strong></li>
+<li>Any risks that score <strong>below </strong><strong>the RRL</strong> (they are <strong>not</strong> <strong>Ranked</strong>) are a low priority. They have been recorded, but typically, you would not manage them unless you have time.</li>
+</ul>
+</li>
+<li>The Project Risk Rank Line for the Project can be changed at any time.</li>
+<li>Traxidy will automatically calculate the Risk Score for each risk as you apply the percentage <strong>Probability</strong> (that the risk will happen) and the <strong>Impact </strong>on the project (if the risk occurs). The <strong>Risk Score</strong> is the multiplication of the Probability and Impact.</li>
+</ul>
+<h3><span style=""color: #1319ee;""><em>Tips! </em></span></h3>
+<ul>
+<li>If the RRL is set <u>too <strong>low</strong></u>, most risks will be <strong>ranked</strong> and will be considered a priority. This means that essentially <em>most</em> of your project risks will be tracked and need your time to be managed.</li>
+<li>If the RRL is set <u>too <strong>high</strong></u>, most risks will <strong>not be ranked</strong> and will be considered low priority. This means that <em>very few</em> risks will be tracked and managed.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Example Risk Rank Line (RRL) and Ranked Risks</h3>
+<p>For this project example, the Risk Rank Line (RRL) for priority tracking has been set at:</p>
+<ul>
+<li>Probability 70% and Impact 3 out of 5 (1 is low, 5 is high)</li>
+<li>Risk Rank Line (RRL) = 70 x 3 which is 210</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>For this example,</strong> <em>&lsquo;There is a risk to the project that the development team will not have the new resource hired by the time they are needed on the project.&rsquo;</em></p>
+<ul>
+<li>The team estimates a risk<strong><em> </em>Probability</strong> of this occurring = 75%</li>
+<li>The team estimates a risk<strong> </strong><strong>Impact</strong> if this was to happen = 4 out of 5</li>
+<li>The calculated<strong> Risk Score</strong> = 75 x 4 which is 300</li>
+<li>This Risk Score of 300 is above the RRL of 210</li>
+<li>This Risk is above the RRL and will be shown as a <strong>Ranked Risk </strong>and considered a priority</li>
+<li>All the &lsquo;Ranked Risks&rsquo; are sorted in order of their Risk Score, with <strong>the highest Risk </strong><strong>Score</strong> <strong>ranked #1, as the highest priority.</strong></li>
+</ul>
+<p><strong><img src=""https://backend-apis.traxidy.com/storage/uploads/WvSzQDdyblcqDx2TvC3RUWbVd9uXMW5fnWhTpEen.jpg"" /></strong></p>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<ul>
+<li>Traxidy will track and report all the ranked, priority risks that remain open.</li>
+<li><strong>Risk Probability</strong> (P): set the probability of the risk happening between 5% and 95%.</li>
+<li><strong>Risk Impact</strong> (I): set the impact if the risk happens between 1 (low) and 5 (very high).</li>
+<li><strong>Risk Score</strong> (P) x (I): the higher the score, the more critical it is to manage the risk.</li>
+<li><strong>Ranked Risks</strong>: all the priority risks, on or above the RRL are to be monitored and managed.</li>
+<li><strong>Top Ranked Risks Color-coded</strong>: select the number of Top Ranked Risks and the associated color for at-a-glance high-risk priority views.</li>
+<li><strong>Ranked Risks &amp; Charts:</strong> Ranked Risks will be reflected in multiple Traxidy Areas including your Project Dashboard, Project Information, Risks, Constraints GYR, and Project Status.</li>
+</ul>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p>Every project has risks. Record, track and manage the priority Project Risks throughout the life of the project. As the project progresses, your Project Team Members are your best source for collecting these potential threats and impacts to your project.</p>",2021-12-08 12:50:07,2021-12-08 12:50:07
+50,1,14,Easily Update Risks,"<h2>Easily Update Risks</h2>
+<p>&nbsp;</p>
+<p>There are essentially two pieces of information that may continue to be updated when managing a Risk: the plans for risk <strong>Mitigation</strong> and <strong>Contingency</strong>. Each update to the mitigation or contingency plan is kept in the Traxidy Risk Record details history. This allows you to easily see how the information or movement of the work has changed over time.</p>
+<p>&nbsp;</p>
+<h3><strong>Mitigation </strong></h3>
+<p>Mitigation is the specific plan of action to be taken to avoid or reduce the probability of the risk occurring. Include costs and time associated with this Mitigation plan.<br /><br /></p>
+<h3><strong>Contingency </strong></h3>
+<p>Contingency is the specific plan of action to be taken to reduce the impact of the risk if the risk does occur. Include costs and time associated with this Contingency plan. A Change Request may need to be added to support this Contingency plan.</p>
+<ul>
+<li>Each update that is made to the risk mitigation or contingency plan is kept in the risk record historical details for easy reference.</li>
+<li>You can add more information and make updates at any time. From the Risk Area, simply click on the Risk Record and the Risk Details Window will open on the right side.</li>
+<li>Choose to update the appropriate tab including Mitigation or Contingency.</li>
+<li>When the risk can no longer have an effect on the project, set the <strong>Status</strong> to <strong>Closed</strong>, and the Risk Record will automatically move to the <strong>Closed Tab</strong>.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Y9hT4bjwp6uXGtwo7FDFanSRtsnAwoDLwcTLkHnN.jpg"" width=""790"" height=""414"" /></p>
+<h3>&nbsp;</h3>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p>Revisit your risk records at various times throughout the project. As the project moves closer to ending or using the approved budget, the risks that could have had a minor impact earlier in the project may now carry more impact if they were to occur at this point in time.</p>
+<p>&nbsp;</p>",2021-12-08 12:52:32,2022-04-18 15:53:30
+51,1,15,Constraints GYR Area,"<h2>Constraints GYR Area</h2>
+<p>Traxidy <strong>Constraints GYR</strong> Area is your place to effectively track and report on the current and previous status of the overall project and Key Project Constraints and provide your own assessment.</p>
+<ul>
+<li>Traxidy uses a visual status of Green, Yellow, and Red for quick assessment, trend view and next best actions.</li>
+<li>Each change of status color and comment is <strong>saved in the history</strong> under each constraint.</li>
+<li>The <strong>Constraints GYR</strong> report can be created effortlessly with the Export/Print function.</li>
+</ul>
+<p>&nbsp;</p>
+<p>You can easily access the <strong>Constraints GYR Area directly from your Dashboard. </strong>From the <strong>Project Record</strong>, click on the <strong>GYR Status &amp; Elapsed Timeframe bar</strong> for the project.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/uU5bCfuIgc0h18hZ08iA2niBSkx1Rnj8YsjE9u4F.jpg"" width=""896"" height=""335"" /></p>
+<p>&nbsp;</p>
+<h3>The Overall Status &amp; Elapsed Timeframe bar</h3>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/KqDaZt7bo6f2WN99GjzVBekXiY6JT4BpC3bHCiwN.jpg"" /></p>
+<p>The Overall Project Status and Elapsed Timeframe bar is predominant at the top-right corner of each Traxidy Area. It is a constant reminder of your project situation regarding the current status color of the project and the percentage of elapsed time in the project timeframe.</p>
+<p>The <strong>Overall Project Status</strong> is set here in the <strong>Constraints GYR</strong> Area under <em>Manage</em>. See the highlight section below to manage and set GYR update.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/fSd9Sjo61ma45tgo1SPsrKjbzN9Hn0Y4O9CwTxcc.jpg"" /></p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Don&rsquo;t wait until the next project status meeting to inform your sponsor/client/manager about<span style=""text-decoration: line-through;""> </span>any changes to the overall status of your project. The <strong>Status Report</strong> uses the <strong>Constraints GYR</strong> information to help present clear explanations for why a project status color has changed. This assists with communications and builds trust with your client/sponsor/manager.</p>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p><strong>Constraints GYR</strong> provides a clear and concise way to communicate your overall assessment of the project along with the key constraints of Scope, Schedule and Budget with stakeholders including client, project team, sponsor, and Project Management Office (PMO).</p>
+<p>&nbsp;</p>
+<h3>View Historic Changes to any Constraint</h3>
+<p>Use the arrow-head (<strong>&gt;</strong>) beside any of the Constraints to show an expanded view of the historic changes to the status color. The historic comments and the dates of the changes are also collected and shown in the history of the status/color changes.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/3LekSdOGPNUu9RYeXWBlmOFFFPsa7tUl008WZVqh.jpg"" /></p>",2021-12-08 13:51:26,2022-01-05 06:32:29
+52,1,15,GYR Status & Your Assessment,"<h2>GYR Status &amp; Your Assessment</h2>
+<p>&nbsp;</p>
+<p>Traxidy uses Green, Yellow, Red (GYR), an easy and common way to quickly show a visual status of the overall project and each of the Key Project Constraints. The status is set by you along with your comments/short explanations for each one.</p>
+<ul>
+<li><strong>Note</strong> that the <strong>history of the status color changes along with the comments</strong> for each of the constraints is always available for review and is an important part of the record-keeping and tracking in Traxidy.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Change Status Color by Clicking &lsquo;Set GYR&rsquo;</h3>
+<ul>
+<li>To make a change to the current status color, under <em>Manage</em>, click the <strong>Set GYR</strong> located at the far right side of the Constraints GYR record title. A GYR historical record of all the constraint status color changes is kept in Traxidy. Simply click on a Constraint Record to open and view the historical details.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/tLYOQ8TIwWM9d3vZlQyi2nTAYKbaawyx0nvZmEmm.jpg"" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The <strong>Constraints GYR</strong> Area makes it easy to communicate the most important aspects of the current status and situation with key stakeholders including clients, sponsors, and the PMO.</p>
+<ul>
+<li>Traxidy provides a clear visual of current and previous GYR status and the trend over time.</li>
+<li>Use the change in status color to signify to your manager that there is an issue worth discussing.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Traxidy GYR Guidelines</h3>
+<p>The Traxidy GYR guide for using colors to identify project and constraint status includes:</p>
+<ul>
+<li><strong>Green (G): </strong>use status G if the project is on plan, ok or good (including all actions, risks and changes proceeding as planned).</li>
+<li><strong>Yellow (Y):</strong> use status Y if there is an impactful problem/issue that is following set actions and next steps are being monitored closely.</li>
+<li><strong>Red (R): </strong>use status R if the expected work to resolve the problem is not seeming to work or the solution is difficult to formulate and critical focus and potentially more experience or authority is required.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Assessment Required: 4 Main Inputs</h3>
+<p>In any project, the assessment of the status by the Project Manager is of the utmost importance. No one is closer to the entire scope of the work than the Project Manager.</p>
+<p>At any point when you are assessing the current project status situation, it is important to remember the four assessments that you will be reporting on:</p>
+<ol>
+<li><strong> </strong>PM Certainty of Success
+<ul>
+<li><em>Set a percentage<br /><br /></em></li>
+</ul>
+</li>
+<li><strong> </strong>PM Estimate of Work Complete
+<ul>
+<li><em>Set a percentage </em></li>
+</ul>
+</li>
+<li><strong> </strong>The Overall Project Status Color
+<ul>
+<li><em>Set GYR and add comments</em></li>
+</ul>
+</li>
+<li><strong> </strong>Key Constraints Status Color
+<ul>
+<li><em>Set GYR and add comments</em></li>
+</ul>
+</li>
+</ol>
+<ol>
+<li><strong>PM Certainty of Success</strong></li>
+</ol>
+<ul>
+<li>Set your assessment of the certainty of project success, based on the current real-world situation and your experience. This is a very subjective account of what you think the chances of this project are for being a total success.</li>
+<li>Most sponsors and managers would appreciate your project insight. Be prepared to explain this assessment. Set the project success assessment as a percentage selected from the drop-down menu, 0% to 100%.</li>
+</ul>
+<p>&nbsp;</p>
+<ol start=""2"">
+<li><strong>PM Percentage of Work Complete</strong></li>
+</ol>
+<ul>
+<li>Set your assessment of project work complete. This can be taken from a Gantt chart application or it is your best-estimate from what you know about the current situation of the project execution. Your assessment is selected from the drop-down menu, 0% to 100%.</li>
+</ul>
+<p>&nbsp;</p>
+<ol start=""3"">
+<li><strong>Overall Project Status Color</strong></li>
+</ol>
+<ul>
+<li>The assessment of the Overall Project Status Color can be based on your organization&rsquo;s description of the use of these colors or your own method of understanding or the Traxidy GYR guidelines above.</li>
+<li><strong>Comments</strong> are needed when the project status is Yellow or Red. Ideally, the comments answer &ldquo;why&rdquo; the project is that color, and lists the ownership, timing and actions being taken.</li>
+<li><strong>Note: </strong>All the Traxidy Areas work together and the<strong> Project Status Area consolidates information from multiple areas</strong> including the Constraints GYR. Project Status provides an opportunity to add comments to the Constraints GYR and outline the <strong>Actions to Change Status</strong> to return the overall project status color back to Green.</li>
+</ul>
+<p>&nbsp;</p>
+<ol start=""4"">
+<li><strong>Key Constraint Status Color</strong></li>
+</ol>
+<p>Each of the project Key Constraints, <strong>Scope, Schedule</strong> and <strong>Budget</strong> can be assessed with a status color, GYR to more specifically explain why the <em>Overall</em> Project Status Color is Yellow or Red.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>As with the Overall Project Status, each of the key constraints has an open text field to add comments if the key constraint is Yellow or Red.</p>
+<ul>
+<li><strong>Note</strong> that the project Key Constraints and current GYR status color and comments appears in the <strong>Project Status</strong> Area and becomes a part of any Project Status report.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/TWuJmBDc0sEXFqdx27W1qteLdng2xva7xdK6gTo6.jpg"" width=""808"" height=""494"" /></p>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>A status change to Yellow or Red, would typically come from an Issue and Actions recorded in the AID Area. Reference the Traxidy Issue ID in the comment section of the Overall Status or any of the Key Constraints (along with the Yellow or Red status explanation). This provides a clear record and full details for discussion.</p>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;"">Best Practice</span></h3>
+<p>Ideally, the best practice is to not have a project go directly from Green to RED. Always keep your client/sponsor/manager informed. Try to assess the situation as quickly as possible in terms of planning for actions (Yellow) to get the project back on track. Decide quickly if a critical focus is required and the status needs to move to RED. If possible, discuss the status with your manager immediately and <em>before</em> changing the status to RED.</p>",2021-12-08 14:00:50,2022-03-05 09:52:31
+53,1,15,Additional Key Constraints,"<h2>Additional Key Constraints</h2>
+<p>The Additional Key Constraints provides more topics and flexibility to tailor your report and status color for specific elements for the project work.</p>
+<p><strong>Change Status Color by Clicking &lsquo;Set GYR&rsquo;</strong></p>
+<ul>
+<li>To make a change to the current status color, under <em>Manage</em>, click the <strong>Set GYR</strong> located at the far right side of the Constraints GYR record title. A GYR historical record of all the constraint status color changes is kept in Traxidy. Simply click on a Constraint Record to open and view the historical details.</li>
+<li>The <strong>Constraints GYR</strong> Area makes it easy to communicate the most important aspects of the current status and situation with key stakeholders including clients, sponsors, and the PMO.</li>
+<li>Traxidy provides a clear visual of current and previous GYR status and the trend over time.</li>
+<li>Use the change in status color to signify to your manager that there is an issue worth discussing.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Hat9zqZmkJrCk3ipt5zjIhH4reM4m81DtaTdYEHQ.jpg"" width=""815"" height=""617"" /></p>
+<h3>View Historic Changes to any Constraint</h3>
+<p>Use the arrow-head (<strong>&gt;</strong>) beside any of the Constraints to show an expanded view of the historic changes to the status color. The historic comments and the dates of the changes are also collected and shown in the history of the status/color changes.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/xhrIw3G3HPhU6hzAPODHmajbEgbXkOsjayGakRD4.jpg"" /></p>
+<h3>&nbsp;</h3>
+<h3><strong>Traxidy GYR Guidelines</strong></h3>
+<p>The Traxidy GYR guide for using colors to identify project and constraint status includes:</p>
+<p><strong>Green (G): </strong>use status G if the project is on plan, ok or good (including all actions, risks and changes proceeding as planned).</p>
+<p><strong>Yellow (Y):</strong> use status Y if there is an impactful problem/issue that is following set actions and next steps are being monitored closely.</p>
+<p><strong>Red (R): </strong>use status R if the expected work to resolve the problem is not seeming to work or the solution is difficult to formulate and critical focus and potentially more experience or authority is required.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Note</strong> that the <strong>history of the status color changes along with the comments</strong> for each of the Constraints is always available to be reviewed and is an important part of the record-keeping and tracking in Traxidy.</li>
+<li><strong>Additional Key Constraints</strong> are used at your discretion depending on the project make-up and the expected outcomes and results. For example, some projects may be heavily dependent on a specific/new technology and others dependent on very limited/specific resources needed to be part of the project outcomes.</li>
+<li>Use the <strong>Additional Key Constraints</strong> to assist you in letting your team and stakeholders know that this aspect of the project is important and will be monitored and reported on throughout the project timeframe.</li>
+<li><strong>Note: </strong><em>Only</em> the Additional Key Constraints with the <strong>GYR Status</strong> updated, will appear on your Traxidy project reports.</li>
+</ul>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Use of <strong>Additional Key Constraints</strong> in Traxidy can help to focus on specific aspects within the project, even more refined than the Scope, Schedule and Budget. Additional constraints such as Technology, Resources and Quality are constraints you may want to track and ensure that your Sponsor is aware of, as the project proceeds.</p>
+<p>&nbsp;</p>",2021-12-08 14:04:21,2022-01-05 06:27:18
+54,1,15,Set Your Project Delivery Phases,"<h2>Set Your Project Delivery Phases</h2>
+<p>&nbsp;</p>
+<p>The Constraints GYR Area includes the Current Delivery Phase with the project delivery phase having a status color the same as the overall project. All Traxidy Areas work together. The Current Delivery Phase details are pulled from the Project Information Area.</p>
+<p>&nbsp;</p>
+<ul>
+<li>To set your specific project <strong>Delivery Phases</strong> go to the <strong>Project Settings Gear</strong> in the Top Navigation Bar of each of the <strong>Project Areas. </strong>The default project delivery phase setting is Initiation, Planning, Execution and Close<strong>.<br /><br /></strong></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>Click on the Project Settings Gear to access Project Settings, and then click <strong>Project Delivery Phases</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>Choose the Project Delivery Phase list for your specific project. We&rsquo;ve provided a list of standard delivery phases as the default, along with the option to select a more complex list of phases. We also provide the <strong>opportunity to create and tailor your own list of phases</strong> to better suit your delivery framework.</p>
+<p>&nbsp;</p>
+<ul>
+<li>As you move through your project work, adjust/change the current Project Delivery Phase in the <strong>Project Information</strong></li>
+</ul>
+<p>&nbsp;</p>
+<p>The <strong>Current Project Delivery Phase</strong> for each project is reported in multiple Traxidy Areas including the <strong>Dashboard, Project Information, Constraints GYR and Project Status.</strong></p>
+<p>&nbsp;</p>
+<p><strong><img src=""https://backend-apis.traxidy.com/storage/uploads/SOgpxojxre3bE6hApTshTUGBygOfKvdpS73EZ2Wx.jpg"" width=""791"" height=""373"" /></strong></p>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Use Traxidy from the moment you have been handed the responsibility for a project. Traxidy is especially useful in the initial stages of working with project team members and requirements gathering. Track and manage some of the earliest activities and actions from multiple contacts as you work towards putting the project plan together.</p>",2021-12-08 14:07:20,2022-04-18 15:51:41
+55,1,16,Project Status Area,"<h2>Project Status Area</h2>
+<p>The Traxidy Project Status Area provides a single view of real-time and historical Project Status summary and updates for presentation and discussion purposes.</p>
+<p>You can easily access your <strong>Project Status Area directly from your Dashboard. </strong>From the project record, click on the <em>project name</em>. Alternatively, once you have any project area open, you can select <strong>Project Status</strong> from the Main Menu.</p>
+<p>It&rsquo;s designed to make it easy for you to create, tailor, present, communicate and report on the Project Status &mdash; and save time. Historical Status Reports can be easily accessed for quick reference, if needed.</p>
+<h3>Single View</h3>
+<ul>
+<li>The Project Status is a single, unified real-time view of the project details, status and assessment that is automatically updated from other Traxidy Areas. It includes:
+<ul>
+<li>Project and GYR Trend, Issues by Priority, Actions Overview, Risks and Change Management</li>
+<li>Overall Project Status: current and previous status color with comments and actions</li>
+<li>Milestones, Key Constraints GYR, Key Accomplishments and Next Steps</li>
+<li>Project Details: dates, financials and Project Manager (PM) estimates</li>
+</ul>
+</li>
+</ul>
+<h3>Interactive View</h3>
+<ul>
+<li><strong>Project Status</strong> provides a unified and interactive view of project information, status and data and is automatically updated from other Traxidy Areas.</li>
+</ul>
+<p>From the Project Status Area, you can easily click any Area Chart or Tile and go directly to the Project Area to gather more details and support discussions as needed.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/qWREznBayMR6ZaMeGlrbVtneHkZJkmJGniBocWcd.jpg"" width=""919"" height=""489"" /></p>",2021-12-08 14:09:11,2021-12-08 14:10:40
+56,1,16,Real-time Project Status – Reports & Presentations,"<h2>Real-time Project Status &ndash; Reports, Communications &amp; Presentations</h2>
+<p>&nbsp;</p>
+<p>Traxidy makes creating and presenting customized and tailored Project Status Reports easy.</p>
+<p>&nbsp;</p>
+<h3>Quick Start</h3>
+<ul>
+<li>Your Project Status is automatically updated from the other Traxidy Areas including Project and GYR Tracking, AID, Risks, Changes, and Project Information.</li>
+<li><strong>All your previous</strong> Project Status text, comments and information will be there as a starting reference point, and to help save time.</li>
+<li>You can select which Project Status Area information tiles to include or exclude from your report. After clicking on the Export button, simply check the sections you want to <em>exclude</em>.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/UARH5VASuqbJ3DMkvPcoRsndqVBTCih15XVCjaEX.jpg"" width=""810"" height=""135"" /></p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/NaNGspb7m4XrphFqZHZYwYDTe1G872ZAUPUCc92y.jpg"" width=""469"" height=""297"" /></p>
+<p>&nbsp;</p>
+<h3><span style=""color: #1319ee;""><em>Tips!</em></span></h3>
+<p>Tailor your Project Status Report to meet your reporting needs. You can select all sections, just a few or multiple sections to create your customized report and share with specific stakeholders as needed.</p>",2021-12-08 14:13:03,2022-03-05 09:51:26
+57,1,16,Live Project Status Presentation Setup,"<h2>Live Project Status Presentation Setup</h2>
+<ul>
+<li>In any meeting, you have the ability to show the Status Report exclusively on your screen. In the presentation mode all the menus and tabs will be hidden so that only the information that is needed is on the screen.</li>
+<li>Similar to the option to Export the Project Status Report, after clicking the <strong><em>Presentation Mode</em></strong> button, you can select which Project Status Area information tiles to include or exclude from your presentation<span style=""text-decoration: line-through;""> </span>and click Continue.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/H78g7RisolSGitFQE2L959M5C5TxV0eR8QfPefde.jpg"" width=""783"" height=""126"" /></p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/e6TFOqW8kJ1SZUxAiXEDIW0yblXLLzS5vDgEaAGg.jpg"" width=""520"" height=""345"" /></p>",2021-12-08 14:14:42,2021-12-08 14:14:42
+58,1,16,Steps to Finalize the Status Report,"<h2>Steps to Finalize the Status Report</h2>
+<p>Each Project Status Report starts with the previous information and comments in the four areas including:</p>
+<ol>
+<li><strong> </strong>Overall Status Comment</li>
+<li><strong> </strong>Milestones</li>
+<li><strong> </strong>Key Accomplishments</li>
+<li><strong> </strong>Next Steps</li>
+</ol>
+<p><strong>Note </strong>that these sections require some thought, consideration and your updated comments <strong>before the Status Report can be finalized</strong> and ready to be sent.</p>
+<ul>
+<li>All other areas of the Project Status Report are pulled directly from the specific Traxidy Area and do not require updates here. If a specific Traxidy Area needs to be updated, go directly to the area, make your updates, and they will automatically be reflected in the <strong>Project Status</strong></li>
+</ul>
+<p><strong>1. Overall Status Comment</strong>: <u>Add a short comment</u> on why the project is the status color that it is. If the project is not Green, provide comments about the <strong>Actions to Change Status</strong> back to Green, the ownship and timelines. The <strong>Overall Current Status Color</strong> is set in the Constraints GYR Area.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/xaRGhrXJoYM8s1MEf6rgtNmvn436UwmOdQUq9DDM.jpg"" /></p>
+<p><strong>2. Milestones</strong>: <u>Add your key project milestones</u> including the plan date to complete and the GYR status color for each specific milestone. The milestones can be updated at any time for the next Project Status report</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/MuL00BOuuGwDiPCOGA5e4vuZzyJW21USFFiHk5dY.jpg"" /></p>
+<p>&nbsp;</p>
+<p><strong> </strong></p>
+<p><strong>3. Key Accomplishments</strong>: <u>Indicate key aspects</u> of what the project team has accomplished since the last Project Status report.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/tx7afiS0JfhXrNN3xJHEUz6Lpy8g7XyIdBtAqVQX.jpg"" /></p>
+<p>&nbsp;</p>
+<p><strong>4. Next Steps</strong>: <u>List the next major steps</u> and work activities you expect the project team to perform between now and the next Project Status report.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/cgkW0W58NTbrFYSwXfBQRvO3lOSjfn4hcxlZyCtA.jpg"" /></p>
+<p>&nbsp;</p>
+<h3>Other Information from the Constraints GYR Area</h3>
+<p>Be sure to review all pieces of information presented in the Project Status Area to ensure the information is current and accurate before you save and send it.</p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>PM Estimate of Work Complete: </strong>It is important to show <em>your</em> estimate of the work complete for each status report. It may <em>not</em> be in line with the current<strong> Timeline Duration Complete</strong> as more work may be coming later in the project, or more work may have already been completed.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Note </strong>that the <strong>Timeline Duration Complete</strong> is a system calculated number based on how many work days are between the project Start Date, the project End Date and Today&rsquo;s Date.</p>
+<p>&nbsp;</p>
+<p><strong>Example:</strong> If a project is 10 days long and today&rsquo;s date is 5 days into the project, the Timeline Duration Complete is 50% (or 5 days out of 10 days have completed).</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Ncxh7LkE7qn0aZSzM40EGoBeb5EaBjrbaTTDu372.jpg"" /></p>
+<ul>
+<li><strong>Key Constraints GYR:</strong> The three main project constraints (Scope, Schedule, Budget) and the associated comments are handled and updated exclusively in the Constraints GYR Area.</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>Save to Status Report History</h3>
+<ul>
+<li>Once you&rsquo;ve made all the project status updates&ndash; click the <strong><em>Save to Status</em></strong><em> <strong>Report History</strong></em> button at the bottom of the area.</li>
+<li>This project Status Report will appear on your screen &ndash; and will be automatically added to your <strong>Status Report History Tab</strong> and labelled with the current date and time.</li>
+<li>Status Report History provides reference for easy recall of past performance and status whenever it&rsquo;s needed.</li>
+</ul>
+<p>If you forget to save your report &ndash; a pop-up reminder will appear, to remind you to Save Your Status Report.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/at91nhNaAg5JqNEw8YBcKmjCW0LqL9Ot26FkBB2w.jpg"" /></p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/7Q1oqJ13VXbEO1UmaebeDFZClRASEqR8l5Mg7LLu.jpg"" /></p>",2021-12-08 14:24:51,2021-12-08 14:24:51
+59,1,16,Presentation Mode & Export,"<h2>Presentation Mode &amp; Export</h2>
+<p>&nbsp;</p>
+<p>Traxidy provides the ability to send out tailored Project Status Reports and the option to show the same reports in a real-time view and presentation while using the Traxidy application in a meeting.</p>
+<h3>Presentation Mode</h3>
+<p>&nbsp;</p>
+<ul>
+<li>Easily present your real-time Project Status, by simply clicking the <strong>Presentation Mode Button</strong>.</li>
+<li>Presentation Mode provides a full-screen view of the Project Status, making it easier for you to present, discuss and communicate the project status &ndash; whether in person or remotely</li>
+<li>The Main Menu and Top Navigation Bar will both be hidden</li>
+<li>After clicking on the Presentation Mode button, all the areas are checked by default. Simply check the sections you want to exclude. If needed, you can hide/exclude any of the Project Status information. The presentation view will only show the sections that are checked/selected.</li>
+</ul>
+<h3>Export</h3>
+<p>&nbsp;</p>
+<ul>
+<li>Simply export the report using the <strong>Export button</strong> and send to key stakeholders.</li>
+<li>You can select which Project Status Area information tiles to include or exclude from your report. After clicking on the Export button, simply check the sections you want to exclude.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/sbGu57XBHYu1B6HeBSldnbAocyS6FQAklIrYHD3o.jpg"" width=""570"" height=""418"" /></p>
+<p>&nbsp;</p>",2021-12-08 14:27:36,2022-01-16 07:02:21
+60,1,16,Status Report History Tab,"<h2><strong>Status Report History Tab</strong></h2>
+<ul>
+<li>Easily view Historical Project Status Reports as needed.</li>
+<li>Whenever you Save a Status Report &ndash; they will be listed and available here for you in the <strong>Status Report</strong> <strong>History </strong>Tab for the life of the project.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/viBnBsseZjWD4pag2lTyfhwZs2JWCkRgqjyqS1OD.jpg"" width=""838"" height=""268"" /></p>
+<p>&nbsp;</p>
+<p>Clicking on any of the records provides a presentation view with the option to Export.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/yIzh0zOskNl0nGMqexN35mOC5MMgH8zaRzhTQ4ag.jpg"" width=""850"" height=""490"" /></p>",2021-12-08 14:30:52,2021-12-08 14:30:52
+61,1,17,High-Level (HL) Plan Area,"<h2><a name=""_Toc63758155""></a>High-Level (HL) Plan Area</h2>
+<p>The Traxidy High-Level (HL) Plan Area provides a visual and simplified view of your project timeframe and schedule for key work items including project deliverables and milestones. The HL Plan is ideal to include with your status reporting.</p>
+<ul>
+<li>The HL Plan provides an at-a-glance view and is designed to support your Project Status updates, reports, communications and presentations.</li>
+<li>This is not a detailed plan. It is a High-Level (HL) Plan.</li>
+<li>The HL Plan timeframe is based on the Overall Project Timeframe.</li>
+<li>Easily Export your HL Plan to support your Project Status Report.</li>
+</ul>
+<p>Once you have selected your project, you can access your <strong>High-Level (HL) Plan Area directly from the Main Menu. </strong>Click on the High-Level Plan.</p>
+<p>This High-Level Plan is not intended to replace a detailed project Gantt chart that lists all assigned project tasks, but is designed to provide additional information for status reporting.</p>
+<h3><span style=""color: #0025fd;"">Best Practice</span></h3>
+<p>If you make any changes to your <strong>High-Level Plan</strong>, ensure you update the <strong>Project Key Deliverable(s)</strong> listed in the <strong>Project Information Area</strong> along with the <strong>Milestones</strong> listed in Project Status.</p>
+<h3><span style=""color: #0025fd;""><em>Tips!</em></span></h3>
+<p>Our guideline is to keep your High-Level Plan simple, and on one page or screen. This will help you to use this High-Level Plan when providing a Project Status update.</p>
+<p>&nbsp;</p>",2021-12-13 15:14:29,2021-12-13 15:25:09
+62,1,17,Create Your High-Level (HL) Plan,"<h2>Create Your High-Level (HL) Plan</h2>
+<p>The Traxidy HL Plan is designed to make it easy for you to provide the timeframe and schedules for major activities, deliverables and milestones. <br /><br />The HL Plan unifies information from the Project Information and Project Status Areas and can be further updated as needed.</p>
+<ul>
+<li><strong>Project Deliverables: </strong>review<strong> </strong>the deliverables that you entered in the original setup of the project and listed in the Traxidy Project Information Area.</li>
+<li><strong>Project Milestones: </strong>review<strong> </strong>the milestones that you entered in the Project Status Area.</li>
+<li><strong>Updates</strong>: easily change or over-write Deliverables and/or Milestones at any time but ensure consistency in your areas and reports.</li>
+<li><strong>Additions</strong>: add a new Deliverable or Milestone, click the <strong><em>+ New Deliverable or Milestone</em></strong> button, and add the name of the new deliverable, and the start and end dates.</li>
+<li>The current date, with the <strong>Today </strong>flag, will always show as a vertical line across the HL Plan.</li>
+</ul>
+<h3>Overall Project Timeframe</h3>
+<ul>
+<li>The Overall Project Timeframe is always the first item on the HL Plan.</li>
+<li>It will be auto-populated and shown as a horizontal bar based on the Project Start Date and Project End Date (or Approved Revised End Date) in the Project Information Area.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/bln51j6Qy2hSqP68K39n7SAMToOyKnouShLZNXdr.jpg"" width=""689"" height=""287"" /></p>
+<h3><br />Key Deliverables</h3>
+<ul>
+<li>Project Deliverables are shown as a horizontal bar. Add the start and end dates, and the system will automatically calculate the duration (# of days).</li>
+<li>You can easily edit, remove and add Deliverable(s) here at any time.</li>
+<li>To add a <strong>Deliverable</strong>, click the <strong><em>+ New </em></strong><strong><em>Deliverable or Milestone</em></strong> button, and add the name of the new deliverable and the start and end dates.</li>
+<li><strong>Note</strong>: adding a Deliverable to the HL Plan does <strong>not</strong> add it to your Project Information Area.</li>
+</ul>
+<h3><span style=""color: #0025fd;""><em>Tips!</em></span></h3>
+<p>Ensure all your project information is consistent. When adding a new deliverable or milestone to the <strong>HL Plan</strong>, remember to revisit your <strong>Project Information</strong> Area and update the deliverables information, and the <strong>Project Status</strong> Area and update the milestones information.</p>
+<p>&nbsp;</p>
+<h3>Key Milestones</h3>
+<ul>
+<li>Milestones will have the <strong>same start and end date, </strong>and will appear on that date as a diamond in the HL Chart. (See the Project Settings for color options)</li>
+<li>Project Milestones are shown as diamonds, based on the planned date</li>
+<li>You can edit, remove and add Milestone(s) here at any time by deleting or changing the information.</li>
+<li>To add a Milestone, click the <strong><em>+ New Deliverable or Milestone</em></strong> button, and add the name of the new milestone and ensure the start and end dates are the same.</li>
+<li><strong>Note</strong>: adding a Milestone to the HL Plan, does not add it to your Project Status Area.<br /><br /></li>
+</ul>
+<h3>Today&rsquo;s Date</h3>
+<ul>
+<li>For easy reference, today&rsquo;s date is always shown as a vertical line with a flag as an important reminder of the date in relation to the plan. (See the Project Settings for color options)</li>
+</ul>
+<h3><span style=""color: #0025fd;""><em>Tips!</em></span></h3>
+<p>Our guideline is to keep your HL Plan simple, and on one page or screen. This will help you to use this High-Level Plan when providing a Project Status update.</p>",2021-12-13 15:24:41,2021-12-13 15:24:41
+63,1,17,Set Your HL Plan Colors,"<h2><strong>Set Your HL Plan Colors<u><br /></u></strong></h2>
+<p>&nbsp;</p>
+<ul>
+<li>To set your project specific, High-Level Plan colors, go to the <strong>Project Settings Gear</strong> in the Top Navigation Bar of any of the <strong>Project Areas.<br /></strong></li>
+<li>Click on the Project Settings Gear to access Project Settings, and then click <strong>Branding &amp; Colors.</strong></li>
+<li>You can adjust the colors of your project&rsquo;s <strong>High</strong><strong>-</strong><strong>Level (HL) Plan</strong> to better suit your company&rsquo;s brand or a specific project&rsquo;s brand.</li>
+<li>Select your color options for the High-Level Plan and supporting elements including:</li>
+</ul>
+<ul>
+<ul>
+<li>Overall Project Timeframe Bar Color</li>
+<li>Deliverables Bar Color</li>
+<li>Current Date Flag &amp; Line Color</li>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/dyM8DaCNoZ7pYLXNsMXT2fJj7NkjKgbpOKi3elHT.jpg"" /></p>
+<h3>&nbsp;</h3>
+<h3><span style=""color: #0025fd;""><em>Tips!</em></span></h3>
+<p>Keeping the bar colors different for each project will help to differentiate multiple projects for both you and the people you may be presenting to and sharing reports with.</p>",2021-12-13 15:28:02,2022-04-01 14:41:17
+64,1,18,Changes Area,"<h2><a name=""_Toc69397659""></a>Changes Area</h2>
+<p>The Changes Area provides one place to easily record, monitor and manage all project change requests and impact.</p>
+<p>You can easily access your Project Changes Area<strong> directly from your Dashboard. </strong>From the project record, click on the <strong>Changes Chart</strong>. Alternatively, once you are working with a project, you can click on the <strong>Main Menu</strong>, and select <strong>Changes</strong>.</p>
+<h3>Changes Overview Chart &amp; Tiles</h3>
+<ul>
+<li><strong>Changes Overview Chart</strong>&ndash;summary status of Active Changes including the total number of Active Changes and the number of changes under the status levels: Investigating, Submitted, Approved and Declined. <br /><br /></li>
+<li><strong>Changes Status</strong><strong> </strong><strong>Tiles &ndash;</strong>includes the Financial and Work Days Impact for Change Requests and their current status including Investigating, Submitted, Approved, Declined</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/5cLiDZ58LEdZbzDaWmkTTrTcEEgTk03vX7mvYISG.jpg"" width=""669"" height=""183"" /></p>
+<h3>&nbsp;</h3>
+<h3>Work Days Approved Tile</h3>
+<ul>
+<li><strong>Time Duration Complete Bar. </strong>By comparing today&rsquo;s date with the project Start Date, End Date (Original or Approved Revised End Date) and knowing the overall Work Days in the project the Time Duration Complete bar shows the percentage of Work Days that have past, as of today.</li>
+<li>The Time Duration Complete Bar line color is the same color as the <strong>Overall Project </strong><strong>Status color.</strong></li>
+<li><strong>Work Days To Date </strong>is the number of actual Work Days that have elapsed based on the project start, todays date and the Work Week (5 or 7 day Work Week per Project Settings).</li>
+<li><strong>Work Days Remaining</strong><strong> </strong>is the number of work days to the end of the project based on today&rsquo;s date, the project start and end date and the Work Week (5 or 7 day Work Week per Project Settings).</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Project End Date Tile</h3>
+<p>The Project End Date Tile shows the dates from the Project Information Area; the <strong>Original End Date</strong> as and (if there is one) the <strong>Approved Revised End Date</strong>.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/vz9yfS9KhX9tkMI5mw9RW2KQXYGyNECDLuOLSSjB.jpg"" width=""701"" height=""179"" /></p>
+<h3><span style=""color: #0025fd;""><em>Tips!</em></span></h3>
+<p>When a Change Request is approved and contains any number of <em>Work Days Impact</em>, ensure that the <strong>Approved Revised End Date </strong>is accurate based on this Work Days Impact. The Project Information Area is the place that the Approved Revised End Date is entered.</p>",2021-12-13 15:31:14,2021-12-13 15:34:18
+65,1,18,Add a New Change Record,"<h2><a name=""_Toc69397660""></a><strong>Add a New Change Record</strong></h2>
+<p>&nbsp;</p>
+<p>From the Traxidy Changes Area, click <strong><em>+ New Change</em></strong> button.</p>
+<p>A New Change pop-up window will appear allowing you to create a new Change Request Record.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/HnQslTVfG1LJK7Xgs1n9u99YLAnReQoakOG2SLSr.jpg"" width=""671"" height=""369"" /></p>
+<h3>&nbsp;</h3>
+<h3><strong>New Change Pop-up Window</strong></h3>
+<ol>
+<li>To create a New Change Record, select the Change Status. The<em> </em><strong>Change Status default</strong> is &lsquo;Investigating&rsquo;, and can be easily changed. Simply select a different status from the drop-down menu if needed.</li>
+<li>The<em> </em><strong>Change Record Reference #</strong> provides an easy reference if your company has a change process and uses change record reference numbers for tracking. This can be left blank if there isn&rsquo;t a specific reference #.</li>
+<li>Select the<strong> Department Requesting Change</strong> from the drop-down menu. If the proper department name does not appear when you start typing, go ahead and type in a new department name.</li>
+<li>Type in a brief description of the <strong>Reason for Change</strong>, followed by a brief <strong>Description of</strong> <strong>Change Required</strong> including what will need to be done to the existing plan of work, in order to accommodate the Change.</li>
+<li>Provide an early estimate of the <strong>Financial Impact</strong> and set the Financial Impact <strong>Status</strong> as &lsquo;Firm&rsquo; or &lsquo;Estimate&rsquo;.</li>
+<li>Add the <strong>Work Days Impact</strong> indicating the number of work days the change will affect the plan, if the information is available.</li>
+<li>Add the <strong>Approval By</strong> contact name using the drop-down menu. Select the person that will need to review and approve/decline the Change Request. If the proper contact name does not appear, go ahead and choose to add a new contact name.</li>
+<li>Click the<strong> Save Change</strong> button or if you need to detail another change, click <strong><em>+ Save and Add Another</em> </strong>button<strong>.</strong></li>
+<li>Your newly<strong> </strong>Saved Change Request, will be listed in the Project Changes Areas as a <strong>Change Record</strong>. Click on the record to open the Details Window and make additional updates &ndash;at any time.<strong> </strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/QePVpV14LYpLsdZQXaYWLJTlSI4k3RsTslQxaAwX.jpg"" /></p>
+<h3>&nbsp;</h3>
+<h3><span style=""color: #0025fd;""><strong>Best Practice </strong></span></h3>
+<p>Record all possible Changes, even if you think the change might not be approved. This information may be helpful later on. You may need to confirm the time that resources have spent <em>investigating</em> the impact of the potential change(s). That investigation time alone may also mean you need to adjust the plan.</p>
+<p><strong>&nbsp;</strong></p>
+<p>Traxidy helps you keep a record of the department(s) that request changes to provide you with detailed information and data to support discussions in Post Project Reviews and assist with continuous learning and improving.</p>",2021-12-13 15:38:37,2022-04-18 15:50:28
+66,1,18,Easily Update Changes,"<h2><a name=""_Toc69397661""></a><strong>Easily Update Changes</strong></h2>
+<p>The Change Record consists of two main descriptions:</p>
+<ul>
+<li>The Reason for Change</li>
+<li>The Description of Change Required</li>
+</ul>
+<h3><strong>The Reason for Change</strong></h3>
+<p>This answers &ldquo;why&rdquo; the change is required in the first place. The reason for the change will typically not change over time, however it can be edited at any time. There is no history of the changes to this information kept in Traxidy.</p>
+<h3><strong>The Description of Change Required</strong></h3>
+<p>This information answers &ldquo;what&rdquo; will need to be done to the project to enable this change.</p>
+<p>There are times when the <strong>Description of the Change Required </strong>may need to be updated. Click on the specific change record to open the Change Details Window. Update the <strong>Description of the Change Required</strong> in the text box. The update will be kept in the changes history for you to easily see how the record of information has changed over time.</p>
+<ul>
+<li>Add more information and make updates at any time. S&shy;&shy;imply click on the Change Record and the Change Details Window will open on the right side.</li>
+<li>Each update that is made to <strong>Description of the Change Required,</strong> is kept in the change record details.</li>
+<li>If a Change Request is &lsquo;Declined&rsquo; and does not need to be managed or monitored, set the status to <strong>Declined</strong>. The Change record will automatically move to the <strong>Declined tab</strong>.</li>
+<li><strong>Active Changes</strong> &ndash; Changes with a status of Investigating, Submitted or Approved will be considered in the Active category for reporting purposes. This appears on the Project Tracking Chart in the Project Status Area.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/BmPl3upAXXlZCDqcurTeooDrqMbj9E9U79F3zqDJ.jpg"" width=""680"" height=""400"" /></p>",2021-12-13 15:40:21,2021-12-13 15:40:21
+67,1,18,Descriptions of the Change Status,"<h2><a name=""_Toc69397662""></a>Descriptions of the Change Status</h2>
+<p>&nbsp;</p>
+<p>The Traxidy <strong>Change Request Status</strong> levels include <strong>Investigating</strong>, <strong>Submitted</strong>, <strong>Approved</strong> and <strong>Declined</strong>, to make it easy for you to track and manage.</p>
+<p>The <strong>Project Status</strong> Area <strong>Project Tracking Chart</strong> will show the Active Changes including Investigating and Submitted as these require your time to gather information and follow up.</p>
+<p>New Change Requests start with a default status: Investigating.</p>
+<p>Change Status helps to clearly identify Change Requests and their position in the change request process.</p>
+<p>&nbsp;</p>
+<p><strong>Investigating</strong></p>
+<p>The <strong>Investigating </strong>Change Status means the Change Record is being reviewed to determine the work effort and magnitude of the change and whether or not the change should be put forward for approval.</p>
+<p><em>Use Case</em>: as the Project Manager, you&rsquo;ve been told about something that could change the project plan. You need time to review the change by speaking with those involved.</p>
+<ul>
+<ul>
+<li>The review is in your hands as the Project Manager. Consider:</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<ul>
+<li>What work is involved in the Change Request?</li>
+<li>Are there any new deliverables? Corresponding Milestones?</li>
+<li>What impact will the change have on the plan, scope, schedule and budget?</li>
+</ul>
+</ul>
+</ul>
+<p>Determine the impact of the change before changing the status to Submitted and sending the Change Request to the person who needs to approve/review it next.</p>
+<p>&nbsp;</p>
+<h3><strong>Submitted</strong></h3>
+<p>The <strong>Submitted </strong>Change Status means that the Change Request has been submitted to the Approver for review and possible approval.</p>
+<p>&nbsp;</p>
+<h3><strong>Approved</strong></h3>
+<p>The <strong>Approved </strong>Change Status indicates that the Change Request has been approved. The financial impact and work days impact as listed in the Change Request has been approved.</p>
+<p>&nbsp;</p>
+<h3><strong>Declined</strong></h3>
+<p>Use the <strong>Declined </strong>Change Status if the proposed Change Request has been rejected. The Declined Change Records will be kept in the <strong>Declined Tab</strong> for easy reference.</p>
+<p>&nbsp;</p>
+<h3><strong>Active Changes</strong></h3>
+<ul>
+<li>Changes with a status of Investigating, Submitted or Approved will be considered <strong>Active Changes</strong> and will be shown in the Changes Area on the <strong>Active tab</strong> and will be listed in the Traxidy Changes Reports as Active Changes will require your time to monitor and manage.&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/1CEYawmRvI1gJ2F733MP2frVLz5LNy1NYmcbvn1I.jpg"" width=""693"" height=""243"" /></p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/fBdnVYPyz1lDvoQWh9a87RjdWJnMofRIKJONnxYi.jpg"" width=""695"" height=""364"" /></p>",2021-12-13 15:42:50,2022-04-18 15:48:57
+68,1,18,Approved Change: Impact on Project End Date,"<h2><a name=""_Toc69397663""></a>Approved Change: Impact on Project End Date</h2>
+<p>&nbsp;</p>
+<p>If your approved change request has any <strong>Work Days Impact</strong> involved with the change, then it is assumed that the end date for the project will need to be changed.</p>
+<p>&nbsp;</p>
+<p>Traxidy <strong>does not automatically change the project end date</strong>, since this is a very important aspect of the project reporting. It is important that you revisit the Project Information area and ensure you update the New Approved Project End Date once you have made the ajustments to your plan and or budget. You may also need to review the existing project deliverables in this area.</p>
+<p>&nbsp;</p>
+<h3>New Project End Date?</h3>
+<ol>
+<li>Review your plan for the proper project end date</li>
+<li>Input the new project end date in the <strong>Project Information</strong> area</li>
+<li>Review the project deliverables in the <strong>Project Information </strong>area</li>
+<li>Review the project milestones in the <strong>Project Status</strong> area</li>
+<li>Review the <strong>High-Level Plan</strong> area for any changes required</li>
+</ol>
+<p>&nbsp;</p>",2021-12-13 15:44:27,2022-04-18 15:47:46
+69,1,18,Work Week: Project Settings,"<h2><a name=""_Toc69397664""></a>Work Week: Project Settings</h2>
+<ul>
+<li>A project Work Week is set in Project Settings with the option for either a 5 or 7 day work week. The default is set at 5 Work Days per week.</li>
+<li>It is important to note that multiple system generated results in Traxidy are based on the Work Week and number of Work Days you have set for your project. The following numbers in Traxidy are affected by this setting:
+<ul>
+<li>Original Work Days (Project Information)</li>
+<li>Approved Revised Work Days (Project Information)</li>
+<li>Added Work Days (Project Status)</li>
+<li>Total Work Days (Project Status)</li>
+<li>Work Days To Date (Changes)</li>
+<li>Time Duration Complete (Changes, Constraints GYR)</li>
+<li>Work Days Remaining (Dashboard Project Records, Changes)</li>
+<li>Actual Work Days (Project Information)</li>
+<li>Due Status (AID)</li>
+<li>Due in # Days or Past Due by # Days (AID)</li>
+<li>% Project Timeframe (Overall Project Status Color &amp; % Project Timeframe Complete bar)</li>
+</ul>
+</li>
+<li>The Work Week of 5 or 7 Days per Week <u>is project specific</u> and can be easily set for each project in <strong>Project Settings</strong>.</li>
+<li>From the Project Top Navigation Bar, click on the Settings Gear to go to Project Settings. From Project Settings, select Dates, Time Zone &amp; Meeting Types. Choose the appropriate Work Days setting for your project.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/FxomssMqn59DRs2ULW77jotPxyFsm03nE2K7kG9G.jpg"" /></p>",2021-12-13 15:45:34,2021-12-13 15:45:34
+70,1,18,Making Approved Changes to Schedule,"<h2><a name=""_Toc69397665""></a>Making Approved Changes to Schedule</h2>
+<p>Changes to the project timeframe may include changes to the original schedule, and a change to the Project End Date, which will then impact the overall number of work days and the number of work days remaining.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Approved Revised End Date</strong> &ndash;if a project schedule change has been approved, record it in the Project Information Area. Hover over the Approved Revised End Date and the section will turn grey allowing you to enter in the latest, newly revised end date. <br /><br />
+<ul>
+<li>The update to the Approved Revised End Date will also automatically update the information in the Project Status Area.<br /><br /></li>
+<li>A record of all the adjustments to the Original End Date will be kept in the Project Information Area for your reference if needed.</li>
+</ul>
+</li>
+</ul>
+<p>Changing the Original End Date Instead of the Approved Revised End Date</p>
+<p>When setting the Original End Date, there is a <strong>status</strong> setting of <strong>Firm or Estimate.</strong> A Firm date status would imply that an agreed-upon end date for the project has been approved and from that point onward it will require a Change Request to move/revise this date.</p>
+<p>&nbsp;</p>
+<p>Traxidy supports this assumption by presenting a <strong>pop-up warning</strong> if there is an attempt to edit the <strong>Original End Date</strong> once the status is <em>Firm</em>.</p>
+<p>&nbsp;</p>
+<ul>
+<li>Don&rsquo;t worry, Traxidy <u>allows you to edit the original End Date</u> even if the date status is &lsquo;Firm&rsquo;. It is important to know that Traxidy keeps track of all the Approved Revised End Date changes throughout the project timeframe. Having a record of these changes is valuable to the integrity of the project information and reporting.</li>
+</ul>
+<p>&nbsp;</p>
+<p>A record of all the historic changes to the Original End Date will be available there in the</p>
+<p>Project Information Area by clicking on the History icon.<img src=""https://backend-apis.traxidy.com/storage/uploads/lhB8LQOsrPIx8H3mDoHr82qF15MSlVYpIVW2PUHX.jpg"" /></p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/eIVUsH84eyEo0SDAyhqd7V7Pnh1TAXyuoonk6wu1.jpg"" width=""692"" height=""335"" /></p>
+<h3><span style=""color: #0025fd;""><em>Tips!</em></span></h3>
+<p>We recommend that you keep the Original Project End Date intact and not over-write it. Keep a record of the changes to the original approved schedule by indicating the new end date in the Approved Revised End Date in the <strong>Project</strong> <strong>Information</strong> Area.</p>
+<h3>&nbsp;</h3>",2021-12-13 15:49:26,2021-12-13 15:49:26
+71,1,19,The Change Request Form,"<h2>Change Request Form</h2>
+<p>Traxidy provides an automated Change Request Form making it easier to request approval for a change to the approved Project Plan, Scope, Schedule, or Budget.</p>
+<p>&nbsp;</p>
+<p>The Change Request Form has two parts:</p>
+<ol>
+<li><strong> </strong>The current <strong>details</strong> of the change</li>
+<li><strong> </strong>Additional important <strong>notes</strong> to be added</li>
+</ol>
+<h3><a name=""_Toc63758158""></a>1. Details</h3>
+<ul>
+<li>To get started with a Change Request (CR) Form, start on the specific Project Changes Area and click on the current Change Record to open the Change Record Details Window.</li>
+<li>Review the CR details in the Change Details Window including the impacts and Reason for Change.</li>
+<li>Next, click on the main action button, <strong>Create Change Request Form </strong>button<strong>.</strong></li>
+<li>The Change Request Form details will be auto-populated from the record details and presented for your review.</li>
+<li>Review and click the <strong>Continue </strong></li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/fdVj8ELr1lJsSw7chTJhqejzxtX8okJC7tvhjoI6.jpg"" /></p>
+<h3>2. Notes</h3>
+<ul>
+<li>Next, add your notes to outline the <strong>Benefits of the Change</strong> and the outcomes.</li>
+<li>Also, add your notes about the potential <strong>Impact if the Change is not made</strong>.</li>
+<li>Click the <strong>Create Change Request Form </strong>button<strong>.</strong></li>
+<li>Send the Change Request (CR) Form to the Approver to gain approval.</li>
+<li>Saved Change Request Forms will be available for your reference in your <strong>CR Form </strong><strong>Records </strong>tab<strong>. </strong></li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/g5ZMQDZ6n89kxjiqeLGw1mVyuCa1wdnYaH1Yiuxe.jpg"" width=""478"" height=""461"" /></p>
+<p>&nbsp;</p>
+<h3><span style=""color: #0025fd;""><em>Tips!</em></span></h3>
+<p>Keep the information in the notes, concise and to the point. Remember that the full extent of the change and its impact on the project is already very clear in the Change Details (Schedule and Costs).</p>
+<p>&nbsp;</p>",2021-12-13 15:53:12,2021-12-13 15:57:47
+72,1,20,Capture Project Learnings,"<h2>Capture Project Learnings</h2>
+<p>The <strong>Learnings </strong>Area is used for capturing your project notes, ideas and lessons learned throughout the project. This area is all about learning from your experience and optimizing project performance and success. Use the information for yourself, share and discuss with team members and use for Post Project Reviews. Learn during the project timeframe and improve project delivery results and team and client satisfaction.</p>
+<p>&nbsp;</p>
+<p>Easily record detailed notes and ideas including actions to repeat and opportunities to explore/change in your next project. Sort, search and reference your notes at any time. Remember that other project managers, taking on similar projects in the future, may learn from this information as well.</p>
+<p>&nbsp;</p>
+<h3>4 Pieces of Information</h3>
+<p>There are key pieces of learning information to collect as part of lessons learned including impact, business area, issue and impact descriptions and next time. The Traxidy Learn &amp; Improve model makes it easier to retrieve/sort learnings and information for any Post Project Review or Post Mortem.</p>
+<p>From the <strong>Learnings</strong> Area click the <strong><em>+ New Learning</em></strong> button to open the New Learning window.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/SOdc1SCSFAa24Hqq2B79vEjKHq5i5BaFcwAkA3OX.jpg"" width=""710"" height=""248"" /></p>
+<h3>Impact on Project (+/-)</h3>
+<p>Simply select either the plus sign &ldquo;+&rdquo;, for a positive impact or the negative sign &ldquo;-&ldquo;, if the learning had a negative impact on the project.</p>
+<p>Some situations that arise during a project have a negative effect and some have a positive effect. Some lessons learned have a positive impact on project results and are learnings that we want to repeat.</p>
+<p>&nbsp;</p>
+<h3>Main Business Area Involved</h3>
+<p>The Main Business Area involved in the learning is a main aspect of the information collected and helps to align ownership with suggested changes that may be required in the project delivery process. Knowing the Main Business Area and opportunities to work differently next time may also help to improve project quality and outcomes.</p>
+<p>&nbsp;</p>
+<h3>Issue Description &amp; Impact on Project</h3>
+<p>The <em>What</em>: The <strong>Issue Description</strong> captures the details of the learning situation that you think should be repeated (good/+) or not repeated (not good/-) for the next project. &ldquo;What went <em>well</em>?&rdquo; or &ldquo;What went <em>wrong</em>?&rdquo;</p>
+<p>&nbsp;</p>
+<p>The <em>How</em>: The <strong>Impact on Project</strong> describes how the project was affected by the situation. This typically involves key constraints including scope, schedule and budget.</p>
+<p>&nbsp;</p>
+<h3>Learn &amp; Improve for Next Time</h3>
+<p>Add the description of what you have learned and will use to Improve for Next Time. This include a new approach, a new solution or a process change. This learning should align with the Main Business area Involved.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/HJuXjjCX0DMXkLA7i2f69e7D2QMeBDeg0W7eP02p.jpg"" width=""511"" height=""399"" /></p>
+<p>&nbsp;</p>
+<h3><span style=""color: #0025fd;""><em>Tips!</em></span></h3>
+<p>It is important to <strong>Learn &amp; Improve</strong> through the recognition of what can be done better. This will help to provide the continuous improvement of your abilities and the project results. It is also vital to include &ldquo;What went well?&rdquo; as a part of any post project review discussion to determine various aspects of the project delivery that need to be repeated.</p>
+<h3><span style=""color: #0025fd;"">Best Practice</span></h3>
+<p>There is no reason to wait until the end of a project to capture lessons learned. Don't wait for a Post Project Review to record the information. Record your experiences, ideas and learnings, positive and negative as they happen. Also:</p>
+<ul>
+<li>Don&rsquo;t hesitate to indicate Project Management as the Main Business area Involved.</li>
+<li>Be sure to review your notes before starting any other projects. This will help you and your team to learn and improve for next time.</li>
+<li>Leverage your Project learnings notes to support the post project review or post mortem.</li>
+</ul>",2021-12-13 16:03:22,2021-12-13 16:06:20
+73,1,20,Learn & Improve,"<h2>Learn &amp; Improve</h2>
+<p>The <strong>Learn &amp; Improve</strong> Area is found on the Main Menu and contains the <strong>All Learnings</strong> Area containing of all the learnings by project, for your reference. This is the definitive list of everything you have learned to do differently or should continue to do as you manage your projects.</p>
+<p>&nbsp;</p>
+<p>Use the record titles to sort or the Search bar to find specific information as needed.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/XrG0hnqnhw5lc7J20rOsKIqUJaiTti4ySqmzBJvt.jpg"" width=""867"" height=""222"" /></p>",2021-12-13 16:07:16,2021-12-13 16:07:16
+74,1,21,List of Available Reports & Forms,"<h2>List of Available Reports &amp; Forms</h2>
+<p>&nbsp;</p>
+<ul>
+<li>Project Information Report</li>
+<li>Meeting Minutes Report</li>
+<li>Actions Issues Decisions AID Report</li>
+<li>Constraints GYR Report</li>
+<li>Project Status Report</li>
+<li>Change Request Form</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Two Ways to Save &amp; Print Reports</h3>
+<p>Most Traxidy Areas provide the ability to easily tailor and export a report file of area records. Save, print, present, email and share the project area reports with team members and stakeholders.</p>
+<p>Use the <strong><em>Export</em></strong> button.</p>
+<p>&nbsp;</p>
+<h3><img src=""https://backend-apis.traxidy.com/storage/uploads/4ePGrovXMQLl8WAlHSb3aCVzEF3E2Ulby0xf49e3.jpg"" /> &nbsp;<strong>Export</strong></h3>
+<ol>
+<li>Select and click the <strong><em>Export</em></strong> button on the Traxidy Areas.</li>
+<li>Choose how you want the information to be filed as a PDF or printed.</li>
+</ol>
+<p>&nbsp;</p>
+<h3>Use the 'Print Screen' Ability</h3>
+<p>Close the Traxidy Main Menu (click the 'sandwich' or 'hamburger' button) and use the print screen buttons or Clip/Snip app to obtain a 'print' or file of the specific information, directly from the screen.</p>",2021-12-14 06:54:21,2022-03-05 10:01:34
+76,1,21,Project Information Report,"<h2>Project Information Report</h2>
+<h3>Best Use of Report</h3>
+<p>At the start of a project, the <strong>Project Information Report</strong> can be used to support a Project Charter or high-level overview for your Sponsor or Client.</p>
+<p>As the project proceeds, this information can provide a lead page and support any report involving the project.</p>
+<h3>&nbsp;</h3>
+<h3>Description of Report</h3>
+<p>The <strong>Project Information Report </strong>shows the current information regarding the project including dates, work days, constraints, deliverables, milestones and charts showing the Issues, Actions, Risks and Changes.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/zv1q31g1ZHrYaDoPwNCVwU5eBjGnVUk3I1yv5O4h.jpg"" /></p>",2021-12-14 13:38:56,2021-12-14 13:38:56
+77,1,21,Meeting Minutes Report,"<h2>Meeting Minutes Report</h2>
+<p>&nbsp;</p>
+<h3>Best Use of Report</h3>
+<p>The Meeting Minutes Report is a follow-up summary report of <strong>any</strong> project meeting including meetings scheduled in Traxidy, unscheduled and ad-hoc meetings.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Description of Report</h3>
+<p>&nbsp;</p>
+<p>The <strong>Meeting Minutes (MM) Report</strong> easily tracks and summarizes your project meeting information, details and discussion points regarding Issues, Actions, Risks and Changes.</p>
+<p>&nbsp;</p>
+<p>The Meeting Minutes Report<strong> </strong>for<strong> scheduled </strong>meetings<strong> </strong>indicates the meeting date, participants in attendance, and the latest, most up-to-date project details including Issues, Risks, Changes and Decisions that were started or updated during that meeting. You can also tailor the report to include additional comments if needed.</p>
+<p>&nbsp;</p>
+<p>The<strong> </strong>Meeting Minutes Report for<strong> unscheduled </strong>meetings can also be easily created by simply adding in meeting details including Subject, Date &amp; Time and Meeting Type. Add attendees, comments and select the specific AID, Risks and Changes that were part of the meeting.</p>
+<p>&nbsp;</p>
+<p><strong>Note</strong>: Only the latest and most recent information is shown on the form (not the historical information).</p>
+<p>&nbsp;</p>",2021-12-14 13:45:44,2022-04-18 15:53:04
+78,1,21,Constraints GYR Report,"<h2>Constraints GYR Report</h2>
+<h3>Best Use of Report</h3>
+<p>The Constraints GYR Report is best used as part of project Status Meetings and Sponsor/Client Updates.</p>
+<h3>Description of Report</h3>
+<p>The <strong>Constraints GYR Report </strong>indicates the latest status/color of the overall project and each of the key constraints and the most current comments. Any <em>Additional Key Constraint</em> being monitored will also be on the report. Important aspects of this report include the PM assessment and estimate of project <em>Work Complete</em> and <em>Certainty of Project Success</em>.</p>
+<p>The Report includes at-a-glance graphics that shows the historical and Overall Project GYR Trend and status, the Time Duration Complete Chart that indicates project work days complete and the project delivery phases that highlights the Current Delivery Phase.</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/yEUpSWO1sWRRip7BWjjJCPMyvUQefhGvxR5QCVXg.jpg"" /></p>",2021-12-14 14:39:16,2021-12-14 14:39:16
+79,1,21,Project Status Report,"<h2>Project Status Report</h2>
+<p>&nbsp;</p>
+<h3>Best Use of Report</h3>
+<p>The Project Status Report is best used to provide a real-time, tailored view and presentation of the current project status. This report is designed to save you time and make it easy to present, communicate, discuss and share the Project Status with key stakeholders and team members.&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Description of the Report</h3>
+<p>The <strong>Project Status Report</strong> provides a single, real-time view of the project details, status and assessment that is automatically updated from other Traxidy Areas. The report includes:</p>
+<ul>
+<li>Project and Overall GYR Trends, Issues and Actions Overview, Risks, Change Management and Key Constraints GYR and Project Details including dates, Work Days, &shy;&shy;Financial Impacts, PM estimates, and more.</li>
+</ul>
+<p>Tailor the report and easily add your comments to the Overall Status and Actions to Change Status, add/update Milestones, Key Accomplishments and Next Steps. You can also hide specific areas if they are not needed as part of the Project Status Report and discussion. &nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/zNC6iFpcvJi1zbzSHxdsh9LVcUxxHKNgZ7rbWFbz.jpg"" /></p>",2021-12-14 15:27:15,2022-04-18 15:49:25
+80,1,21,Change Request Form,"<h2>Change Request Form</h2>
+<h3>Best Use of This Form</h3>
+<p>The Change Request Form acts as a formal record and official request that can be used in any Change Management Process and it acts as a record of the agreed change to the previously approved project plan (scope, time and budget).</p>
+<h3>Description of the Form</h3>
+<p>The <strong>Change Request Form </strong>pulls existing information that is entered and part of the Change record in Traxidy and provides a guide for additional comments and important details typically needed by the reviewer and approver.<br /><br /></p>
+<p>The inputs only needed when creating the form are:</p>
+<ul>
+<li><strong>Benefits of the Change: </strong>indicate the best outcome for the project if the change is made to the project.</li>
+<li><strong>Impact if the Change is NOT Made: </strong>it is important to inform the approver of the outcome of the project based on the current situation and without a change being made. This helps to gain approval for the change for all the right reasons.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/H9GGVyqyiJrnkDSVG8akZbRwoyS7psN01lPczZXD.jpg"" /></p>",2021-12-14 15:29:07,2021-12-14 15:29:07
+81,1,22,Closed Projects Details,"<h2>Closed Projects Details</h2>
+<p>&nbsp;</p>
+<p>The <strong>Closed Projects</strong> Area provides a historical record of your projects that have a project Mode of <strong>Closed.</strong> All project areas and details remain intact and available for your reference.</p>
+<p>Once a project is closed in Traxidy, it moves from being an active and open project that is tracked, managed and reported on in the Dashboard and all the associated Project Areas, and moves to the Closed Projects Area. <strong>All notifications will stop and Contacts with Contributor or Reviewer access will no longer be able to see the the project.</strong></p>
+<ul>
+<li>Closed Projects can be accessed from the Main Menu, under Projects and select the <strong>Closed Projects</strong></li>
+</ul>
+<p>&nbsp;</p>
+<h3>Change Project Mode to &lsquo;Closed&rsquo;</h3>
+<p>Moving a Project from active (open, on hold, cancelled) to closed requires a change in mode. From the <strong>Project Information</strong> Area, choose the Mode from the drop-down menu to be <em>Closed</em>.</p>
+<ul>
+<li>A pop-up window will appear, requesting a formal confirmation that you want to move the Project from being actively tracked, managed and reported on, to being Closed. Simply confirm, and your project will be moved into the Closed Projects Area.</li>
+</ul>
+<p>Closed Projects can be accessed and referenced at any time. In addition, if needed, a Project can be moved from Closed Status back to Open Status. Go to the Closed Projects Folder, select the specific Project and in the Project Information Area, update the mode to <em>Open</em>.&nbsp;</p>",2021-12-14 15:33:41,2022-03-05 10:03:48
+82,1,23,All Contacts Overview,"<h2>All Contacts Overview</h2>
+<ul>
+<li>The All Contacts Area is available from the Main Menu. The contact information includes all the details from the project specific Contacts Area and lists any projects that these contacts have been associated with, in the Contact record details.</li>
+<li>All Contacts are sorted into tabs for easy review and access including All (All Contacts), Team Members, Key Stakeholders and Clients.&nbsp;</li>
+</ul>
+<p>&nbsp;</p>",2022-01-03 06:58:26,2022-01-03 07:07:43
+83,1,24,All Learnings Overview,"<h2>All Learnings Overview</h2>
+<p>&nbsp;</p>
+<ul>
+<li>The All Learnings Area can be reached from the Main Menu under the Learn &amp; Improve Area.</li>
+<li>The learnings details include all of the recorded project lessons learned and impacts from the project specific Learnings Area and also lists the project name that the learning information was connected with.</li>
+<li>Use the record titles to sort the learnings across all projects or use the Search bar and type a keyword to find specific information.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/TOpjyorEOZN33SY3zJbYCuIsUZkxTKOhZxFCJFrt.jpg"" width=""1166"" height=""383"" /></p>",2022-01-03 07:06:03,2022-03-05 09:50:45
+84,1,23,Add or Import Contacts to a New Project,"<h2>Add or Import Contacts to a New Project&nbsp;</h2>
+<p>&nbsp;</p>
+<ul>
+<li>The All Contacts list helps you save time by allowing you to import and sync any of your existing contacts with a new project.</li>
+<li>As you start a project and open the Contacts Area, select the Import button and Select Contacts From Any Project.</li>
+<li>Start to search for any name you have already used as a Contact in any project, or use the scroll bar and then select the person(s) you want to add then select Add Contacts to Project button</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/dOk6rrAKFuU3tzuU9lE7a8L3JjcJoDhIMme31DSO.jpg"" /></p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/W4q1aVzHVk2ODXZ4q5Ei3RTTMOgVMHdNtpsOpDjJ.jpg"" width=""663"" height=""256"" /></p>
+<p>&nbsp;</p>
+<h3>ADD Details: Meeting Membership, Role and Access Type</h3>
+<ul>
+<li>As each contact is put into the Contacts list for the project, ensure that each one has the proper Meeting Membership for this project and ensure their Project Role and Access Type for this project are also correct. Click the individual record to open the Contact details to make changes.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/Ci7ioqg2mt2Q6mSO5WStRF1APv6V9R7Y2IF8nLFZ.jpg"" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",2022-01-03 10:02:58,2022-03-05 09:50:30
+85,1,25,Complete the Feedback Form,"<h2>Complete the Feedback Form</h2>
+<p>&nbsp;</p>
+<h3>We want to hear from you!</h3>
+<ul>
+<li>Share your feedback and ideas with the Traxidy team. We are always looking to improve Traxidy and value your comments.&nbsp;</li>
+<li>Start by clicking on Feedback in the Main Menu or from the drop-down menu under your avatar, to open the Feedback Form.&nbsp;</li>
+<li>Use the drop-down menus to record the information you want to share and let us know your suggestions including feature ideas and how important they are to you, i.e. whether nice to have, important or critical.&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/X7hRwcK0zctlRwGP9STMxhgPGyJybzZgG45islyS.jpg"" width=""369"" height=""399"" /></p>
+<h3>&nbsp;</h3>
+<h3>Feedback Information</h3>
+<p>&nbsp;</p>
+<p><strong>Feedback Type</strong> (a required field) - Choose your feedback type from our drop-down menu including general product feedback, feature requests or improvements, or bugs.</p>
+<p>&nbsp;</p>
+<p><strong>Traxidy Area</strong> &ndash; Select the Traxidy Area from our drop-down menu that is most connected with your feedback.</p>
+<p>&nbsp;</p>
+<p><strong>Title </strong>- Let us know a general title to help us categorize your feedback.</p>
+<p>&nbsp;</p>
+<p><strong>Details</strong> (a required field) &ndash; Please provide as much information as you can.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Submit Feedback Button</strong> &ndash; Thank you for your comments. Your feedback will be reviewed by the Traxidy product team and forms a key part of our product development.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/iu4NBYR8OWVJiN2rXoG164jyTPGvm1Tp6vJQvDkJ.jpg"" width=""394"" height=""369"" /></p>
+<p>&nbsp;</p>
+<p><strong>Note: </strong>the Traxidy website also provides a form for anyone to contact us. The location is <a href=""https://traxidy.com/contact-us/"">traxidy.com/contact-us</a></p>
+<p>&nbsp;</p>",2022-01-03 10:11:49,2022-04-18 15:51:17
+86,1,26,Refer Colleagues & Friends,"<h2>Refer Colleagues &amp; Friends</h2>
+<ul>
+<li>When your colleagues and friends join Traxidy, you can earn up to 4 weeks of Traxidy for free!</li>
+<li>Use the Traxidy Rewards Area to help your fellow PMs&mdash;let colleagues and friends know about Traxidy and earn credits.&nbsp;</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/j9hP0vGYKtWud3dFdeXtfbO9UUAqjDInfEw4Mh9z.jpg"" width=""833"" height=""473"" /></p>
+<h3>Click to Invite and Refer a Colleague or Project Manager (PM) *</h3>
+<p>This is a quick two-step process.&nbsp;</p>
+<ol>
+<li>Click the Invite button and enter the email of the person you would like to refer to use Traxidy. Click the plus sign to enter the email address.</li>
+<li>Click the Send Invites button. You will be cc&rsquo;d on the email sent out by Traxidy. View the email template in the section below. Refer multiple colleagues and friends anytime.&nbsp;</li>
+</ol>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/SA66xDMaFcEQzTkfehBYDIvqe9zcd7QcD8eBsaVK.jpg"" width=""583"" height=""252"" /></p>
+<h3>Check Your Rewards Status Anytime</h3>
+<ul>
+<li>Select the Rewards Area from the Main Menu or from your Account Avatar to view your current rewards status.</li>
+<li>You will earn Traxidy credits of one week free for each referral that gets started with Traxidy, up to a maximum of four weeks of Traxidy free.&nbsp;</li>
+</ul>
+<p><strong>* To qualify for Traxidy Rewards</strong> each referral email address must be unique and can only be submitted once. Referrals will only be accepted if the person referred is not an existing or previous Traxidy member. You must be a current Traxidy member to receive credits. The limit is 4 weeks (28 days) free.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",2022-01-04 05:41:58,2022-01-04 05:43:25
+87,1,26,How Rewards Work,"<h2>How Rewards Work</h2>
+<ul>
+<li>Whether you are still using a free trial or have a paid Membership, you&rsquo;ll receive an additional free week of Traxidy, each time one of your referrals starts a free trial and/or a paid Membership with Traxidy</li>
+<li>As your colleague signs up for the free trial or the membership, you will earn a free week up to a maximum of four (4) weeks.&nbsp;</li>
+<li>You will see your total of free weeks in the Rewards Area of Traxidy.</li>
+<li>Rewards are connected to your Traxidy account email for both the free trial and a paid Membership.</li>
+</ul>
+<h3><br />Email Invitation</h3>
+<p>Here is what the Email Invitation to your colleague or friend will look like.</p>
+<p><strong>cc:</strong> your.email@yours.com<br /><strong>Subject:</strong> You have been invited to Traxidy</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/2lrkvFkNmncn2sYzuyWuxpEipjzQcswUgpyCWcDf.jpg"" width=""170"" height=""51"" /></p>
+<p><strong>You Have Been Invited to be a Traxidy Member</strong></p>
+<p>Hi,</p>
+<p>&lt;Your Name here&gt;, started using Traxidy, a new application created for Project Managers and thought you would want to try it.</p>
+<p>Sign up to Traxidy with their personal link below.</p>
+<p>Traxidy helps Project Managers (PMs) with real day-to-day project work for better results. It simplifies project issue and priority management for PMs in any industry.&nbsp;</p>
+<p>Traxidy is Project Tracking Management software for PMs that will organize, track, prioritize, report and communicate on all project issues, actions, risks, changes and status with the flexibility to complement any project management methodology and project management platform.&nbsp;</p>
+<p>&bull; It&rsquo;s free to get started!<br />&bull; Easy to use and purposely built for Project Managers by Project Managers&nbsp;<br />&bull; Complements your existing project management tools</p>
+<p>Track a better project journey with Traxidy</p>
+<p><a href=""tinymce/tinymce/tinymce/tinymce/tinymce/tinymce/tinymce/tinymce/tinymce/www.traxidy.com"">www.traxidy.com</a></p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src=""https://backend-apis.traxidy.com/storage/uploads/MCKJbcwY7wPDzB3tC53PaJFQ25Awp2GirMuRHHY0.jpg"" width=""105"" height=""33"" /></p>
+<h3>Tracking Your Rewards</h3>
+<ul>
+<li>The Rewards Area shows a set of Rewards Records outlining the date, the email of the Colleague that you believe will benefit from using Traxidy, and then a list of whether the colleague has been sent the introduction through Traxidy on your behalf, whether they have started their free trial and the reward you have received because of that connection signing-up for Traxidy.</li>
+</ul>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/IPgK0x1wvAFTBf4k0tlqphD7vh8BAvUty4p6Ac5A.jpg"" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",2022-01-04 05:47:52,2022-01-04 06:34:23
+88,1,28,Setup Contacts for Collaboration,"<h2>Setup Contacts for Collaboration</h2>
+<p>&nbsp;</p>
+<p>The use of collaboration access in Traxidy can be a real time-saver. When recording any of your Contacts within Traxidy, the &rsquo;Collaboration Access Type&rsquo; option is a drop-down menu allowing you to setup the Contact as:</p>
+<ol>
+<li>A <strong>Reviewer </strong>of the multiple status areas within Traxidy but have no editing capabilities</li>
+<li>A <strong>Contributor </strong>that can update only those Actions or Risks that show them as &lsquo;Owner&rsquo;.</li>
+</ol>
+<p>The collaboration access is available for the contact to be different for each project they are connected to, and so the contact could have both types of access through their email/account.&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/uqWdExkdrzz07bTiLujlNF55vIDDWvLb43VfQI7M.jpg"" width=""459"" height=""519"" /></p>
+<p>&nbsp;</p>
+<h3>&lsquo;Contributor&rsquo; Access Overview</h3>
+<p>Contacts with Contributor Access can only see and edit items if they are an Owner of the item.</p>
+<ul>
+<li>Edit and update their Actions</li>
+<li>Edit and update their Risks&nbsp;</li>
+<li>View (only) of the Project Information</li>
+</ul>
+<h3>&nbsp;</h3>
+<h3>&lsquo;Reviewer&rsquo; Access Overview</h3>
+<p>Contacts with Reviewer Access can only see the areas within Traxidy that indicate the real-time status of any project they are connected to. The Reviewer does not have editing capabilities.&nbsp;<br />Areas for the Reviewer include; Project Information, Project Status, Constraints GYR and High-Level Plan.</p>
+<h3>&nbsp;</h3>
+<h3>The Access Level Indicator on the Main Menu</h3>
+<p><br />The Access Level indicator on the bottom left of the main screen will show either, Full Access, Reviewer or Contributor.<br />Traxidy Members have Full Access and can also be a Reviewer and/or a Contributor, or all three.<br />Any person, not a Traxidy Member, can be a Contributor or a Reviewer or both.</p>
+<h3>&nbsp;</h3>
+<h3>Set the Access Level</h3>
+<p>Change the Access Level indicator at any time to access any project you have been made a collaborator on by the Traxidy Member.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/wWorisurFQJAmBP0pa9LgFoNHJ1LNT3E5tZDoNVq.jpg"" width=""1047"" height=""510"" /></p>",2022-01-04 11:52:12,2022-03-05 09:50:14
+89,1,28,What a Contributor Can See & Do,"<h2>What Contributors Can See &amp; Do</h2>
+<p>&nbsp;</p>
+<p>The Traxidy Member using Traxidy as a Project Manager has set you up as a Contact having Contributor Access on at least one of their projects. This gives you Contributor privileges on their project in Traxidy.</p>
+<p>&nbsp;</p>
+<p>You will always start on the Traxidy Dashboard Area that shows any and all projects you are a Contributor on. Click the project record to open the Project Information and to see the Main Menu on the left side. Actions Issues Decisions AID and/or Risks Areas will be available to open in the menu.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/tLztobkvQKbXSN0tChn1EXkumNbKjWVqfL0YfudU.jpg"" width=""781"" height=""178"" /></p>
+<p>Only the Actions or Risks that show you as the Owner will be visible to you. Update any of the records at any time.</p>
+<p>Traxidy makes it easy to record an update by keeping track of any historic information for you to review and the date of the updated information.</p>
+<p>For Details on how to use the Actions Issues Decisions (AID) area and Risks Area in Traxidy see the Getting Started Guided Tours for each of those areas or check out the Tips and Help.</p>
+<p>&nbsp;</p>
+<h3>Managing Actions</h3>
+<p>Actions can be updated at any time. Key Action information you can edit includes;</p>
+<ul>
+<li>Text information on the latest update</li>
+<li>The percent of progress made to date</li>
+<li>The expected Due Date for the Action to be complete</li>
+<li>The status Open or Closed</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong><img src=""https://backend-apis.traxidy.com/storage/uploads/FldhXjVQD15JsAfeOyL2NxwJ2lTzzoixZttBcrph.jpg"" width=""905"" height=""439"" /></strong></p>
+<h3>&nbsp;</h3>
+<h3><strong>Managing Risks</strong></h3>
+<p>Risks can be updated at any time. Key Risk information you can edit includes;</p>
+<ul>
+<li>The impacted Constraint(s)</li>
+<li>Probability and Impact scores</li>
+<li>Text update Risk Statement information</li>
+<li>The latest Mitigation update or strategy</li>
+<li>The latest Contingency update or strategy</li>
+<li>The status Open or Closed</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong><img src=""https://backend-apis.traxidy.com/storage/uploads/FOD7nduxpYZFw2Ifzx9qVOBNVhQZQI82z3RRhfyf.jpg"" width=""909"" height=""423"" /></strong></p>",2022-01-04 12:02:54,2022-04-18 16:02:44
+90,1,28,What a Reviewer Can See & Do,"<h2>What a Reviewer Can See &amp; Do</h2>
+<p>&nbsp;</p>
+<p>The Traxidy Member using Traxidy as a Project Manager has established you as a Contact on their project as having Reviewer Access on at least one of their projects. This gives you Reviewer privileges on their project in Traxidy.</p>
+<p>&nbsp;</p>
+<p>When you log in to Traxidy, you will always start on the Traxidy Dashboard Area that shows any and all projects you are able to review and to see the project&rsquo;s current/realtime information.&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""text-decoration: underline;"">To start, click the project record to open the Project Information </span>and to see the Main Menu on the left side. All of the &lsquo;status&rsquo; areas from the project will show in the menu and will be available to open.</p>
+<p>&nbsp;</p>
+<p>As a Reviewer you cannot edit any information but have a view to multiple status information within the project. The areas for you to review the most up-to-date information for the project include:</p>
+<ul>
+<li>Project Information</li>
+<li>Project Constraints GYR</li>
+<li>Project Status</li>
+<li>High-Level Plan</li>
+</ul>
+<p>For Details on how to use the Areas above in Traxidy, see the <strong>Getting Started</strong> Guided Tours or check out the <strong>Tips and Help</strong> information.</p>",2022-01-04 12:08:14,2022-05-18 07:00:41
+91,1,29,Steps if Your Free Trial Expires,"<h2>If Your Trial Expires...</h2>
+<p>&nbsp;</p>
+<p>Logging on to Traxidy once your account has expired will present you with a screen with several options.</p>
+<p>&nbsp;</p>
+<p><img style=""float: left;"" src=""https://backend-apis.traxidy.com/storage/uploads/ylYnRoxIJTOKRBlCnvCaHUdTl8vjPpXAlafdrAix.jpg"" width=""490"" height=""383"" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ol>
+<li>Upgrade to our subscribed membership with a choice of month-to-month or annual membership</li>
+<li>Ask for an extension by letting us know your intent by emailing us at <a href=""mailto:info@traxidy.com"">info@traxidy.com</a></li>
+<li>Close your account and take your data in a Comma Separated Value (CSV) file</li>
+<li>Delete your account with a quick survey</li>
+</ol>
+<p>&nbsp;</p>
+<p>When choosing to export your data, you are presented with options for information you want to receive.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/O0D7Ty3YgFICt3o9wZ2day43SUEszxPnBYo5P2x0.jpg"" /></p>
+<p>&nbsp;</p>
+<p>When deleting your account we ask that you take this very short survey so that we can learn more and continuously improve Traxidy and hopefully you will return to become a Traxidy Member again.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/RGd0uAI07yWPee1vPcXZpTxzWXdkDYyUyvX9ByUP.jpg"" width=""455"" height=""379"" /></p>",2022-01-04 12:24:20,2022-03-05 09:49:57
+92,1,30,Client Presentation with Multiple Projects/Clients,"<h2 dir=""ltr"">Traxidy Client Presentations with Multiple Projects &amp; Multiple Clients</h2>
+<p>&nbsp;</p>
+<p>Working as a Consultant, you may have some projects involving one client and other projects that are managed for a different client.</p>
+<p>&nbsp;</p>
+<p>We have the steps for you to use Traxidy in a live meeting, to show the Client the status of multiple projects <strong>without showing the other projects</strong> that are not connected with that Client.</p>
+<p>&nbsp;</p>
+<p dir=""ltr""><strong>Scenario: </strong>You&rsquo;re a Consultant managing several Projects for multiple clients. For this example we will assume you are working with <strong>Client1 </strong>managing Projects 1, 2 and 3, and you are managing Projects 4 and 5 with <strong>Client2</strong>.</p>
+<p><strong>&nbsp;</strong></p>
+<h3 dir=""ltr"">Drill Down to Specific Project Details with Interactive Charts&nbsp;</h3>
+<p>&nbsp;</p>
+<p dir=""ltr"">The Traxidy Personal Projects Dashboard is all about helping the Member to focus their time each day. It allows you to quickly drill down to more details and go directly to multiple areas by clicking any one of the project charts. The Information Tiles across the top of the Dashboard show the total portfolio and status of the projects you are managing. The individual Project Records show the Overall Status Color, timeframe complete and multiple charts for each key project area.&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<h3 dir=""ltr"">Be Ready for Each Client Presentation &ndash; View and Hide Projects Temporarily</h3>
+<p>&nbsp;</p>
+<p dir=""ltr"">To show your Dashboard and project details in a meeting with Client1 and review only Projects 1, 2 and 3, simply remove Projects 4 and 5 that are not involved with this client.&nbsp;</p>
+<p dir=""ltr"">Remove a project from the main Dashboard (temporarily) by selecting and clicking the box on the projects you want to hide and then click Manage &gt; Close. Press continue after the warning confirmation window pops up.</p>
+<p dir=""ltr"">Don&rsquo;t worry. All the project information is still in your Traxidy account and readily availble. It&rsquo;s not deleted. The project and all its information has been moved from your Dashboard and Active Project Areas to the Closed Projects Folder. Once a project is closed, it will be available in the Closed Projects Folder and can be accessed from the Main Menu on the left navigation panel.&nbsp;</p>
+<p dir=""ltr"">Your Dashboard is now focused on Client1&rsquo;s projects and ready for discussions. You can click on any one project, to review Project Status, Constraints and the High-Level Plan. You decide what to show.</p>
+<p dir=""ltr"">&nbsp;</p>
+<p dir=""ltr""><img src=""https://backend-apis.traxidy.com/storage/uploads/Metl4T57zCaYVf81cSKmUm1ld8HiEDazvEKD8uYw.jpg"" width=""960"" height=""489"" /></p>
+<p dir=""ltr""><strong>&nbsp;</strong></p>
+<h3>Make Your Projects &lsquo;Active&rsquo; Again</h3>
+<p>&nbsp;</p>
+<p>To bring projects back to &lsquo;Active&rsquo; and availble on your Dashboard, simply open the Closed Projects Folder in Main Menu on the left navigation panel and click on each individual project you want to &lsquo;Open&rsquo; again.</p>
+<p>After clicking, the Project Information Area will open. Change the project &lsquo;Mode&rsquo; from &lsquo;Closed&rsquo; to &lsquo;Open&rsquo; in the drop down menu. The project will then be back on your Dashboard and all of its Project Areas and information will be just as it was when it was Closed.</p>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/SohLUzWRDz33D0RLeXf4AILg92UNBomq1gKA6yya.jpg"" /></p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/EExrU6VovymFQQepPl51WNX6U47742L3CAztH2G8.jpg"" /></p>
+<p>&nbsp;</p>
+<p><strong>Please Note:</strong> If a project is left in the Closed Projects Folder, Traxidy will not track any of the dates or provide you notifications.&nbsp;</p>
+<p>&nbsp;</p>",2022-01-19 12:49:00,2022-05-18 07:11:45
+93,87,6,Settings for Each Project,"<h2>Settings for Each Project</h2>
+<p>&nbsp;</p>
+<ul>
+<li>Multiple settings are available for each project. Easily tailor multiple project settings including different delivery phases, work days, date formats and colors.</li>
+<li>The <strong>Project Settings Gear</strong> is always available in each of the <strong>Areas</strong> for any <strong>Project </strong>on the Top Navigation bar.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/HSIfFUGY5NqNemnxEL5yYSrRKN9yFxOcBFIZ5H1d.jpg"" width=""833"" height=""248"" /></p>
+<p>&nbsp;</p>
+<h3>Dates and Meeting Types</h3>
+<ul>
+<li>From Project Settings, select your specific Project Settings including <strong>Dates &amp; Meeting Types</strong></li>
+<li>Traxidy Project Setting default includes: 5 Work Days per Week, YYYY-MM-DD Date Format, and Eastern Time Zone.</li>
+<li>Select the appropriate Work Days, Date Format for your specific project.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Project Meeting Types (Distribution Lists)</h3>
+<ul>
+<li>From Project Settings, select your specific <strong>Project Meeting Types</strong> including Project Team (PT), Steering Committee (SC), Unscheduled (UN), and more, with the option to add your own with the <strong>New Meeting Type</strong></li>
+<li>Creating a<strong> New Meeting</strong> becomes easier with Traxidy. Simply select the <strong>Meeting Type</strong> and all of your contacts that are connected to that Meeting Type will automatically be added for quick invitation set-up, attendance tracking and easier Meeting Minutes.</li>
+<li>The<strong> Meeting Type</strong> helps you save time and simplifies scheduling and reporting and supports the automation of Meeting Minutes.</li>
+</ul>
+<p>&nbsp;</p>
+<p><img src=""https://backend-apis.traxidy.com/storage/uploads/kc6Yz9L5fkgLxJTu2ZqRPFgfWjW1BoaTR5X8TbvK.jpg"" width=""1069"" height=""580"" /></p>",2022-07-12 05:09:42,2022-07-12 05:25:43

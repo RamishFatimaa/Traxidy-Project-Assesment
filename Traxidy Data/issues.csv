@@ -1,0 +1,923 @@
+id,creator_id,project_id,type,status,description,priority,priority_weight,created_at,updated_at
+1,2,4,work_category,open,Planning,low,1,2021-11-26 12:09:56,2022-08-30 07:37:03
+4,2,4,work_category,open,customer support input screen,high,3,2021-11-29 05:49:32,2022-08-30 07:36:04
+5,2,2,work_category,closed,POS Material,high,3,2021-12-01 11:41:10,2022-10-12 06:02:48
+6,10,7,work_category,open,Cliff wants this meeting to happen in 2 weeks,medium,2,2022-01-12 07:08:52,2022-01-12 07:08:52
+7,18,11,work_category,closed,DMS Graphics from 3-digit roadways have a larger size than the 2-digit roadways,low,1,2022-01-13 04:35:40,2022-03-10 05:15:18
+8,18,13,work_category,closed,Old vs New Milemarkers: Use QGIS to create a data set for which milemarkers need to be removed from the Old set due to the fact that they will be covered by a point from the new data set.,high,3,2022-01-13 04:47:23,2022-03-30 05:27:09
+9,6,12,work_category,closed,stuff real stuff,low,1,2022-01-13 12:52:00,2022-03-27 06:54:31
+10,2,2,work_category,closed,Grand Opening,medium,2,2022-01-14 07:05:46,2022-10-12 06:02:56
+11,2,3,work_category,closed,new issue that is causing problems,medium,2,2022-01-14 09:03:30,2022-01-14 09:03:30
+12,2,3,work_category,closed,new,high,3,2022-01-14 09:04:25,2022-01-19 04:20:37
+13,2,3,work_category,open,another problem,low,1,2022-01-14 09:05:20,2022-01-14 09:05:20
+14,2,3,work_category,open,Gin with the problem,escalated,4,2022-01-14 09:06:13,2022-01-14 09:06:13
+15,18,14,work_category,open,Service Area Events,medium,2,2022-01-14 12:34:23,2022-07-27 11:39:45
+16,18,14,work_category,open,Special Event (Planned),medium,2,2022-01-14 12:36:28,2022-07-27 11:39:35
+17,18,14,work_category,closed,Road Conditions (Planned),high,3,2022-01-14 12:40:35,2022-05-18 18:50:13
+18,18,14,work_category,closed,Planned Roadwork Event,low,1,2022-01-14 12:41:42,2022-02-12 10:04:22
+19,18,14,work_category,closed,Tunnel Response,escalated,4,2022-01-14 12:43:24,2022-04-11 15:40:10
+20,18,14,work_category,closed,General Broadcast Response Updates,low,1,2022-01-14 12:44:40,2022-04-07 06:36:14
+21,18,15,work_category,closed,Follow Up Progress,high,3,2022-01-14 12:57:24,2022-01-26 07:23:16
+22,6,12,work_category,open,Not enough resources,high,3,2022-01-15 10:51:36,2022-01-15 10:51:36
+23,6,12,work_category,closed,small issue,medium,2,2022-01-15 11:32:44,2022-03-27 06:33:02
+24,18,17,work_category,closed,Refloc Missing,low,1,2022-01-17 09:40:01,2022-01-17 09:40:26
+25,18,18,work_category,closed,Test Cases - Release 6.17,medium,2,2022-01-18 06:43:20,2022-03-21 15:44:51
+26,18,18,work_category,closed,UAT - Release 6.17,medium,2,2022-01-18 06:45:09,2022-03-21 15:44:41
+27,18,18,work_category,closed,GO-LIVE - Release 6.17,high,3,2022-01-18 06:46:07,2022-03-21 15:45:03
+28,18,18,work_category,closed,6.17 Changes Summary,medium,2,2022-01-18 10:14:50,2022-03-21 15:44:27
+29,2,2,work_category,open,Training,escalated,4,2022-01-23 04:16:08,2022-08-26 08:46:12
+31,18,15,work_category,closed,SAML Auth Test,high,3,2022-01-26 07:25:05,2022-03-21 15:41:20
+32,18,23,work_category,closed,SR-176 Ramp Config,medium,2,2022-01-30 12:54:14,2022-02-12 09:52:39
+34,18,23,work_category,closed,I-71 S Ramp Config,medium,2,2022-01-30 12:56:57,2022-02-12 09:52:29
+35,18,23,work_category,closed,I-71 N Ramp Config,medium,2,2022-01-30 12:59:55,2022-02-12 09:51:51
+36,42,25,work_category,open,The project setup requires more flexibility on saving information,medium,2,2022-02-07 02:31:01,2022-02-07 02:31:01
+38,18,17,work_category,closed,Incorrect Milemarker,low,1,2022-02-12 09:50:32,2022-03-10 07:35:22
+39,32,35,work_category,open,Training for IT Admin's not defined.,high,3,2022-02-15 13:55:19,2022-02-15 13:55:19
+40,46,36,work_category,open,Issue Description,escalated,4,2022-02-28 03:59:44,2022-02-28 03:59:44
+41,46,36,work_category,closed,ssrtsr,medium,2,2022-02-28 06:04:33,2022-02-28 06:04:33
+43,2,2,work_category,closed,Set Up,medium,2,2022-03-04 11:49:59,2022-10-12 06:02:24
+44,2,2,work_category,closed,Contractor & Building,low,1,2022-03-04 12:26:00,2022-10-12 06:02:16
+45,2,4,work_category,closed,Installation,medium,2,2022-03-05 09:28:07,2022-08-30 07:41:22
+46,2,4,work_category,open,Installation,escalated,4,2022-03-06 10:05:14,2022-08-30 07:39:16
+47,2,4,work_category,open,Phase 1 Design,medium,2,2022-03-07 10:03:16,2022-08-30 07:41:59
+48,18,17,work_category,closed,SR-501 between National Rd and Ritchie Rd in Auglaize Co for a crash - 7 MM,medium,2,2022-03-10 07:45:15,2022-05-17 13:23:03
+49,2,4,work_category,closed,Security procedures need updating in tech docs,high,3,2022-03-11 05:29:49,2022-08-30 07:33:34
+50,52,56,work_category,open,Fabrication,low,1,2022-03-12 13:04:27,2022-03-12 13:04:27
+51,52,56,work_category,open,Arts HS,low,1,2022-03-12 13:06:37,2022-03-12 13:06:37
+52,52,56,work_category,open,BarDown HS,low,1,2022-03-12 13:07:56,2022-04-25 15:53:13
+53,52,56,work_category,open,Kelpac HS,low,1,2022-03-12 13:09:41,2022-04-25 15:52:54
+54,52,56,work_category,open,GWC HS,low,1,2022-03-12 13:10:23,2022-03-12 13:10:23
+55,52,56,work_category,open,Tech HS,low,1,2022-03-12 13:11:06,2022-03-12 13:11:06
+56,52,60,work_category,open,installation of box and electrical access is damaged,high,3,2022-03-13 13:49:21,2022-03-13 13:49:21
+57,52,60,work_category,open,lighting is missing in working area,medium,2,2022-03-13 13:51:13,2022-03-13 13:51:13
+58,7,5,work_category,open,Test issue,medium,2,2022-03-14 05:52:50,2022-03-14 05:52:50
+59,52,60,work_category,open,Supply Info,high,3,2022-03-14 06:38:14,2023-03-23 06:07:32
+61,56,64,work_category,closed,Schedule ICC walkthrough of Arts HS to review chillers and discuss next steps to prep for removal,high,3,2022-03-14 10:07:33,2022-03-25 09:04:12
+62,56,64,work_category,closed,Get pricing for GWC ECMs as second shift work,medium,2,2022-03-14 10:12:04,2022-04-26 04:35:06
+63,56,64,work_category,closed,Get pricing from McCloskey for valve replacement at Tech and Shabazz,medium,2,2022-03-14 10:14:59,2022-05-18 07:47:06
+64,56,64,work_category,closed,Get pricing from ICC for UV and AHU replacements,medium,2,2022-03-14 10:25:43,2022-04-26 04:35:11
+65,57,72,work_category,open,Login Screen UX/UI,high,3,2022-03-16 00:52:21,2022-03-16 00:52:21
+66,35,69,work_category,open,Epic 1 need to redo security documentation since client wanted this done,high,3,2022-03-17 10:58:22,2022-03-21 11:40:37
+67,35,69,work_category,open,Epic 1 Sprint 1 there is need for clear benefits,medium,2,2022-03-17 10:59:52,2022-03-21 11:41:36
+68,35,69,work_category,open,Epic 3 timeframe vacations starting in back-end developers group,escalated,4,2022-03-17 11:02:19,2022-03-21 11:40:09
+69,35,69,work_category,closed,Sprint 1 Decision,low,1,2022-03-17 11:05:03,2022-03-17 11:05:15
+72,65,75,work_category,open,Finalize Bylaw Amendments with Kate,high,3,2022-03-18 09:22:14,2022-03-18 09:22:14
+73,65,75,work_category,closed,Add statement of expenses and submit final draft of Jan 3 meeting minutes to board for review.,high,3,2022-03-18 09:23:55,2022-03-18 09:23:55
+74,65,75,work_category,closed,Create action items spreadsheet,high,3,2022-03-18 09:25:08,2022-03-18 09:25:08
+77,65,75,work_category,open,Create roles & responsibilities document,high,3,2022-03-18 09:49:52,2022-03-18 09:49:52
+78,65,75,work_category,closed,Add statement of expenses and submit final draft of Jan 3 meeting minutes to board for review,high,3,2022-03-18 09:51:18,2022-03-18 09:51:18
+79,65,75,work_category,closed,Create action items spreadsheet,high,3,2022-03-18 09:52:36,2022-03-18 10:21:29
+80,65,75,work_category,open,Adjust legal invoice,high,3,2022-03-18 09:53:37,2022-03-18 09:53:37
+81,65,75,work_category,open,Finalize bylaws amendments with Kate,high,3,2022-03-18 09:54:47,2022-03-18 09:54:47
+82,65,75,work_category,open,Obtain quote for Lynx sign repair,medium,2,2022-03-18 09:56:11,2022-03-18 09:56:11
+83,65,75,work_category,open,Get competitive bids for lift station maintenance,high,3,2022-03-18 09:58:40,2022-03-18 09:58:40
+84,65,75,work_category,closed,Meeting with Sonya Sharp,high,3,2022-03-18 09:59:26,2022-04-05 09:13:46
+85,65,75,work_category,open,Bids for landscaping and snow removal,high,3,2022-03-18 10:03:15,2022-03-18 10:03:15
+86,65,75,work_category,open,Obtain quote for insurance,medium,2,2022-03-18 10:04:07,2022-03-18 10:04:07
+87,65,75,work_category,open,Confirm city takeover of waste collection,medium,2,2022-03-18 10:05:17,2022-03-18 10:05:17
+88,65,75,work_category,open,Develop Architectural Standards amendment re: solar panels,medium,2,2022-03-18 10:10:09,2022-03-18 10:10:09
+89,65,75,work_category,open,Pet clean-up,medium,2,2022-03-18 10:13:36,2022-03-18 10:13:36
+90,65,75,work_category,closed,Reach out to rockyview county re: broken water line,medium,2,2022-03-18 10:15:04,2022-04-05 09:12:36
+91,35,70,work_category,closed,we have not got enough time to do all use cases in sprint 1,high,3,2022-03-21 05:12:13,2022-03-31 07:05:08
+92,35,70,work_category,open,looking to reduce sprint 2 use cases,medium,2,2022-03-21 05:13:19,2022-03-21 05:13:19
+93,35,70,work_category,closed,ssssssssssssssssssssss,high,3,2022-03-21 12:18:57,2022-03-31 07:04:52
+94,35,70,work_category,closed,ggggggggggggg,high,3,2022-03-21 12:21:15,2022-03-31 07:04:43
+95,2,1,work_category,closed,Plan Development,high,3,2022-03-22 05:56:13,2022-08-30 07:53:29
+96,2,1,work_category,closed,Build,high,3,2022-03-22 07:02:41,2022-08-30 07:14:43
+97,2,1,work_category,open,Training Documents,high,3,2022-03-22 07:09:34,2022-08-30 07:00:51
+98,2,1,work_category,closed,Design,high,3,2022-03-22 07:10:19,2022-08-30 07:13:52
+101,6,12,work_category,open,ya ya ya,medium,2,2022-03-27 07:11:46,2022-03-27 07:11:46
+102,6,12,work_category,open,yayaya,medium,2,2022-03-27 07:17:49,2022-03-27 07:17:49
+103,6,12,work_category,open,issue,high,3,2022-03-27 07:20:40,2022-03-27 07:20:40
+105,18,77,work_category,open,BUG: General Alert/MEPA Areas Missing from Event Selection,low,1,2022-03-30 16:10:25,2022-05-18 18:48:05
+107,18,95,work_category,closed,Review documentation and prep meeting,medium,2,2022-04-02 14:25:50,2022-04-04 09:34:14
+108,18,17,work_category,closed,US-23 South - Mile 12.5 Issue,medium,2,2022-04-02 15:28:04,2022-04-20 14:45:49
+109,18,17,work_category,closed,DESTAPE Data Re-Config: SR-161,medium,2,2022-04-02 15:29:35,2022-04-19 11:14:58
+110,18,17,work_category,open,DESTAPE Data Re-Config,low,1,2022-04-02 15:30:58,2022-05-11 15:05:35
+111,18,11,work_category,closed,Final Review,low,1,2022-04-02 15:32:09,2022-04-07 06:12:54
+112,18,77,work_category,open,BUG: Task List Services,low,1,2022-04-02 15:40:20,2022-05-18 18:46:00
+113,18,77,work_category,closed,ATMS Weather,low,1,2022-04-02 15:42:06,2022-04-04 11:50:03
+114,18,96,work_category,open,P.Eng Requirements,high,3,2022-04-02 15:45:16,2022-04-02 15:45:16
+115,18,96,work_category,closed,Ohio Covid Test,high,3,2022-04-02 15:45:55,2022-04-05 12:26:11
+116,18,96,work_category,closed,Engencia PTC Trip Scheduling,high,3,2022-04-02 15:46:53,2022-04-07 06:11:31
+117,18,95,work_category,closed,User Manual Refinement - Mitchel to provide update by end of week,medium,2,2022-04-04 09:41:31,2022-05-17 12:29:34
+118,18,77,work_category,closed,MB_Lane Config,low,1,2022-04-04 11:17:25,2022-05-18 18:47:27
+119,65,75,work_category,closed,Non-specific solar panel guidelines,high,3,2022-04-05 09:02:58,2022-04-06 14:08:33
+120,18,95,work_category,closed,Grunt Work,high,3,2022-04-05 12:30:03,2022-04-18 18:58:49
+122,18,17,work_category,closed,Graphic DMS Templates,low,1,2022-04-07 06:14:07,2022-06-22 09:13:49
+123,18,77,work_category,closed,API Request - ATMS add interchange (exit) data in APIs used by the PTC Public Website,medium,2,2022-04-07 06:25:58,2022-07-21 07:45:42
+124,18,77,work_category,closed,Error - Clearing Planned Events,medium,2,2022-04-07 06:27:45,2022-04-11 15:39:40
+125,18,77,work_category,closed,CMM User Feedback,high,3,2022-04-07 06:29:54,2022-04-11 11:32:02
+126,18,96,work_category,closed,PTC Covid Test - Sunday,high,3,2022-04-07 10:50:46,2022-04-10 19:14:22
+127,6,79,work_category,open,This is now a new work item not an issue,low,1,2022-04-09 09:19:04,2022-04-09 09:19:04
+128,18,98,work_category,open,PTC Road Conditions Response,medium,2,2022-04-12 07:27:32,2022-04-12 07:27:32
+129,35,71,work_category,open,Phase 1,high,3,2022-04-12 07:56:22,2022-04-12 07:56:22
+130,55,91,work_category,open,New process for cust ops,high,3,2022-04-12 08:04:32,2022-04-12 08:04:32
+131,18,14,work_category,open,Gary Feedback,low,1,2022-04-12 10:43:57,2022-04-12 10:43:57
+132,18,77,work_category,closed,"CCTV ""Block"" Feature",high,3,2022-04-13 06:18:31,2022-04-13 09:20:28
+133,18,98,work_category,open,TPS Config,medium,2,2022-04-13 09:41:52,2022-05-18 18:49:11
+134,18,17,work_category,closed,Ramp Template Updates,high,3,2022-04-13 10:55:00,2022-05-18 18:38:36
+135,18,77,work_category,closed,Disabled Vehicle Sub-Cause,low,1,2022-04-14 05:51:25,2022-05-08 18:17:04
+136,18,77,work_category,closed,Ramp Response,high,3,2022-04-14 06:07:07,2022-08-25 07:30:31
+137,18,96,work_category,closed,Expense Report,high,3,2022-04-16 14:24:43,2022-05-02 11:07:12
+138,18,96,work_category,closed,Timesheet (x2),medium,2,2022-04-18 08:35:29,2022-04-19 19:20:43
+139,18,96,work_category,closed,PTO: Schedule Friday April 29th,high,3,2022-04-18 08:38:18,2022-04-19 11:01:22
+140,18,96,work_category,closed,Credit Card,high,3,2022-04-18 17:40:45,2022-04-28 14:32:40
+141,18,17,work_category,closed,Roadway Addition,medium,2,2022-04-18 19:01:35,2022-04-19 13:07:55
+142,18,77,work_category,closed,Bug Testing,low,1,2022-04-18 19:08:50,2022-05-18 18:47:45
+143,18,77,work_category,closed,API Response,medium,2,2022-04-18 19:11:44,2022-04-19 11:25:07
+144,18,17,work_category,closed,TT Font,medium,2,2022-04-19 07:01:06,2022-06-29 06:16:32
+145,56,82,work_category,closed,Issue all SCA's,high,3,2022-04-26 04:30:47,2022-05-18 07:46:37
+146,18,96,work_category,closed,Submit Timesheet,high,3,2022-04-27 05:51:10,2022-05-03 19:40:07
+147,18,96,work_category,closed,Consolidate Notes from 04-27 into Traxidy,medium,2,2022-04-27 11:18:09,2022-05-03 19:39:59
+148,30,99,work_category,open,Business License,high,3,2022-04-29 05:47:37,2022-04-29 05:55:46
+149,30,99,work_category,closed,Fixtures ( Pedestals and Valance) Ordered and Estimate delivery date,high,3,2022-04-29 06:08:26,2022-06-10 07:52:07
+150,30,99,work_category,open,Marketing Plan,medium,2,2022-04-29 06:11:56,2022-04-29 06:11:56
+151,30,99,work_category,open,Inventory Plan,medium,2,2022-04-29 06:13:50,2022-04-29 06:13:50
+152,30,99,work_category,open,Lab set up and supplies,medium,2,2022-04-29 06:15:47,2022-04-29 06:15:47
+153,30,99,work_category,open,Marketplace order,high,3,2022-05-03 04:50:27,2022-05-03 04:50:27
+154,18,17,work_category,open,Diversion Route Issues,medium,2,2022-05-03 19:50:27,2022-05-03 19:50:27
+155,18,96,work_category,closed,Self Assessment,medium,2,2022-05-03 19:59:19,2022-06-03 05:06:14
+156,18,77,work_category,closed,CMM User Follow Up,medium,2,2022-05-04 06:56:05,2022-05-19 18:57:21
+158,7,30,work_category,open,Test,high,3,2022-05-04 11:14:20,2022-05-04 11:14:20
+159,18,17,work_category,closed,Message Priority,medium,2,2022-05-05 14:32:35,2022-06-29 06:13:37
+160,18,96,work_category,closed,Timesheet,medium,2,2022-05-08 15:24:40,2022-05-17 12:29:17
+161,18,17,work_category,closed,Township/Municipalities Filter,low,1,2022-05-08 18:13:59,2022-05-18 18:36:07
+163,18,77,work_category,closed,TomTom API Investigation,low,1,2022-05-09 11:18:18,2022-07-27 11:22:09
+165,18,17,work_category,closed,MB_LANECONFIG,medium,2,2022-05-11 15:09:47,2022-05-17 12:31:06
+166,72,101,work_category,closed,Build Plan,medium,2,2022-05-12 08:07:29,2022-08-23 06:36:47
+167,18,95,work_category,closed,Auditor & CSR PP,medium,2,2022-05-17 12:30:25,2022-06-06 14:45:12
+168,18,98,work_category,closed,ODOT Re-Named Polygons,medium,2,2022-05-17 12:59:30,2022-06-08 06:54:50
+169,18,98,work_category,closed,ODOT Ramp Response,medium,2,2022-05-18 18:40:20,2022-07-06 12:05:49
+170,18,17,work_category,closed,Ramp Response Review,low,1,2022-05-18 18:41:24,2022-08-12 06:06:08
+171,18,17,work_category,closed,Combined Road Conditions Response,low,1,2022-05-18 18:43:04,2022-08-25 07:05:24
+172,2,1,work_category,open,Tech Documents,escalated,4,2022-05-23 05:35:33,2022-08-30 07:06:55
+173,18,96,work_category,open,Timesheet (May 30 to 31),medium,2,2022-06-01 10:23:41,2022-06-01 10:23:41
+174,18,77,work_category,closed,6.18 User Acceptance Testing,high,3,2022-06-01 10:29:25,2022-07-06 11:23:44
+175,18,17,work_category,open,OHGO - Road Conditions,low,1,2022-06-01 10:47:42,2022-08-12 06:21:15
+176,6,105,work_category,open,Follow Up with Prospects,high,3,2022-06-01 15:40:57,2022-06-01 15:40:57
+177,6,105,work_category,open,social plans,high,3,2022-06-01 16:11:04,2022-06-01 16:11:04
+178,6,106,work_category,open,Email Communications,medium,2,2022-06-01 16:52:30,2022-06-01 16:52:30
+179,18,17,work_category,open,VPN Issues,low,1,2022-06-02 09:33:10,2022-08-12 06:21:05
+180,18,96,work_category,closed,Update Passwords,escalated,4,2022-06-02 13:50:43,2022-06-12 19:37:50
+181,18,96,work_category,closed,Expense Report,high,3,2022-06-03 05:43:20,2022-07-08 12:20:25
+184,18,77,work_category,closed,Linear Work Zone API,low,1,2022-06-08 07:21:05,2022-07-04 04:42:09
+185,2,4,work_category,open,supply pos,medium,2,2022-06-10 07:37:50,2022-06-10 07:37:50
+186,2,4,work_category,open,Painting,high,3,2022-06-10 07:42:24,2022-08-30 07:47:09
+188,18,95,work_category,closed,Review Master Slide Decks,high,3,2022-06-12 19:41:50,2022-06-15 05:15:09
+189,2,4,work_category,open,Contracts,high,3,2022-06-14 09:44:14,2022-08-30 07:46:51
+190,18,95,work_category,closed,BWB Training Session Follow-ups,medium,2,2022-06-15 05:17:04,2022-07-27 07:21:48
+191,18,95,work_category,closed,IBA Training Session Follow-Ups,low,1,2022-06-15 05:18:54,2022-07-27 07:22:01
+192,18,95,work_category,closed,FBCL Training Session Follow-Ups,low,1,2022-06-15 05:19:56,2022-07-27 07:22:05
+193,18,95,work_category,closed,IBA Hotel,high,3,2022-06-15 17:17:28,2022-06-16 13:17:00
+194,6,78,work_category,open,Collateral,medium,2,2022-06-19 11:31:57,2022-06-19 11:31:57
+195,80,110,work_category,open,Visit Clinic provide feedback at next week's meeting,high,3,2022-06-20 06:42:18,2022-06-20 06:42:18
+196,80,111,work_category,open,BioPed Chatham,medium,2,2022-06-20 06:47:19,2022-06-20 06:47:19
+197,18,17,work_category,closed,Password,high,3,2022-06-20 14:39:15,2022-06-21 04:40:40
+198,18,17,work_category,closed,Polygons: Kentucky Not Included in Prod,medium,2,2022-06-23 09:55:25,2022-07-12 10:37:41
+199,18,17,work_category,open,Service Area Events,medium,2,2022-07-04 04:45:45,2022-07-04 04:45:45
+200,18,17,work_category,closed,Map: US-250,medium,2,2022-07-04 04:47:58,2022-07-12 10:50:01
+201,18,17,work_category,closed,Map: SR-41,medium,2,2022-07-04 04:48:47,2022-08-25 07:04:50
+202,18,98,work_category,closed,ODOT Prod Municipalities Layer,medium,2,2022-07-04 04:57:17,2022-07-06 12:05:20
+203,18,77,work_category,closed,Discussion: Nate Call,escalated,4,2022-07-04 05:13:12,2022-07-06 11:18:47
+204,18,17,work_category,closed,FSP Layer,high,3,2022-07-04 05:15:22,2022-07-21 07:38:26
+205,18,77,work_category,open,Waze: API Closures,medium,2,2022-07-04 06:48:27,2022-07-04 06:48:27
+206,18,77,work_category,open,User Acceptance Testing,high,3,2022-07-06 11:25:23,2022-07-06 11:25:23
+207,18,17,work_category,closed,Map: SR-278,medium,2,2022-07-07 06:09:32,2022-08-25 07:24:20
+208,80,107,work_category,open,Finalize floorplan,high,3,2022-07-14 06:32:17,2022-07-14 06:32:17
+209,80,107,work_category,open,Order Fixtures,medium,2,2022-07-14 06:33:04,2022-07-14 06:33:04
+210,80,111,work_category,open,BioPed Vaughan,high,3,2022-07-14 06:40:34,2022-07-14 06:40:34
+211,80,107,work_category,open,Lease finalized and signed,high,3,2022-07-14 06:42:28,2022-07-14 06:42:28
+212,18,77,work_category,closed,TPS,medium,2,2022-07-21 07:48:20,2022-08-25 07:32:39
+213,18,77,work_category,open,Response Config,high,3,2022-07-21 07:49:20,2022-08-25 07:33:06
+214,18,14,work_category,open,Tunnel Response,medium,2,2022-07-21 07:52:04,2022-07-21 07:52:04
+215,18,14,work_category,open,Twitter Response,medium,2,2022-07-21 07:53:18,2022-07-21 07:53:18
+216,18,77,work_category,open,Roadway Data,medium,2,2022-07-22 10:56:16,2022-07-22 10:56:16
+218,18,17,work_category,closed,Connectivity Update,high,3,2022-07-27 18:58:19,2022-08-25 07:05:11
+219,18,95,work_category,closed,IBA Go-Live,medium,2,2022-07-28 12:33:03,2022-08-03 07:30:28
+220,18,95,work_category,open,Customer-Facing Mobile App Cheat Sheet,medium,2,2022-08-12 06:05:06,2022-08-12 06:05:06
+221,18,17,work_category,open,Planned Event (Ongoing Response),high,3,2022-08-12 06:20:22,2022-08-12 06:20:45
+222,18,77,work_category,open,BUG: Diversion Route Re-Config,low,1,2022-08-25 07:37:06,2022-08-25 07:37:06
+223,18,77,work_category,open,"Discussion: PTC looking to reduce the number of signs being activated in certain areas of the roadway. The way the response config is currently set up means that there are a LOT of signs being activated for events on I-76 around the 300 mile mark. The large number of pre-entries and signs along the roadway means that the general ""Distance"" filter that is used for response in other parts of the turnpike might not be so good here. Looking for IBI to come up with a potential solution for this.",medium,2,2022-08-25 07:46:45,2022-08-25 07:46:45
+224,2,2,issue,open,Employee iist for training,medium,2,2022-08-26 09:05:41,2022-08-26 09:41:19
+225,2,2,issue,closed,Contractor Problems,high,3,2022-08-26 10:19:03,2022-10-12 06:01:36
+227,2,1,issue,open,Resource Availability in Support Desk,medium,2,2022-08-30 07:05:04,2022-08-30 07:05:04
+228,2,1,issue,open,Tech Documents Firewall Security Changes,high,3,2022-08-30 07:17:04,2022-08-30 07:17:04
+229,2,4,issue,open,Delivery Timing from Builder,high,3,2022-08-30 07:45:09,2022-08-30 07:45:09
+230,2,4,work_category,open,Permits,high,3,2022-08-30 07:48:44,2022-08-30 07:48:44
+231,2,1,work_category,open,Training Schedule,medium,2,2022-08-30 08:11:43,2022-08-30 08:11:43
+234,2,125,work_category,closed,Planning,medium,2,2022-10-12 07:08:01,2022-10-12 07:53:54
+235,2,125,work_category,open,Sprint 1,medium,2,2022-10-19 13:25:32,2022-10-19 13:25:32
+236,2,125,issue,open,Screen Director Not available,high,3,2022-10-19 13:27:38,2022-10-19 13:27:38
+237,2,2,work_category,open,Hardware Upgrade,high,3,2022-10-20 06:24:34,2022-10-20 06:24:34
+238,2,125,work_category,open,Purchasing Hardware,high,3,2022-10-21 06:13:29,2022-10-21 06:13:29
+239,2,125,issue,open,Training Schedule,high,3,2022-10-21 06:14:44,2022-10-21 06:14:44
+240,2,126,work_category,open,2. Installations,high,3,2022-10-26 05:45:08,2023-03-23 05:46:15
+243,2,126,issue,open,Security system missing from design and plan,high,3,2022-11-01 11:39:41,2023-03-23 05:49:25
+244,2,127,work_category,open,Response Content,medium,2,2022-11-08 12:52:19,2022-11-08 12:52:19
+245,2,127,issue,open,Vendor Pricing Delay,escalated,4,2022-11-08 12:57:22,2023-01-13 04:45:33
+246,2,127,work_category,open,Prepare RFx Templated Response,high,3,2022-11-08 13:05:05,2022-11-08 13:05:05
+251,2,125,work_category,open,Requirements Gathering,low,1,2022-11-24 05:36:50,2022-11-24 05:36:50
+253,2,132,work_category,open,Prepare for Event,medium,2,2023-02-09 07:44:16,2023-02-09 07:44:16
+254,2,132,work_category,open,Marketing for the Event,high,3,2023-02-09 07:48:57,2023-02-09 07:48:57
+255,2,132,issue,open,shipping to centre,escalated,4,2023-02-09 08:12:01,2024-01-11 10:53:03
+256,22,133,work_category,open,Planning Meetings,medium,2,2023-02-13 09:40:05,2023-02-13 09:40:05
+257,22,133,issue,open,Meetings for Planning Schedule,high,3,2023-02-13 09:42:13,2023-02-13 09:42:13
+258,7,134,work_category,open,New action,high,3,2023-03-07 06:28:54,2023-03-07 06:28:54
+259,7,135,issue,open,Send out the Level of Effort sheet to MIS3 Team as required,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+260,7,135,issue,open,Provide MIS3 blank RFP Response for Sales into the shared drive,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+261,7,135,issue,open,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+262,7,135,issue,open,"Send out RFP questions to client, if any",medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+263,7,135,issue,open,Ensure all LOE forms are returned to the shared drive and are complete,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+264,7,135,issue,open,Complete the PMO level of effort LOE sheet & return to the shared drive,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+265,7,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+266,7,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+267,7,135,issue,open,Ensure your Partner Response costing is complete and in the shared drive,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+268,7,135,issue,open,Set up a meeting to review final information if required,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+269,7,135,issue,open,Put together the final RFP response into the shared drive,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+270,7,135,issue,open,Close project/tasks and submit closure report,medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+271,7,135,issue,open,"Record learnings, if any",medium,2,2023-03-28 05:44:05,2023-03-28 05:44:05
+272,2,135,issue,open,Send out the Level of Effort sheet to MIS3 Team as required,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+273,2,135,issue,open,Provide MIS3 blank RFP Response for Sales into the shared drive,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+274,2,135,issue,open,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+275,2,135,issue,open,"Send out RFP questions to client, if any",medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+276,2,135,issue,open,Ensure all LOE forms are returned to the shared drive and are complete,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+277,2,135,issue,open,Complete the PMO level of effort LOE sheet & return to the shared drive,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+278,2,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+279,2,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+280,2,135,issue,open,Ensure your Partner Response costing is complete and in the shared drive,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+281,2,135,issue,open,Set up a meeting to review final information if required,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+282,2,135,issue,open,Put together the final RFP response into the shared drive,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+283,2,135,issue,open,Close project/tasks and submit closure report,medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+284,2,135,issue,open,"Record learnings, if any",medium,2,2023-03-28 06:09:15,2023-03-28 06:09:15
+285,2,135,issue,open,Send out the Level of Effort sheet to MIS3 Team as required,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+286,2,135,issue,open,Provide MIS3 blank RFP Response for Sales into the shared drive,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+287,2,135,issue,open,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+288,2,135,issue,open,"Send out RFP questions to client, if any",medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+289,2,135,issue,open,Ensure all LOE forms are returned to the shared drive and are complete,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+290,2,135,issue,open,Complete the PMO level of effort LOE sheet & return to the shared drive,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+291,2,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+292,2,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+293,2,135,issue,open,Ensure your Partner Response costing is complete and in the shared drive,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+294,2,135,issue,open,Set up a meeting to review final information if required,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+295,2,135,issue,open,Put together the final RFP response into the shared drive,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+296,2,135,issue,open,Close project/tasks and submit closure report,medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+297,2,135,issue,open,"Record learnings, if any",medium,2,2023-03-28 06:13:53,2023-03-28 06:13:53
+298,2,135,issue,open,Send out the Level of Effort sheet to MIS3 Team as required,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+299,2,135,issue,open,Provide MIS3 blank RFP Response for Sales into the shared drive,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+300,2,135,issue,open,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+301,2,135,issue,open,"Send out RFP questions to client, if any",medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+302,2,135,issue,open,Ensure all LOE forms are returned to the shared drive and are complete,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+303,2,135,issue,open,Complete the PMO level of effort LOE sheet & return to the shared drive,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+304,2,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+305,2,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+306,2,135,issue,open,Ensure your Partner Response costing is complete and in the shared drive,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+307,2,135,issue,open,Set up a meeting to review final information if required,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+308,2,135,issue,open,Put together the final RFP response into the shared drive,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+309,2,135,issue,open,Close project/tasks and submit closure report,medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+310,2,135,issue,open,"Record learnings, if any",medium,2,2023-03-28 06:14:11,2023-03-28 06:14:11
+311,2,135,issue,open,Send out the Level of Effort sheet to MIS3 Team as required,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+312,2,135,issue,open,Provide MIS3 blank RFP Response for Sales into the shared drive,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+313,2,135,issue,open,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+314,2,135,issue,open,"Send out RFP questions to client, if any",medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+315,2,135,issue,open,Ensure all LOE forms are returned to the shared drive and are complete,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+316,2,135,issue,open,Complete the PMO level of effort LOE sheet & return to the shared drive,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+317,2,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+318,2,135,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+319,2,135,issue,open,Ensure your Partner Response costing is complete and in the shared drive,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+320,2,135,issue,open,Set up a meeting to review final information if required,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+321,2,135,issue,open,Put together the final RFP response into the shared drive,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+322,2,135,issue,open,Close project/tasks and submit closure report,medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+323,2,135,issue,open,"Record learnings, if any",medium,2,2023-03-28 06:18:13,2023-03-28 06:18:13
+324,2,137,issue,open,Send out the Level of Effort sheet to MIS3 Team as required,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+325,2,137,issue,open,Provide MIS3 blank RFP Response for Sales into the shared drive,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+326,2,137,issue,open,Meet/Review the Traxidy RFP plan with full team. Set Up meet in Traxidy and send out 'meeting minutes',medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+327,2,137,issue,open,"Send out RFP questions to client, if any",medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+328,2,137,issue,open,Ensure all LOE forms are returned to the shared drive and are complete,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+329,2,137,issue,open,Complete the PMO level of effort LOE sheet & return to the shared drive,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+330,2,137,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+331,2,137,issue,open,Ensure your information is complete for the RFP response and in the shared drive,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+332,2,137,issue,open,Ensure your Partner Response costing is complete and in the shared drive,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+333,2,137,issue,open,Set up a meeting to review final information if required,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+334,2,137,issue,open,Put together the final RFP response into the shared drive,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+335,2,137,issue,open,Close project/tasks and submit closure report,medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+336,2,137,issue,open,"Record learnings, if any",medium,2,2023-03-28 06:27:49,2023-03-28 06:27:49
+337,2,138,issue,open,neet to send a card,medium,2,2023-03-28 08:34:07,2023-03-28 08:34:07
+338,2,138,issue,open,take the paint home,medium,2,2023-03-28 08:34:07,2023-03-28 08:34:07
+339,2,138,issue,open,make a full list of what needs to be working,medium,2,2023-03-28 08:34:07,2023-03-28 08:34:07
+340,2,138,issue,open,this is the time to check on this,medium,2,2023-03-28 08:34:07,2023-03-28 08:34:07
+341,2,138,issue,open,Info Gather Done,medium,2,2023-03-28 08:34:07,2023-03-28 08:34:07
+342,2,138,issue,open,more to do,medium,2,2023-03-28 08:34:07,2023-03-28 08:34:07
+379,2,150,work_category,open,identify goals,medium,2,2023-04-10 07:33:22,2023-04-10 07:33:22
+380,2,150,work_category,open,determine deliverables,medium,2,2023-04-10 07:33:22,2023-04-10 07:33:22
+381,2,150,work_category,open,conduct stakeholer interviews,medium,2,2023-04-10 07:33:22,2023-04-10 07:33:22
+382,2,150,work_category,open,develop resource requirements,medium,2,2023-04-10 07:33:22,2023-04-10 07:33:22
+383,2,150,work_category,open,build schedule and plan,medium,2,2023-04-10 07:33:22,2023-04-10 07:33:22
+384,2,150,work_category,open,obtain resources,medium,2,2023-04-10 07:33:23,2023-04-10 07:33:23
+385,2,150,work_category,open,build as planned,medium,2,2023-04-10 07:33:23,2023-04-10 07:33:23
+386,2,150,work_category,open,test and review,medium,2,2023-04-10 07:33:23,2023-04-10 07:33:23
+387,2,150,work_category,open,manage team updates,medium,2,2023-04-10 07:33:23,2023-04-10 07:33:23
+388,2,150,work_category,open,manage risks,medium,2,2023-04-10 07:33:23,2023-04-10 07:33:23
+389,2,150,work_category,open,manage isssues,medium,2,2023-04-10 07:33:23,2023-04-10 07:33:23
+390,2,150,work_category,open,manage changes,medium,2,2023-04-10 07:33:23,2023-04-10 07:33:23
+391,2,150,work_category,open,finalize and obtain sign-off,medium,2,2023-04-10 07:33:23,2023-04-10 07:33:23
+422,2,156,work_category,open,Develop Charter,medium,2,2023-04-17 07:59:16,2023-04-17 07:59:16
+431,2,160,work_category,open,Develop Charter,medium,2,2023-04-17 08:13:46,2023-04-17 08:13:46
+432,2,160,work_category,open,Planning,medium,2,2023-04-17 08:13:47,2023-04-17 08:13:47
+433,2,161,work_category,open,Develop Charter,medium,2,2023-04-17 08:19:48,2023-04-17 08:19:48
+434,2,161,work_category,open,Planning,medium,2,2023-04-17 08:19:48,2023-04-17 08:19:48
+435,2,161,work_category,open,Planning,medium,2,2023-04-17 08:19:48,2023-04-17 08:19:48
+436,2,161,work_category,open,Planning,medium,2,2023-04-17 08:19:48,2023-04-17 08:19:48
+437,2,161,work_category,open,Planning,medium,2,2023-04-17 08:19:48,2023-04-17 08:19:48
+438,2,161,work_category,open,Manage Execution,medium,2,2023-04-17 08:19:48,2023-04-17 08:19:48
+439,2,161,work_category,open,Manage Execution,medium,2,2023-04-17 08:19:48,2023-04-17 08:19:48
+440,2,161,work_category,open,Manage Execution,medium,2,2023-04-17 08:19:48,2023-04-17 08:19:48
+441,2,162,work_category,open,Develop Charter,medium,2,2023-04-17 08:27:11,2023-04-17 08:27:11
+442,2,162,work_category,open,Planning,medium,2,2023-04-17 08:27:11,2023-04-17 08:27:11
+443,2,162,work_category,open,Planning,medium,2,2023-04-17 08:27:11,2023-04-17 08:27:11
+444,2,162,work_category,open,Planning,medium,2,2023-04-17 08:27:11,2023-04-17 08:27:11
+445,2,162,work_category,open,Planning,medium,2,2023-04-17 08:27:11,2023-04-17 08:27:11
+446,2,162,work_category,open,Manage Execution,medium,2,2023-04-17 08:27:11,2023-04-17 08:27:11
+447,2,162,work_category,open,Manage Execution,medium,2,2023-04-17 08:27:11,2023-04-17 08:27:11
+448,2,162,work_category,open,Manage Execution,medium,2,2023-04-17 08:27:11,2023-04-17 08:27:11
+464,2,166,work_category,open,Develop Charter,medium,2,2023-04-17 09:14:11,2023-04-17 09:14:11
+465,2,166,work_category,open,Planning,medium,2,2023-04-17 09:14:11,2023-04-17 09:14:11
+466,2,166,work_category,open,Planning,medium,2,2023-04-17 09:14:11,2023-04-17 09:14:11
+467,2,166,work_category,open,Planning,medium,2,2023-04-17 09:14:11,2023-04-17 09:14:11
+468,2,166,work_category,open,Manage Execution,medium,2,2023-04-17 09:14:11,2023-04-17 09:14:11
+469,2,166,work_category,open,Manage Execution,medium,2,2023-04-17 09:14:11,2023-04-17 09:14:11
+470,2,166,work_category,open,Manage Execution,medium,2,2023-04-17 09:14:11,2023-04-17 09:14:11
+471,2,167,work_category,open,Develop Charter,medium,2,2023-04-17 09:27:18,2023-04-17 09:27:18
+472,2,167,work_category,open,Planning,medium,2,2023-04-17 09:27:18,2023-04-17 09:27:18
+473,2,167,work_category,open,Planning,medium,2,2023-04-17 09:27:18,2023-04-17 09:27:18
+474,2,167,work_category,open,Planning,medium,2,2023-04-17 09:27:18,2023-04-17 09:27:18
+475,2,167,work_category,open,Manage Execution,medium,2,2023-04-17 09:27:18,2023-04-17 09:27:18
+476,2,167,work_category,open,Manage Execution,medium,2,2023-04-17 09:27:18,2023-04-17 09:27:18
+477,2,167,work_category,open,Manage Execution,medium,2,2023-04-17 09:27:18,2023-04-17 09:27:18
+478,2,167,work_category,open,Control and Project Management,medium,2,2023-04-17 09:27:19,2023-04-17 09:27:19
+479,2,167,work_category,open,Control and Project Management,medium,2,2023-04-17 09:27:19,2023-04-17 09:27:19
+480,2,167,work_category,open,Control and Project Management,medium,2,2023-04-17 09:27:19,2023-04-17 09:27:19
+493,2,170,work_category,open,Develop Charter,medium,2,2023-04-17 09:54:14,2023-04-17 09:54:14
+494,2,170,work_category,open,Planning,medium,2,2023-04-17 09:54:14,2023-04-17 09:54:14
+495,2,170,work_category,open,Planning,medium,2,2023-04-17 09:54:14,2023-04-17 09:54:14
+496,2,170,work_category,open,Planning,medium,2,2023-04-17 09:54:15,2023-04-17 09:54:15
+497,2,170,work_category,open,Manage Execution,medium,2,2023-04-17 09:54:15,2023-04-17 09:54:15
+498,2,170,work_category,open,Manage Execution,medium,2,2023-04-17 09:54:15,2023-04-17 09:54:15
+499,2,170,work_category,open,Manage Execution,medium,2,2023-04-17 09:54:15,2023-04-17 09:54:15
+500,2,170,work_category,open,Control and Project Management,medium,2,2023-04-17 09:54:15,2023-04-17 09:54:15
+501,2,170,work_category,open,Control and Project Management,medium,2,2023-04-17 09:54:15,2023-04-17 09:54:15
+502,2,170,work_category,open,Control and Project Management,medium,2,2023-04-17 09:54:15,2023-04-17 09:54:15
+503,2,170,work_category,open,Develop Charter,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+504,2,170,work_category,open,Develop Charter,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+505,2,170,work_category,open,Planning,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+506,2,170,work_category,open,Planning,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+507,2,170,work_category,open,Planning,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+508,2,170,work_category,open,Manage Execution,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+509,2,170,work_category,open,Manage Execution,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+510,2,170,work_category,open,Manage Execution,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+511,2,170,work_category,open,Control and Project Management,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+512,2,170,work_category,open,Control and Project Management,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+513,2,170,work_category,open,Control and Project Management,medium,2,2023-04-20 11:34:55,2023-04-20 11:34:55
+514,2,171,work_category,open,Develop Charter,medium,2,2023-04-20 11:43:42,2023-04-20 11:43:42
+515,2,172,work_category,open,Develop Charter,medium,2,2023-04-20 11:50:41,2023-04-20 11:50:41
+516,2,172,work_category,open,Discover,medium,2,2023-04-20 11:50:41,2023-04-20 11:50:41
+517,2,172,work_category,open,Planning,medium,2,2023-04-20 11:50:41,2023-04-20 11:50:41
+518,2,172,work_category,open,Planning,medium,2,2023-04-20 11:50:41,2023-04-20 11:50:41
+519,2,172,work_category,open,Manage Execution,medium,2,2023-04-20 11:50:41,2023-04-20 11:50:41
+520,2,172,work_category,open,Manage Execution,medium,2,2023-04-20 11:50:41,2023-04-20 11:50:41
+521,2,172,work_category,open,Manage Execution,medium,2,2023-04-20 11:50:41,2023-04-20 11:50:41
+522,2,173,work_category,open,Develop Charter,medium,2,2023-04-20 12:18:59,2023-04-20 12:18:59
+523,2,173,work_category,open,Discover,medium,2,2023-04-20 12:18:59,2023-04-20 12:18:59
+524,2,173,work_category,open,Planning,medium,2,2023-04-20 12:19:00,2023-04-20 12:19:00
+525,2,173,work_category,open,Planning,medium,2,2023-04-20 12:19:00,2023-04-20 12:19:00
+526,2,173,work_category,open,Manage Execution,medium,2,2023-04-20 12:19:00,2023-04-20 12:19:00
+527,2,173,work_category,open,Manage Execution,medium,2,2023-04-20 12:19:00,2023-04-20 12:19:00
+528,2,173,work_category,open,Manage Execution,medium,2,2023-04-20 12:19:00,2023-04-20 12:19:00
+529,2,174,work_category,open,Develop Charter,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+530,2,174,work_category,open,Discover,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+531,2,174,work_category,open,Planning,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+532,2,174,work_category,open,Manage Execution,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+533,2,174,work_category,open,Manage Execution,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+534,2,174,work_category,open,Manage Execution,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+535,2,174,work_category,open,Planning,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+536,2,174,work_category,open,Manage Execution,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+537,2,174,work_category,open,Manage Execution,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+538,2,174,work_category,open,Manage Execution,medium,2,2023-04-20 12:24:52,2023-04-20 12:24:52
+542,2,176,work_category,open,Develop Charter,medium,2,2023-04-20 13:03:06,2023-04-20 13:03:06
+543,2,176,work_category,open,Discover,medium,2,2023-04-20 13:03:06,2023-04-20 13:03:06
+544,2,176,work_category,open,Planning,medium,2,2023-04-20 13:03:06,2023-04-20 13:03:06
+545,2,176,work_category,open,Manage Execution ONLY a Start Date,medium,2,2023-04-20 13:03:07,2023-04-20 13:03:07
+546,2,176,work_category,open,Manage Execution,medium,2,2023-04-20 13:03:07,2023-04-20 13:03:07
+547,2,176,work_category,open,Manage Execution,medium,2,2023-04-20 13:03:07,2023-04-20 13:03:07
+548,2,176,work_category,open,Planning,medium,2,2023-04-20 13:03:07,2023-04-20 13:03:07
+549,2,176,work_category,open,Manage Execution,medium,2,2023-04-20 13:03:07,2023-04-20 13:03:07
+550,2,176,work_category,open,Manage Execution,medium,2,2023-04-20 13:03:07,2023-04-20 13:03:07
+551,2,176,work_category,open,Manage Execution,medium,2,2023-04-20 13:03:07,2023-04-20 13:03:07
+552,2,177,work_category,open,Develop Charter,medium,2,2023-04-20 13:05:28,2023-04-20 13:05:28
+553,2,177,work_category,open,Discover,medium,2,2023-04-20 13:05:28,2023-04-20 13:05:28
+554,2,177,work_category,open,Planning,medium,2,2023-04-20 13:05:28,2023-04-20 13:05:28
+555,2,177,work_category,open,Manage Execution ONLY a Start Date,medium,2,2023-04-20 13:05:28,2023-04-20 13:05:28
+556,2,177,work_category,open,Manage Execution,medium,2,2023-04-20 13:05:28,2023-04-20 13:05:28
+557,2,177,work_category,open,Manage Execution,medium,2,2023-04-20 13:05:28,2023-04-20 13:05:28
+558,2,177,work_category,open,Planning,medium,2,2023-04-20 13:05:28,2023-04-20 13:05:28
+565,2,179,work_category,open,Develop Charter,medium,2,2023-04-20 13:50:28,2023-04-20 13:50:28
+566,2,179,work_category,open,Discover,medium,2,2023-04-20 13:50:28,2023-04-20 13:50:28
+567,2,179,work_category,open,Planning,medium,2,2023-04-20 13:50:28,2023-04-20 13:50:28
+568,2,179,work_category,open,Manage Execution,medium,2,2023-04-20 13:50:28,2023-04-20 13:50:28
+569,2,179,work_category,open,Manage Execution,medium,2,2023-04-20 13:50:28,2023-04-20 13:50:28
+570,2,179,work_category,open,Manage Execution,medium,2,2023-04-20 13:50:28,2023-04-20 13:50:28
+571,2,179,work_category,open,Planning,medium,2,2023-04-20 13:50:28,2023-04-20 13:50:28
+581,2,182,work_category,open,Develop Charter,medium,2,2023-04-25 08:03:52,2023-04-25 08:03:52
+582,2,182,work_category,open,Discover,medium,2,2023-04-25 08:03:52,2023-04-25 08:03:52
+583,2,182,work_category,open,Planning,medium,2,2023-04-25 08:03:52,2023-04-25 08:03:52
+590,2,185,work_category,open,Develop Charter,medium,2,2023-04-25 08:16:18,2023-04-25 08:16:18
+591,2,185,work_category,open,Discover,medium,2,2023-04-25 08:16:18,2023-04-25 08:16:18
+592,2,186,work_category,open,Develop Charter,medium,2,2023-04-25 08:21:29,2023-04-25 08:21:29
+593,2,186,work_category,open,Discover,medium,2,2023-04-25 08:21:29,2023-04-25 08:21:29
+594,2,186,work_category,open,Initiation,medium,2,2023-04-25 08:21:29,2023-04-25 08:21:29
+595,2,186,work_category,open,Initiation,medium,2,2023-04-25 08:21:29,2023-04-25 08:21:29
+596,2,186,work_category,open,Develop Charter,medium,2,2023-04-25 08:21:29,2023-04-25 08:21:29
+597,2,186,work_category,open,Discover,medium,2,2023-04-25 08:21:29,2023-04-25 08:21:29
+598,2,187,work_category,open,Develop Charter,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+599,2,187,work_category,open,Discover,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+600,2,187,work_category,open,Initiation,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+601,2,187,work_category,open,Initiation,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+602,2,187,work_category,open,Develop Charter,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+603,2,187,work_category,open,Discover,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+604,2,187,work_category,open,Execution,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+605,2,187,work_category,open,Execution,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+606,2,187,work_category,open,Execution,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+607,2,187,work_category,open,Execution,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+608,2,187,work_category,open,Closure,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+609,2,187,work_category,open,Closure,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+610,2,187,work_category,open,Closure,medium,2,2023-04-25 08:28:22,2023-04-25 08:28:22
+611,2,188,work_category,open,Develop Charter,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+612,2,188,work_category,open,Discover,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+613,2,188,work_category,open,Initiation,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+614,2,188,work_category,open,Initiation,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+615,2,188,work_category,open,Develop Charter,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+616,2,188,work_category,open,Discover,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+617,2,188,work_category,open,Execution,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+618,2,188,work_category,open,Execution,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+619,2,188,work_category,open,Execution,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+620,2,188,work_category,open,Execution,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+621,2,188,work_category,open,Closure,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+622,2,188,work_category,open,Closure,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+623,2,188,work_category,open,Closure,medium,2,2023-04-25 08:34:18,2023-04-25 08:34:18
+624,2,189,work_category,open,Develop Charter,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+625,2,189,work_category,open,Discover,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+626,2,189,work_category,open,Initiation,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+627,2,189,work_category,open,Initiation,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+628,2,189,work_category,open,Develop Charter,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+629,2,189,work_category,open,Discover,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+630,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+631,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+632,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+633,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+634,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+635,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+636,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+637,2,189,work_category,open,Develop Charter,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+638,2,189,work_category,open,Discover,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+639,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+640,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+641,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+642,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+643,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+644,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+645,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+646,2,189,work_category,open,Develop Charter,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+647,2,189,work_category,open,Discover,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+648,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+649,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+650,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+651,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+652,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+653,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+654,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+655,2,189,work_category,open,Develop Charter,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+656,2,189,work_category,open,Discover,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+657,2,189,work_category,open,Fuzzy Front,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+658,2,189,work_category,open,Fuzzy Front,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+659,2,189,work_category,open,Fuzzy Front,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+660,2,189,work_category,open,Fuzzy Front,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+661,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+662,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+663,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+664,2,189,work_category,open,meetings,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+665,2,189,work_category,open,meetings,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+666,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+667,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+668,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+669,2,189,work_category,open,Execution,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+670,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+671,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+672,2,189,work_category,open,Closure,medium,2,2023-04-25 08:46:56,2023-04-25 08:46:56
+673,2,189,work_category,open,Develop Charter,medium,2,2023-04-27 12:50:11,2023-04-27 12:50:11
+674,2,189,work_category,open,Discover,medium,2,2023-04-27 12:50:11,2023-04-27 12:50:11
+675,2,189,work_category,open,Initiation,medium,2,2023-04-27 12:50:11,2023-04-27 12:50:11
+676,2,189,work_category,open,Initiation,medium,2,2023-04-27 12:50:11,2023-04-27 12:50:11
+677,2,189,work_category,open,Develop Charter,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+678,2,189,work_category,open,Discover,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+679,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+680,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+681,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+682,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+683,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+684,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+685,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:12,2023-04-27 12:50:12
+686,2,189,work_category,open,Develop Charter,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+687,2,189,work_category,open,Discover,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+688,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+689,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+690,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+691,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+692,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+693,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+694,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+695,2,189,work_category,open,Develop Charter,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+696,2,189,work_category,open,Discover,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+697,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+698,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+699,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+700,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+701,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+702,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+703,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+704,2,189,work_category,open,Develop Charter,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+705,2,189,work_category,open,Discover,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+706,2,189,work_category,open,Fuzzy Front,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+707,2,189,work_category,open,Fuzzy Front,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+708,2,189,work_category,open,Fuzzy Front,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+709,2,189,work_category,open,Fuzzy Front,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+710,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+711,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+712,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+713,2,189,work_category,open,meetings,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+714,2,189,work_category,open,meetings,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+715,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+716,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+717,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+718,2,189,work_category,open,Execution,medium,2,2023-04-27 12:50:13,2023-04-27 12:50:13
+719,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:14,2023-04-27 12:50:14
+720,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:14,2023-04-27 12:50:14
+721,2,189,work_category,open,Closure,medium,2,2023-04-27 12:50:14,2023-04-27 12:50:14
+722,2,186,work_category,open,Develop Charter,medium,2,2023-04-28 06:28:37,2023-04-28 06:28:37
+723,2,186,work_category,open,Discover,medium,2,2023-04-28 06:28:37,2023-04-28 06:28:37
+724,2,186,work_category,open,Initiation,medium,2,2023-04-28 06:28:37,2023-04-28 06:28:37
+725,2,186,work_category,open,Initiation,medium,2,2023-04-28 06:28:37,2023-04-28 06:28:37
+726,2,186,work_category,open,Develop Charter,medium,2,2023-04-28 06:28:37,2023-04-28 06:28:37
+727,2,186,work_category,open,Discover,medium,2,2023-04-28 06:28:37,2023-04-28 06:28:37
+728,2,190,work_category,open,Develop Charter,medium,2,2023-04-28 06:34:10,2023-04-28 06:34:10
+729,2,190,work_category,open,Discover,medium,2,2023-04-28 06:34:10,2023-04-28 06:34:10
+730,2,188,issue,open,Problem with Resources,high,3,2023-05-18 04:46:21,2023-05-18 04:46:21
+731,2,191,work_category,open,Develop Charter,medium,2,2023-05-25 13:07:38,2023-05-25 13:07:38
+732,2,191,work_category,open,Discover,medium,2,2023-05-25 13:07:38,2023-05-25 13:07:38
+733,2,192,work_category,open,Develop Charter,medium,2,2023-05-25 13:29:28,2023-05-25 13:29:28
+734,2,192,work_category,open,Discovery,medium,2,2023-05-25 13:29:28,2023-05-25 13:29:28
+735,2,192,work_category,open,Planning,medium,2,2023-05-25 13:29:28,2023-05-25 13:29:28
+736,2,192,work_category,open,Planning,medium,2,2023-05-25 13:29:28,2023-05-25 13:29:28
+737,2,192,work_category,open,Sprint1,medium,2,2023-05-25 13:29:28,2023-05-25 13:29:28
+738,2,192,work_category,open,Sprint1,medium,2,2023-05-25 13:29:28,2023-05-25 13:29:28
+739,2,193,work_category,open,Develop Charter,medium,2,2023-05-25 13:52:42,2023-05-25 13:52:42
+740,2,193,work_category,open,Discovery,medium,2,2023-05-25 13:52:42,2023-05-25 13:52:42
+741,2,193,work_category,open,Planning,medium,2,2023-05-25 13:52:42,2023-05-25 13:52:42
+742,2,193,work_category,open,Planning,medium,2,2023-05-25 13:52:43,2023-05-25 13:52:43
+743,2,193,work_category,open,Sprint1,medium,2,2023-05-25 13:52:43,2023-05-25 13:52:43
+744,2,193,work_category,open,Sprint1,medium,2,2023-05-25 13:52:43,2023-05-25 13:52:43
+745,2,132,issue,open,no money left,medium,2,2023-06-06 11:47:24,2023-06-06 11:47:24
+746,41,194,work_category,open,planning,high,3,2023-06-08 06:25:48,2023-06-08 06:25:48
+747,41,193,work_category,open,Develop Charter,medium,2,2023-06-12 12:14:37,2023-06-12 12:14:37
+748,41,193,work_category,open,Discovery,medium,2,2023-06-12 12:14:37,2023-06-12 12:14:37
+749,41,193,work_category,open,Planning,medium,2,2023-06-12 12:14:37,2023-06-12 12:14:37
+750,41,193,work_category,open,Planning,medium,2,2023-06-12 12:14:37,2023-06-12 12:14:37
+751,41,193,work_category,open,Sprint1,medium,2,2023-06-12 12:14:37,2023-06-12 12:14:37
+752,41,193,work_category,open,Sprint1,medium,2,2023-06-12 12:14:37,2023-06-12 12:14:37
+753,41,193,work_category,closed,Develop Charter,medium,2,2023-06-12 12:15:01,2023-08-22 06:41:04
+754,41,193,work_category,open,Discovery,medium,2,2023-06-12 12:15:01,2023-06-12 12:15:01
+755,41,193,work_category,closed,Planning,medium,2,2023-06-12 12:15:01,2023-07-19 11:49:02
+756,41,193,work_category,open,Planning,medium,2,2023-06-12 12:15:01,2023-06-12 12:15:01
+757,41,193,work_category,open,Sprint1,medium,2,2023-06-12 12:15:01,2023-06-12 12:15:01
+758,41,193,work_category,open,Sprint1,medium,2,2023-06-12 12:15:01,2023-06-12 12:15:01
+759,41,193,work_category,open,Develop Charter,medium,2,2023-06-12 12:15:45,2023-06-12 12:15:45
+760,41,193,work_category,closed,Discovery,medium,2,2023-06-12 12:15:45,2023-07-19 11:44:44
+761,41,193,work_category,open,Planning,medium,2,2023-06-12 12:15:45,2023-06-12 12:15:45
+762,41,193,work_category,open,Planning,medium,2,2023-06-12 12:15:45,2023-06-12 12:15:45
+763,41,193,work_category,closed,Sprint1,medium,2,2023-06-12 12:15:45,2023-07-19 11:43:28
+764,41,193,work_category,open,Sprint1,medium,2,2023-06-12 12:15:45,2023-06-12 12:15:45
+765,2,192,work_category,open,Develop Charter,medium,2,2023-06-12 12:21:10,2023-06-12 12:21:10
+766,2,192,work_category,open,Discovery,medium,2,2023-06-12 12:21:10,2023-06-12 12:21:10
+767,2,192,work_category,open,Planning,medium,2,2023-06-12 12:21:10,2023-06-12 12:21:10
+768,2,192,work_category,open,Planning,medium,2,2023-06-12 12:21:10,2023-06-12 12:21:10
+769,2,192,work_category,open,Sprint1,medium,2,2023-06-12 12:21:10,2023-06-12 12:21:10
+770,2,192,work_category,open,Sprint1,medium,2,2023-06-12 12:21:10,2023-06-12 12:21:10
+771,41,195,work_category,open,Develop Charter,medium,2,2023-06-12 12:23:15,2023-06-12 12:23:15
+772,41,195,work_category,open,Discover,medium,2,2023-06-12 12:23:15,2023-06-12 12:23:15
+773,41,196,work_category,open,Develop Charter,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+774,41,196,work_category,open,Discover,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+775,41,196,work_category,open,Planning,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+776,41,196,work_category,open,Planning,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+777,41,196,work_category,open,Planning,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+778,41,196,work_category,open,Manage Execution,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+779,41,196,work_category,open,Manage Execution,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+780,41,196,work_category,open,Manage Execution,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+781,41,196,work_category,open,Control and Project Management,medium,2,2023-06-12 12:32:19,2023-06-12 12:32:19
+782,41,196,work_category,open,Develop Charter,medium,2,2023-06-12 12:36:27,2023-06-12 12:36:27
+783,41,196,work_category,open,Discover,medium,2,2023-06-12 12:36:27,2023-06-12 12:36:27
+784,41,196,work_category,open,Planning,medium,2,2023-06-12 12:36:27,2023-06-12 12:36:27
+785,41,196,work_category,open,Planning,medium,2,2023-06-12 12:36:27,2023-06-12 12:36:27
+786,41,196,work_category,open,Planning,medium,2,2023-06-12 12:36:27,2023-06-12 12:36:27
+787,41,196,work_category,open,Manage Execution,medium,2,2023-06-12 12:36:27,2023-06-12 12:36:27
+788,41,196,work_category,open,Manage Execution,medium,2,2023-06-12 12:36:28,2023-06-12 12:36:28
+789,41,196,work_category,open,Manage Execution,medium,2,2023-06-12 12:36:28,2023-06-12 12:36:28
+790,41,196,work_category,open,Control and Project Management,medium,2,2023-06-12 12:36:28,2023-06-12 12:36:28
+791,41,194,work_category,open,Develop Charter,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+792,41,194,work_category,open,Discover,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+793,41,194,work_category,open,Planning,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+794,41,194,work_category,open,Planning,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+795,41,194,work_category,open,Planning,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+796,41,194,work_category,open,Manage Execution,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+797,41,194,work_category,open,Manage Execution,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+798,41,194,work_category,open,Manage Execution,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+799,41,194,work_category,open,Control and Project Management,medium,2,2023-06-12 12:39:57,2023-06-12 12:39:57
+800,41,197,work_category,open,Develop Charter,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+801,41,197,work_category,open,Discover,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+802,41,197,work_category,open,Planning,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+803,41,197,work_category,open,Planning,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+804,41,197,work_category,open,Planning,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+805,41,197,work_category,open,Manage Execution,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+806,41,197,work_category,open,Manage Execution,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+807,41,197,work_category,open,Manage Execution,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+808,41,197,work_category,open,Control and Project Management,medium,2,2023-06-12 13:10:13,2023-06-12 13:10:13
+809,2,198,work_category,open,Procurement,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+810,2,198,work_category,open,Procurement,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+811,2,198,work_category,open,Procurement,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+812,2,198,work_category,open,Procurement,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+813,2,198,work_category,open,Procurement,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+814,2,198,work_category,open,Design Phase,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+815,2,198,work_category,open,Logistics,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+816,2,198,work_category,open,Hardware,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+817,2,198,work_category,open,Infrastructure,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+818,2,198,work_category,open,Infrastructure,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+819,2,198,work_category,open,Infrastructure,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+820,2,198,work_category,open,Infrastructure,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+821,2,198,work_category,open,Infrastructure,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+822,2,198,work_category,open,Infrastructure,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+823,2,198,work_category,open,Infrastructure,medium,2,2023-06-16 11:06:28,2023-06-16 11:06:28
+824,2,198,work_category,open,Infrastructure,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+825,2,198,work_category,open,Training,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+826,2,198,work_category,open,Training,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+827,2,198,work_category,open,Training,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+828,2,198,work_category,open,Go live,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+829,2,198,work_category,open,Go live,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+830,2,198,work_category,open,Go live,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+831,2,198,work_category,open,Project Closure,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+832,2,198,work_category,open,Proejct Closure,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+833,2,198,work_category,open,Project Closure,medium,2,2023-06-16 11:06:29,2023-06-16 11:06:29
+834,55,199,work_category,open,Initiation & Review,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+835,55,199,work_category,open,Initiation & Review,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+836,55,199,work_category,open,Planning for Success,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+837,55,199,work_category,open,Planning for Success,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+838,55,199,work_category,open,The Build,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+839,55,199,work_category,open,The Build,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+840,55,199,work_category,open,Testing,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+841,55,199,work_category,open,Testing,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+842,55,199,work_category,open,Documentation,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+843,55,199,work_category,open,Documentation,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+844,55,199,work_category,open,Learning for Next Time,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+845,55,199,work_category,open,Learning for Next Time,medium,2,2023-06-26 12:41:40,2023-06-26 12:41:40
+846,2,200,work_category,open,1. Discussion and Creation of User using Least Privilege Principal,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+847,2,200,work_category,open,1. Discussion and Creation of User using Least Privilege Principal,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+848,2,200,work_category,open,1. Discussion and Creation of User using Least Privilege Principal,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+849,2,200,work_category,open, 2. Network Architecture Design,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+850,2,200,work_category,open, 2. Network Architecture Design,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+851,2,200,work_category,open, 2. Network Architecture Design,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+852,2,200,work_category,open, 2. Network Architecture Design,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+853,2,200,work_category,open,3. VPC Setup and Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+854,2,200,work_category,open,3. VPC Setup and Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+855,2,200,work_category,open,3. VPC Setup and Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+856,2,200,work_category,open,4. Subnet Creation and Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+857,2,200,work_category,open,4. Subnet Creation and Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+858,2,200,work_category,open,4. Subnet Creation and Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+859,2,200,work_category,open,4. Subnet Creation and Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+860,2,200,work_category,open,5. Security Group Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+861,2,200,work_category,open,5. Security Group Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+862,2,200,work_category,open,5. Security Group Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+863,2,200,work_category,open,5. Security Group Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+864,2,200,work_category,open,6. Internet Gateway and NAT Gateway Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+865,2,200,work_category,open,6. Internet Gateway and NAT Gateway Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+866,2,200,work_category,open,7. Bastion Host Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+867,2,200,work_category,open,7. Bastion Host Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+868,2,200,work_category,open,7. Bastion Host Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+869,2,200,work_category,open,8. Database Security Implementation ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+870,2,200,work_category,open,8. Database Security Implementation ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+871,2,200,work_category,open,8. Database Security Implementation ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+872,2,200,work_category,open,8. Database Security Implementation ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+873,2,200,work_category,open,8. Database Security Implementation ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+874,2,200,work_category,open,8. Database Security Implementation ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+875,2,200,work_category,open,8. Database Security Implementation ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+876,2,200,work_category,open,8. Database Security Implementation ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+877,2,200,work_category,open,9. API Gateway and Cognito Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+878,2,200,work_category,open,9. API Gateway and Cognito Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+879,2,200,work_category,open,9. API Gateway and Cognito Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+880,2,200,work_category,open,9. API Gateway and Cognito Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+881,2,200,work_category,open,9.5. Cognito User Pool Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+882,2,200,work_category,open,9.5. Cognito User Pool Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+883,2,200,work_category,open,9.5. Cognito User Pool Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+884,2,200,work_category,open,9.6. Cognito Identity Pool Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+885,2,200,work_category,open,9.6. Cognito Identity Pool Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+886,2,200,work_category,open,9.6. Cognito Identity Pool Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+887,2,200,work_category,open,10. WAF Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+888,2,200,work_category,open,10. WAF Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+889,2,200,work_category,open,10. WAF Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+890,2,200,work_category,open,10. WAF Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+891,2,200,work_category,open,10. WAF Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+892,2,200,work_category,open,10. WAF Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+893,2,200,work_category,open,10. WAF Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+894,2,200,work_category,open,10. WAF Configuration,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+895,2,200,work_category,open,11. File Storage Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+896,2,200,work_category,open,11. File Storage Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+897,2,200,work_category,open,11. File Storage Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+898,2,200,work_category,open,11. File Storage Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+899,2,200,work_category,open,11. File Storage Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+900,2,200,work_category,open,11. File Storage Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+901,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+902,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+903,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+904,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+905,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+906,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+907,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+908,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+909,2,200,work_category,open,12. Data Synchronization Layer Implementation,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+910,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+911,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+912,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+913,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+914,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+915,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+916,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+917,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+918,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+919,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+920,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+921,2,200,work_category,open,13. Hosting Environment Setup,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+922,2,200,work_category,open,14. Web Application Firewall Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+923,2,200,work_category,open,14. Web Application Firewall Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+924,2,200,work_category,open,14. Web Application Firewall Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+925,2,200,work_category,open,14. Web Application Firewall Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+926,2,200,work_category,open,14. Web Application Firewall Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+927,2,200,work_category,open,14. Web Application Firewall Configuration ,medium,2,2023-08-24 10:14:54,2023-08-24 10:14:54
+928,2,200,work_category,open,15. Firewalls and Security Groups Setup,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+929,2,200,work_category,open,15. Firewalls and Security Groups Setup,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+930,2,200,work_category,open,15. Firewalls and Security Groups Setup,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+931,2,200,work_category,open,15. Firewalls and Security Groups Setup,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+932,2,200,work_category,open,15. Firewalls and Security Groups Setup,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+933,2,200,work_category,open,15. Firewalls and Security Groups Setup,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+934,2,200,work_category,open,16. Authentication and Access Management ,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+935,2,200,work_category,open,16. Authentication and Access Management ,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+936,2,200,work_category,open,16. Authentication and Access Management ,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+937,2,200,work_category,open,16. Authentication and Access Management ,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+938,2,200,work_category,open,16. Authentication and Access Management ,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+939,2,200,work_category,open,17.1. Logging and Monitoring Implementation and Encryption,medium,2,2023-08-24 10:14:55,2023-08-24 10:14:55
+940,2,201,work_category,open,1. Discussion and Creation of User using Least Privilege Principal,medium,2,2023-08-24 13:36:25,2023-08-24 13:36:25
+941,2,201,work_category,open,1. Discussion and Creation of User using Least Privilege Principal,medium,2,2023-08-24 13:36:25,2023-08-24 13:36:25
+942,2,201,work_category,open, 2. Network Architecture Design,medium,2,2023-08-24 13:36:25,2023-08-24 13:36:25
+943,2,201,work_category,open, 2. Network Architecture Design,high,3,2023-08-24 13:36:25,2023-11-07 07:37:59
+944,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+945,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+946,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+947,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+948,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+949,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+950,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+951,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+952,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+953,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+954,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+955,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+956,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+957,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+958,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-30 11:08:12,2023-08-30 11:08:12
+974,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+975,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+976,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+977,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+978,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+979,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+980,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+981,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+982,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+983,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+984,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+985,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+986,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+987,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+988,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-31 08:09:40,2023-08-31 08:09:40
+1044,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1045,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1046,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1047,2,203,work_category,open,1. Planning & Information Review,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1048,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1049,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1050,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1051,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1052,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1053,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1054,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1055,2,203,work_category,open,2. RFI Response Creation,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1056,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1057,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1058,2,203,work_category,open,3. Submit RFI & Close,medium,2,2023-08-31 08:30:24,2023-08-31 08:30:24
+1079,78,208,work_category,open,Planning,high,3,2023-10-10 06:24:37,2023-10-10 06:24:37
+1080,2,211,work_category,open,Track Installation,medium,2,2023-10-17 12:32:26,2023-10-17 12:32:26
+1081,2,211,work_category,open,Curtain Installation,high,3,2023-10-17 12:33:48,2023-10-17 12:33:48
+1082,2,211,issue,open,Track install - Room 307 has a broken frame,high,3,2023-10-17 12:38:45,2023-10-17 12:38:45
+1083,2,212,work_category,open,1. Planning & Information Review,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1084,2,212,work_category,open,1. Planning & Information Review,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1085,2,212,work_category,open,1. Planning & Information Review,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1086,2,212,work_category,open,2. RFP Response Creation,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1087,2,212,work_category,open,2. RFP Response Creation,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1088,2,212,work_category,open,2. RFP Response Creation,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1089,2,212,work_category,open,2. RFP Response Creation,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1090,2,212,work_category,open,2. RFP Response Creation,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1091,2,212,work_category,open,2. RFP Response Creation,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1092,2,212,work_category,open,2. RFP Response Creation,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1093,2,212,work_category,open,2. RFP Response Creation,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1094,2,212,work_category,open,3. Submit RFP & Close,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1095,2,212,work_category,open,3. Submit RFP & Close,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1096,2,212,work_category,open,3. Submit RFP & Close,medium,2,2023-11-16 12:46:43,2023-11-16 12:46:43
+1097,2,213,work_category,open,1. Planning & Information Review,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1098,2,213,work_category,open,1. Planning & Information Review,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1099,2,213,work_category,open,1. Planning & Information Review,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1100,2,213,work_category,open,2. Execution and Control,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1101,2,213,work_category,open,2. Execution and Control,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1102,2,213,work_category,open,2. Execution and Control,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1103,2,213,work_category,open,2. Execution and Control,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1104,2,213,work_category,open,3. Testing,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1105,2,213,work_category,open,3. Testing,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1106,2,213,work_category,open,3. Testing,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1107,2,213,work_category,open,4. Closure,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1108,2,213,work_category,open,4. Closure,medium,2,2023-11-22 10:58:09,2023-11-22 10:58:09
+1109,2,214,work_category,open,1. Planning & Information Review,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1110,2,214,work_category,open,1. Planning & Information Review,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1111,2,214,work_category,open,1. Planning & Information Review,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1112,2,214,work_category,open,2. RFP Response Creation,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1113,2,214,work_category,open,2. RFP Response Creation,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1114,2,214,work_category,open,2. RFP Response Creation,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1115,2,214,work_category,open,2. RFP Response Creation,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1116,2,214,work_category,open,2. RFP Response Creation,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1117,2,214,work_category,open,2. RFP Response Creation,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1118,2,214,work_category,open,2. RFP Response Creation,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1119,2,214,work_category,open,3. Submit RFP & Close,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1120,2,214,work_category,open,3. Submit RFP & Close,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1121,2,214,work_category,open,3. Submit RFP & Close,medium,2,2023-11-28 06:12:52,2023-11-28 06:12:52
+1140,2,219,work_category,open,terd,medium,2,2024-01-30 14:42:44,2024-01-30 14:42:44
+1141,2,220,work_category,open,Obtain the materials,medium,2,2024-01-30 14:45:05,2024-01-30 14:45:05
+1143,2,222,work_category,open,Obtain the materials,medium,2,2024-01-30 14:48:42,2024-01-30 14:48:42
+1144,2,223,work_category,open,Obtain the materials,medium,2,2024-01-30 14:50:22,2024-01-30 14:50:22
+1145,2,223,work_category,open,Building the Walls,medium,2,2024-01-30 14:50:22,2024-01-30 14:50:22
+1146,2,224,work_category,open,Obtain the materials,medium,2,2024-01-30 14:52:00,2024-01-30 14:52:00
+1147,2,224,work_category,open,Building the Walls,medium,2,2024-01-30 14:52:00,2024-01-30 14:52:00
+1148,2,224,work_category,open,Putting on the Roof,medium,2,2024-01-30 14:52:00,2024-01-30 14:52:00
+1149,2,224,work_category,open,Putting on the Roof,medium,2,2024-01-30 14:52:00,2024-01-30 14:52:00
+1150,2,225,work_category,open,Obtain the materials,medium,2,2024-01-30 14:53:26,2024-01-30 14:53:26
+1151,2,225,work_category,open,Building the Walls,medium,2,2024-01-30 14:53:26,2024-01-30 14:53:26
+1152,2,225,work_category,open,Putting on the Roof,medium,2,2024-01-30 14:53:26,2024-01-30 14:53:26
+1153,2,225,work_category,open,Putting on the Roof,medium,2,2024-01-30 14:53:26,2024-01-30 14:53:26
+1154,2,226,work_category,open,Obtain the materials,medium,2,2024-01-30 14:55:09,2024-01-30 14:55:09
+1155,2,226,work_category,open,Building the Walls,medium,2,2024-01-30 14:55:09,2024-01-30 14:55:09
+1156,2,226,work_category,open,Putting on the Roof,medium,2,2024-01-30 14:55:09,2024-01-30 14:55:09
+1157,2,226,work_category,open,Putting on the Roof,medium,2,2024-01-30 14:55:09,2024-01-30 14:55:09
+1158,2,227,work_category,open,Obtain the materials,medium,2,2024-01-30 14:56:58,2024-01-30 14:56:58
+1159,2,227,work_category,open,Building the Walls,medium,2,2024-01-30 14:56:58,2024-01-30 14:56:58
+1160,2,227,work_category,open,Putting on the Roof,medium,2,2024-01-30 14:56:58,2024-01-30 14:56:58
+1161,2,227,work_category,open,Putting on the Roof,medium,2,2024-01-30 14:56:58,2024-01-30 14:56:58
+1162,2,228,work_category,open,Obtain the materials,medium,2,2024-01-30 15:01:25,2024-01-30 15:01:25
+1163,2,228,work_category,open,Building the Walls,medium,2,2024-01-30 15:01:25,2024-01-30 15:01:25
+1164,2,228,work_category,open,Putting on the Roof,medium,2,2024-01-30 15:01:25,2024-01-30 15:01:25
+1165,2,228,work_category,open,Putting on the Roof,medium,2,2024-01-30 15:01:25,2024-01-30 15:01:25
+1166,2,229,work_category,open,Obtain the materials,medium,2,2024-01-30 15:14:44,2024-01-30 15:14:44
+1167,2,229,work_category,open,Obtain the materials,medium,2,2024-01-30 15:14:44,2024-01-30 15:14:44
+1168,2,229,work_category,open,Foundation Construction,medium,2,2024-01-30 15:14:44,2024-01-30 15:14:44
+1169,2,229,work_category,open,Foundation Construction,medium,2,2024-01-30 15:14:44,2024-01-30 15:14:44
+1170,2,229,work_category,open,Building the Walls,medium,2,2024-01-30 15:14:44,2024-01-30 15:14:44
+1171,2,229,work_category,open,Building the Walls,medium,2,2024-01-30 15:14:44,2024-01-30 15:14:44
+1172,2,229,work_category,open,Putting on the Roof,medium,2,2024-01-30 15:14:44,2024-01-30 15:14:44
+1173,2,229,work_category,open,Putting on the Roof,medium,2,2024-01-30 15:14:44,2024-01-30 15:14:44
+1174,2,230,work_category,open,Obtain the materials,medium,2,2024-01-30 15:19:34,2024-01-30 15:19:34
+1175,2,230,work_category,open,Obtain the materials,medium,2,2024-01-30 15:19:34,2024-01-30 15:19:34
+1176,2,230,work_category,open,Foundation Construction,medium,2,2024-01-30 15:19:34,2024-01-30 15:19:34
+1177,2,230,work_category,open,Foundation Construction,medium,2,2024-01-30 15:19:34,2024-01-30 15:19:34
+1178,2,230,work_category,open,Building the Walls,medium,2,2024-01-30 15:19:34,2024-01-30 15:19:34
+1179,2,230,work_category,open,Building the Walls,medium,2,2024-01-30 15:19:34,2024-01-30 15:19:34
+1180,2,230,work_category,open,Putting on the Roof,medium,2,2024-01-30 15:19:34,2024-01-30 15:19:34
+1181,2,230,work_category,open,Putting on the Roof,medium,2,2024-01-30 15:19:34,2024-01-30 15:19:34
+1182,2,231,work_category,open,Obtain the materials,medium,2,2024-01-30 15:24:28,2024-01-30 15:24:28
+1183,2,231,work_category,open,Obtain the materials,medium,2,2024-01-30 15:24:28,2024-01-30 15:24:28
+1184,2,231,work_category,open,Foundation Construction,medium,2,2024-01-30 15:24:28,2024-01-30 15:24:28
+1185,2,231,work_category,open,Foundation Construction,medium,2,2024-01-30 15:24:28,2024-01-30 15:24:28
+1186,2,231,work_category,open,Building the Walls,medium,2,2024-01-30 15:24:28,2024-01-30 15:24:28
+1187,2,231,work_category,open,Building the Walls,medium,2,2024-01-30 15:24:28,2024-01-30 15:24:28
+1188,2,231,work_category,open,Putting on the Roof,medium,2,2024-01-30 15:24:28,2024-01-30 15:24:28
+1189,2,231,work_category,open,Putting on the Roof,medium,2,2024-01-30 15:24:28,2024-01-30 15:24:28

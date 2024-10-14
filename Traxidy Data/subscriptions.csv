@@ -1,0 +1,5 @@
+id,user_id,name,stripe_id,stripe_status,stripe_price,quantity,trial_ends_at,ends_at,created_at,updated_at
+1,2,default,sub_1KG2m9E224EiyBrBg9VNKE5E,canceled,price_1KG259E224EiyBrBTUtszED0,1,,2022-01-09 05:37:58,2022-01-09 04:53:44,2022-01-09 05:37:58
+2,2,default,sub_1KG3ZhE224EiyBrBKMebZ9os,active,price_1KG26EE224EiyBrB37eySInT,1,2022-07-26 15:29:39,2023-04-19 19:29:39,2022-01-09 05:44:54,2022-07-26 15:31:18
+3,27,default,sub_1KUHpdE224EiyBrBN7KMJFgm,active,price_1KG259E224EiyBrBTUtszED0,1,2022-07-26 13:50:20,2023-07-26 17:50:20,2022-02-17 11:48:12,2022-07-26 14:11:15
+4,18,default,sub_1Kjm97E224EiyBrBmrmwej8r,active,price_1KG259E224EiyBrBTUtszED0,1,,2023-04-01 11:12:17,2022-04-01 07:12:21,2022-04-01 07:12:21

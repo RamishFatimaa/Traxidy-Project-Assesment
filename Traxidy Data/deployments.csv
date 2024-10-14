@@ -1,0 +1,15 @@
+id,job,steps,created_at,updated_at
+1,DeploymentScript1,"[""Add \""owner_contact_name\"" to the \""actions\"" table"",""Add \""owner_contact_name\"" to the \""risks\"" table"",""Update owner name column of the existing actions and risks""]",2021-11-22 12:28:43,2021-11-22 12:28:43
+2,DeploymentScript2,"[""Add \""other_gyr_constraint_name\"" column to the \""project_settings\"" table""]",2021-12-06 11:23:11,2021-12-06 11:23:11
+3,DeploymentScript3,"[""Change the type of \""reason\"" column of the \""delete_accounts\"" table from medium text to string"",""Add \""comments\"" column to the \""delete_accounts\"" table""]",2021-12-23 09:00:36,2021-12-23 09:00:36
+4,DeploymentScript4,"[""Added max reward days configs"",""Added trial expired grace period configs"",""Added email templates configs"",""Changed the type of \""impact_days\"" column in the changes table""]",2021-12-23 09:00:37,2021-12-23 09:00:37
+5,DeploymentScript5,"[""Update the unique index constraint of \""contacts\"" table to consider `deleted_at` column"",""Add own contact to the existing full users""]",2021-12-23 09:00:37,2021-12-23 09:00:37
+6,DeploymentScript6,"[""Add index to `created_at` timestamp column of notifications table""]",2021-12-23 09:00:37,2021-12-23 09:00:37
+7,DeploymentScript7,"[""Added new tooltips to the tooltips table"",""Added a new table named \""welcome_emails\"" to store welcome emails for users"",""Added a new email template for \""Welcome Email\""""]",2022-01-06 00:45:25,2022-01-06 00:45:25
+8,DeploymentScript8,"[""Enable all newsletter notification types for every user"",""Enable \""Alert when Multiple Actions Close to Due Date\"" project alert setting for every project""]",2022-03-30 04:26:27,2022-03-30 04:26:27
+9,DeploymentScript9,"[""Added decisions table to store the records for the Decisions Chart""]",2022-03-30 04:26:27,2022-03-30 04:26:27
+10,DeploymentScript10,"[""Added URL field to actions table""]",2022-04-03 09:35:56,2022-04-03 09:35:56
+11,DeploymentScript11,"[""Add a new tooltip line""]",2022-04-14 10:55:42,2022-04-14 10:55:42
+12,DeploymentScript12,"[""Add urls column to \""projects\"" table""]",2022-06-03 04:25:54,2022-06-03 04:25:54
+13,DeploymentScript13,"[""Removed the \""issue_identifier\"" column from the issues table"",""Add the new \""type\"" column to the issues table"",""Changed the type of \""description\"" column to string in the issues table"",""Added \""gyr\"" status column to the actions table"",""Added \""gyr\"" status column to the action histories table"",""Added \""work_categories\"" data to the statuses table""]",2022-08-26 01:40:49,2022-08-26 01:40:49
+14,DeploymentScript14,"[""Created new table contributor_project_settings""]",2022-11-24 04:12:57,2022-11-24 04:12:57

@@ -1,0 +1,5 @@
+id,subscription_id,stripe_id,stripe_product,stripe_price,quantity,created_at,updated_at
+2,1,si_Kvv34yUsm4r8e2,prod_Kvts9HiwMaICnh,price_1KG259E224EiyBrBTUtszED0,1,2022-01-09 05:21:25,2022-01-09 05:21:25
+3,2,si_KvvQNsx3aJibKI,prod_KvtudxpplrRVeE,price_1KG26EE224EiyBrB37eySInT,1,2022-01-09 05:44:54,2022-01-09 05:44:54
+4,3,si_LAd5vZ79XGaZ1y,prod_Kvts9HiwMaICnh,price_1KG259E224EiyBrBTUtszED0,1,2022-02-17 11:48:12,2022-02-17 11:48:12
+5,4,si_LQdPmqfQWRMYlz,prod_Kvts9HiwMaICnh,price_1KG259E224EiyBrBTUtszED0,1,2022-04-01 07:12:21,2022-04-01 07:12:21

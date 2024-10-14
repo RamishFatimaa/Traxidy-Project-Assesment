@@ -1,0 +1,7 @@
+role_id,model_id,model_type
+1,1,App\User
+3,1,App\User
+1,5,App\User
+2,5,App\User
+1,87,App\User
+2,87,App\User

@@ -1,0 +1,97 @@
+user_id,user_project_is_for,usual_role,country,uses_project_management_office,average_project_team_size,working_department,working_industry,company_size,created_at,updated_at
+1,work,Manager,,0.0,6_10,IT,Technology,,2021-11-22 12:27:59,2021-11-22 12:27:59
+2,work,Manager,,0.0,6_10,IT,Technology,1_10,2021-11-22 12:27:59,2022-01-04 06:57:34
+3,,,,,,,,,2021-11-22 12:27:59,2021-11-22 12:27:59
+4,,,,,,,,,2021-11-23 08:13:33,2021-11-23 08:13:33
+5,personal,Project Manager,Canada,0.0,1_5,Finance,Insurance,1_10,2022-01-03 07:11:33,2022-01-03 09:03:50
+6,school,Project Coordinator,Antarctica,0.0,1_5,Finance,Construction,11_50,2022-01-03 10:06:35,2022-01-03 11:10:21
+7,personal,Team Leader,United States,0.0,1_5,IT,Technology,1_10,2022-01-06 21:26:04,2022-01-10 01:04:17
+8,personal,Project Manager,Canada,1.0,11_20,Consulting,Telecommunications,1001_5000,2022-01-10 16:23:41,2022-01-11 23:25:31
+9,personal,Project Manager,Canada,1.0,11_20,IT,Technology,5000_plus,2022-01-10 16:39:50,2022-01-10 16:41:46
+10,work,Manager,Canada,0.0,6_10,,,,2022-01-11 10:52:14,2022-01-12 04:51:58
+11,work,Team Leader,Canada,0.0,1_5,Management,Technology,1_10,2022-01-11 12:12:59,2022-01-11 12:46:19
+12,personal,Project Coordinator,Angola,0.0,6_10,Consulting,Education,11_50,2022-01-11 12:21:23,2022-01-11 12:45:06
+13,school,Manager,Bahamas,0.0,20_plus,,,,2022-01-11 13:02:54,2022-01-11 13:03:56
+14,,,,,,,,,2022-01-11 13:06:53,2022-01-11 13:06:53
+15,school,Team Leader,Bahamas,1.0,20_plus,,,,2022-01-11 15:01:34,2022-01-11 15:05:31
+16,,,,,,,,,2022-01-11 15:05:34,2022-01-11 15:05:34
+17,work,Project Manager,Albania,0.0,1_5,Other,Energy,5000_plus,2022-01-11 15:13:27,2022-01-11 15:18:41
+18,work,Project Manager,Canada,1.0,1_5,Consulting,Technology,1001_5000,2022-01-11 15:46:30,2022-01-12 10:51:25
+19,,,,,,,,,2022-01-11 15:54:35,2022-01-11 15:54:35
+20,personal,Manager,United States,0.0,1_5,,,,2022-01-11 22:43:43,2022-01-11 22:47:20
+21,personal,Project Coordinator,United States,0.0,6_10,,,,2022-01-11 22:48:40,2022-01-11 22:49:20
+22,personal,Manager,United States,,11_20,Consulting,Technology,51_100,2022-01-11 23:33:50,2022-01-14 04:35:38
+23,work,Project Coordinator,Pakistan,1.0,1_5,Consulting,Construction,1_10,2022-01-12 03:31:24,2022-01-12 03:32:35
+24,personal,Project Manager,Canada,,20_plus,,,,2022-01-12 03:48:16,2022-01-19 15:05:59
+25,work,Project Manager,Canada,1.0,6_10,Operations,Construction,11_50,2022-01-12 04:17:41,2022-01-12 04:19:19
+26,,,,,,,,,2022-01-12 05:02:02,2022-01-12 05:02:02
+27,personal,Project Manager,Canada,1.0,11_20,IT,Technology,5000_plus,2022-01-12 07:44:45,2022-01-12 07:52:43
+28,personal,Manager,United States,,6_10,,,,2022-01-12 07:59:20,2022-01-12 08:04:28
+29,work,Manager,Canada,,1_5,Management,Education,1_10,2022-01-12 10:34:00,2022-01-12 10:35:51
+30,work,Manager,Canada,,1_5,Consulting,Health Care,1_10,2022-01-13 07:46:02,2022-01-13 07:50:36
+31,,,,,,,,,2022-01-13 08:55:30,2022-01-13 08:55:30
+32,work,Project Manager,Canada,,11_20,IT,Other,1_10,2022-01-16 07:21:24,2022-01-16 07:25:21
+33,,,,,,,,,2022-01-19 05:28:08,2022-01-19 05:28:08
+34,school,Project Manager,Afghanistan,,6_10,,,,2022-01-19 05:37:29,2022-01-19 05:39:44
+35,school,Project Manager,Albania,,6_10,,,,2022-01-19 05:46:50,2022-01-19 05:47:44
+36,work,Project Manager,Canada,,6_10,IT,Technology,1001_5000,2022-01-20 07:43:23,2022-01-20 07:45:09
+37,personal,Project Manager,Canada,1.0,6_10,IT,Telecommunications,5000_plus,2022-01-22 07:00:42,2022-01-22 07:04:16
+38,work,Project Manager,Canada,,11_20,Consulting,Telecommunications,1_10,2022-01-23 12:19:50,2022-01-23 12:21:08
+39,work,Manager,Canada,1.0,20_plus,,,,2022-01-31 15:16:55,2022-01-31 15:19:42
+40,,,,,,,,,2022-02-01 16:08:53,2022-02-01 16:08:53
+41,personal,Project Manager,Algeria,,6_10,,,,2022-02-04 06:03:54,2022-02-04 06:24:13
+42,personal,Project Manager,Canada,1.0,6_10,Consulting,Insurance,5000_plus,2022-02-07 01:49:30,2022-02-07 01:51:50
+43,work,Team Leader,Canada,,11_20,Project Management Office,Technology,5000_plus,2022-02-14 08:04:11,2022-02-14 08:10:02
+44,personal,Project Manager,Canada,1.0,6_10,Project Management Office,Finance,1_10,2022-02-15 14:21:10,2022-02-15 14:26:01
+45,,,,,,,,,2022-02-17 01:13:18,2022-02-17 01:13:18
+46,work,Team Leader,Pakistan,1.0,1_5,Finance,Energy,51_100,2022-02-28 03:42:31,2022-02-28 03:44:41
+47,personal,Project Manager,Canada,1.0,6_10,Marketing,Telecommunications,101_250,2022-03-03 12:35:01,2022-03-03 12:38:57
+48,work,Manager,Canada,,6_10,Consulting,Insurance,5000_plus,2022-03-04 06:10:06,2022-03-04 06:15:33
+49,personal,Project Coordinator,Canada,,1_5,Other,Other,1_10,2022-03-04 13:23:46,2022-03-04 13:54:47
+50,work,Team Leader,Canada,1.0,20_plus,Other,Finance,1_10,2022-03-05 17:17:04,2022-03-05 17:19:39
+51,personal,Project Coordinator,Canada,,1_5,Other,Other,1_10,2022-03-07 09:27:39,2022-03-07 09:37:30
+52,work,Project Manager,Canada,,6_10,Management,Other,1_10,2022-03-07 14:07:18,2022-03-12 12:44:00
+53,,,,,,,,,2022-03-07 14:19:33,2022-03-07 14:19:33
+54,,,,,,,,,2022-03-11 05:55:33,2022-03-11 05:55:33
+55,work,Manager,Albania,,6_10,,,,2022-03-14 07:17:59,2022-03-31 06:35:51
+56,work,Project Manager,United States,1.0,1_5,Management,Construction,51_100,2022-03-14 09:54:18,2022-03-14 09:56:23
+57,work,Project Manager,India,,1_5,IT,Technology,1_10,2022-03-16 00:41:45,2022-03-16 00:44:02
+58,work,Project Manager,United States,1.0,1_5,Other,Construction,101_250,2022-03-16 04:44:07,2022-03-16 04:48:48
+59,,,,,,,,,2022-03-16 07:03:54,2022-03-16 07:03:54
+60,school,Project Manager,United States,1.0,11_20,IT,Technology,1001_5000,2022-03-17 08:06:21,2022-03-17 08:07:20
+61,personal,Manager,Canada,,1_5,IT,Insurance,1_10,2022-03-17 10:18:39,2022-03-17 10:19:27
+62,,,,,,,,,2022-03-18 02:43:45,2022-03-18 02:43:45
+63,,,,,,,,,2022-03-18 04:47:32,2022-03-18 04:47:32
+64,,,,,,,,,2022-03-18 06:35:23,2022-03-18 06:35:23
+65,personal,Project Coordinator,Canada,,1_5,Management,Other,1_10,2022-03-18 08:25:35,2022-03-18 08:39:58
+66,,,,,,,,,2022-03-19 11:10:53,2022-03-19 11:10:53
+67,,,,,,,,,2022-03-22 12:05:34,2022-03-22 12:05:34
+68,work,Project Coordinator,Canada,,1_5,,,,2022-03-22 12:30:04,2022-03-23 14:39:20
+69,,,,,,,,,2022-03-27 08:25:26,2022-03-27 08:25:26
+70,,,,,,,,,2022-03-29 10:31:27,2022-03-29 10:31:27
+71,work,Team Leader,Canada,1.0,1_5,Sales,Technology,1_10,2022-05-11 04:35:52,2022-05-11 04:37:25
+72,work,Project Manager,Canada,1.0,1_5,Project Management Office,Other,11_50,2022-05-11 05:55:46,2022-05-11 06:07:20
+73,,,,,,,,,2022-05-11 06:21:19,2022-05-11 06:21:19
+74,work,Project Manager,Canada,,1_5,,,,2022-05-11 06:45:40,2022-05-11 06:46:51
+75,,,,,,,,,2022-05-11 06:51:11,2022-05-11 06:51:11
+76,work,Project Manager,United States,,6_10,Project Management Office,Other,5000_plus,2022-05-21 14:12:49,2022-05-21 14:19:41
+77,,,,,,,,,2022-05-26 04:52:40,2022-05-26 04:52:40
+78,work,Project Manager,Bermuda,,6_10,,,,2022-06-02 08:00:04,2023-09-18 06:33:25
+79,work,Project Manager,Canada,1.0,20_plus,IT,Technology,11_50,2022-06-10 04:31:34,2022-06-10 04:34:46
+80,work,Team Leader,Canada,1.0,1_5,Operations,Health Care,11_50,2022-06-10 07:07:22,2022-06-10 07:09:47
+81,,,,,,,,,2022-06-15 08:10:56,2022-06-15 08:10:56
+82,,,,,,,,,2022-06-15 08:47:09,2022-06-15 08:47:09
+83,work,Project Manager,United Arab Emirates,1.0,20_plus,Project Management Office,Energy,251_500,2022-06-15 08:47:46,2022-06-15 08:54:25
+84,personal,Project Manager,Ecuador,,1_5,Project Management Office,Other,11_50,2022-06-17 06:47:59,2022-06-17 06:49:12
+85,work,Manager,Canada,1.0,11_20,IT,Technology,1001_5000,2022-06-21 04:59:30,2022-06-21 05:01:50
+86,work,Project Manager,Åland Islands,1.0,1_5,IT,,,2022-06-22 02:10:45,2022-06-22 02:11:46
+87,work,Manager,Canada,,1_5,Management,Technology,1_10,2022-06-27 06:55:23,2022-06-27 10:53:04
+88,personal,Project Coordinator,Pakistan,,1_5,IT,Technology,1_10,2022-06-28 03:42:37,2022-06-28 03:46:26
+89,work,Project Manager,United Arab Emirates,,20_plus,Operations,Telecommunications,1001_5000,2022-07-01 00:05:10,2022-07-01 00:07:16
+90,personal,Project Coordinator,Canada,,1_5,Professional Services,Advertising,11_50,2022-07-07 04:06:13,2022-07-07 04:17:17
+91,work,Project Manager,Canada,,6_10,Other,Manufacturing,11_50,2022-07-11 07:11:42,2022-07-11 07:16:36
+92,,,,,,,,,2022-07-21 07:01:43,2022-07-21 07:01:43
+93,,,,,,,,,2022-08-02 06:36:26,2022-08-02 06:36:26
+94,personal,Manager,Canada,1.0,6_10,IT,Technology,1_10,2022-08-10 20:31:10,2022-08-10 20:33:25
+95,work,Project Manager,Canada,,6_10,Finance,Construction,11_50,2022-08-23 10:58:12,2022-08-23 11:00:20
+96,,,,,,,,,2022-11-24 05:32:41,2022-11-24 05:32:41

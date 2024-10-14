@@ -1,0 +1,91 @@
+id,creator_id,project_id,description,created_at,updated_at
+1,2,3,Fully Functioning App,2021-11-23 05:21:44,2021-11-23 05:21:44
+2,2,3,Tool Tips Embedded in App,2021-11-23 05:22:02,2021-11-23 05:22:02
+3,2,3,Getting Started Videos (YouTube),2021-11-23 05:22:27,2021-11-23 05:22:27
+4,2,3,Fully functioning web site,2021-11-23 05:22:48,2021-11-23 05:22:48
+5,2,3,Marketing Launch strategy,2021-11-23 05:23:02,2021-11-23 05:23:02
+6,2,4,Training program,2021-11-29 12:52:51,2021-11-29 12:52:51
+7,2,4,Detailed Plan,2021-11-29 12:52:59,2021-11-29 12:52:59
+8,2,4,Technical specs,2021-11-29 12:53:17,2021-11-29 12:53:17
+9,2,4,Support Documentation,2021-11-29 12:53:31,2021-11-29 12:53:31
+10,25,6,FLFL,2022-01-12 04:27:19,2022-01-12 04:27:19
+11,10,8,prepare architecture,2022-01-12 06:34:29,2022-01-12 06:34:29
+12,10,8,get the architecture approved,2022-01-12 06:34:47,2022-01-12 06:34:47
+13,10,8,implement the architecture,2022-01-12 06:35:36,2022-01-12 06:35:36
+14,6,12,create the best plan,2022-01-15 17:09:27,2022-01-15 17:09:27
+15,6,12,create another bestest plan ever,2022-01-15 17:09:45,2022-01-15 17:09:45
+16,2,2,Detailed project Plan,2022-01-23 04:38:34,2022-01-23 04:38:34
+17,7,30,New project deliverable goes here,2022-02-09 01:45:49,2022-02-09 01:45:49
+18,7,30,There is a brand new key deliverable,2022-02-09 01:45:59,2022-02-09 01:46:08
+19,46,36,Production Deliverables,2022-02-28 03:46:51,2022-02-28 03:46:51
+20,2,2,Training Material,2022-03-05 09:06:20,2022-03-05 09:06:20
+21,2,2,Support Documentation,2022-03-05 09:06:35,2022-03-05 09:06:35
+22,2,2,Internal Marketing Plan,2022-03-05 09:07:04,2022-03-05 09:07:04
+23,2,2,Final Sign Off,2022-03-05 09:07:16,2022-03-05 09:07:16
+24,2,2,Learnings Report,2022-03-05 09:07:36,2022-03-05 09:07:36
+25,56,64,Substantial Completion for all ECM's 11/15/2022,2022-03-14 10:34:08,2022-03-14 10:34:08
+26,56,64,Final Completion for all ECM's 12/29/2022,2022-03-14 10:34:32,2022-03-14 10:34:32
+27,56,64,Substantial Completion of Chiller Replacement ECM at Arts H.S. 4/14/2022,2022-03-14 10:34:59,2022-03-14 10:34:59
+28,56,64,Substantial Completion of Boiler Replacement ECM at Technology 9/30/2022 H.S.,2022-03-14 10:35:41,2022-03-14 10:35:41
+29,56,64,Substantial Completion of UV Replacement ECM at Weequahic H.S  1 day prior to start of School year 2022/23,2022-03-14 10:36:10,2022-03-14 10:36:10
+30,56,64,Substantial Completion of UV Replacement ECM at George Washington Carver E.S.  1 day prior to start of School year 2022/23,2022-03-14 10:36:46,2022-03-14 10:36:46
+31,56,64,Substantial Completion of UV Replacement ECM at Arts H.S 1 day prior to start of School year 2022/23,2022-03-14 10:37:17,2022-03-14 10:37:17
+32,56,64,Substantial Completion of UV Replacement ECM at Barringer H.S. 1 day prior to start of School year 2022/23,2022-03-14 10:37:39,2022-03-14 10:37:39
+33,56,73,Warehouse	(2) Medium Split Systems,2022-03-16 06:11:08,2022-03-16 06:11:08
+34,56,73,Student Services 	(7) Small Mini Splits	(1) Medium Split System,2022-03-16 06:11:31,2022-03-16 06:11:31
+35,56,73,Administrative Office 137 Bey Lea Road (13) Small Mini Splits	(5) Medium AHU’s,2022-03-16 06:11:58,2022-03-16 06:11:58
+36,56,74,Equipment Installed by 04/13/2022,2022-03-16 06:24:43,2022-03-16 06:24:43
+37,56,74,Job Complete by 04/15/2022,2022-03-16 06:24:55,2022-03-16 06:24:55
+38,9,76,Key handoff and start of tenant agreement,2022-03-18 12:47:27,2022-03-18 12:47:27
+39,35,71,online search tool in website,2022-03-21 05:23:48,2022-03-21 05:23:48
+40,35,71,search tool for order/entry site,2022-03-21 05:24:11,2022-03-21 05:24:11
+41,35,70,website go to store screen,2022-03-21 05:43:38,2022-03-21 05:43:38
+42,35,70,select article to purchase functionality,2022-03-21 05:44:13,2022-03-21 05:44:13
+43,35,70,new order entry screen,2022-03-21 05:44:37,2022-03-21 05:44:37
+44,35,70,order entry screen documentation for support,2022-03-21 05:44:53,2022-03-21 05:44:53
+45,52,60,plan,2022-03-24 07:57:34,2022-03-24 07:57:34
+46,52,60,technical documents,2022-03-24 07:57:48,2022-03-24 07:57:48
+47,52,60,infrastructure design drawings,2022-03-24 07:58:03,2022-03-24 07:58:03
+48,52,60,training material,2022-03-24 07:58:26,2022-03-24 07:58:26
+49,52,60,lessons learned,2022-03-24 07:59:30,2022-03-24 07:59:30
+50,56,82,Disconnect Existing Chiller,2022-03-29 10:00:40,2022-03-29 10:00:40
+51,56,82,•	Reconfigure existing 5” indoor piping as required to connect to new chiller on outdoor slab.,2022-03-29 10:01:05,2022-03-29 10:01:05
+52,56,82,"•	Provide all rigging and trucking to remove existing chiller and remote evaporator, and install new Daikin AGZ chiller per submittal information provided.",2022-03-29 10:01:23,2022-03-29 10:01:23
+53,56,82,•	Clean and flush new piping to chiller per industry standards.,2022-03-29 10:01:48,2022-03-29 10:01:48
+54,56,82,"•	Re-install recovered glycol solution to system, add up to 110 gallons of 100% proplyene glycol to system to establish proper freeze protection for loop. (Any additional glycol needed to bring loop to 40% will be the responsibility of MTDS)",2022-03-29 10:01:59,2022-03-29 10:01:59
+55,56,82,•	Provide start-up by Daikin Authorized Factory Service.,2022-03-29 10:02:13,2022-03-29 10:02:13
+56,6,92,Create the plan,2022-04-01 13:42:54,2022-04-01 13:42:54
+57,6,92,Assign Resources,2022-04-01 13:43:06,2022-04-01 13:43:06
+58,6,92,Execute the Plan,2022-04-01 13:43:14,2022-04-01 13:43:14
+59,2,1,Draft Plan,2022-05-04 10:05:51,2022-05-04 10:05:51
+60,2,1,Approval,2022-05-04 10:06:14,2022-05-04 10:06:14
+61,2,1,Technical Documents,2022-05-04 10:06:27,2022-05-04 10:06:27
+62,2,1,Completed and successful pen test,2022-05-04 10:06:48,2022-05-04 10:06:48
+63,2,1,New secure infrastructure,2022-05-04 10:07:06,2022-05-04 10:07:06
+64,2,27,New Plan,2022-05-04 10:26:42,2022-05-04 10:26:42
+65,80,107,"Lease agreement,",2022-06-10 07:15:32,2022-06-10 07:15:32
+66,80,107,Drawings,2022-06-10 07:15:46,2022-06-10 07:15:46
+67,80,107,General Contractor,2022-06-10 07:16:05,2022-06-10 07:16:05
+68,80,107,Exterior Signage,2022-06-10 07:16:36,2022-06-10 07:16:36
+69,80,107,Marketplace Order,2022-06-10 07:16:47,2022-06-10 07:16:47
+70,80,107,Retail Display,2022-06-10 07:17:04,2022-06-10 07:17:04
+71,2,126,Complete store design,2022-11-02 12:42:24,2022-11-02 12:42:24
+72,2,126,Install and test of all tech systems,2022-11-02 12:42:58,2022-11-02 12:42:58
+73,2,126,Complete interior new store build,2022-11-02 12:43:28,2022-11-15 10:05:11
+74,2,126,Successful grand opening week,2022-11-02 12:43:55,2022-11-02 12:43:55
+75,2,132,Booth Set up,2023-02-09 07:29:36,2023-02-09 07:29:36
+76,2,132,Budget established,2023-02-09 07:29:49,2023-02-09 07:29:49
+77,2,132,Speaker delivers speech,2023-02-09 07:30:21,2023-02-09 07:30:21
+78,2,132,develop and deliver promo campaign,2023-02-09 07:31:01,2023-02-09 07:31:01
+79,2,132,Sponsorships in place,2023-02-09 07:31:27,2023-02-09 07:31:27
+80,2,211,Procure materials,2023-10-17 12:53:15,2023-10-17 12:53:15
+81,2,211,Produce curtains and tracks,2023-10-17 12:53:33,2023-10-17 12:53:33
+82,2,211,Install new tracks and curtains,2023-10-17 12:53:49,2023-10-17 12:53:49
+83,2,127,selection of best POS,2024-01-17 04:05:43,2024-01-17 04:05:43
+84,2,127,review of security system,2024-01-17 04:06:06,2024-01-17 04:06:06
+85,2,127,plan for installation,2024-01-17 04:06:18,2024-01-17 04:06:18
+86,2,127,testing plan for system,2024-01-17 04:06:35,2024-01-17 04:06:35
+87,2,127,all training and tech specs documented,2024-01-17 04:06:53,2024-01-17 04:06:53
+88,22,133,materials list,2024-01-17 04:19:43,2024-01-17 04:19:43
+89,22,133,blueprints approved,2024-01-17 04:19:58,2024-01-17 04:19:58
+90,22,133,permits,2024-01-17 04:20:03,2024-01-17 04:20:03
