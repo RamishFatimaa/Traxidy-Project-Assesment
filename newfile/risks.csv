@@ -1,0 +1,372 @@
+id,creator_id,project_id,owner_contact_id,owner_contact_name,risk_identifier,statement,impact,probability,score,rank,status,impacted_key_constraint,created_at,updated_at
+1,2,4,6.0,T.J. Shalmark,R1,There is a risk that the information provided as to the technical spec does not conform with the safety guidelines that are coming out later this year.,2,35,70,,open,schedule,2021-11-29 06:08:52,2022-04-03 08:54:47
+2,2,4,,Steve Sammy,R2,There is a risk that our support staff on this project team may have more priority work later on the schedule and the prioject work may fall behind.,3,60,180,,closed,scope_and_schedule,2021-11-29 06:09:28,2021-11-30 04:32:57
+4,2,4,8.0,Sal Nuberg,R4,There is a risk that the information provided as to the technical spec does not conform with the safety guidelines that are coming out later this year.,4,70,280,,closed,schedule_and_budget,2021-11-29 06:10:43,2022-04-11 13:11:02
+5,2,4,5.0,Reggy Ralphson,R5,There is a risk that the information provided as to the technical spec does not conform with the safety guidelines that are coming out later this year.,4,55,220,,closed,budget,2021-11-29 06:11:19,2021-12-08 13:31:00
+6,2,4,111.0,Traxidy Gmail Acct,R6,There is a risk that the information provided as to the technical spec does not conform with the safety guidelines that are coming out later this year.,4,20,80,,closed,scope_and_budget,2021-11-29 06:12:35,2022-07-06 05:19:36
+7,2,2,1.0,Janice Wong,R1,There is a risk that the heavy rainfall in the coming season may wipe out the network lines and our communication and video meetings will be limited.,4,50,200,,open,scope_or_schedule_or_budget,2021-12-01 11:39:25,2022-03-04 11:19:09
+8,2,3,4.0,Jan Dietrich,R1,there is a possibility that the design does not have enough detail for the manufacturing group to use it to ensure the machinery has been set properly,3,65,195,,open,budget,2021-12-06 12:02:51,2021-12-06 12:02:51
+9,2,4,158.0,Gene Moss,R7,There is a risk that our support staff on this project team may have more priority work later on the schedule and the prioject work may fall behind.,3,80,240,4.0,open,scope_or_schedule_or_budget,2021-12-13 03:44:44,2022-07-07 04:53:44
+10,2,2,13.0,Steve Sammy,R2,We think the Marketing group will be understaffed at launch,3,80,240,,closed,scope_or_benefits,2022-01-23 04:26:54,2022-03-05 08:37:49
+11,2,2,43.0,Jerri Shaw,R3,resources from install group may not be available when sked to install network,5,50,250,,closed,schedule,2022-01-23 04:29:52,2022-03-24 09:32:42
+15,42,25,53.0,Mister Client,R1,If tool does not consider adding new fields for filters managing would be complicated,3,20,60,,open,scope_or_benefits,2022-02-07 02:33:06,2022-02-07 02:33:06
+16,32,35,64.0,Sponsor 1 Sponsor last name,R1,Software vendor will not meet our intended go live date,4,75,300,1.0,open,schedule,2022-02-15 14:00:26,2022-02-15 14:00:26
+17,46,36,67.0,Prod User,R1,Test Risk Statement 01,5,20,100,,open,scope_or_benefits,2022-02-28 04:00:27,2022-02-28 04:00:27
+18,46,36,67.0,Prod User,R2,Test Risk Statement 02,4,80,320,1.0,open,scope_or_schedule_or_budget,2022-02-28 04:01:29,2022-02-28 04:01:29
+19,2,2,13.0,Steve Sammy,R4,there is a risk that the building will fall down with all this construction going on,5,10,50,,closed,scope_or_schedule_or_budget,2022-03-04 12:27:06,2022-03-30 15:15:14
+20,2,1,72.0,Jerri Shaw,R1,There is a risk that the budget will not be enough to cover the new type of testing that's required,4,60,240,1.0,open,budget,2022-03-05 08:03:14,2022-08-30 07:58:04
+21,2,1,73.0,Gus Marquez Sr.,R2,risk that the support window for the implementation in the system will not be available within a month of our finish.,3,60,180,,open,schedule,2022-03-05 08:04:32,2022-08-30 07:58:04
+22,2,2,152.0,Terry Tester,R5,newest risk that there could be issues and delay,5,70,350,1.0,open,scope_and_schedule,2022-03-05 08:14:17,2022-05-23 05:34:04
+23,2,2,43.0,Jerri Shaw,R6,newest risk that there could be issues and delay,4,60,240,2.0,open,schedule,2022-03-05 08:14:43,2022-05-23 05:34:04
+24,2,2,44.0,Gus Marquez Sr.,R7,newest risk that there could be issues and delay,3,90,270,,closed,scope_and_budget,2022-03-05 08:15:00,2022-03-30 15:15:00
+25,2,4,7.0,Jerri Shaw,R8,Risk that the window for the customer implementation may have to be moved due to maintenance window coming into plan,1,30,30,,open,schedule,2022-03-06 10:13:49,2022-04-03 08:52:27
+26,2,4,187.0,Steve McBroom,R9,The safety and security  firewalls may not be the newest version for the database and the network config,5,60,300,1.0,open,scope_or_benefits,2022-03-09 04:19:20,2022-07-07 04:53:44
+27,52,60,109.0,William Howard,R1,roadway construction in the area on the street may mean the electical is off for several hours,5,70,350,1.0,open,schedule,2022-03-13 13:55:47,2022-03-13 13:55:47
+28,52,56,103.0,B. Oswald,R1,ARTS HS - road construction in front of Arts HS may cause electricity to be off for at least 2 days in Aug,5,50,250,,open,schedule,2022-03-13 14:10:42,2022-03-14 06:21:48
+29,52,56,105.0,Steve McBroom,R2,TECH HS - people could need to use building at Tech HS for 2 days in late June extending school close,5,70,350,1.0,open,schedule,2022-03-13 14:12:49,2022-04-25 15:54:47
+30,52,56,105.0,Steve McBroom,R3,xxxxxxxxxxxxxxxxxxxxxxxxx,4,50,200,,closed,schedule,2022-03-14 06:20:46,2022-03-14 06:22:24
+31,56,64,115.0,Brian Oswald,R1,GWC work may need to be performed on second shift due to summer school,4,75,300,,closed,scope_or_schedule_or_budget,2022-03-14 10:28:12,2022-04-26 04:35:44
+32,35,69,127.0,Gail Desmond,R1,SPRINT 1 - risk that people wont be available,5,50,250,2.0,open,schedule,2022-03-15 12:44:33,2022-03-17 15:45:25
+33,35,69,,SM Test,R2,new risk,4,95,380,1.0,open,scope_and_schedule,2022-03-17 15:45:25,2022-03-17 15:45:25
+34,35,70,145.0,JD Ishtar,R1,risk that people wont be available,5,40,200,3.0,open,scope_and_schedule,2022-03-21 05:16:57,2022-03-31 07:06:11
+35,35,70,146.0,Channel Legit,R2,sponsor will be unavailable with convention speaking engagement next month,5,70,350,1.0,open,schedule,2022-03-21 05:17:56,2022-03-31 07:06:11
+36,2,27,69.0,Selma Trichet,R1,there is a risk that the administration for the database may not be fully tested in the time needed,4,5,20,,open,scope_and_schedule,2022-03-21 10:37:26,2022-06-03 05:32:33
+37,35,70,,,R3,risk that people wont be available,3,80,240,2.0,open,schedule,2022-03-21 12:29:18,2022-03-31 07:06:11
+38,2,4,213.0,Fred Smith,R10,There is a risk that the client prem won't be available to us if their building refurbishing has the data-room blocked,4,70,280,2.0,open,scope_and_schedule,2022-03-23 11:43:59,2022-07-12 04:53:48
+39,6,12,164.0,sami mcbroom,R1,Budget is insufficient,4,75,300,1.0,open,budget,2022-03-27 10:04:29,2022-04-09 06:04:46
+40,6,12,33.0,Mimi McBroom,R2,Insufficient resources,4,60,240,2.0,open,schedule,2022-03-27 10:05:30,2022-04-09 06:04:46
+41,6,12,33.0,Mimi McBroom,R3,Announcement Get Delayed,4,50,200,3.0,open,schedule,2022-03-27 10:06:25,2022-04-09 06:04:46
+42,6,12,,,R4,how do we get there from here,2,40,80,,open,scope_or_benefits,2022-03-27 11:04:49,2022-03-27 11:04:49
+43,56,83,173.0,William Howard,R1,Deadline being met depends upon NRIA keeping dates available.,3,50,150,,closed,schedule,2022-03-29 10:11:46,2022-04-26 04:17:06
+45,35,71,176.0,Steve McBroom,R1,there is a risk that the plan schedule is not correct,5,25,125,,open,schedule,2022-04-12 07:57:05,2022-04-12 07:57:05
+46,35,71,176.0,Steve McBroom,R2,risk of being under budgeted for the infrastructure build,4,60,240,1.0,open,budget,2022-04-12 07:58:18,2022-04-12 07:58:18
+47,55,91,180.0,Steve McBroom,R1,risk that we will be over budget,4,65,260,1.0,open,budget,2022-04-25 15:32:34,2022-11-15 11:34:55
+48,55,91,180.0,Steve McBroom,R2,risk of vacations getting in the way. this is for the marketing group only.,4,20,80,,open,scope_and_schedule,2022-04-25 15:33:20,2022-11-15 11:34:55
+49,2,4,187.0,Steve McBroom,R11,the risk is vacations,5,50,250,3.0,open,schedule,2022-07-07 04:53:44,2022-07-07 04:53:44
+50,2,125,230.0,Jeff Marshawn,R1,Scope creep inflates scope. Uncontrolled changes and continuous growth of scope,4,60,240,1.0,open,scope_or_schedule_or_budget,2022-10-21 08:26:33,2022-10-21 08:28:35
+51,2,125,232.0,Steve Drill,R2,•	Exchange rate variability. When costs are incurred in foreign currencies exchange rates can have a dramatic impact,5,30,150,,open,budget,2022-10-21 08:28:35,2022-10-21 08:28:35
+52,2,126,260.0,Mary Kelly,R1,There is a risk that the building permits will be delayed and prevent in-store construction starting on time,5,50,250,3.0,open,schedule,2022-11-02 11:49:56,2024-01-16 08:39:46
+54,2,126,236.0,Sam Tigre,R3,Newest tech equipment security support updates may not be available at time of opening,4,25,100,,open,scope_and_schedule,2022-11-10 11:47:05,2023-07-04 06:39:34
+55,2,126,260.0,Mary Kelly,R4,We won't be fully staffed for our grand opening week,4,75,300,,closed,schedule_and_budget,2022-11-14 11:28:34,2023-12-15 04:46:43
+56,7,135,289.0,Steve McBroom,R1,There is a risk that the schedule would need to be extended in order to complete the project or could also be made shorter if resource efficiencies or approved work can be effectively planned in parallel.,4,55,220,6.0,open,Schedule,2023-03-28 05:44:05,2023-03-28 06:18:13
+57,7,135,289.0,Steve McBroom,R2,There is a risk that the scope of planned work could be reduced or increased to add enhanced benefits after working with Langara College during the Initiation and Discovery phase of the project. ,4,80,320,1.0,open,Scope & Schedule,2023-03-28 05:44:05,2023-03-28 06:18:13
+58,7,135,290.0,Paul Amodeo,R3,"There is a risk that the approved resources from Langara College are not available as required, due to vacation schedules, other projects or unplanned priority work within the organization.",5,40,200,,open,Schedule & Budget,2023-03-28 05:44:05,2023-03-28 05:44:05
+59,7,135,290.0,Paul Amodeo,R4,There is a risk that the procurement of resources/hardware is hindered and causes a schedule delay; supply issues.,4,30,120,,open,Schedule,2023-03-28 05:44:05,2023-03-28 05:44:05
+60,7,135,,,R5,There is a risk that the communications are not thorough enough to keep all stakeholders informed at the level they need to properly support the team and make effective and timely decisions,3,15,45,,open,Schedule,2023-03-28 05:44:05,2023-03-28 05:44:05
+61,2,135,289.0,Steve McBroom,R6,There is a risk that the schedule would need to be extended in order to complete the project or could also be made shorter if resource efficiencies or approved work can be effectively planned in parallel.,4,55,220,6.0,open,Schedule,2023-03-28 06:09:15,2023-03-28 06:18:13
+62,2,135,289.0,Steve McBroom,R7,There is a risk that the scope of planned work could be reduced or increased to add enhanced benefits after working with Langara College during the Initiation and Discovery phase of the project. ,4,80,320,1.0,open,Scope & Schedule,2023-03-28 06:09:15,2023-03-28 06:18:13
+63,2,135,290.0,Paul Amodeo,R8,"There is a risk that the approved resources from Langara College are not available as required, due to vacation schedules, other projects or unplanned priority work within the organization.",5,40,200,,open,Schedule & Budget,2023-03-28 06:09:15,2023-03-28 06:09:15
+64,2,135,290.0,Paul Amodeo,R9,There is a risk that the procurement of resources/hardware is hindered and causes a schedule delay; supply issues.,4,30,120,,open,Schedule,2023-03-28 06:09:15,2023-03-28 06:09:15
+65,2,135,,,R10,There is a risk that the communications are not thorough enough to keep all stakeholders informed at the level they need to properly support the team and make effective and timely decisions,3,15,45,,open,Schedule,2023-03-28 06:09:15,2023-03-28 06:09:15
+66,2,135,289.0,Steve McBroom,R11,There is a risk that the schedule would need to be extended in order to complete the project or could also be made shorter if resource efficiencies or approved work can be effectively planned in parallel.,4,55,220,6.0,open,Schedule,2023-03-28 06:13:53,2023-03-28 06:18:13
+67,2,135,289.0,Steve McBroom,R12,There is a risk that the scope of planned work could be reduced or increased to add enhanced benefits after working with Langara College during the Initiation and Discovery phase of the project. ,4,80,320,1.0,open,Scope & Schedule,2023-03-28 06:13:53,2023-03-28 06:18:13
+68,2,135,290.0,Paul Amodeo,R13,"There is a risk that the approved resources from Langara College are not available as required, due to vacation schedules, other projects or unplanned priority work within the organization.",5,40,200,,open,Schedule & Budget,2023-03-28 06:13:53,2023-03-28 06:13:53
+69,2,135,290.0,Paul Amodeo,R14,There is a risk that the procurement of resources/hardware is hindered and causes a schedule delay; supply issues.,4,30,120,,open,Schedule,2023-03-28 06:13:53,2023-03-28 06:13:53
+70,2,135,,,R15,There is a risk that the communications are not thorough enough to keep all stakeholders informed at the level they need to properly support the team and make effective and timely decisions,3,15,45,,open,Schedule,2023-03-28 06:13:53,2023-03-28 06:13:53
+71,2,135,289.0,Steve McBroom,R16,There is a risk that the schedule would need to be extended in order to complete the project or could also be made shorter if resource efficiencies or approved work can be effectively planned in parallel.,4,55,220,6.0,open,Schedule,2023-03-28 06:14:11,2023-03-28 06:18:13
+72,2,135,289.0,Steve McBroom,R17,There is a risk that the scope of planned work could be reduced or increased to add enhanced benefits after working with Langara College during the Initiation and Discovery phase of the project. ,4,80,320,1.0,open,Scope & Schedule,2023-03-28 06:14:11,2023-03-28 06:18:13
+73,2,135,290.0,Paul Amodeo,R18,"There is a risk that the approved resources from Langara College are not available as required, due to vacation schedules, other projects or unplanned priority work within the organization.",5,40,200,,open,Schedule & Budget,2023-03-28 06:14:11,2023-03-28 06:14:11
+74,2,135,290.0,Paul Amodeo,R19,There is a risk that the procurement of resources/hardware is hindered and causes a schedule delay; supply issues.,4,30,120,,open,Schedule,2023-03-28 06:14:11,2023-03-28 06:14:11
+75,2,135,,,R20,There is a risk that the communications are not thorough enough to keep all stakeholders informed at the level they need to properly support the team and make effective and timely decisions,3,15,45,,open,Schedule,2023-03-28 06:14:11,2023-03-28 06:14:11
+76,2,135,289.0,Steve McBroom,R21,There is a risk that the schedule would need to be extended in order to complete the project or could also be made shorter if resource efficiencies or approved work can be effectively planned in parallel.,4,55,220,6.0,open,Schedule,2023-03-28 06:18:13,2023-03-28 06:18:13
+77,2,135,289.0,Steve McBroom,R22,There is a risk that the scope of planned work could be reduced or increased to add enhanced benefits after working with Langara College during the Initiation and Discovery phase of the project. ,4,80,320,1.0,open,Scope & Schedule,2023-03-28 06:18:13,2023-03-28 06:18:13
+78,2,135,290.0,Paul Amodeo,R23,"There is a risk that the approved resources from Langara College are not available as required, due to vacation schedules, other projects or unplanned priority work within the organization.",5,40,200,,open,Schedule & Budget,2023-03-28 06:18:13,2023-03-28 06:18:13
+79,2,135,290.0,Paul Amodeo,R24,There is a risk that the procurement of resources/hardware is hindered and causes a schedule delay; supply issues.,4,30,120,,open,Schedule,2023-03-28 06:18:13,2023-03-28 06:18:13
+80,2,135,,,R25,There is a risk that the communications are not thorough enough to keep all stakeholders informed at the level they need to properly support the team and make effective and timely decisions,3,15,45,,open,Schedule,2023-03-28 06:18:13,2023-03-28 06:18:13
+81,2,137,293.0,Steve McBroom,R1,There is a risk that the schedule would need to be extended in order to complete the project or could also be made shorter if resource efficiencies or approved work can be effectively planned in parallel.,4,55,220,2.0,open,Schedule,2023-03-28 06:27:49,2023-03-28 06:27:49
+82,2,137,293.0,Steve McBroom,R2,There is a risk that the scope of planned work could be reduced or increased to add enhanced benefits after working with Langara College during the Initiation and Discovery phase of the project. ,4,80,320,1.0,open,Scope & Schedule,2023-03-28 06:27:49,2023-03-28 06:27:49
+83,2,137,294.0,Paul Amodeo,R3,"There is a risk that the approved resources from Langara College are not available as required, due to vacation schedules, other projects or unplanned priority work within the organization.",5,40,200,,open,Schedule & Budget,2023-03-28 06:27:49,2023-03-28 06:27:49
+84,2,137,294.0,Paul Amodeo,R4,There is a risk that the procurement of resources/hardware is hindered and causes a schedule delay; supply issues.,4,30,120,,open,Schedule,2023-03-28 06:27:49,2023-03-28 06:27:49
+85,2,137,,,R5,There is a risk that the communications are not thorough enough to keep all stakeholders informed at the level they need to properly support the team and make effective and timely decisions,3,15,45,,open,Schedule,2023-03-28 06:27:49,2023-03-28 06:27:49
+86,2,138,,,R1,risk is there is a thing,4,80,320,1.0,open,Scope & Schedule & Budget,2023-03-28 08:34:07,2023-03-28 08:34:07
+87,2,138,297.0,Steve McBroom,R2,might fall down,4,65,260,2.0,open,Scope & Schedule & Budget,2023-03-28 08:34:07,2023-03-28 08:34:07
+88,2,138,,,R3,could lose money,5,40,200,,open,Scope & Schedule & Budget,2023-03-28 08:34:07,2023-03-28 08:34:07
+89,2,138,,,R4,might be wrong color,4,65,260,2.0,open,,2023-03-28 08:34:07,2023-03-28 08:34:07
+90,2,138,,,R5,risk that we drop out,2,95,190,,open,Schedule,2023-03-28 08:34:07,2023-03-28 08:34:07
+121,2,150,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_and_schedule_and_budget,2023-04-10 07:33:22,2023-04-10 07:33:23
+122,2,150,,,R2,might fall down,2,65,130,,open,budget,2023-04-10 07:33:22,2023-04-10 07:33:22
+123,2,150,,,R3,could lose money,3,40,120,,open,scope_and_schedule_and_budget,2023-04-10 07:33:22,2023-04-10 07:33:22
+124,2,150,,,R4,might be wrong color,3,75,225,3.0,open,schedule,2023-04-10 07:33:22,2023-04-10 07:33:23
+125,2,150,,,R5,risk that we drop out,4,65,260,2.0,open,schedule,2023-04-10 07:33:22,2023-04-10 07:33:23
+126,2,150,,,R6,could lose money,3,40,120,,open,scope_and_schedule_and_budget,2023-04-10 07:33:22,2023-04-10 07:33:22
+127,2,150,,,R7,might be wrong color,3,55,165,,open,schedule_and_scope,2023-04-10 07:33:22,2023-04-10 07:33:22
+128,2,150,,,R8,risk that we drop out,2,65,130,,open,schedule_and_budget,2023-04-10 07:33:22,2023-04-10 07:33:22
+129,2,150,,,R9,check it out,2,80,160,,open,schedule,2023-04-10 07:33:23,2023-04-10 07:33:23
+162,2,156,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-17 07:59:16,2023-04-17 07:59:16
+163,2,156,,,R2,might fall down,2,65,130,,open,budget,2023-04-17 07:59:16,2023-04-17 07:59:16
+164,2,156,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 07:59:16,2023-04-17 07:59:16
+171,2,160,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-17 08:13:47,2023-04-17 08:13:47
+172,2,160,,,R2,might fall down,2,65,130,,open,budget,2023-04-17 08:13:47,2023-04-17 08:13:47
+173,2,160,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 08:13:47,2023-04-17 08:13:47
+174,2,161,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-17 08:19:48,2023-04-17 08:19:48
+175,2,161,,,R2,might fall down,2,65,130,,open,budget,2023-04-17 08:19:48,2023-04-17 08:19:48
+176,2,161,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 08:19:48,2023-04-17 08:19:48
+177,2,162,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-17 08:27:11,2023-04-17 08:27:11
+178,2,162,,,R2,might fall down,2,65,130,,open,budget,2023-04-17 08:27:11,2023-04-17 08:27:11
+179,2,162,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 08:27:11,2023-04-17 08:27:11
+201,2,166,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-17 09:14:11,2023-04-17 09:14:11
+202,2,166,,,R2,might fall down,2,65,130,,open,budget,2023-04-17 09:14:11,2023-04-17 09:14:11
+203,2,166,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 09:14:11,2023-04-17 09:14:11
+204,2,166,,,R4,might fall down,2,65,130,,open,budget,2023-04-17 09:14:11,2023-04-17 09:14:11
+205,2,166,,,R5,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 09:14:11,2023-04-17 09:14:11
+206,2,166,,,R6,might be wrong color,3,75,225,3.0,open,,2023-04-17 09:14:11,2023-04-17 09:14:11
+207,2,166,,,R7,risk that we drop out,4,65,260,2.0,open,,2023-04-17 09:14:11,2023-04-17 09:14:11
+208,2,166,,,R8,could lose MORE money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 09:14:11,2023-04-17 09:14:11
+209,2,166,,,R9,might be wrong color,3,55,165,,open,schedule_and_scope,2023-04-17 09:14:11,2023-04-17 09:14:11
+210,2,167,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-17 09:27:18,2023-04-17 09:27:18
+211,2,167,,,R2,might fall down,2,65,130,,open,budget,2023-04-17 09:27:18,2023-04-17 09:27:18
+212,2,167,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 09:27:18,2023-04-17 09:27:18
+213,2,167,,,R4,might fall down,2,65,130,,open,budget,2023-04-17 09:27:18,2023-04-17 09:27:18
+214,2,167,,,R5,could lose TOO MUCH money,3,75,225,3.0,open,scope_or_schedule_or_budget,2023-04-17 09:27:18,2023-04-17 09:27:18
+215,2,167,,,R6,might be wrong SIZE,3,75,225,3.0,open,,2023-04-17 09:27:18,2023-04-17 09:27:18
+216,2,167,,,R7,risk that we drop out,4,65,260,2.0,open,,2023-04-17 09:27:18,2023-04-17 09:27:18
+217,2,167,,,R8,could lose MORE money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 09:27:18,2023-04-17 09:27:18
+218,2,167,,,R9,might be wrong color,3,55,165,,open,schedule_and_scope,2023-04-17 09:27:18,2023-04-17 09:27:18
+235,2,170,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-17 09:54:14,2023-04-20 11:34:55
+236,2,170,,,R2,might fall down,2,65,130,,open,budget,2023-04-17 09:54:14,2023-04-17 09:54:14
+237,2,170,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 09:54:14,2023-04-17 09:54:14
+238,2,170,,,R4,might fall down,2,65,130,,open,budget,2023-04-17 09:54:15,2023-04-17 09:54:15
+239,2,170,,,R5,could lose TOO MUCH money,3,75,225,5.0,open,scope_or_schedule_or_budget,2023-04-17 09:54:15,2023-04-20 11:34:55
+240,2,170,,,R6,might be wrong SIZE,3,75,225,5.0,open,scope,2023-04-17 09:54:15,2023-04-20 11:34:55
+241,2,170,,,R7,risk that we drop out,4,65,260,3.0,open,budget_and_scope,2023-04-17 09:54:15,2023-04-20 11:34:55
+242,2,170,,,R8,could lose MORE money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-17 09:54:15,2023-04-17 09:54:15
+243,2,126,237.0,R. J. Batherson,R5,The risk that we will not have the proper license to open in time,5,80,400,1.0,open,scope_and_schedule,2023-04-19 07:05:21,2024-01-16 08:39:46
+244,2,170,,,R9,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-20 11:34:55,2023-04-20 11:34:55
+245,2,170,,,R10,might fall down,2,65,130,,open,budget,2023-04-20 11:34:55,2023-04-20 11:34:55
+246,2,170,,,R11,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 11:34:55,2023-04-20 11:34:55
+247,2,170,,,R12,might fall down,2,65,130,,open,budget,2023-04-20 11:34:55,2023-04-20 11:34:55
+248,2,170,,,R13,could lose TOO MUCH money,3,75,225,5.0,open,scope_or_schedule_or_budget,2023-04-20 11:34:55,2023-04-20 11:34:55
+249,2,170,,,R14,might be wrong SIZE,3,75,225,5.0,open,scope,2023-04-20 11:34:55,2023-04-20 11:34:55
+250,2,170,,,R15,risk that we drop out,4,65,260,3.0,open,budget_and_scope,2023-04-20 11:34:55,2023-04-20 11:34:55
+251,2,170,,,R16,could lose MORE money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 11:34:55,2023-04-20 11:34:55
+252,2,171,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-20 11:43:42,2023-04-20 11:43:42
+253,2,171,,,R2,might fall down,2,65,130,,open,budget,2023-04-20 11:43:42,2023-04-20 11:43:42
+254,2,171,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 11:43:42,2023-04-20 11:43:42
+255,2,172,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-20 11:50:41,2023-04-20 11:50:41
+256,2,172,,,R2,might fall down,2,65,130,,open,budget,2023-04-20 11:50:41,2023-04-20 11:50:41
+257,2,172,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 11:50:41,2023-04-20 11:50:41
+258,2,173,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-20 12:18:59,2023-04-20 12:19:00
+259,2,173,,,R2,might fall down,2,65,130,,open,budget,2023-04-20 12:19:00,2023-04-20 12:19:00
+260,2,173,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 12:19:00,2023-04-20 12:19:00
+261,2,174,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-20 12:24:52,2023-04-20 12:24:52
+262,2,174,,,R2,might fall down,2,65,130,,open,budget,2023-04-20 12:24:52,2023-04-20 12:24:52
+263,2,174,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 12:24:52,2023-04-20 12:24:52
+267,2,176,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-20 13:03:06,2023-04-20 13:03:06
+268,2,176,,,R2,might fall down,2,65,130,,open,budget,2023-04-20 13:03:06,2023-04-20 13:03:06
+269,2,176,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 13:03:06,2023-04-20 13:03:06
+270,2,177,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-20 13:05:28,2023-04-20 13:05:28
+271,2,177,,,R2,might fall down,2,65,130,,open,budget,2023-04-20 13:05:28,2023-04-20 13:05:28
+272,2,177,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 13:05:28,2023-04-20 13:05:28
+276,2,179,,,R1,risk is there is a thing,4,75,300,2.0,open,scope_or_schedule_or_budget,2023-04-20 13:50:28,2023-04-20 13:50:28
+277,2,179,,,R2,might fall down,2,65,130,,open,budget,2023-04-20 13:50:28,2023-04-20 13:50:28
+278,2,179,,,R3,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-04-20 13:50:28,2023-04-20 13:50:28
+279,2,179,,,R4,could fall down,4,50,200,,open,schedule,2023-04-20 13:50:28,2023-04-20 13:50:28
+280,2,179,,,R5,could be over-run with too many users,5,65,325,1.0,open,scope,2023-04-20 13:50:28,2023-04-20 13:50:28
+281,2,179,,,R6,could go on vacation,1,85,85,,open,schedule_and_budget,2023-04-20 13:50:28,2023-04-20 13:50:28
+282,2,179,,,R7,risk that the whole thing is cancelled,2,90,180,,open,schedule_and_scope,2023-04-20 13:50:28,2023-04-20 13:50:28
+283,2,179,,,R8,risk that the thing does not work at all,4,20,80,,open,budget_and_scope,2023-04-20 13:50:28,2023-04-20 13:50:28
+284,2,179,,,R9,could be over-run with too many tech issues,5,30,150,,open,scope,2023-04-20 13:50:28,2023-04-20 13:50:28
+285,2,179,,,R10,could go on trip to France,1,70,70,,open,schedule_and_budget,2023-04-20 13:50:28,2023-04-20 13:50:28
+295,2,182,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-25 08:03:52,2023-04-25 08:03:52
+306,2,185,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-25 08:16:18,2023-04-25 08:16:18
+307,2,185,,,R2,might fall down,2,65,130,,open,budget,2023-04-25 08:16:18,2023-04-25 08:16:18
+308,2,185,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-04-25 08:16:18,2023-04-25 08:16:18
+309,2,185,,,R4,might fall down again,3,90,270,2.0,open,budget,2023-04-25 08:16:18,2023-04-25 08:16:18
+310,2,185,,,R5,could lose money,4,65,260,3.0,open,scope_or_schedule_or_budget,2023-04-25 08:16:18,2023-04-25 08:16:18
+311,2,186,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-25 08:21:29,2023-04-28 06:28:37
+312,2,186,,,R2,might fall down,2,65,130,,open,budget,2023-04-25 08:21:29,2023-04-25 08:21:29
+313,2,186,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-04-25 08:21:29,2023-04-25 08:21:29
+314,2,186,,,R4,might fall down again,3,90,270,3.0,open,budget,2023-04-25 08:21:29,2023-04-28 06:28:37
+315,2,186,,,R5,could lose money,4,65,260,5.0,open,scope_or_schedule_or_budget,2023-04-25 08:21:29,2023-04-28 06:28:37
+316,2,187,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-25 08:28:22,2023-04-25 08:28:22
+317,2,187,,,R2,might fall down,2,65,130,,open,budget,2023-04-25 08:28:22,2023-04-25 08:28:22
+318,2,187,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-04-25 08:28:22,2023-04-25 08:28:22
+319,2,187,,,R4,might fall down again,3,90,270,2.0,open,budget,2023-04-25 08:28:22,2023-04-25 08:28:22
+320,2,187,,,R5,could lose money,4,65,260,3.0,open,scope_or_schedule_or_budget,2023-04-25 08:28:22,2023-04-25 08:28:22
+321,2,188,,,R1,risk is there is a thing,4,75,300,2.0,open,scope_or_schedule_or_budget,2023-04-25 08:34:18,2023-05-25 09:16:23
+322,2,188,,,R2,might fall down,2,65,130,,open,budget,2023-04-25 08:34:18,2023-04-25 08:34:18
+323,2,188,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-04-25 08:34:18,2023-04-25 08:34:18
+324,2,188,,,R4,might fall down again,3,90,270,3.0,open,budget,2023-04-25 08:34:18,2023-05-25 09:16:23
+325,2,188,,,R5,could lose money,4,65,260,5.0,open,scope_or_schedule_or_budget,2023-04-25 08:34:18,2023-05-25 09:16:23
+326,2,188,,,R6,risk 001,5,20,100,,open,schedule,2023-04-25 08:34:18,2023-04-25 08:34:18
+327,2,188,,,R7,risk 002,1,75,75,,open,budget,2023-04-25 08:34:18,2023-04-25 08:34:18
+328,2,188,,,R8,risk 003,5,10,50,,closed,schedule_and_budget,2023-04-25 08:34:18,2023-05-25 09:15:34
+329,2,188,528.0,Steve McBroom,R9,risk 004,5,75,375,1.0,open,schedule_and_scope,2023-04-25 08:34:18,2023-05-25 09:16:23
+330,2,188,,,R10,risk 005,5,15,75,,closed,schedule_and_scope,2023-04-25 08:34:18,2023-05-25 09:15:19
+331,2,188,,,R11,risk 006,3,90,270,3.0,open,budget_and_scope,2023-04-25 08:34:18,2023-05-25 09:16:23
+332,2,188,,,R12,risk 007,4,65,260,,closed,scope_or_schedule_or_budget,2023-04-25 08:34:18,2023-05-25 09:16:23
+333,2,188,,,R13,risk 008,5,20,100,,open,budget_and_scope,2023-04-25 08:34:18,2023-04-25 08:34:18
+334,2,188,,,R14,risk 009,3,90,270,,closed,schedule_and_scope,2023-04-25 08:34:18,2023-05-25 09:14:47
+335,2,188,528.0,Steve McBroom,R15,risk 010,4,65,260,5.0,open,schedule_and_budget,2023-04-25 08:34:18,2023-05-25 09:16:23
+336,2,188,,,R16,risk 011,5,20,100,,closed,scope,2023-04-25 08:34:18,2023-05-25 09:15:04
+337,2,188,528.0,Steve McBroom,R17,risk 012,1,75,75,,open,schedule,2023-04-25 08:34:18,2023-05-24 09:55:07
+338,2,188,,,R18,risk 013,5,10,50,,open,budget,2023-04-25 08:34:18,2023-04-25 08:34:18
+339,2,189,,,R1,risk is there is a thing,4,75,300,3.0,open,scope_or_schedule_or_budget,2023-04-25 08:46:56,2023-04-27 12:50:13
+340,2,189,,,R2,might fall down,2,65,130,,open,budget,2023-04-25 08:46:56,2023-04-25 08:46:56
+341,2,189,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-04-25 08:46:56,2023-04-25 08:46:56
+342,2,189,,,R4,might fall down again,3,90,270,5.0,open,budget,2023-04-25 08:46:56,2023-04-27 12:50:13
+343,2,189,,,R5,could lose money,4,65,260,11.0,open,scope_or_schedule_or_budget,2023-04-25 08:46:56,2023-04-27 12:50:13
+344,2,189,,,R6,risk 001,5,20,100,,open,schedule,2023-04-25 08:46:56,2023-04-25 08:46:56
+345,2,189,,,R7,risk 002,1,75,75,,open,budget,2023-04-25 08:46:56,2023-04-25 08:46:56
+346,2,189,,,R8,risk 003,5,10,50,,open,schedule_and_budget,2023-04-25 08:46:56,2023-04-25 08:46:56
+347,2,189,,,R9,risk 004,5,75,375,1.0,open,schedule_and_scope,2023-04-25 08:46:56,2023-04-27 12:50:13
+348,2,189,,,R10,risk 005,5,15,75,,open,schedule_and_scope,2023-04-25 08:46:56,2023-04-25 08:46:56
+349,2,189,,,R11,risk 006,3,90,270,5.0,open,budget_and_scope,2023-04-25 08:46:56,2023-04-27 12:50:13
+350,2,189,,,R12,risk 007,4,65,260,11.0,open,scope_or_schedule_or_budget,2023-04-25 08:46:56,2023-04-27 12:50:13
+351,2,189,,,R13,risk 008,5,20,100,,open,budget_and_scope,2023-04-25 08:46:56,2023-04-25 08:46:56
+352,2,189,,,R14,risk 009,3,90,270,5.0,open,schedule_and_scope,2023-04-25 08:46:56,2023-04-27 12:50:13
+353,2,189,,,R15,risk 010,4,65,260,11.0,open,schedule_and_budget,2023-04-25 08:46:56,2023-04-27 12:50:13
+354,2,189,,,R16,risk 011,5,20,100,,open,scope,2023-04-25 08:46:56,2023-04-25 08:46:56
+355,2,189,,,R17,risk 012,1,75,75,,open,schedule,2023-04-25 08:46:56,2023-04-25 08:46:56
+356,2,189,,,R18,risk 013,5,10,50,,open,budget,2023-04-25 08:46:56,2023-04-25 08:46:56
+357,2,189,,,R19,risk is there is a thing,4,75,300,3.0,open,scope_or_schedule_or_budget,2023-04-27 12:50:11,2023-04-27 12:50:13
+358,2,189,,,R20,might fall down,2,65,130,,open,budget,2023-04-27 12:50:11,2023-04-27 12:50:11
+359,2,189,,,R21,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-04-27 12:50:11,2023-04-27 12:50:11
+360,2,189,,,R22,might fall down again,3,90,270,5.0,open,budget,2023-04-27 12:50:11,2023-04-27 12:50:13
+361,2,189,,,R23,could lose money,4,65,260,11.0,open,scope_or_schedule_or_budget,2023-04-27 12:50:12,2023-04-27 12:50:13
+362,2,189,,,R24,risk 001,5,20,100,,open,schedule,2023-04-27 12:50:12,2023-04-27 12:50:12
+363,2,189,,,R25,risk 002,1,75,75,,open,budget,2023-04-27 12:50:12,2023-04-27 12:50:12
+364,2,189,,,R26,risk 003,5,10,50,,open,schedule_and_budget,2023-04-27 12:50:12,2023-04-27 12:50:12
+365,2,189,,,R27,risk 004,5,75,375,1.0,open,schedule_and_scope,2023-04-27 12:50:12,2023-04-27 12:50:13
+366,2,189,,,R28,risk 005,5,15,75,,open,schedule_and_scope,2023-04-27 12:50:12,2023-04-27 12:50:12
+367,2,189,,,R29,risk 006,3,90,270,5.0,open,budget_and_scope,2023-04-27 12:50:12,2023-04-27 12:50:13
+368,2,189,,,R30,risk 007,4,65,260,11.0,open,scope_or_schedule_or_budget,2023-04-27 12:50:12,2023-04-27 12:50:13
+369,2,189,,,R31,risk 008,5,20,100,,open,budget_and_scope,2023-04-27 12:50:12,2023-04-27 12:50:12
+370,2,189,,,R32,risk 009,3,90,270,5.0,open,schedule_and_scope,2023-04-27 12:50:12,2023-04-27 12:50:13
+371,2,189,,,R33,risk 010,4,65,260,11.0,open,schedule_and_budget,2023-04-27 12:50:12,2023-04-27 12:50:13
+372,2,189,,,R34,risk 011,5,20,100,,open,scope,2023-04-27 12:50:12,2023-04-27 12:50:12
+373,2,189,,,R35,risk 012,1,75,75,,open,schedule,2023-04-27 12:50:12,2023-04-27 12:50:12
+374,2,189,,,R36,risk 013,5,10,50,,open,budget,2023-04-27 12:50:13,2023-04-27 12:50:13
+375,2,186,,,R6,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-28 06:28:37,2023-04-28 06:28:37
+376,2,186,,,R7,might fall down,2,65,130,,open,budget,2023-04-28 06:28:37,2023-04-28 06:28:37
+377,2,186,,,R8,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-04-28 06:28:37,2023-04-28 06:28:37
+378,2,186,,,R9,might fall down again,3,90,270,3.0,open,budget,2023-04-28 06:28:37,2023-04-28 06:28:37
+379,2,186,,,R10,could lose money,4,65,260,5.0,open,scope_or_schedule_or_budget,2023-04-28 06:28:37,2023-04-28 06:28:37
+380,2,190,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-04-28 06:34:10,2023-04-28 06:34:10
+381,2,190,,,R2,might fall down,2,65,130,,open,budget,2023-04-28 06:34:10,2023-04-28 06:34:10
+382,2,190,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-04-28 06:34:10,2023-04-28 06:34:10
+383,2,190,,,R4,might fall down again,3,90,270,2.0,open,budget,2023-04-28 06:34:10,2023-04-28 06:34:10
+384,2,132,612.0,Steve McBroom,R1,for the first time this will be the only project that has resource constraints,5,75,375,1.0,open,budget,2023-05-04 10:08:38,2024-01-17 04:15:44
+385,2,191,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-05-25 13:07:38,2023-05-25 13:07:38
+386,2,191,,,R2,might fall down,2,65,130,,open,budget,2023-05-25 13:07:38,2023-05-25 13:07:38
+387,2,191,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-05-25 13:07:38,2023-05-25 13:07:38
+388,2,191,,,R4,might fall down again,3,90,270,2.0,open,budget,2023-05-25 13:07:38,2023-05-25 13:07:38
+389,2,192,,,R1,risk is there is a thing,4,75,300,3.0,open,scope_or_schedule_or_budget,2023-05-25 13:29:28,2023-06-12 12:21:10
+390,2,192,,,R2,might fall down,2,65,130,,open,budget,2023-05-25 13:29:28,2023-05-25 13:29:28
+391,2,192,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-05-25 13:29:28,2023-05-25 13:29:28
+392,2,192,,,R4,might fall down again,3,90,270,5.0,open,budget,2023-05-25 13:29:28,2023-06-12 12:21:10
+393,2,192,,,R5,could be over-run with too many users,5,65,325,1.0,open,schedule_and_budget,2023-05-25 13:29:28,2023-06-12 12:21:10
+394,2,192,,,R6,could go on vacation,1,85,85,,open,schedule_and_scope,2023-05-25 13:29:28,2023-05-25 13:29:28
+395,2,192,,,R7,risk that the whole thing is cancelled,2,90,180,,open,budget,2023-05-25 13:29:28,2023-05-25 13:29:28
+396,2,192,,,R8,risk that the thing does not work at all,4,20,80,,open,schedule,2023-05-25 13:29:28,2023-05-25 13:29:28
+397,2,193,,,R1,risk is there is a thing,4,75,300,5.0,open,scope_or_schedule_or_budget,2023-05-25 13:52:42,2023-06-12 12:15:45
+398,2,193,,,R2,might fall down,2,65,130,,open,budget,2023-05-25 13:52:42,2023-05-25 13:52:42
+399,2,193,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-05-25 13:52:42,2023-05-25 13:52:42
+400,2,193,,,R4,might fall down again,3,90,270,9.0,open,budget,2023-05-25 13:52:42,2023-06-12 12:15:45
+401,2,193,,,R5,could be over-run with too many users,5,65,325,1.0,open,schedule_and_budget,2023-05-25 13:52:42,2023-06-12 12:15:45
+402,2,193,,,R6,could go on vacation,1,85,85,,open,schedule_and_scope,2023-05-25 13:52:43,2023-05-25 13:52:43
+403,2,193,,,R7,risk that the whole thing is cancelled,2,90,180,,open,budget,2023-05-25 13:52:43,2023-05-25 13:52:43
+404,2,193,,,R8,risk that the thing does not work at all,4,20,80,,open,schedule,2023-05-25 13:52:43,2023-05-25 13:52:43
+405,41,193,,,R9,risk is there is a thing,4,75,300,5.0,open,scope_or_schedule_or_budget,2023-06-12 12:14:37,2023-06-12 12:15:45
+406,41,193,,,R10,might fall down,2,65,130,,open,budget,2023-06-12 12:14:37,2023-06-12 12:14:37
+407,41,193,,,R11,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:14:37,2023-06-12 12:14:37
+408,41,193,,,R12,might fall down again,3,90,270,9.0,open,budget,2023-06-12 12:14:37,2023-06-12 12:15:45
+409,41,193,,,R13,could be over-run with too many users,5,65,325,1.0,open,schedule_and_budget,2023-06-12 12:14:37,2023-06-12 12:15:45
+410,41,193,,,R14,could go on vacation,1,85,85,,open,schedule_and_scope,2023-06-12 12:14:37,2023-06-12 12:14:37
+411,41,193,,,R15,risk that the whole thing is cancelled,2,90,180,,open,budget,2023-06-12 12:14:37,2023-06-12 12:14:37
+412,41,193,,,R16,risk that the thing does not work at all,4,20,80,,open,schedule,2023-06-12 12:14:37,2023-06-12 12:14:37
+413,41,193,,,R17,risk is there is a thing,4,75,300,5.0,open,scope_or_schedule_or_budget,2023-06-12 12:15:01,2023-06-12 12:15:45
+414,41,193,,,R18,might fall down,2,65,130,,open,budget,2023-06-12 12:15:01,2023-06-12 12:15:01
+415,41,193,,,R19,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:15:01,2023-06-12 12:15:01
+416,41,193,,,R20,might fall down again,3,90,270,9.0,open,budget,2023-06-12 12:15:01,2023-06-12 12:15:45
+417,41,193,,,R21,could be over-run with too many users,5,65,325,1.0,open,schedule_and_budget,2023-06-12 12:15:01,2023-06-12 12:15:45
+418,41,193,,,R22,could go on vacation,1,85,85,,open,schedule_and_scope,2023-06-12 12:15:01,2023-06-12 12:15:01
+419,41,193,,,R23,risk that the whole thing is cancelled,2,90,180,,open,budget,2023-06-12 12:15:01,2023-06-12 12:15:01
+420,41,193,,,R24,risk that the thing does not work at all,4,20,80,,open,schedule,2023-06-12 12:15:01,2023-06-12 12:15:01
+421,41,193,,,R25,risk is there is a thing,4,75,300,5.0,open,scope_or_schedule_or_budget,2023-06-12 12:15:45,2023-06-12 12:15:45
+422,41,193,,,R26,might fall down,2,65,130,,open,budget,2023-06-12 12:15:45,2023-06-12 12:15:45
+423,41,193,,,R27,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:15:45,2023-06-12 12:15:45
+424,41,193,,,R28,might fall down again,3,90,270,9.0,open,budget,2023-06-12 12:15:45,2023-06-12 12:15:45
+425,41,193,,,R29,could be over-run with too many users,5,65,325,1.0,open,schedule_and_budget,2023-06-12 12:15:45,2023-06-12 12:15:45
+426,41,193,,,R30,could go on vacation,1,85,85,,open,schedule_and_scope,2023-06-12 12:15:45,2023-06-12 12:15:45
+427,41,193,,,R31,risk that the whole thing is cancelled,2,90,180,,open,budget,2023-06-12 12:15:45,2023-06-12 12:15:45
+428,41,193,,,R32,risk that the thing does not work at all,4,20,80,,open,schedule,2023-06-12 12:15:45,2023-06-12 12:15:45
+429,2,192,,,R9,risk is there is a thing,4,75,300,3.0,open,scope_or_schedule_or_budget,2023-06-12 12:21:10,2023-06-12 12:21:10
+430,2,192,,,R10,might fall down,2,65,130,,open,budget,2023-06-12 12:21:10,2023-06-12 12:21:10
+431,2,192,,,R11,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:21:10,2023-06-12 12:21:10
+432,2,192,,,R12,might fall down again,3,90,270,5.0,open,budget,2023-06-12 12:21:10,2023-06-12 12:21:10
+433,2,192,,,R13,could be over-run with too many users,5,65,325,1.0,open,schedule_and_budget,2023-06-12 12:21:10,2023-06-12 12:21:10
+434,2,192,,,R14,could go on vacation,1,85,85,,open,schedule_and_scope,2023-06-12 12:21:10,2023-06-12 12:21:10
+435,2,192,,,R15,risk that the whole thing is cancelled,2,90,180,,open,budget,2023-06-12 12:21:10,2023-06-12 12:21:10
+436,2,192,,,R16,risk that the thing does not work at all,4,20,80,,open,schedule,2023-06-12 12:21:10,2023-06-12 12:21:10
+437,41,195,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-06-12 12:23:15,2023-06-12 12:23:15
+438,41,195,,,R2,might fall down,2,65,130,,open,budget,2023-06-12 12:23:15,2023-06-12 12:23:15
+439,41,195,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:23:15,2023-06-12 12:23:15
+440,41,195,,,R4,might fall down again,3,90,270,2.0,open,budget,2023-06-12 12:23:15,2023-06-12 12:23:15
+451,41,196,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-06-12 12:36:27,2023-06-12 12:36:27
+452,41,196,,,R2,might fall down,2,65,130,,open,budget,2023-06-12 12:36:27,2023-06-12 12:36:27
+453,41,196,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:36:27,2023-06-12 12:36:27
+454,41,196,,,R4,might fall down again,3,90,270,2.0,open,budget,2023-06-12 12:36:27,2023-06-12 12:36:27
+455,41,196,,,R5,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:36:27,2023-06-12 12:36:27
+456,41,196,,,R6,might be wrong color,3,75,225,4.0,open,schedule,2023-06-12 12:36:27,2023-06-12 12:36:27
+457,41,196,,,R7,risk that we drop out,4,65,260,3.0,open,schedule,2023-06-12 12:36:27,2023-06-12 12:36:27
+458,41,196,,,R8,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:36:27,2023-06-12 12:36:27
+459,41,196,,,R9,might be wrong color,3,55,165,,open,schedule_and_scope,2023-06-12 12:36:27,2023-06-12 12:36:27
+460,41,196,,,R10,risk that we drop out,2,65,130,,open,schedule_and_budget,2023-06-12 12:36:27,2023-06-12 12:36:27
+461,41,194,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-06-12 12:39:57,2023-06-12 12:39:57
+462,41,194,,,R2,might fall down,2,65,130,,open,budget,2023-06-12 12:39:57,2023-06-12 12:39:57
+463,41,194,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:39:57,2023-06-12 12:39:57
+464,41,194,,,R4,might fall down again,3,90,270,2.0,open,budget,2023-06-12 12:39:57,2023-06-12 12:39:57
+465,41,194,,,R5,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:39:57,2023-06-12 12:39:57
+466,41,194,,,R6,might be wrong color,3,75,225,4.0,open,schedule,2023-06-12 12:39:57,2023-06-12 12:39:57
+467,41,194,,,R7,risk that we drop out,4,65,260,3.0,open,schedule,2023-06-12 12:39:57,2023-06-12 12:39:57
+468,41,194,,,R8,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 12:39:57,2023-06-12 12:39:57
+469,41,194,,,R9,might be wrong color,3,55,165,,open,schedule_and_scope,2023-06-12 12:39:57,2023-06-12 12:39:57
+470,41,194,,,R10,risk that we drop out,2,65,130,,open,schedule_and_budget,2023-06-12 12:39:57,2023-06-12 12:39:57
+471,41,197,,,R1,risk is there is a thing,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-06-12 13:10:13,2023-06-12 13:10:13
+472,41,197,,,R2,might fall down,2,65,130,,open,budget,2023-06-12 13:10:13,2023-06-12 13:10:13
+473,41,197,,,R3,could lose money again,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 13:10:13,2023-06-12 13:10:13
+474,41,197,,,R4,might fall down again,3,90,270,2.0,open,budget,2023-06-12 13:10:13,2023-06-12 13:10:13
+475,41,197,,,R5,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 13:10:13,2023-06-12 13:10:13
+476,41,197,,,R6,might be wrong color,3,75,225,4.0,open,schedule,2023-06-12 13:10:13,2023-06-12 13:10:13
+477,41,197,,,R7,risk that we drop out,4,65,260,3.0,open,schedule,2023-06-12 13:10:13,2023-06-12 13:10:13
+478,41,197,,,R8,could lose money,3,40,120,,open,scope_or_schedule_or_budget,2023-06-12 13:10:13,2023-06-12 13:10:13
+479,41,197,,,R9,might be wrong color,3,55,165,,open,schedule_and_scope,2023-06-12 13:10:13,2023-06-12 13:10:13
+480,41,197,,,R10,risk that we drop out,2,65,130,,open,schedule_and_budget,2023-06-12 13:10:13,2023-06-12 13:10:13
+481,55,199,,,R1,the resources won't be available on time,4,80,320,1.0,open,schedule,2023-06-26 12:41:40,2023-06-26 12:41:40
+482,55,199,,,R2,There is a risk that the scope of planned work could be reduced or increased to add enhanced benefits after working with Langara College during the Initiation and Discovery phase of the project. ,4,80,320,1.0,open,scope_and_schedule,2023-06-26 12:41:40,2023-06-26 12:41:40
+483,55,199,,,R3,"There is a risk that the approved resources from Langara College are not available as required, due to vacation schedules, other projects or unplanned priority work within the organization.",5,40,200,,open,schedule_and_budget,2023-06-26 12:41:40,2023-06-26 12:41:40
+484,55,199,,,R4,There is a risk that the procurement of resources/hardware is hindered and causes a schedule delay; supply issues.,4,30,120,,open,budget_and_scope,2023-06-26 12:41:40,2023-06-26 12:41:40
+485,55,199,,,R5,There is a risk that the communications are not thorough enough to keep all stakeholders informed at the level they need to properly support the team and make effective and timely decisions,2,95,190,,open,schedule,2023-06-26 12:41:40,2023-06-26 12:41:40
+486,2,132,282.0,Jake Cherkovski,R2,that the money runs out,5,40,200,2.0,open,budget,2023-08-23 10:52:23,2023-08-23 10:52:31
+487,2,201,602.0,Steve McBroom-Gmail,R1,could lose funding from sponsor,5,50,250,1.0,open,scope_or_schedule_or_budget,2023-11-07 07:40:14,2023-11-07 07:40:14
+488,2,212,,,R1,risk,3,25,75,,open,schedule_and_budget,2023-11-16 12:46:43,2023-11-16 12:46:43
+489,2,213,,,R1,risk of no money,4,40,160,,open,budget,2023-11-22 10:58:09,2023-11-22 10:58:09
+490,2,213,,,R2,risk of no resources,3,30,90,,open,scope,2023-11-22 10:58:09,2023-11-22 10:58:09
+491,2,213,,,R3,risk of not enough detail for good quality,4,75,300,1.0,open,scope_or_schedule_or_budget,2023-11-22 10:58:09,2023-11-22 10:58:09
+492,2,214,,,R1,"Executives become disengaged with project. Executive management disregards project communications and meetings.
+",5,25,125,,open,scope_or_schedule_or_budget,2023-11-28 06:12:52,2023-11-28 06:12:52
+493,2,214,,,R2,Uncontrolled changes and continuous growth of scope,4,35,140,,open,scope,2023-11-28 06:12:52,2023-11-28 06:12:52
+494,2,214,,,R3,Change requests may be the source of stakeholder conflict,3,10,30,,open,schedule_and_scope,2023-11-28 06:12:52,2023-11-28 06:12:52
+495,2,126,259.0,Geray Shaw,R6,ssss,4,75,300,2.0,open,schedule,2024-01-16 08:39:46,2024-01-16 08:39:46
+496,2,127,275.0,Sherie Johns,R1,There is a risk that the security portion of the POS will add days and dollars to  the project,1,85,85,,open,scope_or_schedule_or_budget,2024-01-17 04:13:34,2024-01-30 12:54:17
+497,22,133,269.0,Steve Traxidy7 PM,R1,Risk that financing is unavailable in time to purchase materials,5,35,175,,open,schedule_and_budget,2024-01-17 04:25:22,2024-01-17 04:25:22
+507,2,219,,,R1,this,3,55,165,,open,scope,2024-01-30 14:42:44,2024-01-30 14:42:44
+508,2,220,,,R1,this,3,55,165,,open,scope,2024-01-30 14:45:05,2024-01-30 14:45:05
+510,2,222,,,R1,this,3,55,165,,open,scope,2024-01-30 14:48:42,2024-01-30 14:48:42
+511,2,223,,,R1,this,3,55,165,,open,scope,2024-01-30 14:50:22,2024-01-30 14:50:22
+512,2,224,,,R1,this,3,55,165,,open,scope,2024-01-30 14:52:00,2024-01-30 14:52:00
+513,2,225,,,R1,this,3,55,165,,open,scope,2024-01-30 14:53:26,2024-01-30 14:53:26
+514,2,226,,,R1,this,3,55,165,,open,scope,2024-01-30 14:55:09,2024-01-30 14:55:09
+515,2,227,,,R1,there is a risk that the materials are not all available at the store,3,55,165,,open,scope,2024-01-30 14:56:58,2024-01-30 14:56:58
+516,2,227,,,R2,may need to add windows if not enough light after install,5,20,100,,open,,2024-01-30 14:56:58,2024-01-30 14:56:58
+517,2,227,,,R3,risk that the blueprints show  incorrect measurements,4,15,60,,open,,2024-01-30 14:56:58,2024-01-30 14:56:58
+518,2,228,,,R1,there is a risk that the materials are not all available at the store,3,55,165,,open,scope,2024-01-30 15:01:25,2024-01-30 15:01:25
+519,2,228,,,R2,may need to add windows if not enough light after install,5,20,100,,open,budget_and_scope,2024-01-30 15:01:25,2024-01-30 15:01:25
+520,2,228,,,R3,risk that the blueprints show  incorrect measurements,4,15,60,,open,scope_or_schedule_or_budget,2024-01-30 15:01:25,2024-01-30 15:01:25
+521,2,230,,,R1,there is a risk that the materials are not all available at the store,4,50,200,,open,schedule,2024-01-30 15:19:34,2024-01-30 15:19:34
+522,2,230,,,R2,may need to add windows if not enough light after install,3,30,90,,open,budget_and_scope,2024-01-30 15:19:34,2024-01-30 15:19:34
+523,2,230,,,R3,risk that the blueprints show  incorrect measurements,5,15,75,,open,scope_or_schedule_or_budget,2024-01-30 15:19:34,2024-01-30 15:19:34
+524,2,231,,,R1,there is a risk that the materials are not all available at the store,4,50,200,,open,schedule,2024-01-30 15:24:28,2024-01-30 15:24:28
+525,2,231,,,R2,may need to add windows if not enough light after install,3,30,90,,open,budget_and_scope,2024-01-30 15:24:28,2024-01-30 15:24:28
+526,2,231,,,R3,risk that the blueprints show  incorrect measurements,5,15,75,,open,scope_or_schedule_or_budget,2024-01-30 15:24:28,2024-01-30 15:24:28
